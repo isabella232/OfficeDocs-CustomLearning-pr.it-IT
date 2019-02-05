@@ -1,0 +1,66 @@
+---
+titolo: ''
+ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
+ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "29733782"
+---
+# <a name="meeting-at-the-office"></a><span data-ttu-id="c77b2-102">Riunioni in ufficio</span><span class="sxs-lookup"><span data-stu-id="c77b2-102">Meeting at the Office</span></span>
+
+![Dal lavoro visual](media/ditl_meeting.png)
+
+<span data-ttu-id="c77b2-p101">È 10:00 AM e l'ora per la riunione. In questa sezione viene illustrato rendere più produttivi le riunioni.  Comporta la procedure consigliate per la preparazione della riunione e gli strumenti di Office 365.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p101">It's 10:00 AM and time for your meeting. In this section, we'll show you how to make your meetings more productive.  This involves best practices for meeting preparation and Office 365 tools.</span></span>  
+
+## <a name="tools"></a><span data-ttu-id="c77b2-107">Strumenti</span><span class="sxs-lookup"><span data-stu-id="c77b2-107">Tools</span></span>
+- <span data-ttu-id="c77b2-108">Outlook</span><span class="sxs-lookup"><span data-stu-id="c77b2-108">Outlook</span></span>
+- <span data-ttu-id="c77b2-109">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="c77b2-109">Microsoft Teams</span></span>
+- <span data-ttu-id="c77b2-110">Skype for Business</span><span class="sxs-lookup"><span data-stu-id="c77b2-110">Skype for Business</span></span>
+- <span data-ttu-id="c77b2-111">OneNote</span><span class="sxs-lookup"><span data-stu-id="c77b2-111">OneNote</span></span>
+
+## <a name="checklist-for-your-meeting"></a><span data-ttu-id="c77b2-112">Elenco di controllo per la riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-112">Checklist for your meeting</span></span>
+- <span data-ttu-id="c77b2-113">Pianificazione e le riunioni</span><span class="sxs-lookup"><span data-stu-id="c77b2-113">Plan and book your meeting</span></span>
+- <span data-ttu-id="c77b2-114">Partecipare a una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-114">Join a meeting</span></span>
+- <span data-ttu-id="c77b2-115">Informazioni presenti in una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-115">Present information in a meeting</span></span>
+- <span data-ttu-id="c77b2-116">Utilizzare per la creazione condivisa e note di OneNote in una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-116">Use OneNote in a meeting for co-creation and notes</span></span>
+- <span data-ttu-id="c77b2-117">Pianificazione di utilizzo in una riunione per tenere traccia delle attività per progetto</span><span class="sxs-lookup"><span data-stu-id="c77b2-117">Use Planner in a meeting to track action items for that project</span></span>
+- <span data-ttu-id="c77b2-118">Terminare una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-118">End a meeting</span></span>
+ 
+## <a name="plan-and-book-your-meeting"></a><span data-ttu-id="c77b2-119">Pianificazione e le riunioni</span><span class="sxs-lookup"><span data-stu-id="c77b2-119">Plan and book your meeting</span></span>
+<span data-ttu-id="c77b2-120">Esistono alcune operazioni da eseguire per garantire che la riunione è il livello di produttività possibile:</span><span class="sxs-lookup"><span data-stu-id="c77b2-120">There are a few things you can do to ensure your meeting is as productive as possible:</span></span>
+
+1. <span data-ttu-id="c77b2-p102">**Necessità di una riunione?** Prendere in considerazione la condivisione di un file in chat con i revisori necessari prima.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p102">**Do you need a meeting?** Consider sharing a file in chat with the necessary approvers first.</span></span>  
+1. <span data-ttu-id="c77b2-p103">**Avere una chiara agenda.**  Includere la agenda riunione nella sezione Note dell'invito alla riunione online in modo che i partecipanti possono essere preparati.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p103">**Have a clear agenda.**  Include your meeting agenda in the notes section of your online meeting invitation so attendees can be prepared.</span></span>
+1. <span data-ttu-id="c77b2-125">**Record alla riunione**  Utilizzare le funzioni di registrazione delle riunioni in Teams Microsoft per condividere la riunione con persone che non è possono partecipare o trascrivere note sulla versione successiva.</span><span class="sxs-lookup"><span data-stu-id="c77b2-125">**Record your meeting**  Use meeting recording functions in Microsoft Teams to share the meeting with people who could not attend or to transcribe notes later.</span></span>  
+
+<span data-ttu-id="c77b2-p104">A questo punto si è pronti per tale riunione del libro: libro alla riunione con Microsoft Teams o in dettaglio le Skype for Business in Outlook. Pur pertanto consente di includere i membri del team da posizioni diverse, registrare la riunione e utilizzare video (se disponibili) per migliorare la comunicazione.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p104">Now you're ready to book that meeting:  Book the meeting with Microsoft Teams or Skype for Business details in Outlook. Doing so enables you to include team members from different locations, record the meeting and utilize video (when available) to enhance communication.</span></span> 
+
+![<span data-ttu-id="c77b2-128">Team di Outlook</span><span class="sxs-lookup"><span data-stu-id="c77b2-128">Teams in Outlook</span></span> ](media/ditl_teamsoutlook.png)
+
+## <a name="join-a-meeting"></a><span data-ttu-id="c77b2-129">Partecipare a una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-129">Join a meeting</span></span>
+<span data-ttu-id="c77b2-p105">Partecipare da qualsiasi posizione. È possibile partecipare a una Teams Microsoft o Skype per le riunioni aziendali da qualsiasi posizione tramite un dispositivo mobile, è possibile chiamare il numero di accesso nei dettagli della riunione o utilizzando applicazioni per dispositivi mobili. Quando si utilizzano le applicazioni per dispositivi mobili, tenere conto dei limiti di utilizzo di dati per dispositivi mobili che si applicano all'utente o il proprio paese.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p105">Join from anywhere. It is possible to join a Microsoft Teams or Skype for Business meeting from anywhere using a mobile device, either by calling the dial-in number in the meeting details or using the mobile apps. When using the mobile apps, be conscious of mobile data usage limits that apply to you or your country.</span></span>
+
+![Team di notifica di partecipazione alla riunione](media/ditl_teamsjoin.png)
+
+> [!TIP]
+> <span data-ttu-id="c77b2-p106">**Utilizzare un auricolare.** Se ci si connette dal computer dell'utente alla scrivania, utilizzare un auricolare anziché microfono del computer in uso e gli altoparlanti per garantire una migliore qualità delle chiamate.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p106">**Use a headset.** If you are connecting from your computer at your desk, use a headset rather than your computer's built-in microphone and speakers to ensure a better call quality.</span></span>
+
+> [!TIP]
+> <span data-ttu-id="c77b2-p107">Attivare la funzionalità video! Quando fotocamere sono disponibile, è opportuno utilizzarle, durante la comunicazione faccia a faccia fornisce non verbali che possono essere perse quando si utilizza solo VoIP. Non bisogna preoccuparsi, i fini accattivante.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p107">Turn on your video! When cameras are available, it's worth using them, as face-to-face communication provides non-verbal cues that can be missed when just using voice. Don't worry, your hair looks great.</span></span> 
+
+## <a name="present-information-in-a-meeting"></a><span data-ttu-id="c77b2-139">Informazioni presenti in una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-139">Present information in a meeting</span></span>
+<span data-ttu-id="c77b2-p108">Condivisione di contenuto da un dispositivo è un modo straordinario per lo stato attivo alla riunione e forniscono il contesto alla discussione. In generale, condivisione dello schermo intero può essere una buona idea. Significa che tutto ciò che viene visualizzata sullo schermo verrà visualizzato nella schermata di tutti i partecipanti alla riunione. Evitare questo problema selezionando semplicemente il contenuto che si desidera condividere Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p108">Sharing content from your device is a great way to focus your meeting and provide context to the discussion. In general, sharing your entire screen can be a bad idea. It means that everything that comes up on your screen will appear on the screens of everyone attending the meeting. Avoid this by simply selecting the content you want to share in Microsoft Teams.</span></span> 
+
+## <a name="use-onenote-in-a-meeting"></a><span data-ttu-id="c77b2-144">Utilizzare OneNote in una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-144">Use OneNote in a meeting</span></span>
+<span data-ttu-id="c77b2-p109">OneNote può consentire per la collaborazione in tempo reale e la creazione condivisa, rendendo strumento ideale per brainstorming e prendere nota taking nelle riunioni. Purché chiunque abbia accesso al percorso in cui è condivisa di OneNote, è possibile inserire un collegamento nel blocco note e avviare immediatamente brainstorming.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p109">OneNote can allow for real-time collaboration and co-creation, making it an ideal tool for brainstorming and note taking in meetings. As long as everyone has access to the location where the OneNote is shared, you can post a link to the notebook and start brainstorming right away.</span></span>
+
+<span data-ttu-id="c77b2-p110">È possibile creare una sezione specifica per Lotus notes nel blocco appunti team delle riunioni. Inoltre, è possibile utilizzare la funzionalità "dettagli sulla riunione" in OneNote per creare pagine con un riepilogo dei dettagli della riunione.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p110">You can create a specific section for meeting notes in the team notebook. You can also use the "meeting details" functionality in OneNote to create pages with a summary of the details of the meeting.</span></span>
+
+## <a name="use-planner-in-a-meeting"></a><span data-ttu-id="c77b2-149">Utilizzare pianificazione in una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-149">Use Planner in a meeting</span></span>
+<span data-ttu-id="c77b2-p111">Aggiungere direttamente le azioni in un piano per il progetto evita la trascrizione li dopo aver fatto. È consigliabile nelle riunioni di progetto di grandi dimensioni per assegnare una persona all'azione prendere appunti & di verifica. In genere si tratta di un utente diverso rispetto a singoli che esegue la riunione. Promemoria azione vengono inviati direttamente ai singoli a cui è assegnato come sono promemoria se l'elemento passa la data di scadenza.</span><span class="sxs-lookup"><span data-stu-id="c77b2-p111">Directly adding action items into a plan for your project saves you from transcribing them after the fact. It's a best practice in large project meetings to assign someone to action tracking & note taking. This is normally a different person than the individual running the meeting. Action item reminders are sent directly to the individual to whom it is assigned as are reminders if the item passes it's due date.</span></span> 
+
+![Attività di pianificazione](media/ditl_task.png)
+
+## <a name="end-a-meeting"></a><span data-ttu-id="c77b2-155">Terminare una riunione</span><span class="sxs-lookup"><span data-stu-id="c77b2-155">End a meeting</span></span>
+<span data-ttu-id="c77b2-p112">Quando tutti gli elementi in agenda trattati, terminare la riunione, indipendentemente dal momento. Assegnare e inviare le azioni a tutti i partecipanti. Se si collabora Teams Microsoft, è possibile condividere facilmente le attività nel canale appropriato. Le azioni possono anche essere immesso e assegnate nella visualizzazione pianificazione durante la riunione, che fornisce un modo rapido per tenere traccia per il completamento che può essere [vi si accede nel team di Microsoft](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0).</span><span class="sxs-lookup"><span data-stu-id="c77b2-p112">When everything on the agenda has been discussed, end the meeting, regardless of the time. Assign and send action items to all participants. If you are collaborating in Microsoft Teams, you can easily share action items in the appropriate channel. Action items can also be entered and assigned in Planner during the meeting, providing a fast way to track for completion which can also be [accessed in Microsoft Teams](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0).</span></span> 

@@ -1,0 +1,39 @@
+---
+titolo: ''
+ms.openlocfilehash: 3b244c3598d8abe940350297e2cfb15738bfa23e
+ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/04/2019
+ms.locfileid: "29733770"
+---
+# <a name="during-your-commute"></a><span data-ttu-id="04d0d-102">Durante l'ufficio</span><span class="sxs-lookup"><span data-stu-id="04d0d-102">During your Commute</span></span>
+
+![Dal lavoro visual](media/ditl_commute.png)
+
+<span data-ttu-id="04d0d-p101">La mattina dal lavoro per utilizzare, ma non è necessario tralasciare tutto il lavoro. Con Office 365, è possibile spostare il lavoro sopra al dispositivo mobile e continuare le operazioni.  È possibile avere ufficio attendibili e produttività con la funzionalità per dispositivi mobili.</span><span class="sxs-lookup"><span data-stu-id="04d0d-p101">In the morning, you commute to work but you don't have to leave all your work behind. With Office 365, you can move your work over to your mobile device and continue what you were doing.  You can have a safe and productive commute with our mobile experience.</span></span>  
+
+> [!IMPORTANT]
+> <span data-ttu-id="04d0d-p102">Se si unità per il funzionamento, verificare che si priorità la sicurezza ed eseguire tutte le leggi che gestisce che regolano che gestisce il distrazioni. Pull per partecipare a una riunione, procedere come testo non o leggere durante il funzionamento di veicolo motore di messaggistica e verificare che è imperniata su realmente importante - **sicurezza**!</span><span class="sxs-lookup"><span data-stu-id="04d0d-p102">If you drive to work, please make sure you prioritize your safety and follow all driving laws that govern distracted driving. Pull over to join a meeting, do not text or read messaging while operating a motor vehicle and make sure you are focused on what's really important - **your safety**!</span></span>
+
+
+## <a name="tools"></a><span data-ttu-id="04d0d-109">Strumenti</span><span class="sxs-lookup"><span data-stu-id="04d0d-109">Tools</span></span>
+- <span data-ttu-id="04d0d-110">Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="04d0d-110">Microsoft Teams</span></span>
+- <span data-ttu-id="04d0d-111">Ufficio</span><span class="sxs-lookup"><span data-stu-id="04d0d-111">Office</span></span> 
+
+## <a name="checklist-for-your-commute"></a><span data-ttu-id="04d0d-112">Elenco di controllo per l'ufficio</span><span class="sxs-lookup"><span data-stu-id="04d0d-112">Checklist for your commute</span></span>
+- <span data-ttu-id="04d0d-113">Trasferire una chiamata sul dispositivo mobile</span><span class="sxs-lookup"><span data-stu-id="04d0d-113">Transfer a call to your mobile device</span></span>
+- <span data-ttu-id="04d0d-114">Partecipare a una riunione o disporre 1:1 chiamata Teams Microsoft</span><span class="sxs-lookup"><span data-stu-id="04d0d-114">Join a meeting or have a 1:1 call in Microsoft Teams</span></span>
+- <span data-ttu-id="04d0d-115">Connettersi a Office 365 dal dispositivo mobile</span><span class="sxs-lookup"><span data-stu-id="04d0d-115">Connect to Office 365 from your mobile device</span></span>
+ 
+## <a name="transfer-a-call-to-your-mobile-device"></a><span data-ttu-id="04d0d-116">Trasferire una chiamata sul dispositivo mobile</span><span class="sxs-lookup"><span data-stu-id="04d0d-116">Transfer a call to your mobile device</span></span>
+<span data-ttu-id="04d0d-p103">Se si è in una chiamata in Microsoft Teams e necessario per iniziare direttamente al computer, è possibile trasferire la chiamata al proprio telefono cellulare. In questo modo continuare la conversazione senza interruzioni, anche se è necessario lasciare il proprio ufficio, ma non consente di vedere o condividere la presentazione. Come trasferire una chiamata al proprio telefono invia la conversazione sulla rete telefonica normale, si potrebbero essere spese associate a questo.</span><span class="sxs-lookup"><span data-stu-id="04d0d-p103">If you're on a call in Microsoft Teams and need to get going straight away, it's possible for you to transfer the call to your mobile telephone. This allows us to continue your conversation without interruption even when you have to leave your desk, but it doesn't allow us to see or share the presentation. As transferring a call to your telephone sends the conversation over the normal telephone network, there might be charges associated with this.</span></span>
+
+## <a name="join-a-meeting-or-have-a-11-call-in-microsoft-teams"></a><span data-ttu-id="04d0d-120">Partecipare a una riunione o disporre 1:1 chiamata Teams Microsoft</span><span class="sxs-lookup"><span data-stu-id="04d0d-120">Join a meeting or have a 1:1 call in Microsoft Teams</span></span>
+<span data-ttu-id="04d0d-p104">Utilizzando l'app per dispositivi mobili per Microsoft Teams è possibile visualizzare il calendario degli eventi.  Se è stata pianificata una riunione con Microsoft Teams verrà visualizzato un pulsante di "Partecipazione" app per dispositivi mobili. L'utente verrà connesso alla riunione utilizzando la rete cellulare.  Funzioneranno normali funzioni quali disattivazione dell'audio, altoparlanti e chat.  Visualizzazione di contenuto possono essere disattivata in base alla connessione. È inoltre possibile accedere a un utente dall'elenco dei contatti nei gruppi in ed effettuare una chiamata di 1:1 con loro direttamente.</span><span class="sxs-lookup"><span data-stu-id="04d0d-p104">Using the mobile app for Microsoft Teams you can view your calendar of events.  If a meeting was scheduled with Microsoft Teams you will see a "Join" button in the mobile app. You will be connected to the meeting using your mobile network.  Normal functions such as mute, speaker and chat will function.  Viewing content may be disabled depending on your connection. You can also navigate to someone from your contact list in Teams and place a 1:1 call with them directly.</span></span> 
+
+## <a name="connect-to-office-365-from-your-mobile-device"></a><span data-ttu-id="04d0d-127">Connettersi a Office 365 dal dispositivo mobile</span><span class="sxs-lookup"><span data-stu-id="04d0d-127">Connect to Office 365 from your mobile device</span></span>
+<span data-ttu-id="04d0d-p105">[Applicazioni di Office 365](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US) sono disponibili per tutte le piattaforme principali ed è possibile utilizzarli per accedere a tutti i file presenti in siti di SharePoint Online o OneDrive for Business. Se l'organizzazione utilizza l'autenticazione a due fattori potrebbe essere necessario eseguire l'autenticazione tramite telefono o con l'app, l'autenticazione che deve essere impostata in anticipo.</span><span class="sxs-lookup"><span data-stu-id="04d0d-p105">[Office 365 apps](https://support.office.com/en-us/article/set-up-office-apps-and-email-on-a-mobile-device-7dabb6cb-0046-40b6-81fe-767e0b1f014f?ui=en-US&rs=en-US&ad=US) are available for all major platforms, and you can use them to access all our files located on SharePoint Online sites or OneDrive for Business. If your organization uses two factor authentication you may need to authenticate by phone or with the authentication app, which needs to be set up in advance.</span></span>  
+
+> [!NOTE]
+> <span data-ttu-id="04d0d-p106">Tenere presente che utilizzando le funzionalità in linea nel telefono corruzione costi se si utilizza la rete cellulare. Per ottimizzare il processo e verificare che non comportano alcun costo aggiuntivo, è consigliabile utilizzare Wi-Fi quando possibile.</span><span class="sxs-lookup"><span data-stu-id="04d0d-p106">Be aware that using online features on your phone may incur costs if you are using the mobile network. For the best experience and to ensure that you don't incur any extra costs, you should use Wi-Fi wherever possible.</span></span>
