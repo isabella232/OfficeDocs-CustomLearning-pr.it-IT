@@ -1,10 +1,14 @@
 # <a name="feedback-and-support"></a>Commenti e suggerimenti e supporto tecnico
 
+## <a name="get-support"></a>Richiesta di assistenza
+
+Nel caso di problemi con il modello di sito di origine aperto o Web part che offre l'apprendimento personalizzato esperienza immettere il problema in questo elenco di problemi GitHub.  È possibile trovare l'elenco in https://aka.ms/CustomLearningHelp come standard con soluzioni open source community valuta questi problemi per la soluzione.  Funzionalità richieste vengono trasferite nel nostro istanza vocali utente riportata di seguito.  Errori nel codice vengono ampliate fino a Manager community e il servizio per la valutazione e la risoluzione.  
+
 ## <a name="provide-us-feedback"></a>Fornire commenti
 
 La soluzione è solo un esito positivo se sono costituita dall'abilitazione i risultati di business!  Guida di rendere migliore per fornire commenti e suggerimenti tramite [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  Vengono esaminate regolarmente tutti i commenti e domande.
 
-Si noti che durante il test esistente solo fase 2 Beta società saranno in grado di inviare commenti e suggerimenti.  A disponibilità generale in T4 di 2018 dopo aver aperto il forum fino a tutti gli utenti. Configurare un account utente in UserVoice, in modo che sia possibile visualizzare e votare idee esistente nel nostro forum o crearne di nuovi.  
+## <a name="usage-questions"></a>Domande sull'utilizzo
 
-È inoltre possibile fornire commenti e suggerimenti per partecipare programma [Office 365 Champions](https://aka.ms/O365Champions) e la partecipazione nei forum di [che gestisce l'adozione] nella Community documentazione tecnica di Microsoft in https://aka.ms/DriveAdoption. 
+Per domande sulle procedure consigliate tramite il portale di apprendimento e il relativo contenuto seguici nei forum di [Determinano l'adozione](https://aka.ms/DriveAdoption) nella Community documentazione tecnica di Microsoft in https://aka.ms/DriveAdoption. 
 
