@@ -1,16 +1,25 @@
-# <a name="install-the-custom-learning-site-package"></a>Installare personalizzato pacchetto del sito di apprendimento
+---
+author: karuanag
+ms.author: karuanag
+title: Eseguire il provisioning dell'esperienza di sito
+ms.date: 02/10/2019
+description: Eseguire il provisioning di apprendimento personalizzato per il sito di Office 365
+ms.openlocfilehash: 567d8be831d5a6a4ed7ea74712d00f5996354cb2
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29951200"
+---
+# <a name="provision-the-custom-learning-site"></a>Eseguire il provisioning personalizzato del sito di apprendimento
 
-## <a name="prerequisite-for-installation"></a>Prerequisiti per l'installazione
-
-- Per installare il pacchetto di apprendimento personalizzato del sito per il tenant è necessario disporre delle autorizzazioni di amministrazione di Office 365.  Se non si dispone di queste autorizzazioni, è possibile contattare l'amministratore di Office 365 oppure installare Web part sola per una singola raccolta di siti.
-- È possibile installare il pacchetto in una posizione test per acquisire familiarità con il contenuto.  Se questo approccio è necessario reinstallare il pacchetto nel tenant di produzione e ricreare eventuali personalizzazioni completata durante il test. 
-- Aggiornamenti per i contenuti di formazione di Web part non avrà alcun effetto delle personalizzazioni di pagina.
-- È solo supportano SharePoint Online. La web part non è supportato per l'installazione su qualsiasi versione di SharePoint in locale.
-
-## <a name="add-the-custom-learning-site-to-your-tenant"></a>Aggiungere il sito di apprendimento personalizzato per il tenant 
-
-**1. aggiungere istruzioni pacchetto qui**
-
+1. Accedere a http://provisioning.sharepointpnp.com e accedere utilizzando le credenziali per un tenant di destinazione si prevede di utilizzare per l'installazione. ![pnphome.png](media/pnphome.png)
+1. Spuntare consenso dell'utente per l'organizzazione e selezionare accetta.
+1. Selezionare personalizzato formazione per Office 365 dalla raccolta soluzioni. 
+1. Selezionare Aggiungi per Tenant 
+1. Modificare le selezioni predefinite nella pagina provisioning come necessario e seleziona il provisioning quando si è pronti a installare CLO365 tenant l'ambiente in uso.  
+1. Il processo di provisioning avrà un massimo di 15 minuti. Si riceverà una notifica tramite posta elettronica (per l'indirizzo di posta elettronica immesso nella pagina Provisioning) quando è pronto per l'accesso al sito. 
+1. Una volta eseguito l'accesso a CLO365 nel tenant, preferito del sito e copiare l'url per riferimento futuro.  
 
 
 ## <a name="next-steps"></a>Passaggi successivi
