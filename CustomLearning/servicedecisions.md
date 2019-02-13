@@ -1,0 +1,46 @@
+---
+author: karuanag
+ms.author: karuanag
+title: Decisioni e prerequisiti
+ms.date: 02/10/2019
+description: Decisioni e informazioni Prerequisite di installazione e apprendimento personalizzato
+ms.openlocfilehash: 99ab08d8b18be00c3a29878ff462f9109cc9ed29
+ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29952621"
+---
+## <a name="service-decisions"></a><span data-ttu-id="7085b-103">Decisioni di servizio</span><span class="sxs-lookup"><span data-stu-id="7085b-103">Service Decisions</span></span>
+
+<span data-ttu-id="7085b-104">Una volta che siano soddisfatti i prerequisiti e prima dell'installazione è opportuno prendere le decisioni seguenti sull'implementazione di CLO365:</span><span class="sxs-lookup"><span data-stu-id="7085b-104">Once your pre-requisites are met and prior to installation you should make the following decisions about your implemenation of CLO365:</span></span>
+
+1. <span data-ttu-id="7085b-105">**È già stato un portale dedicato alla formazione alla società con un'interfaccia moderna?**</span><span class="sxs-lookup"><span data-stu-id="7085b-105">**Do you already have a training portal in your company with a modern interface?**</span></span>
+
+- <span data-ttu-id="7085b-106">**Sì** Se la risposta a queste domande è Sì, quindi [l'installazione della Web part](installwebpart.md) all'interno di tale esperienza sito esistente è il nostro operazione consigliata.</span><span class="sxs-lookup"><span data-stu-id="7085b-106">**YES** If your answer to these questions are yes, then [installing the webpart](installwebpart.md) within that existing site experience is our recommended course of action.</span></span>
+- <span data-ttu-id="7085b-p101">**N** In caso di risposta non si consiglia di effettuare [l'installazione del sito di apprendimento personalizzato completo](installsitepackage.md) pacchetto.  Questo è essenziale con un sito di comunicazione di SharePoint Online moderno che il possibile espandere per ospitare altre informazioni che sono importante per gli utenti finali.  Personalizzazione del sito non influirà capacità della Web part di ottenere gli aggiornamenti del contenuto.</span><span class="sxs-lookup"><span data-stu-id="7085b-p101">**NO** If you answer no we suggest [installing the full Custom Learning site](installsitepackage.md) package.  This will prepare you with a modern SharePoint Online communication site that your can expand to house other information that is important to your end users.  Customizing the site will not impact the webpart's ability to get content updates.</span></span> 
+
+2. <span data-ttu-id="7085b-110">**Sei un amministratore di Office 365?**</span><span class="sxs-lookup"><span data-stu-id="7085b-110">**Are you an Office 365 Administrator?**</span></span>
+
+- <span data-ttu-id="7085b-111">**Sì**: si dispone di diritti appropriati per l'installazione.</span><span class="sxs-lookup"><span data-stu-id="7085b-111">**YES**:  You have the appropriate rights for either installation.</span></span>
+- <span data-ttu-id="7085b-112">**NO**: contattare l'amministratore di Office 365 per assistenza o installare la Web part in una raccolta siti si è proprietari</span><span class="sxs-lookup"><span data-stu-id="7085b-112">**NO**: Contact your Office 365 Administrator for assistance or install the webpart in a site collection you own</span></span>
+
+3. <span data-ttu-id="7085b-113">**È necessario un reparto addestramento all'interno dell'organizzazione?**</span><span class="sxs-lookup"><span data-stu-id="7085b-113">**Do you have a formal training department in your organization?**</span></span>
+
+- <span data-ttu-id="7085b-114">**YES**: assicurarsi di coinvolgere le e comunicare sull'utilizzo di queste soluzioni per fornire contenuto aggiuntivo e personalizzati per la formazione.</span><span class="sxs-lookup"><span data-stu-id="7085b-114">**YES**:  Make sure to engage them and let them know how they can use these solutions to deliver additional, customized training content.</span></span>
+- <span data-ttu-id="7085b-115">**NO**: utilizzare il [kit di adozione self-service](driveadoption.md) per rendere i grado di riconoscere il sito è disponibile per migliorare la utenti finali.</span><span class="sxs-lookup"><span data-stu-id="7085b-115">**NO**:  Use our [self service adoption kit](driveadoption.md) to make your end-users aware the site is available to help them.</span></span>
+
+4. <span data-ttu-id="7085b-116">**È necessario una community di utenti all'interno dell'organizzazione?  Questo è un gruppo formale o informale di utenti per ulteriori informazioni sulla tecnologia, detta anche power users o solo in quelle interessato per ulteriori informazioni.**</span><span class="sxs-lookup"><span data-stu-id="7085b-116">**Do you have a user community in your organization?  This would be either a formal or informal group of users who like to know more about technology, sometimes called power users or just those interested to learn more.**</span></span>
+
+- <span data-ttu-id="7085b-117">**Sì**: È possibile utilizzare l'esperienza di sito personalizzato apprendimento per fornire i collegamenti ai forum di community qualsiasi utente nuovo o esistente.</span><span class="sxs-lookup"><span data-stu-id="7085b-117">**YES**:  You can use the Custom Learning site experience to provide links to any new or existing user community forums.</span></span>
+- <span data-ttu-id="7085b-p102">**NO**: prendere in considerazione di un gruppo di utenti interni in modo che gli utenti possono condividere loro esito positivo e informazioni sul uni dagli altri.  Se non si dispone di tempo per coltivare e rafforzare un gruppo di utenti interni e dei dipendenti possono unirsi alla [community Microsoft Office 365 mondo](https://aka.ms/O365Champions) per la formazione mensile, appartenenze nella community online e agevolare l'accesso a risorse e strumenti per Office 365.</span><span class="sxs-lookup"><span data-stu-id="7085b-p102">**NO**:  Consider starting an internal user group so people can share their success and learn from each other.  If you don't have time to nurture an internal user group you and your employees can join the [Microosft Office 365 Champion community](https://aka.ms/O365Champions) for monthly training, membership in the online community and early access to tools and resources for Office 365.</span></span>
+
+5.  <span data-ttu-id="7085b-120">**È necessario responsabile domande di supporto o manutenzione del sito?**</span><span class="sxs-lookup"><span data-stu-id="7085b-120">**Will you be accountable for site maintenance or support questions?**</span></span>
+
+- <span data-ttu-id="7085b-p103">**Sì**: si consiglia di effettuare utilizzando le funzionalità di Office 365 per rendere personalizzato apprendimento supporto sito più semplice.  Di seguito sono indicate alcune idee, a seconda la dimensione del servizio di sottoscrizione e l'organizzazione:</span><span class="sxs-lookup"><span data-stu-id="7085b-p103">**YES**: We suggest using the capabilities of Office 365 to make Custom Learning site support easier.  Some ideas, depending on your service subscription and organization size are:</span></span>
+    1. <span data-ttu-id="7085b-123">Organizzazioni di grandi dimensioni possono eseguire il provisioning di una community Yammer pubblica per ottenere commenti e suggerimenti sul sito</span><span class="sxs-lookup"><span data-stu-id="7085b-123">Large organizations can provision a public Yammer community to get feedback on the site</span></span>
+    2. <span data-ttu-id="7085b-124">Fino a 2500 persone possono partecipare a un Team di Microsoft per porre domande e condividere conversazioni</span><span class="sxs-lookup"><span data-stu-id="7085b-124">Up to 2500 people can join a Microsoft Team to ask questions and share conversation</span></span>
+    3. <span data-ttu-id="7085b-125">Un supporto formale ticket processo può essere supportati con maschere, del flusso e gli elenchi SharePoint Online o tramite l'altra parte 3 degli strumenti che è possibile che per il supporto IT già nell'azienda.</span><span class="sxs-lookup"><span data-stu-id="7085b-125">A formal support ticketing process can be suppored with Forms, Flow and SharePoint Online lists or through other 3rd party tools which you may already have for IT support in your company.</span></span> 
+- <span data-ttu-id="7085b-126">**NO**: illustrare l'installazione del sito/Web part con il personale IT che forniscono il supporto di SharePoint Online.</span><span class="sxs-lookup"><span data-stu-id="7085b-126">**NO**:  Discuss the installation of the site/webpart with your IT staff who provide SharePoint Online support.</span></span>  
+
+## <a name="next-steps---siteinstallsitepackagemd-or-webpartinstallwebpartmd-installation"></a><span data-ttu-id="7085b-127">Passaggi successivi - installazione di [sito](installsitepackage.md) o [Web part](installwebpart.md)</span><span class="sxs-lookup"><span data-stu-id="7085b-127">Next Steps - [Site](installsitepackage.md) or [webpart](installwebpart.md) installation</span></span>
