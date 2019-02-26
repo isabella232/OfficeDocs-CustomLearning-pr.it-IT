@@ -2,27 +2,27 @@
 author: karuanag
 ms.author: karuanag
 title: Prerequisiti per l'installazione
-ms.date: 02/10/2019
-description: Decisioni e informazioni Prerequisite di installazione e apprendimento personalizzato
-ms.openlocfilehash: cd64f59c98163f28b452a2d01bcfba9c6fee268f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.date: 02/11/2019
+description: Decisioni e informazioni prerequisite per l'installazione e la configurazione di apprendimento personalizzato
+ms.openlocfilehash: 1a57e8fbecfbce4608c8dcb618f4fdc007467789
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952622"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989717"
 ---
-# <a name="getting-started"></a>Riquadro attività iniziale
+# <a name="getting-started"></a>Attività iniziali
 
-Personalizzato di formazione per Office 365 che consente di offrire soluzioni didattici su richiesta per l'organizzazione.  In questo caso verranno illustrati i prerequisiti e le decisioni che sarà necessario effettuare per una corretta distribuzione.
+L'apprendimento personalizzato per Office 365 consentirà di fornire soluzioni di formazione su richiesta per la propria organizzazione.  Di seguito vengono illustrati i prerequisiti e le decisioni che è necessario eseguire per una distribuzione corretta.
 
-Le istruzioni riportate di seguito viene indicato come effettuare il provisioning di apprendimento personalizzato per Office 365 (CLO365), inclusi l'installazione del modello di sito di comunicazione CLO365 e web part di apprendimento personalizzato, nell'ambiente tenant. In queste istruzioni descritta l'installazione di CLO365 tramite il servizio SharePoint Online di Provisioning in https://provisioning.sharepointpnp.com se si desidera installare subito la formazione personalizzato web part per l'utilizzo di un sito di comunicazione di SharePoint Online esistente, fare riferimento al vengono fornite istruzioni per [l'installazione della Web part personalizzate](installwebpart.md). 
+Le istruzioni seguenti illustrano come eseguire il provisioning dell'apprendimento personalizzato per Office 365 (CLO365), inclusa l'installazione del modello di sito di comunicazione di CLO365 e della web part di apprendimento personalizzata nell'ambiente tenant. Queste istruzioni riguardano l'installazione di CLO365 tramite il servizio di provisioning di SharePoint https://provisioning.sharepointpnp.com online se si è interessati all'installazione di una Web part di apprendimento personalizzato per l'utilizzo in un sito di comunicazione di SharePoint Online esistente, fare riferimento alla sezione istruzioni per l' [installazione del controllo WebPart personalizzato](installwebpart.md). 
 
-## <a name="pre-requisites"></a>Prerequisiti
+## <a name="prerequisites"></a>Prerequisiti
  
-Per una corretta installazione CLO365 tramite il [Servizio SharePoint Online di Provisioning](https://provisioning.sharepointpnp.com) devono soddisfare i prerequisiti seguenti: 
+Per installare correttamente CLO365 tramite il servizio di provisioning di [SharePoint Online](https://provisioning.sharepointpnp.com) , è necessario soddisfare i requisiti seguenti: 
  
-- La persona che provisioning di CLO365 deve essere l'amministratore tenant del tenant di destinazione per l'installazione.  
-- Un tenant 'App Catalog' deve essere disponibile all'interno dell'opzione "Apps" dell'interfaccia di amministrazione di SharePoint. Se non è un'app attualmente del catalogo, vedere per istruzioni su come creare una sezione creare catalogo App.  
-- La persona che provisioning di CLO365 deve essere il proprietario principale del catalogo app nel tenant di destinazione per l'installazione. Se il programma di installazione CLO365 non è proprietario principale del catalogo app, vedere Modifica proprietario principale della sezione catalogo applicazioni per le istruzioni.  
-- 
-## <a name="next-steps---service-decisionsservicedecisionsmd"></a>Passaggi successivi - [servizio decisioni](servicedecisions.md)
+- L'individuo che dovrà eseguire il provisioning di CLO365 deve essere l'amministratore tenant del tenant di destinazione per l'installazione.  
+- Il tenant ' App Catalog ' deve essere disponibile all'interno dell'opzione ' Apps ' dell'interfaccia di amministrazione di SharePoint. Se non si dispone di un catalogo app, fare riferimento alla [documentazione di SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) per eseguire il provisioning di questa funzionalità.  
+- L'individuo che provisioning CLO365 deve essere il proprietario di una raccolta siti del catalogo app nel tenant di destinazione per l'installazione. Se il programma di installazione di CLO365 non è un proprietario della raccolta siti del catalogo app, [completare queste istruzioni](addappadmin.md) e continuare.  
+
+### <a name="next-steps---service-decisionsservicedecisionsmd"></a>Passaggi successivi: [decisioni sui servizi](servicedecisions.md)

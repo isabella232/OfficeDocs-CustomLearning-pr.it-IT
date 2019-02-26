@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Personalizzare l'esperienza di formazione
 ms.date: 02/10/2019
 description: Informazioni sulla varietà di personalizzazioni disponibili con l'apprendimento personalizzato per Office 365
-ms.openlocfilehash: 035b6734665da59ed912d9ebd6a3923d1b0b9108
-ms.sourcegitcommit: 0cd0c3e230e0217dfd5d050b20050ce781b5a7c6
+ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/14/2019
-ms.locfileid: "30050627"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30059687"
 ---
 # <a name="customize-the-training-experience"></a>Personalizzare l'esperienza di formazione
 
-Questo è un test 3. Per impostazione predefinita, sia l'esperienza del sito che la WebPart includono il contenuto per tutti i servizi di Office 365 e Windows 10.  Se nell'azienda sono disponibili solo tutti o alcuni di questi servizi, è possibile modificare il contenuto disponibile per gli utenti.  
+Questo è un test quattro. Per impostazione predefinita, sia l'esperienza del sito che la WebPart includono il contenuto per tutti i servizi di Office 365 e Windows 10.  Se nell'azienda sono disponibili solo tutti o alcuni di questi servizi, è possibile modificare il contenuto disponibile per gli utenti.  
 
 Esistono diversi tipi di personalizzazioni disponibili per i proprietari di questo sito. 
 

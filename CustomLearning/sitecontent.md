@@ -1,47 +1,55 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Esplorare il contenuto del sito e imposta come predefinito
+title: Esplorare il sito e il contenuto predefinito
 ms.date: 02/10/2019
-description: Esplorare il contenuto del sito e imposta come predefinito
-ms.openlocfilehash: 1d8698b89741f6bfc9c4347c5d5b670e0680d81f
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+description: Esplorare il sito di apprendimento personalizzato e il contenuto predefinito
+ms.openlocfilehash: 9672d001188634f6a319daf1f539b444b1ae33d0
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951210"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989637"
 ---
-# <a name="browse-the-site-and-default-content"></a>Esplorare il contenuto del sito e imposta come predefinito
+# <a name="explore-the-site-and-default-content"></a>Esplorare il sito e il contenuto predefinito
 
-![Sei passaggi semplificati](media/clo365homepage.png)
+![Sei semplici passaggi](media/clo365homepage.png)
 
-Dopo aver installato CLO365, è ora per avviare la presentazione del sito. 
+### <a name="tour-the-site"></a>Visitare il sito 
 
-1. Accedere alla Home page e selezionare formazione su Office 365. Verrà visualizzato tutto il contenuto disponibile all'interno della Web part.
+Passare alla Home page e selezionare Office 365 training. Ogni pagina del sito di SharePoint Online è configurata per ospitare Microsoft Learning WebPart. In questo modo la pagina consente di visualizzare tutto il contenuto disponibile all'interno del controllo WebPart.
 
-![Web part](media/webpart.PNG)
+![WebPart](media/webpart.PNG)
 
-2. Barra dei menu, scegliere di formazione su Office 365 e quindi selezionare Introduzione a OneDrive. In questo caso, la Web part applica un filtro contenuto per mostrare solo OneDrive contenuto, come illustrato nella figura seguente.
+Dalla barra dei menu, selezionare l'elemento di spostamento **Office 365 Training** e quindi **fare clic su inizia con OneDrive**. In questo caso, la Web part filtra il contenuto in modo da visualizzare solo il contenuto di OneDrive.
 
-{Inserisci immagine}
+Ripetere questi passaggi per le altre due opzioni di menu, iniziare a utilizzare i **Team** e iniziare a **utilizzare SharePoint Online** per esaminare il contenuto e verificare la struttura di spostamento.
 
-3. Ripetere questi passaggi per le altre due opzioni di menu, Guida introduttiva a team e Guida introduttiva a SharePoint Online per esaminare il contenuto e testare la struttura di spostamento.
-
-{Inserisci immagine} 
-
-4. Tornare alla Home page e selezionare Avvia con sei semplici passaggi. Verrà aperto l'elenco di riproduzione di sei passaggi semplice come illustrato nella figura seguente.  
+Tornare alla Home page e selezionare **inizia con sei semplici passaggi**. Questo porta alla scaletta sei passaggi semplici.
 
 > [!TIP]
-> I sei passaggi semplificati provengono da un team di ricerca di Microsoft. Questi sono i passaggi ricercatori Microsoft sono disponibili per essere più permanente, vale a dire se gli utenti visitano tramite la procedura seguente, l'utilizzo di Office 365 aumenterà e diventeranno lavoratori più produttivi. E che è utile per tutti i partecipanti.
+> I sei semplici passaggi sono derivati da un team di ricerca di Microsoft. Questi sono i passaggi che i ricercatori Microsoft hanno trovato più appiccicoso, il che significa che se gli utenti passano questa procedura, l'utilizzo di Office 365 aumenterà e diventeranno lavoratori più produttivi. E questo è un bene per tutti.
 
-Vai per iniziare con sei passaggi semplificati
-- Nella Home page fare clic su Start con sei semplici passaggi. 
-- Viene visualizzata la pagina di formazione su Office con la web part personalizzata apprendimento instradate all'inizio con sei de sélections semplici passaggi.  
+### <a name="go-to-start-with-six-simple-steps"></a>Andare a iniziare con sei semplici passaggi
+- Nella Home page fare clic su Avvia con sei semplici passaggi. 
+- La pagina Training di Office viene visualizzata con la Web part apprendimento personalizzato instradata all'inizio con sei semplici passaggi.  
 
-![Elenco di riproduzione sei passaggi](media/clo365sixsteps.png)
+![Sequenza di sei passaggi](media/clo365sixsteps.png)
 
-Il sito è ora configurato con il contenuto corretto visualizzato su ogni pagina. Se si desidera personalizzare il contenuto per la formazione sul sito, vedere apprendimento personalizzato per la Guida di amministrazione di Office 365 per la personalizzazione. 
+### <a name="view-a-list-of-playlists-for-a-category"></a>Visualizzazione di un elenco di elenchi di riproduzione per una categoria
+
+Nella pagina Office 365 training selezionare Excel training per accedere a un elenco di playlist di formazione Excel.
+
+![content_excel. png](media/content_excel.png)
+
+### <a name="view-a-playlist"></a>Visualizzazione di una playlist
+
+Fare clic su **benvenuto in Excel** per visualizzare la playlist
+
+![content_exwel. png](media/content_exwel.png)
+
+Il sito è ora configurato con il contenuto corretto visualizzato in ogni pagina. 
 
 ## <a name="next-steps"></a>Passaggi successivi
-[Personalizzare il contenuto del sito](customization.md)
-[unità adozione](driveadoption.md) 
+- [Personalizzare il contenuto del sito](customization.md)
+- [Adozione di unità](driveadoption.md) 

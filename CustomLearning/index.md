@@ -1,44 +1,39 @@
 ---
 author: karuanag
 ms.author: karuanag
-title: Panoramica di apprendimento personalizzato per la soluzione di Office 365 Open Source
+title: Panoramica della soluzione di apprendimento personalizzato per Office 365 Open Source
 ms.date: 02/10/2019
-description: Informazioni su come apprendimento personalizzato per Office 365 grado di accelerare l'adozione di Office 365 all'interno dell'organizzazione e utilizzo. Le soluzioni includono una web part SharePoint Online personalizzata e un moderna SharePoint Online communications formazione sito facilmente il provisioning al tenant di Office 365.
-ms.openlocfilehash: c47021a356bf9562e5f04c74f7b705f294518901
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
-ms.translationtype: MT
-ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29951230"
+description: Informazioni su come l'apprendimento personalizzato per Office 365 può accelerare l'utilizzo e l'adozione di Office 365 nell'organizzazione. Le soluzioni disponibili includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant di Office 365.
 ---
-# <a name="custom-learning-for-office-365"></a>Personalizzato di formazione per Office 365
 
-## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Self-service, soluzioni personalizzabili formazione Microsoft
+# <a name="custom-learning-for-office-365"></a>Apprendimento personalizzato per Office 365
 
-Personalizzata di formazione per Office 365 è un insieme di formazione e adozione strumenti open source progettata per aumentare l'utilizzo di Office 365 all'interno dell'organizzazione. Creato in relazione con il team di esperienza e assistenza moderno e gruppi Teams Microsoft e progettazione di prodotti SharePoint, queste soluzioni di semplice utilizzo possono essere installate e personalizzate nel tenant di SharePoint Online. 
+## <a name="self-service-customizable-training-solutions-from-microsoft"></a>Soluzioni di Training self-service, personalizzabili da Microsoft
 
-Queste soluzioni portare agli utenti finali tutto il contenuto di formazione che Microsoft può offrire e mantenere tale contenuto aggiornati su richiesta.  Il sito può essere integrato con facilità con l'installazione di Microsoft Teams o altri siti di SharePoint Online esistenti nell'azienda.
+L'apprendimento personalizzato per Office 365 è un insieme di strumenti di formazione e adozione Open Source ideati per aumentare l'utilizzo di Office 365 nell'organizzazione. Creati in partnership con Microsoft teams e i gruppi di ingegnerizzazione dei prodotti SharePoint e il team di assistenza e esperienza moderni, queste soluzioni semplici da usare possono essere installate e personalizzate nel tenant di SharePoint Online. 
 
-I contenuti di formazione personalizzati attualmente nell'ambito per l'inizio del contenuto per i prodotti di Office 365.  Se si desidera visualizzare più contenuto incluso, invio di commenti [e suggerimenti](feedback.md) nel nostro forum in linea.  
+Queste soluzioni offrono agli utenti finali tutti i contenuti di formazione che Microsoft deve offrire e mantiene aggiornati i contenuti su richiesta.  Il sito può essere facilmente integrato con l'installazione di Microsoft teams o di altri siti di SharePoint Online esistenti nella propria azienda.
 
-## <a name="custom-learning-open-source-components"></a>Apprendimento personalizzato Open Source componenti
+Il contenuto di apprendimento personalizzato è attualmente definito come contenuto iniziale per i prodotti Office 365 e Windows 10.  Se si desidera visualizzare altri contenuti, darci [suggerimenti e commenti](feedback.md) sul nostro forum online.  
 
-Personalizzato di formazione per Office 365 sono disponibili due opzioni: 
+## <a name="custom-learning-open-source-components"></a>Componenti di Open Source di apprendimento personalizzati
 
-**Opzione 1**: [personalizzato apprendimento di SharePoint Online Site Package](installsitepackage.md)
+Per l'apprendimento personalizzato per Office 365 sono disponibili due opzioni: 
 
-Selezionare, installare e configurare il pacchetto di siti SharePoint Online di comunicazione per creare un portale dedicato alla formazione per la propria azienda. In precedenza noto come Toolkit per il lavoro del team, è possibile personalizzare questo portale dedicato alla formazione per aggiungere il contenuto della Guida in linea, supporto e community dell'organizzazione. È inoltre possibile rimuovere qualsiasi contenuto relativo a servizi non è supportati per l'organizzazione. Personalizzato apprendimento pacchetto del sito include anche informazioni personalizzate web part che fornisce un aggiornate feed dei contenuti di formazione di Office 365 nell'organizzazione. 
+**Opzione 1**: [pacchetto del sito di apprendimento di SharePoint Online personalizzato](installsitepackage.md)
 
-![Formazione per Office 365 esperienza di sito personalizzate](media/clo365homepage.png)
+Selezionare, installare e configurare il pacchetto del sito di comunicazione di SharePoint Online per creare un portale di formazione per la propria azienda. Precedentemente noto come Toolkit per il lavoro di squadra, questo portale di formazione può essere personalizzato per aggiungere il contenuto della guida, del supporto e della community dell'organizzazione. È inoltre possibile rimuovere qualsiasi contenuto relativo ai servizi non supportati all'interno dell'organizzazione. Il pacchetto del sito di apprendimento personalizzato include anche la Web part di apprendimento personalizzata che fornisce un feed aggiornato del contenuto di Office 365 training all'organizzazione. 
 
-**Opzione 2**: opzione di apprendimento personalizzato The [L'apprendimento personalizzato per Office 365 web part](installwebpart.md) web part è progettato per le organizzazioni che desiderano integrare formazione di Office 365 in un sito di comunicazione di SharePoint Online esistente. Web part di apprendimento personalizzato può essere installata in qualsiasi pagina di SharePoint Online e fornisce un feed aggiornato della suite completa del contenuto per la formazione di Office 365 dal Support.Office.com sito Microsoft. Formazione contenuto pubblicato tramite la web part è organizzata per utilizzare gli elenchi di riproduzione. Gli amministratori possono inoltre utilizzare la web part per creare elenchi di riproduzione formazione personalizzata, la combinazione di contenuto da YouTube, contenuto ospitato in locale, ad esempio. File PDF e contenuto per la formazione di Office 365, per fornire formazione esperienze personalizzati alle specifiche esigenze dell'organizzazione.
+![Apprendimento personalizzato per l'esperienza del sito di Office 365](media/clo365homepage.png)
 
-![Formazione per Office 365 webpart personalizzato](media/clo365customplaylist.png)
+**Opzione 2**: [la Web part apprendimento personalizzato per Office 365](installwebpart.md) l'opzione Web part di apprendimento personalizzato è progettata per le organizzazioni che desiderano integrare Office 365 training in un sito di comunicazione di SharePoint Online esistente. La Web part per l'apprendimento personalizzato può essere installata su qualsiasi pagina di SharePoint Online e fornisce un feed aggiornato della suite completa di contenuto di Office 365 Training dal sito di Support.Office.com di Microsoft. La formazione dei contenuti forniti tramite la Web part è organizzata in playlist di facile utilizzo. Gli amministratori possono anche utilizzare la Web part per creare playlist di formazione personalizzate, combinando contenuti da YouTube, contenuti ospitati localmente come. File PDF e contenuti di formazione per Office 365, per offrire esperienze formative adeguate alle esigenze specifiche dell'organizzazione.
+
+![Apprendimento personalizzato per Office 365 WebPart](media/clo365customplaylist.png)
 
 ## <a name="3-easy-steps"></a>3 semplici passaggi
 
-Consente di [iniziare a](prereqs.md) creare un soluzioni formazione semplice con Microsoft aggiornati contenuto.
+Consente [](prereqs.md) di iniziare a creare una soluzione di formazione semplice con contenuto Microsoft aggiornato.
 
-1. Selezionare il diritto di soluzione
-2. Personalizzare & l'installazione completa del contenuto
-3. Condividere il sito con gli utenti utilizzando gli [Strumenti di adozione](driveadoption.md)
+1. Seleziona la soluzione adatta a te
+2. Completare l'installazione & personalizzare i contenuti
+3. Condividere il sito con gli utenti utilizzando gli [strumenti di adozione](driveadoption.md)

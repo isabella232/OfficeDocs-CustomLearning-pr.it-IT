@@ -1,76 +1,99 @@
-# <a name="customize-the-services-and-playlists"></a>Personalizzare i servizi e gli elenchi di riproduzione
+---
+author: karuanag
+ms.author: karuanag
+title: Personalizzare e condividere playlist
+ms.date: 02/10/2019
+description: Creare playlist personalizzate dal contenuto esistente o dalle nuove pagine di SharePoint
+ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
+ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "29989727"
+---
+# <a name="customize-and-share-playlists"></a>Personalizzare e condividere playlist
 
-Per impostazione predefinita l'esperienza del sito e della Web part includere contenuto per tutti i servizi di Office 365.  Se solo alcune o tutte le questi servizi sono disponibili all'interno della società è possibile modificare il contenuto è disponibile per gli utenti.  In questo articolo è verrà personalizzare il contenuto di Web part.  
+## <a name="create-a-playlist"></a>Creare una playlist
 
-## <a name="customizing-the-webpart-content"></a>La personalizzazione del contenuto Web part
+Una playlist è una Compliation di "asset". "Asset" è una pagina di SharePoint o un elemento esistente di Microsoft Training Content. Quando si crea una playlist, si selezionano risorse che vanno insieme per creare un percorso di apprendimento per l'utente.  
 
-La Web part personalizzata Learning offre due funzionalità chiave:
-- Mostra/Nascondi tecnologie
-- Creare un elenco di riproduzione
+Il vantaggio dell'aggiunta di pagine di SharePoint è che è possibile creare pagine di SharePoint con video o video di YouTube ospitati nell'organizzazione. È inoltre possibile creare pagine con moduli o altri contenuti di Office 365.  
 
-### <a name="hide-or-show-technology-categories"></a>Categorie di tecnologia Mostra o Nascondi
-
-Per nascondere e visualizzare contenuto nella Web part: 
-1.  Fare clic sul menu a discesa della Web part e quindi fare clic su Mostra/Nascondi tecnologie
-
-![Opzione di menu](media/clohideshow.png)
-
-2. Selezionare un checkox per nascondere o visualizzare una tecnologia e selezionare **Applica**.
-
-![Opzioni di tecnologia](media/clohideshow1.png)
-
-### <a name="create-a-playlist"></a>Creare un elenco di riproduzione
-
-Un elenco di riproduzione è compliation delle "risorse". Una risorsa"" è una pagina di SharePoint o un elemento esistente del contenuto per la formazione Microsoft. Quando si crea un elenco di riproduzione si selezionano risorse correlate per creare un percorso di apprendimento per l'utente.  
-
-I vantaggi dell'aggiunta di pagine di SharePoint sono che è possibile creare pagine di SharePoint con un YouTube video o video ospitati all'interno dell'organizzazione. È inoltre possibile creare pagine con moduli o altro contenuto di Office 365.  
-
-#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Passaggio 1: Creare una pagina di SharePoint per l'elenco di riproduzione
-In questo esempio, si creerà innanzitutto una pagina di SharePoint da aggiungere all'elenco di riproduzione. Verrà creata una pagina con una YouTube video web part e web part di testo.  Queste istruzioni si presuppone che si utilizza il servizio SharePoint Online. 
+#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Passaggio 1: creare una pagina di SharePoint per la playlist
+In questo esempio viene creata prima una pagina di SharePoint da aggiungere alla playlist. Verrà creata una pagina con una Web part video di YouTube e una Web part di testo.  Queste istruzioni presuppongono che si utilizzi il servizio SharePoint Online. 
 
 #### <a name="create-a-new-page"></a>Creare una nuova pagina
-1.  Selezionare le impostazioni dal menu gt _ contenuto del sito gt _ pagine del sito gt _ nuovo gt _ Page del sito.
-2.  Nell'area titolo digitare utilizzare la finestra di comando team
-3.  Selezionare la sezione aggiungere una nuova e quindi selezionare due colonne.
+1.  Selezionare il menu impostazioni > contenuto del sito > pagine del sito > nuova pagina del sito di >.
+2.  Nell'area titolo, digitare use the teams Command Box.
+3.  Selezionare la sezione Aggiungi una nuova e quindi selezionare due colonne.
 
-![aggiungere due colonne](media/clo365addtwocolumn.png)
+![Aggiunta di due colonne](media/clo365addtwocolumn.png)
 
-4.  Nel riquadro sinistro, selezionare Aggiungi nuova web part e quindi selezionare Embed. 
-5.  In un Web browser, accedere a questo URL https://youtu.be/wYrRCRphrp0 e ottenere il codice di incorporamento del video. 
-6.  Nella Web part di SharePoint, selezionare Aggiungi incorporare codice e incollarlo nella casella Embed. 
-7.  Nella casella a destra, selezionare Aggiungi nuova web part e quindi selezionare il testo. 
-8.  In un Web browser, accedere a questo URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b e copiare il blocco Try viene! Le istruzioni nella pagina e incollarli in testo Web part. Nella pagina dovrebbe essere simile al seguente. 
+4.  Nella casella a sinistra, selezionare Aggiungi una nuova Web part, quindi fare clic su incorpora. 
+5.  In un Web browser, passare a questo URL https://youtu.be/wYrRCRphrp0 e ottenere il codice di incorporamento per il video. 
+6.  Nella web part di SharePoint, selezionare Aggiungi codice embed e incollarlo nella casella incorpora. 
+7.  Nella casella a destra, selezionare Aggiungi una nuova Web part, quindi selezionare testo. 
+8.  In un Web browser, passare a questo URL: https://support.office.com/en-us/article/13c4e429-7324-4886-b377-5dbed539193b e copiare la prova! Istruzioni dalla pagina e incollarle nella web part testo. La pagina dovrebbe essere simile alla seguente. 
 
-![Inserimento di una pagina](media/clo365teamscommandbox.png)
+![Pagina incorporamento](media/clo365teamscommandbox.png)
 
-9.  Fare clic su pubblica, quindi copiare l'URL della pagina e incollarlo nel blocco note
+9.  Fare clic su **pubblica**e quindi copiare l'URL della pagina e incollarlo nel blocco note
 
-#### <a name="step-2-create-the-playlist"></a>Passaggio 2: Creare l'elenco di riproduzione
-1.  Passare a in cui è installata la Web part apprendimento personalizzato. L'esperienza completa del sito si trova nella pagina formazione di Office 365. 
-2.  Nel menu a discesa selezionare Crea nuovo elenco di riproduzione. 
+#### <a name="step-2-create-the-playlist"></a>Passaggio 2: creare la playlist
 
-![creare l'elenco personalizzato di riproduzione](media/clo365createplaylist.png)
+1. Passare alla pagina di **amministrazione dell'apprendimento personalizzata** nell'esperienza del sito. ![custom_admin. png](media/custom_admin.png)
+1. Verificare che la **categoria** sia selezionata 
+1. Fare clic sulla categoria in cui si desidera visualizzare la nuova playlist
+1. Accanto al nome della categoria, fare clic sul segno più ![custom_addplay. png](media/custom_addplay.png)
 
-3.  Immettere i valori come illustrato nell'esempio riportato di seguito e selezionare **Crea**. 
+1. Inserire i valori come illustrato nell'esempio riportato di seguito e selezionare **Crea**. ![custom_details. png](media/custom_details.png)
+- **Titolo** -nome visualizzato della playlist
+- **Descrizione** -informazioni su ciò che verrà imparato
+- **Categoria** -preselezionata in base alla selezione iniziale
+- **Sottocategoria** -preselezionata in base alla selezione iniziale
+- **Tecnologia** : selezionare applicabile
+- **Level** -Beginner, Intermidate o Advanced
+- Gruppo di **destinatari** : consente di assegnare il contenuto in base a un elenco predefinito di ruoli forniti da Microsoft.
 
-#### <a name="step-3-add-assets-to-the-playlist"></a>Passaggio 3: Aggiungere risorse all'elenco di riproduzione
-In questo passaggio si aggiungeranno risorse esistenti da Microsoft e la pagina di SharePoint creata per l'elenco di riproduzione. 
+6. Fare clic su **Salva dettaglio**
 
-1.  Fare clic sul pulsante menu, quindi fare clic su Aggiungi risorse esistenti.
+> [!TIP]
+> È possibile personalizzare l'immagine dell'icona per la playlist.  Fare clic sull'icona dell'immagine e inserire un URL di un'immagine caricata in precedenza.  Verificare che l'immagine si trovi all'interno della raccolta siti di apprendimento personalizzato o in un'altra posizione in cui tutti gli utenti avranno accesso al file.  
+![custom_image. png](media/custom_image.png)
 
-![aggiungere risorse](media/clo365addasset.png)
+#### <a name="step-3-add-assets-to-the-playlist"></a>Passaggio 3: aggiungere risorse alla playlist
+In questo passaggio, si aggiungono le risorse esistenti da Microsoft e la pagina di SharePoint creata per la playlist. 
 
-2.  Filtrare formazione su Office 365 App gt _ team di Microsoft
-3.  Aggiungere iniziale a Microsoft Teams, diventare il team operativi e avviare le chat ed effettuare chiamate.
-4.  Selezionare Crea risorse gt _ pulsante menu.
-5.  Tipo di utilizzare la casella di comando team nella casella titolo delle risorse. 
-6.  Incolla l'utilizzo di SharePoint Team comando casella URL della pagina sono stati copiati nel campo del contenuto delle risorse. 
-7.  Passare nuovamente al gt _ personalizzato gli elenchi di riproduzione di gt _ Home Page del primo giorni con gt _ team utilizzando la finestra di comando team. Nella pagina dovrebbe essere simile al seguente. 
+1. Dopo aver salvato i dettagli per la playlist, è possibile utilizzare la ricerca per le risorse esistenti.
+1. **Immettere un termine di ricerca** per visualizzare un elenco di risorse predefinite che sono disponibili da altre playlist. **Fare clic sul nome** di una risorsa per includerla nella nuova playlist. ![custom_slist. png](media/custom_slist.png)
 
-![pagina creata](media/clo365createplaylist2.png)
+È inoltre possibile aggiungere la pagina di SharePoint creata in precedenza o crearne una da zero nell'esperienza.
 
-Elenco di riproduzione con tale contenuto ora sarà disponibile via Internet sono installati / incorporati della Web part apprendimento personalizzato. 
+1. Fare clic sull'opzione **nuova risorsa** nella finestra di dialogo risorse playlist.
+1. Assegnare un **titolo**alla propria risorsa. Una volta immesso, vengono visualizzate ![le opzioni aggiuntive custom_newpage. png](media/custom_newpage.png)
+1. È ora possibile creare una nuova pagina di asset in SharePoint Online o immettere l'URL di una pagina esistente per aggiungerla alla playlist personalizzata. 
+1. I campi **categoria**, sottocategoria e **tecnologia** verranno prepopolati in base alle selezioni precedenti per la playlist. ****
+1. Effettuare le selezioni appropriate per il livello e il gruppo di destinatari per questo singolo cespite.  
+1. Fare clic su **Salva risorsa** per aggiungerla all'elenco di riproduzione personalizzato
+1. Ripetere questi passaggi, cercando o aggiungendo singole pagine, finché la playlist non è stata completata. 
+1. Fare clic su **Chiudi playlist** per salvare
+
+L'elenco di riproduzione con questo contenuto sarà ora disponibile ovunque sia stato installato/incorporato il WebPart di apprendimento personalizzato. 
+
+> [!NOTE]
+> Se si commette un errore dopo aver chiuso la playlist, è possibile eliminarla dalla categoria facendo clic sulla X accanto al nome della playlist.  
 
 #### <a name="things-to-think-about"></a>Aspetti da considerare
 
-Consente di riproduzione personalizzati per aiutare gli utenti finali in un vareity delle attività.  Si dispone di un modulo di richiesta assente?  Un modulo per richiedere apparecchiature hardware?  È possibile programmare le risorse di formazione esistente nell'esperienza.  
+Gli elenchi di riproduzione personalizzati possono essere utilizzati per assistere gli utenti finali in una vasta gamma di attività.  Si dispone di un modulo di richiesta di tempo di disattivazione?  Un modulo per richiedere apparecchiature hardware?  Tutte le risorse formative esistenti possono essere programmate nell'esperienza.  
+
+## <a name="share-playlists"></a>Condivisione di playlist
+
+1. Passare a una playlist all'interno di WebPart o di un'esperienza del sito
+1. Nell'angolo in alto a sinistra vengono visualizzate tre icone
+1. Fare clic sull'icona che rappresenta un collegamento
+1. Copiare l'URL nella playlist
+
+![Share. png](media/share.png) questo URL può ora essere inserito nella struttura di spostamento del sito o utilizzato in altre comunicazioni per portare i dipendenti direttamente a quella playlist. 
+
+### <a name="next-steps---drive-adoptiondriveadoptionmd"></a>Passaggi successivi: [adozione dell'unità](driveadoption.md)
