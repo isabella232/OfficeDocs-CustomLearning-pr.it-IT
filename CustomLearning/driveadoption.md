@@ -1,39 +1,39 @@
 ---
-titolo: ''
-ms.openlocfilehash: 9334a7aa5221f9c3321fe7c33038f1e096b1503e
-ms.sourcegitcommit: 2d9b688171432fdf15c805f2abc415bb115d97d7
+title: ''
+ms.openlocfilehash: eb54031872eb5dcf0c405385c1abd84b2b4bdf50
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/11/2019
-ms.locfileid: "29886099"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30522970"
 ---
-# <a name="drive-adoption-of-your-learning-portal"></a>Stimolarne l'adozione del portale di apprendimento
+# <a name="drive-adoption-of-your-learning-portal"></a>Unità di adozione del portale di apprendimento
 
-Unità adozione della propria esperienza di apprendimento personalizzato con questi passaggi semplici e strumenti. 
+Guidare l'adozione delle esperienze di apprendimento personalizzate con questi semplici passaggi e strumenti. 
 
-È presente che le soluzioni di formazione solo a quanto previsto l'utilizzo che riceveranno all'interno dell'organizzazione.  Per tale motivo abbiamo creato questi passaggi semplici e modelli che consentono la consapevolezza delle unità e adozione gli strumenti. Iniziare con la procedura seguente dopo aver configurato il modello di sito nell'ambiente SharePoint Online.
+Si capisce che le soluzioni formative sono valide solo per l'utilizzo che ricevono nell'organizzazione.  Questo è il motivo per cui sono stati creati questi semplici passaggi e modelli che consentono di guidare la consapevolezza e l'adozione degli strumenti. Iniziare con questi passaggi dopo aver configurato il modello di sito nell'ambiente di SharePoint Online.
 
-Scarica il [kit di avvio](/embeds/custom_learning_launch_kit.zip) per stampare e registrare i volantini e poster.  Modificare e inviare il messaggio di posta elettronica avvio ai propri dipendenti per concedere 3 semplici passaggi introduttiva all'utilizzo del portale.  
+Scarica il nostro kit di lancio per stampare e pubblicare i volantini e i poster.  Modificare e inviare il messaggio di posta elettronica di avvio ai dipendenti per fornire loro 3 semplici passaggi per iniziare a usare il portale.  
 
 > [!NOTE]
-> È necessario modificare il lancio della posta elettronica in modo da includere l'indirizzo corretto web (URL) per l'installazione del portale apprendimento personalizzato.
+> Sarà necessario modificare il messaggio di posta elettronica di avvio per includere l'indirizzo Web appropriato (URL) per l'installazione specifica del portale di apprendimento personalizzato.
 
-Le procedure consigliate seguenti consentono di aumentare dell'utilizzo del sito nell'organizzazione.  
+Le procedure consigliate riportate di seguito consentono di migliorare l'utilizzo del sito nell'organizzazione.  
 
-## <a name="connect-learning-to-other-business-outcomes"></a>Connettersi all'apprendimento per altri risultati di business
+## <a name="connect-learning-to-other-business-outcomes"></a>Connettere l'apprendimento ad altri risultati aziendali
 
-Sarà necessario ottenere risultati ottimali quando il lancio dell'esperienza di apprendimento personalizzato è incorporato in altri progetti di aggiornamento o la distribuzione del servizio.  I dipendenti si otterrà un motivo chiaro per visitare il sito.  Distribuzione di Microsoft Teams o un aggiornamento di SharePoint Online, potrebbero essere esempi.  È possibile includere frasi come:
+Quando il lancio dell'esperienza di apprendimento personalizzato è incluso in qualsiasi altro progetto di distribuzione o aggiornamento del servizio, si avranno i risultati migliori.  Ciò consentirà ai dipendenti di visitare il sito.  Esempi potrebbe essere un aggiornamento di SharePoint Online o la distribuzione di Microsoft teams.  È possibile includere frasi come:
 
-"Per conoscere ulteriori suggerimenti rapidi <Insert service name here> visitare il portale di apprendimento personalizzato per Office 365." 
+"Per ulteriori suggerimenti rapidi su <Insert service name here> come visitare il nostro portale di apprendimento personalizzato per Office 365". 
 
-## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Allinea il sito di formazione per gli investimenti nei dipendenti di apprendimento 
+## <a name="align-the-training-site-to-investments-in-your-employee-learning"></a>Allineare il sito di formazione agli investimenti nell'apprendimento dei dipendenti 
 
-Lavorare con il team di risorse umane per allineare il lancio del portale di formazione con eventuali altre iniziative di formazione dei dipendenti implementate nell'azienda. 
+Collaborare con il team delle risorse umane per allineare il lancio del portale di formazione con qualsiasi altra iniziativa di formazione dei dipendenti in fase di implementazione nella propria azienda. 
 
-## <a name="join-the-driving-adoption-community"></a>Partecipa alla community che gestisce l'adozione
+## <a name="join-the-driving-adoption-community"></a>Join the driving adOption community
 
-Condividere l'esperienza dell'utente con il portale di apprendimento la nostra community che gestisce l'adozione online.  Trovaci in https://aka.ms/DriveAdoption.
+Condividere la propria esperienza con il portale di apprendimento nella community di guida all'adozione online.  Trovaci all' https://aka.ms/DriveAdoptionindirizzo.
 
-## <a name="give-us-feedback"></a>Invio di commenti e suggerimenti
+## <a name="give-us-feedback"></a>Invia commenti e suggerimenti
 
-Sono richieste di nuove funzionalità o contenuto nel portale di apprendimento personalizzato?  Visitare il nostro UserVoice online dove è possibile votare per suggerimenti esistenti o aggiungere il proprio.  Individuare il nostro istanza UserVoice in https://aka.ms/AdoptionTools.
+Sono richieste nuove funzionalità o contenuti nel portale di apprendimento personalizzato?  Visitate la nostra UserVoice online dove è possibile votare per i suggerimenti esistenti o aggiungere il proprio.  Individuare l'istanza di UserVoice https://aka.ms/AdoptionToolsin.

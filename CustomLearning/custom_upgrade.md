@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aggiornamento di apprendimento personalizzato
 ms.date: 02/10/2019
 description: Installazione di Web part manuale per l'apprendimento personalizzato per Office 365
-ms.openlocfilehash: f9729c922b374cc6b775737fa7c7c76a4719534c
-ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
+ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30411896"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523071"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Aggiornamento manuale per l'apprendimento personalizzato
 
@@ -102,12 +102,11 @@ Con i miglioramenti apportati alla nuova Web part, il collegamento a una playlis
 Per garantire il corretto funzionamento delle playlist, è necessario ricreare tutte le playlist create con la versione precedente della web part. Prima di eliminare le playlist, creare un elenco di elenchi di riproduzione personalizzati e risorse associate in modo da poterli ricreare facilmente tramite la nuova Web part di apprendimento personalizzato. Creare una copia di una playlist e quindi eliminarla. È possibile utilizzare il campo JSONData per creare una copia del contenuto di una playlist prima di eliminarla. In questo modo sarà più facile creare in un secondo momento.
 
 
-• Dal sito di apprendimento personalizzato, fare clic su impostazioni > contenuto del sito. • Selezionare una playlist, selezionare i puntini di ellisse, selezionare modifica, quindi copiare il contenuto del campo JSONData e salvarlo in blocco note o in un documento separato per riferimenti successivi. Selezionare Annulla.
-• Selezionare la playlist, selezionare i puntini di ellisse e quindi scegliere Elimina.
-• È ora possibile ricreare la playlist con la nuova Web part.
-Per istruzioni sull'utilizzo della nuova Web part apprendimento personalizzato per Office 365, vedere https://docs.microsoft.com/en-us/office365/customlearning/custom_overview.
-
-## <a name="step-8---chan"></a>Passaggio 8-Chan
+1. Dal sito di apprendimento personalizzato, fare clic su **Impostazioni** > **contenuto del sito**. 
+2. Selezionare una playlist, selezionare i puntini di ellisse, selezionare **modifica**e quindi copiare il contenuto del campo **JSONData** e salvarlo in blocco note o in un documento separato per riferimenti successivi. Selezionare **Annulla**.
+3. Selezionare la playlist, selezionare i puntini di ellisse e quindi scegliere **Elimina**.
+4. È ora possibile ricreare la playlist con la nuova Web part.
+Per istruzioni sull'utilizzo della web part apprendimento personalizzato per Office 365, vedere [Customize the Learning Experience (custom_overview. MD).
 
 ### <a name="next-steps"></a>Operazioni successive
 - [Personalizzare](custom_overview.md) l'esperienza di formazione per l'organizzazione.

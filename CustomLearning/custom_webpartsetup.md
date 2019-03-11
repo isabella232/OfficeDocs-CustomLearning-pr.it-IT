@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: ProVisioning del sito di apprendimento personalizzato
 ms.date: 02/10/2019
 description: ProVisioning del sito di apprendimento personalizzato per Office 365 tramite il motore di provisioning di SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
+ms.openlocfilehash: 83d76d2d12e9dfc0f39ef55c58443cb3fda2a2d9
 ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523050"
+ms.locfileid: "30523598"
 ---
-# <a name="provision-custom-learning"></a>ProVisioning dell'apprendimento personalizzato 
+# <a name="provision-custom-learning"></a>ProVisioning dell'apprendimento personalizzato
 
 Con il servizio di provisioning di SharePoint Online, un amministratore del tenant di Office 365 può avviare il processo di provisioning con alcuni semplici clic. Il servizio di provisioning è il modo consigliato per eseguire il provisioning dell'apprendimento personalizzato. È veloce, semplice e richiede solo alcuni minuti per iniziare il processo. Prima di iniziare a usare il servizio di provisioning, accertarsi di aver soddisfatto i prerequisiti per il provisioning.
 
@@ -47,27 +47,24 @@ Per configurare correttamente l'apprendimento personalizzato con il servizio di 
 
 ![inst_options. png](media/inst_options.png)
 
-6. Selezionare **** provisioning quando si è pronti per installare l'apprendimento personalizzato nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica di notifica immesso nella pagina di provisioning) quando il sito è pronto per l'accesso. 
+6. Selezionare **** provisioning quando si è pronti per installare l'apprendimento personalizzato nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica di notifica immesso nella pagina di provisioning) quando il sito è pronto per l'accesso.
 
 > [!IMPORTANT]
 > L'amministratore tenant che effettua il provisioning del sito di apprendimento personalizzato deve passare al sito e quindi aprire CustomLearningAdmin. aspx per inizializzare le proprietà di amministratore di apprendimento personalizzate. A questo punto, l'amministratore del tenant deve anche assegnare i proprietari al sito. 
 
-## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ConValidare il provisioning di esito positivo e inizializzare l'elenco CustomConfig
+## <a name="validate-provisioning-success"></a>ConValidare il completamento del provisioning
 
-Al termine del provisioning, l'amministratore del tenant che ha eseguito il provisioning del sito riceve un messaggio di posta elettronica dal servizio di provisioning PnP. Il messaggio di posta elettronica contiene un collegamento al sito. A questo punto, l'amministratore del tenant deve passare al sito utilizzando il collegamento fornito nel messaggio di posta elettronica e configurare il sito per il primo utilizzo:
-
-1. Passare a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'apertura di **CustomLearningAdmin. aspx** consente di inizializzare l'elemento di elenco **CustomConfig** che configura l'apprendimento personalizzato per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
-
-![CG-adminapppage. png](media/cg-adminapppage.png)
+Al termine del provisioning, l'amministratore del tenant riceve un messaggio di posta elettronica dal servizio di provisioning PnP. L'amministratore può copiare il collegamento al sito fornito nel messaggio di posta elettronica e quindi seguire le istruzioni per accedere al sito. In alternativa, l'amministratore del tenant può accedere a <YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin. aspx. Questo consente di inizializzare l'elemento di elenco CustomConfig che configura l'apprendimento personalizzato per il primo utilizzo. La persona che apre per la prima volta questa pagina deve essere un amministratore del tenant, un amministratore della raccolta siti o un proprietario del sito. Dovrebbe essere visualizzata una pagina simile alla seguente: 
 
 ## <a name="add-owners-to-site"></a>Aggiungere proprietari al sito
-Come amministratore del tenant, è improbabile che tu sia la persona che Personalizza il sito, quindi dovrai assegnare alcuni proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rimarcare il sito. Sono inoltre in grado di nascondere e visualizzare i contenuti forniti tramite la Web part di apprendimento personalizzata. Inoltre, avranno la possibilità di creare playlist personalizzate e assegnarle a sottocategorie personalizzate.  
+Come amministratore del tenant, è improbabile che tu sia la persona che Personalizza il sito, quindi sarà necessario assegnare i proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rimarcare il sito. Sono inoltre in grado di nascondere e visualizzare i contenuti forniti tramite la Web part di apprendimento personalizzata. Avranno anche la possibilità di creare playlist personalizzate e assegnarle a sottocategorie personalizzate.  
 
 1. Scegliere **autorizzazioni sito**dal menu **Impostazioni** di SharePoint.
 2. Fare clic su **Impostazioni avanzate di autorizzazione**.
 3. Fare clic su **apprendimento personalizzato per i proprietari di Office 365**.
-4. Fare clic su **nuovo** > **Aggiungi utenti a questo gruppo**e quindi aggiungere le persone che si desidera siano proprietari. 
-5. Aggiungere un collegamento per [esplorare il sito](https://docs.microsoft.com/en-us/Office365/CustomLearning/custom_explore) nel messaggio di condivisione e quindi fare clic su **Condividi**.
+4. Fare clic su **nuovo** > **Aggiungi utenti a questo gruppo**, aggiungere le persone che si desidera siano proprietari e quindi fare clic su **Condividi**.
+
+8. Fare clic sull'opzione **seguente** nell'angolo in alto a destra della pagina per seguire il sito.  
 
 ### <a name="next-steps"></a>Operazioni successive
-- Esaminare il [contenuto predefinito](custom_exploresite.md) fornito nel sito e nella web part.
+- Esaminare il [contenuto predefinito](sitecontent.md) incluso in WebPart.

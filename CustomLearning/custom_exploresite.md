@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Esplorare il sito e il contenuto predefinito
 ms.date: 02/10/2019
 description: Esplorare il sito di apprendimento personalizzato e il contenuto predefinito
-ms.openlocfilehash: c575afbe566100f8873ce1a174b7f389019c8daf
-ms.sourcegitcommit: c358dcc2d69cc3db8fd24a1011550edebe0721fe
+ms.openlocfilehash: 1dc8a0e27cad6843799ec4dfed3c324327c20741
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 03/10/2019
-ms.locfileid: "30518173"
+ms.locfileid: "30523040"
 ---
 # <a name="explore-the-custom-learning-site"></a>Esplorare il sito di apprendimento personalizzato
 
@@ -19,7 +19,7 @@ ms.locfileid: "30518173"
 
 1.  Aprire il Web browser e accedere a office.com o al percorso di accesso dell'organizzazione. 
 2.  Accedere con il nome utente e la password.
-3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore tenant oppure selezionare SharePoint dalla Home page di Office 365. 
+3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito. 
 
 ![CG-Introducing. png](media/cg-introducing.png)
 

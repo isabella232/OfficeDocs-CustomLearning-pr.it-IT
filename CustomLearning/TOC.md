@@ -1,7 +1,7 @@
 # [Introduzione](index.md)
 ## [Opzioni di installazione di apprendimento personalizzate](custom_setupoptions.md)
 ## [ProVisioning dell'apprendimento personalizzato](custom_provision.md)
-## [Esplorare il sito di apprendimento personalizzato](sitecontent.md)
+## [Esplorare il sito di apprendimento personalizzato](custom_exploresite.md)
 ## [Configurazione della web part autonoma](custom_manualsetup.md)
 # [Personalizzare l'esperienza di apprendimento](custom_overview.md)
 ## [Accedere al sito di apprendimento personalizzato](custom_goto.md)
@@ -22,5 +22,6 @@
 # [Adozione di unità](driveadoption.md)
 # [Commenti e suggerimenti](feedback.md)
 # [Domande frequenti](faq.md)
+# [Domande frequenti sui partner](custom_partner.md)
 # [Aggiornamento manuale per l'apprendimento personalizzato](custom_upgrade.md)
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Panoramica
 ms.date: 02/18/2019
 description: Panoramica dell'apprendimento personalizzato per Office 365 per gli amministratori
-ms.openlocfilehash: 98187038b66252523c74d88dd9bfd0f217591bc5
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: 6aee3a93a5109b37e43a7118bd98ca31e8b9ac1f
+ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30087535"
+ms.lasthandoff: 03/10/2019
+ms.locfileid: "30523020"
 ---
 # <a name="customize-the-learning-experience"></a>Personalizzare l'esperienza di apprendimento
 
@@ -32,20 +32,23 @@ L'apprendimento personalizzato per Office 365 (apprendimento personalizzato per 
 
 ## <a name="requirements-and-permissions"></a>Requisiti e autorizzazioni
 
-Prima di iniziare a usare questa guida, assicurarsi che l'apprendimento personalizzato sia stato configurato dall'amministratore del tenant di SharePoint. Se non si è certi che sia stata configurata, rivolgersi all'amministratore tenant di SharePoint per verificare che l'apprendimento personalizzato sia stato installato. Assicurarsi inoltre di ottenere l'URL del sito di SharePoint di apprendimento personalizzato. Se l'amministratore tenant e l'apprendimento personalizzato non sono stati installati, vedere la Guida all'installazione di apprendimento personalizzato per Office 365. 
+Prima di iniziare a usare questa guida, assicurarsi che l'apprendimento personalizzato sia stato configurato dall'amministratore del tenant di SharePoint. Se non si è certi che sia stata configurata, contattare l'amministratore tenant di SharePoint per verificare che sia stato effettuato il provisioning dell'apprendimento personalizzato. Assicurarsi inoltre di ottenere l'URL del sito di SharePoint di apprendimento personalizzato. Se si è l'amministratore tenant e non è stato effettuato il provisioning dell'apprendimento personalizzato, vedere [provision Custom Learning](custom_provision.md). 
 
-### <a name="permissions-to-install-custom-learning"></a>Autorizzazioni per l'installazione di apprendimento personalizzato
+### <a name="permissions-to-provision-custom-learning"></a>Autorizzazioni per il provisioning dell'apprendimento personalizzato
 
-- Amministratore globale di Office 365
-- Amministratore di SharePoint
+- Amministratore tenant, noto anche come amministratore globale di Office 365
+- Amministratore di raccolta siti di SharePoint con autorizzazioni proprietario nel sito
 
 ### <a name="permissions-to-use-custom-learning-administration-features"></a>Autorizzazioni per l'utilizzo delle funzionalità di amministrazione dell'apprendimento personalizzate
 
-- Autorizzazioni di Office 365 SharePoint Administrator/Owner del sito di SharePoint
-- Autorizzazioni dell'amministratore di raccolta siti di SharePoint/proprietario del sito di SharePoint
+- Amministratori delle raccolte siti
+- Autorizzazioni proprietario o membro di SharePoint
 
 ### <a name="permissions-to-use-the-custom-learning-site-as-a-user"></a>Autorizzazioni per l'utilizzo del sito di apprendimento personalizzato come utente
 
 - Autorizzazioni utente di Office 365/autorizzazioni per i visitatori del sito di SharePoint o versioni successive
 
+## <a name="get-started-with-customization"></a>Introduzione alla personalizzazione
+Dopo aver ottenuto le autorizzazioni necessarie per personalizzare il sito e la Web part, è ora di iniziare a utilizzare il processo di personalizzazione. 
 
+- Per iniziare, vedere [andare al sito di apprendimento personalizzato](custom_goto.md).
