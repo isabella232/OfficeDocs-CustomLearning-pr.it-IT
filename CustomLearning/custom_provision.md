@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: ProVisioning del sito di apprendimento personalizzato
 ms.date: 02/10/2019
 description: ProVisioning del sito di apprendimento personalizzato per Office 365 tramite il motore di provisioning di SharePoint
-ms.openlocfilehash: 9b51bc284560e391b1fb81a34feb3cc2f5901bd2
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 8fd6aa71aac7e0688e4c100c6ea40beabce5da73
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523050"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543756"
 ---
 # <a name="provision-custom-learning"></a>ProVisioning dell'apprendimento personalizzato 
 
@@ -17,9 +17,9 @@ Con il servizio di provisioning di SharePoint Online, un amministratore del tena
 
 ## <a name="prerequisites"></a>Prerequisiti
  
-Per configurare correttamente l'apprendimento personalizzato con il servizio di provisioning del servizio di provisioning di [SharePoint Online](https://provisioning.sharepointpnp.com), la persona che effettua il provisioning deve soddisfare i requisiti seguenti: 
+Per configurare correttamente l'apprendimento personalizzato con il servizio di provisioning, la persona che effettua il provisioning deve soddisfare i requisiti seguenti: 
  
-- La persona che esegue il provisioning dell'apprendimento personalizzato deve essere un tenant Administratorof il tenant in cui verrà eseguito il provisioning dell'apprendimento personalizzato.  
+- L'apprendimento personalizzato del provisioning di persona deve essere un amministratore tenant del tenant in cui verrà eseguito il provisioning dell'apprendimento personalizzato.  
 - Un catalogo app tenant deve essere disponibile all'interno dell'opzione Apps dell'interfaccia di amministrazione di SharePoint. Se nell'organizzazione non è presente un catalogo delle app di SharePoint tenant, fare riferimento alla [documentazione di SharePoint Online](https://docs.microsoft.com/en-us/sharepoint/use-app-catalog) per crearne uno.  
 - Il provisioning personalizzato dell'utente deve essere un proprietario della raccolta siti del catalogo app tenant. Se la persona che provisioning Custom Learning non è un proprietario della raccolta siti del catalogo app, [completare queste istruzioni](addappadmin.md) e continuare. 
 
@@ -33,11 +33,11 @@ Per configurare correttamente l'apprendimento personalizzato con il servizio di 
 
 ![in](media/inst_perms.png)
 
-3. Selezionare **apprendimento personalizzato per Office 365** dalla raccolta soluzioni.
+3. Scorrere verso il basso la pagina, selezionare la scheda **soluzioni** , quindi selezionare **apprendimento personalizzato per Office 365**. 
 
 ![in](media/inst_select.png)
 
-4. Nella Home page della soluzione selezionare **Aggiungi al tenant**
+4. Selezionare **Aggiungi al tenant**
 
 ![inst_select. png](media/inst_add.png)
 
@@ -50,7 +50,7 @@ Per configurare correttamente l'apprendimento personalizzato con il servizio di 
 6. Selezionare **** provisioning quando si è pronti per installare l'apprendimento personalizzato nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica di notifica immesso nella pagina di provisioning) quando il sito è pronto per l'accesso. 
 
 > [!IMPORTANT]
-> L'amministratore tenant che effettua il provisioning del sito di apprendimento personalizzato deve passare al sito e quindi aprire CustomLearningAdmin. aspx per inizializzare le proprietà di amministratore di apprendimento personalizzate. A questo punto, l'amministratore del tenant deve anche assegnare i proprietari al sito. 
+> L'amministratore tenant che effettua il provisioning del sito di apprendimento personalizzato deve passare al sito e quindi aprire **CustomLearningAdmin. aspx** per inizializzare le proprietà di amministratore di apprendimento personalizzate. A questo punto, l'amministratore del tenant deve anche assegnare i proprietari al sito. 
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ConValidare il provisioning di esito positivo e inizializzare l'elenco CustomConfig
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aggiornamento di apprendimento personalizzato
 ms.date: 02/10/2019
 description: Installazione di Web part manuale per l'apprendimento personalizzato per Office 365
-ms.openlocfilehash: 72ac6f7a135697b816f2decbf010ec439562598f
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
+ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523071"
+ms.lasthandoff: 03/12/2019
+ms.locfileid: "30543776"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Aggiornamento manuale per l'apprendimento personalizzato
 
@@ -45,7 +45,12 @@ Per configurare l'apprendimento personalizzato per Office 365, caricare il file 
 5. Nella cartella in cui è stato salvato il file ZIP, selezionare la cartella **WebPart** , quindi selezionare **customlearning. sppkg.**
 6. Fare clic su **Distribuisci**.
 
-## <a name="step-5--execute-powershell-configuration-script"></a>Passaggio 5-esecuzione dello script di configurazione di PowerShell
+## <a name="step-3---add-the-custom-learning-for-office-365-app-to-the-site"></a>Passaggio 3: aggiungere l'app per l'apprendimento personalizzato per Office 365 al sito
+
+1. Dal sito di SharePoint, fare clic sul menu System, quindi fare clic su **Aggiungi un'app**. 
+2. Nelle **app**fare clic **dall'organizzazione**e quindi fare clic su **apprendimento personalizzato per Office 365**. 
+
+## <a name="step-4---execute-powershell-configuration-script"></a>Passaggio 4-esecuzione dello script di configurazione di PowerShell
 Uno script `CustomLearningConfiguration.ps1` di PowerShell è incluso nel download zip da GitHub. È necessario eseguire lo script per creare tre [Proprietà tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) utilizzate dalla soluzione. Lo script consente inoltre di creare due [pagine dell'applicazione di una singola parte](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) nella raccolta pagine del sito per ospitare l'amministratore e le web part dell'utente in una posizione nota. Queste pagine dell'app sono:
 
 - CustomAdministration. aspx
@@ -57,18 +62,10 @@ Uno script `CustomLearningConfiguration.ps1` di PowerShell è incluso nel downlo
 ### <a name="disabling-telemetry-collection"></a>Disabilitazione della raccolta di telemetria
 L'apprendimento personalizzato include la verifica della telemetria di anonimi opt-in, che per impostazione predefinita è impostata su attivato. Se si desidera disattivare la verifica della telemetria, modificare lo `CustomlearningConfiguration.ps1` script per impostare la `$optInTelemetry` variabile su. `$false`
 
-## <a name="step-6---initialize-web-part-custom-configuration"></a>Passaggio 6-inizializzare la configurazione personalizzata della web part
+## <a name="step-5---initialize-web-part-custom-configuration"></a>Passaggio 5-inizializzare la configurazione personalizzata della web part
 Dopo che lo script di PowerShell è stato eseguito correttamente `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`, accedere a. L'apertura di **CustomLearningAdmin. aspx** consente di inizializzare l'elemento di elenco **CustomConfig** che configura l'apprendimento personalizzato per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
-
-## <a name="add-owners-to-site"></a>Aggiungere proprietari al sito
-Come amministratore del tenant, è improbabile che tu sia la persona che Personalizza il sito, quindi dovrai assegnare alcuni proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rimarcare il sito. Sono inoltre in grado di nascondere e visualizzare i contenuti forniti tramite la Web part di apprendimento personalizzata. Avranno anche la possibilità di creare playlist personalizzate e assegnarle a sottocategorie personalizzate.  
-
-1. Scegliere **autorizzazioni sito**dal menu **Impostazioni** di SharePoint.
-2. Fare clic su **Impostazioni avanzate di autorizzazione**.
-3. Fare clic su **apprendimento personalizzato per i proprietari di Office 365**.
-4. Fare clic su **nuovo** > **Aggiungi utenti a questo gruppo**, aggiungere le persone che si desidera siano proprietari e quindi fare clic su **Condividi**.
 
 L'aggiornamento è stato completato. Per ulteriori informazioni su come personalizzare il sito di apprendimento personalizzato e la Web part per l'ambiente in uso, vedere [Customize the Training Experience](custom_overview.md).
 
