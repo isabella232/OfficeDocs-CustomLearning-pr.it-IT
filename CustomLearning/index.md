@@ -7,20 +7,18 @@ description: Informazioni su come l'apprendimento personalizzato per Office 365 
 ---
 
 # <a name="custom-learning-for-office-365"></a>Apprendimento personalizzato per Office 365
-
-> [!NOTE]
-> L'apprendimento personalizzato è attualmente in fase di testing interno e non ancora disponibile pubblicamente. 
-
-## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 L'apprendimento personalizzato per Office 365 (apprendimento personalizzato) è una soluzione di formazione su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione di Office 365 in un'organizzazione. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
 L'apprendimento personalizzato per Office 365 offre:
+
 - **Un sito di comunicazione SharePoint Online completamente personalizzabile** , formalmente noto come Toolkit per il lavoro di squadra, il portale di formazione per l'apprendimento personalizzato può essere personalizzato per aggiungere il contenuto della guida, del supporto e della community dell'organizzazione.
 - **ProvisionIng semplice** -provisioning di apprendimento personalizzato dal servizio di provisionIng di SharePoint Online con pochi semplici passaggi
 - **La possibilità di creare playlist di formazione** personalizzate, con l'apprendimento personalizzato, è possibile creare playlist di formazione mirate per soddisfare le esigenze specifiche dell'ambiente.
 - **Contenuto** aggiornato: l'apprendimento personalizzato fornisce contenuti tramite un catalogo di contenuto Microsoft online, in modo che il contenuto del sito venga regolarmente aggiornata
+
+![CG-Introducing. png](media/cg-introducing.png)
 
 ## <a name="custom-learning-components"></a>Componenti di apprendimento personalizzati
 L'apprendimento personalizzato per Office 365 è costituito da tre parti: 
