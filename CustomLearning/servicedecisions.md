@@ -4,16 +4,16 @@ ms.author: karuanag
 title: Presupposti e decisioni
 ms.date: 02/10/2019
 description: Decisioni e informazioni prerequisite per l'installazione e la configurazione di apprendimento personalizzato
-ms.openlocfilehash: b498ba308a87cad7000a041676feeac44326d327
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.openlocfilehash: b7864d13e6ccd9c3b41e445ea491aed3b3471aff
+ms.sourcegitcommit: b6617bbbaee0784d6216e96052c2469f97cf51e9
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989707"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30408837"
 ---
 ## <a name="service-decisions"></a>Decisioni relative al servizio
 
-Una volta soddisfatti i prerequisiti e prima dell'installazione, è consigliabile prendere le decisioni seguenti in merito alla propria implementazione di CLO365:
+Dopo aver verificato che i prerequisiti per l'apprendimento personalizzato siano stati soddisfatti, è necessario prendere le decisioni seguenti in merito alla propria implementazione di apprendimento personalizzato:
 
 1. **Si dispone già di un portale di formazione nella propria azienda con un'interfaccia moderna?**
 
