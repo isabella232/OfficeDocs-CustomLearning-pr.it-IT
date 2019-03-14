@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Configurazione della web part autonoma
 ms.date: 02/10/2019
 description: Installazione di Web part manuale per l'apprendimento personalizzato per Office 365
-ms.openlocfilehash: c4f5d4c006d5f890428f8c49bf70ce0d41a6874f
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 8bf6292518c36eda74a49f9968c8e0559fcf8320
+ms.sourcegitcommit: 5ea8d7fdc255ef7de06f41b3c794bc40551cf5bb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543746"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30577852"
 ---
 # <a name="stand-alone-web-part-setup"></a>Configurazione della web part autonoma
 
@@ -58,10 +58,12 @@ Verificare che siano impostate le autorizzazioni seguenti per il sito:
 ## <a name="step-6--execute-powershell-configuration-script"></a>Passaggio 6-eseguire lo script di configurazione di PowerShell
 È incluso uno `CustomLearningConfiguration.ps1` script di PowerShell che sarà necessario eseguire per creare tre [Proprietà tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/tenant-properties) utilizzate dalla soluzione. Lo script consente inoltre di creare due pagine dell'applicazione di una [singola parte](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/single-part-app-pages) nella raccolta pagine del sito per ospitare l'amministratore e le web part dell'utente in una posizione nota.
 
-### <a name="disabling-telemetry-collection"></a>Disabilitazione della raccolta di telemetria
-Parte di questa soluzione include la verifica della telemetria di anonimi opt-in, che per impostazione predefinita è impostata su attivato. Se si sta eseguendo un'installazione manuale e si desidera disattivare la verifica della telemetria, modificare lo `CustomlearningConfiguration.ps1` script per impostare la variabile $optInTelemetry su $false.
+1. Se non è stato ancora scaricato SharePoint Online Management Shell, scaricarlo subito. Vedere [download di SharePoint Online Management Shell](https://go.microsoft.com/fwlink/p/?LinkId=255251).
+2. Potrebbe essere necessario impostare un criterio di esecuzione di PowerShell per eseguire lo script. Per ulteriori informazioni, vedere [informazioni sui criteri di esecuzione](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+3. Eseguire lo `CustomLearningConfiguration.ps1` script. Oltre alle credenziali di amministratore tenant, lo script richiederà il nome del tenant e il nome del sito. Considerando l'esempio seguente relativo all'URL del sito `https://contoso.sharepoint.com/sites/O365CL`, `contoso` è il nome del tenant `O365CL` ed è il nome del sito. 
 
-Se non si esegue un'installazione manuale e si desidera disattivare la verifica della telemetria, è stato incluso `TelemetryOptOut.ps1` uno script separato che, quando l'esecuzione disattiverà la traccia di telemetria.
+### <a name="disabling-telemetry-collection"></a>Disabilitazione della raccolta di telemetria
+Parte di questa soluzione include la verifica della telemetria di anonimi opt-in, che per impostazione predefinita è impostata su attivato. Se si sta eseguendo un'installazione manuale e si desidera disattivare la verifica della telemetria, modificare lo `CustomlearningConfiguration.ps1` script per impostare la variabile $optInTelemetry su $false ed eseguire lo script.
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>ConValidare il provisioning di esito positivo e inizializzare l'elenco CustomConfig
 
