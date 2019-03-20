@@ -20,26 +20,19 @@
 | 3/5/2019 | [Informazioni sulle pagine dell'applicazione di SharePoint](/Office365/CustomLearning/custom_apppages) | modificato |
 
 
-## <a name="week-of-february-04-2019"></a>Settimana del 4 febbraio 2019
+## <a name="week-of-march-11-2019"></a>Settimana dell'11 marzo 2019
 
 
 | Data di pubblicazione |Titolo dell'argomento | Modifica |
 |------|------------|--------|
-| 2/4/2019 | [# Giorno della vita con Office 365-Morning Coffee](/Office365/CustomLearning/ditl_coffee) | modificato |
-| 2/4/2019 | [# Day in the Life with Office 365-collaborazione con i colleghi](/Office365/CustomLearning/ditl_collab) | aggiunto |
-| 2/4/2019 | [# Giorno della vita con Office 365-sul tuo pendolarismo](/Office365/CustomLearning/ditl_commute) | aggiunto |
-| 2/4/2019 | [# Day in the Life with Office 365-Connecting across the Company](/Office365/CustomLearning/ditl_connect) | aggiunto |
-| 2/4/2019 | [# Giorno della vita con Office 365-riunione in ufficio](/Office365/CustomLearning/ditl_meeting) | aggiunto |
-| 2/4/2019 | [# Collegamenti utili per gli amministratori che utilizzano l'apprendimento personalizzato per Office 365](/Office365/CustomLearning/embeds/for_admins) | aggiunto |
-| 2/4/2019 | [Panoramica dell'apprendimento personalizzato per Office 365 da parte di Microsoft](/Office365/CustomLearning/index) | modificato |
-| 2/4/2019 | [# Champion Programme Best Practices-Service adOption Specialist](/Office365/CustomLearning/champ_education) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # Champion: raccogliere commenti e suggerimenti](/Office365/CustomLearning/champ_feedback) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # campione-trova campioni](/Office365/CustomLearning/champ_findthem) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # Champion](/Office365/CustomLearning/champ_getstarted) | aggiunto |
-| 2/4/2019 | [# Champion Programme Best Practices-Microsoft 365 Guida all'adozione dell'utente finale](/Office365/CustomLearning/champ_o365guide) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # Champion: Join the Office 365 Champions Program](/Office365/CustomLearning/champ_o365program) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # campione-guida per il mondo reale](/Office365/CustomLearning/champ_realworldguides) | aggiunto |
-| 2/4/2019 | [Procedure consigliate per il programma # Champion](/Office365/CustomLearning/champ_whyadopt) | aggiunto |
+| 3/11/2019 | [Configurazione della web part autonoma](/Office365/CustomLearning/custom_manualsetup) | modificato |
+| 3/11/2019 | [ProVisioning del sito di apprendimento personalizzato](/Office365/CustomLearning/custom_provision) | modificato |
+| 3/11/2019 | [Aggiornamento di apprendimento personalizzato](/Office365/CustomLearning/custom_upgrade) | modificato |
+| 3/11/2019 | [Domande frequenti per l'apprendimento personalizzato per le soluzioni di Office 365](/Office365/CustomLearning/faq) | modificato |
+| 3/12/2019 | [Panoramica della soluzione di apprendimento personalizzato per Office 365 Open Source](/Office365/CustomLearning/index) | modificato |
+| 3/13/2019 | [# Guidare l'adozione del portale di apprendimento personalizzato](/Office365/CustomLearning/driveadoption) | modificato |
+| 3/13/2019 | [ProVisioning del sito di apprendimento personalizzato](/Office365/CustomLearning/custom_provision) | modificato |
+| 3/13/2019 | [Configurazione della web part autonoma](/Office365/CustomLearning/custom_manualsetup) | modificato |
 
 
 ## <a name="week-of-february-11-2019"></a>Settimana dell'11 febbraio 2019
@@ -92,5 +85,5 @@
 | 2/19/2019 | [Nascondere e visualizzare la tecnologia](/Office365/CustomLearning/custom_hideshowtech) | aggiunto |
 | 2/19/2019 | [Collegamento a risorse di apprendimento personalizzate](/Office365/CustomLearning/custom_linking) | aggiunto |
 | 2/19/2019 | [Panoramica](/Office365/CustomLearning/custom_overview) | modificato |
-| 2/19/2019 | [Servizio di ricerca](/Office365/CustomLearning/custom_search) | aggiunto |
+| 2/19/2019 | [Ricerca](/Office365/CustomLearning/custom_search) | aggiunto |
 | 2/19/2019 | [Dove è la Web part apprendimento personalizzato](/Office365/CustomLearning/custom_whereiswebpart) | aggiunto |
