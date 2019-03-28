@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aggiornamento di apprendimento personalizzato
 ms.date: 02/10/2019
 description: Installazione di Web part manuale per l'apprendimento personalizzato per Office 365
-ms.openlocfilehash: 1dd9fd47b608a20ae0b1dc1937e48524547cc938
-ms.sourcegitcommit: c60ca83b784f36b6f41b56ac193f7d58c750984e
+ms.openlocfilehash: 107db753c5b235cccb48b5a2f4d036f7de9d5639
+ms.sourcegitcommit: c8c2bed48a1d3216618e7be368dda2855d1a0c14
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/12/2019
-ms.locfileid: "30543776"
+ms.lasthandoff: 03/28/2019
+ms.locfileid: "30936396"
 ---
 # <a name="manual-upgrade-for-custom-learning"></a>Aggiornamento manuale per l'apprendimento personalizzato
 
@@ -80,7 +80,7 @@ L'apprendimento personalizzato per Office 365 ha introdotto una serie di miglior
 1.  Dal sito di apprendimento personalizzato, fare clic su **Impostazioni**, quindi fare clic su ***Aggiungi una pagina**.
 2.  Fare clic **+** sull'icona nella pagina per aggiungere una Web part e quindi selezionare la Web part **apprendimento personalizzato per Office 365** . La pagina dovrebbe essere simile all'immagine seguente:
 
-[CG-adminapppage. png](media/cg-adminapppage.png)
+![CG-adminapppage. png](media/cg-adminapppage.png)
  
 ### <a name="replace-the-old-web-part-with-the-new-web-part"></a>Sostituire la Web part precedente con la nuova Web part
 Prima di sostituire la Web part di apprendimento personalizzato o di apportare modifiche al sito, è consigliabile leggere la documentazione [Personalizza l'esperienza di apprendimento](custom_overview.md) , in quanto spiega come utilizzare la nuova Web part. 
