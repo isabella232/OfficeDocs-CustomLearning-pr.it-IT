@@ -4,10 +4,15 @@ ms.author: pkrebs
 title: Panoramica della soluzione di apprendimento personalizzato per Office 365 Open Source
 ms.date: 02/10/2019
 description: Informazioni su come l'apprendimento personalizzato per Office 365 può accelerare l'utilizzo e l'adozione di Office 365 nell'organizzazione. Le soluzioni disponibili includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant di Office 365.
+ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/18/2019
+ms.locfileid: "31922510"
 ---
-
-# <a name="custom-learning-for-office-365"></a>Apprendimento personalizzato per Office 365
-L'apprendimento personalizzato per Office 365 (apprendimento personalizzato) è una soluzione di formazione su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione di Office 365 in un'organizzazione. 
+# <a name="custom-learning-for-office-365-beta-preview"></a>Apprendimento personalizzato per Office 365 Beta Preview
+L'apprendimento personalizzato per Office 365 Beta Preview è una soluzione di formazione su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione di Office 365 in un'organizzazione.  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
