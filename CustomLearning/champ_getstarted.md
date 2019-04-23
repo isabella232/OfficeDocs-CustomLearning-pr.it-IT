@@ -1,45 +1,45 @@
 ---
-titolo: ''
+title: ''
 ms.openlocfilehash: 0d5e92e85c686a97f0df10fbef222491ec317c60
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733777"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055392"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Stabilire Champions per l'adozione 
+# <a name="establish-champions-for-user-adoption"></a>Stabilire campioni per l'adozione degli utenti 
 
-Gestione delle modifiche dell'organizzazione è art di modifica del comportamento di un gruppo di persone assegnato. Esiste una grande quantità di science e di ricerca che supportano questa procedura. In questi articoli che verranno consentono di guidare l'adozione di servizi chiave che potrebbero causare di risultati di business nell'azienda.  Seguendo le procedure consigliate riduce il tempo per acquisire valore misurabili da Office 365.  
+La gestione dei cambiamenti organizzativi è l'arte di modificare il comportamento di un gruppo di persone mirato. Si tratta di una grande quantità di scienza e di ricerca che supportano questa pratica. In questi articoli viene illustrato come semplificare l'adozione di servizi chiave che porteranno a risultati aziendali nella propria azienda.  Seguendo le procedure consigliate, è possibile ridurre il tempo necessario per ottenere un valore misurabile da Office 365.  
 
-Un programma champions è una parte essenziale della Guida adozione. Questi influenzano nell'azienda fornisce che gran parte necessario il supporto e incoraggiare ai dipendenti che stanno adottando la nuova tecnologia. Esaminare queste pagine per ottenere informati sulla creazione di un piano di adozione e l'esecuzione di un'applicazione da specialisti. 
+Un programma di Champions è una parte essenziale della Guida all'adozione. Questi influenzatori dell'azienda offrono un supporto e un incoraggiamento tanto necessari ai dipendenti che adottano la nuova tecnologia. Esaminare queste pagine per ottenere informazioni sulla creazione di un piano di adozione e sull'esecuzione del proprio programma Champion. 
 
 > [!NOTE]
-> È possibile aggiornare o sostituire questo elenco di riproduzione con informazioni sul proprio programma per la Guida di riferimento all'interno dell'organizzazione.
+> È possibile aggiornare o sostituire questa playlist con informazioni sul proprio programma per il riferimento all'intera organizzazione.
 
-## <a name="who-are-champions-and-what-makes-them-tick"></a>Chi sono champions e che cosa rende dei segni di graduazione?
+## <a name="who-are-champions-and-what-makes-them-tick"></a>Chi sono i campioni e cosa li rende graduali?
 
-Champions non sono solo sulle quali renderli effettuare, ma anche nei confronti di condividere le proprie conoscenze e apprendere i collaboratori più soluzioni più efficaci. Champions sono entusiasti e spesso riesca con gli strumenti esistenti. Si forniscono win la sfida buzz watercooler!  
+I campioni non sono solo appassionati di ciò che fanno, ma sono anche entusiasti di condividere le proprie conoscenze e aiutare i colleghi a imparare soluzioni più efficaci. I campioni sono entusiasti e spesso frustrati con gli strumenti esistenti. Essi ti aiuteranno a vincere la sfida Watercooler Buzz!  
 
-È possibile, è importante champions ricompensa in modo significativo. Di seguito sono indicati alcuni suggerimenti:
+Riteniamo che sia importante premiare i campioni in modi significativi. Alcuni suggerimenti sono:
 
-- Consentire l'appartenenza al programma da specialisti per contribuire alla valutazione delle prestazioni dei dipendenti
-- Confermare il più adatti Champions con premi dei benefici facile e dipendenti di Office  
-- Coinvolgere le Champions grazie alla formazione continuativa e del contenuto che è possibile passare lungo ad altri dipendenti 
+- Consenti l'appartenenza al programma Champion per contribuire alla revisione delle prestazioni dei dipendenti
+- Riconoscere i campioni di maggior successo con premi di Office swag e vantaggi per i dipendenti  
+- Coinvolgere i campioni con la formazione e il contenuto in corso che possono passare insieme ad altri dipendenti 
 
-Personalità da specialisti non in genere partecipare a causa di questi premi, bensì perché vengono creati un'esperienza più significativa e misurabile per tali che contribuisce a soddisfazione dei dipendenti. 
+La personalità del campione solitamente non si impegna a causa di queste ricompense, ma invece perché crea un'esperienza più significativa e misurabile per loro che contribuisce alla soddisfazione dei dipendenti. 
 
-## <a name="why-are-champions-important"></a>Perché è importante champions? 
+## <a name="why-are-champions-important"></a>Perché i campioni sono importanti? 
 
-Apprendimento tramite colleghi è tra il metodo più efficace di apprendimento in un ambiente professionale. Champions offriranno inoltre l'adozione programma approfondite sui quali è e non funziona sulla distribuzione di servizio, il programma di formazione e sentimento generale relativi alle modifiche si stanno implementando.  
+L'apprendimento tramite i collaboratori è uno dei metodi di apprendimento più efficaci in un ambiente professionale. Champions fornirà anche al programma di adozione informazioni utili su ciò che è e non sta funzionando sulla distribuzione del servizio, sul programma di formazione e sul sentimento generale per quanto riguarda le modifiche che si stanno implementando.  
 
-![Percentuale di utilizzo utilità vs metodo di apprendimento](media/champstats.png)
+![Percentuale di utilizzo del metodo di apprendimento vs disponibilità](media/champstats.png)
 
-## <a name="how-will-champions-support-you"></a>Come Champions supporterà è?
+## <a name="how-will-champions-support-you"></a>In che modo i campioni vi sosterranno?
 
-Champions consente di ridurre il carico di lavoro delle risorse del team di progetto di base e facilitare la engagement di unità in tutta la Comunità. Essi verranno inoltre:
+I campioni contribuiranno a ridurre la pressione sulle risorse del team di progetto di base e a contribuire all'interazione in tutta la Comunità. Saranno inoltre:
 
-1. Creare il groundswell un interesse che l'adozione di miglioramento modi di lavorare di crescita
-1. Creare un cerchio di influenza tra i team
-1. Inserire i nuovi modi di lavorare vita on tra team
-1. Identificare le problematiche aziendali e le possibili soluzioni
-1. Inviare commenti e suggerimenti per il team di progetto e sponsor
+1. Creare il Groundswell un entusiasmo che cresce l'adozione di modi di lavorare migliorati
+1. Creare un circolo di influenza tra i team
+1. Portare i nuovi modi di lavorare la vita tra i team
+1. Identificare le sfide aziendali e le possibili soluzioni
+1. Fornire commenti e suggerimenti al team di progetto e ai garanti

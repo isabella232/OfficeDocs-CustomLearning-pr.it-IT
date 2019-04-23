@@ -5,11 +5,11 @@ title: Personalizzare e condividere playlist
 ms.date: 02/10/2019
 description: Creare playlist personalizzate dal contenuto esistente o dalle nuove pagine di SharePoint
 ms.openlocfilehash: d330b6e401c9020eb68877bc8a132350811a2f31
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "29989727"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056410"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizzare e condividere playlist
 
@@ -41,12 +41,14 @@ In questo esempio viene creata prima una pagina di SharePoint da aggiungere alla
 
 #### <a name="step-2-create-the-playlist"></a>Passaggio 2: creare la playlist
 
-1. Passare alla pagina di **amministrazione dell'apprendimento personalizzata** nell'esperienza del sito. ![custom_admin. png](media/custom_admin.png)
+1. Passare alla pagina di **amministrazione dell'apprendimento personalizzata** nell'esperienza del sito.
+![custom_admin. png](media/custom_admin.png)
 1. Verificare che la **categoria** sia selezionata 
 1. Fare clic sulla categoria in cui si desidera visualizzare la nuova playlist
 1. Accanto al nome della categoria, fare clic sul segno più ![custom_addplay. png](media/custom_addplay.png)
 
-1. Inserire i valori come illustrato nell'esempio riportato di seguito e selezionare **Crea**. ![custom_details. png](media/custom_details.png)
+1. Inserire i valori come illustrato nell'esempio riportato di seguito e selezionare **Crea**. 
+![custom_details. png](media/custom_details.png)
 - **Titolo** -nome visualizzato della playlist
 - **Descrizione** -informazioni su ciò che verrà imparato
 - **Categoria** -preselezionata in base alla selezione iniziale
@@ -65,7 +67,8 @@ In questo esempio viene creata prima una pagina di SharePoint da aggiungere alla
 In questo passaggio, si aggiungono le risorse esistenti da Microsoft e la pagina di SharePoint creata per la playlist. 
 
 1. Dopo aver salvato i dettagli per la playlist, è possibile utilizzare la ricerca per le risorse esistenti.
-1. **Immettere un termine di ricerca** per visualizzare un elenco di risorse predefinite che sono disponibili da altre playlist. **Fare clic sul nome** di una risorsa per includerla nella nuova playlist. ![custom_slist. png](media/custom_slist.png)
+1. **Immettere un termine di ricerca** per visualizzare un elenco di risorse predefinite che sono disponibili da altre playlist. **Fare clic sul nome** di una risorsa per includerla nella nuova playlist.
+![custom_slist. png](media/custom_slist.png)
 
 È inoltre possibile aggiungere la pagina di SharePoint creata in precedenza o crearne una da zero nell'esperienza.
 

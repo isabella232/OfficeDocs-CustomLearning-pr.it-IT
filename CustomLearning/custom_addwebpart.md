@@ -5,11 +5,11 @@ title: Aggiungere e modificare la Web part di apprendimento personalizzata
 ms.date: 02/17/2019
 description: Aggiungere la Web part di apprendimento personalizzato a una pagina di SharePoint
 ms.openlocfilehash: bfe74baadfc05b698f87865f9a628116d7b07e65
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103851"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055704"
 ---
 # <a name="add-and-edit-the-custom-learning-web-part"></a>Aggiungere e modificare la Web part di apprendimento personalizzata
 
@@ -41,4 +41,4 @@ L'apprendimento personalizzato offre la flessibilità necessaria per aggiungere 
 ## <a name="add-a-title-and-publish-the-page"></a>Aggiungere un titolo e pubblicare la pagina
 1. Nell'area titolo della pagina digitare "creare la propria esperienza".
 2. Fare clic sull'icona **Modifica web part** nell'area titolo, selezionare **normale** in **layout**e quindi chiudere il riquadro **Proprietà** .
-3. Fare clic su **pubblica**.
+3. Fare clic su **Pubblica**.

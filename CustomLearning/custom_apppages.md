@@ -5,11 +5,11 @@ title: Informazioni sulle pagine dell'applicazione di SharePoint
 ms.date: 02/15/2019
 description: Informazioni sulla funzionalità delle pagine dell'applicazione di SharePoint nell'apprendimento personalizzato
 ms.openlocfilehash: acf56defe57724267028bbb130071a070f82682d
-ms.sourcegitcommit: 3eca3a7083ea165b860237da34d1567154158681
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30412300"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055582"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Informazioni sulle pagine dell'applicazione di SharePoint
 

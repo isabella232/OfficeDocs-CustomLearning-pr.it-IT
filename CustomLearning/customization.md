@@ -5,11 +5,11 @@ title: Personalizzare l'esperienza di formazione
 ms.date: 02/10/2019
 description: Informazioni sulla varietà di personalizzazioni disponibili con l'apprendimento personalizzato per Office 365
 ms.openlocfilehash: fbb8e5861547f26a3b8419e11f89e5872aeb0b0c
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/25/2019
-ms.locfileid: "30059687"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056306"
 ---
 # <a name="customize-the-training-experience"></a>Personalizzare l'esperienza di formazione
 
@@ -40,13 +40,14 @@ Come punto di partenza per la personalizzazione del sito, selezionare fare doman
 
 1.  Passare alla pagina di amministrazione dell'apprendimento personalizzata nel sito ![Web custom_admin. png](media/custom_admin.png)
 1. Selezionare la **tecnologia** per visualizzare l'elenco completo dei servizi inclusi nella soluzione
-1. Selezionare una tecnologia e **fare clic sul simbolo dell'occhio** per nascondere questo contenuto.  Fare di nuovo clic sul simbolo dell'occhio per visualizzare il contenuto all'interno dell'esperienza. ![personalizzato](media/custom_techlist.png)
+1. Selezionare una tecnologia e **fare clic sul simbolo dell'occhio** per nascondere questo contenuto.  Fare di nuovo clic sul simbolo dell'occhio per visualizzare il contenuto all'interno dell'esperienza. 
+![personalizzato](media/custom_techlist.png)
 
 Lo stesso processo può essere ripetuto per le categorie di playlist all'interno dell'esperienza.  È sufficiente selezionare l'opzione categoria per visualizzare o nascondere le playlist. 
 
 ![custom_cat. png](media/custom_cat.png)
 
-### <a name="next-steps"></a>Passaggi successivi
+### <a name="next-steps"></a>Operazioni successive
 
 - [Personalizzare e condividere playlist](customplaylist.md)
 - [Adozione di unità](driveadoption.md) 

@@ -1,17 +1,17 @@
 ---
-titolo: ''
+title: ''
 ms.openlocfilehash: e59f93b61e6b9b53f214dd8815892ba8b80ec668
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733782"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056103"
 ---
-# <a name="meeting-at-the-office"></a>Riunioni in ufficio
+# <a name="meeting-at-the-office"></a>Riunione in ufficio
 
-![Dal lavoro visual](media/ditl_meeting.png)
+![Visualizzazione del pendolarismo](media/ditl_meeting.png)
 
-È 10:00 AM e l'ora per la riunione. In questa sezione viene illustrato rendere più produttivi le riunioni.  Comporta la procedure consigliate per la preparazione della riunione e gli strumenti di Office 365.  
+SONO 10:00 e ora per la riunione. In questa sezione viene illustrato come rendere più produttivi i propri meeting.  Si tratta di procedure consigliate per la preparazione di riunioni e gli strumenti di Office 365.  
 
 ## <a name="tools"></a>Strumenti
 - Outlook
@@ -20,47 +20,47 @@ ms.locfileid: "29733782"
 - OneNote
 
 ## <a name="checklist-for-your-meeting"></a>Elenco di controllo per la riunione
-- Pianificazione e le riunioni
+- Pianificare e prenotare la riunione
 - Partecipare a una riunione
 - Informazioni presenti in una riunione
-- Utilizzare per la creazione condivisa e note di OneNote in una riunione
-- Pianificazione di utilizzo in una riunione per tenere traccia delle attività per progetto
+- Utilizzare OneNote in una riunione per la creazione condivisa e le note
+- Utilizzare planner in una riunione per monitorare gli elementi di azione per il progetto
 - Terminare una riunione
  
-## <a name="plan-and-book-your-meeting"></a>Pianificazione e le riunioni
-Esistono alcune operazioni da eseguire per garantire che la riunione è il livello di produttività possibile:
+## <a name="plan-and-book-your-meeting"></a>Pianificare e prenotare la riunione
+È possibile eseguire alcune operazioni per garantire che la riunione sia quanto più possibile produttiva:
 
-1. **Necessità di una riunione?** Prendere in considerazione la condivisione di un file in chat con i revisori necessari prima.  
-1. **Avere una chiara agenda.**  Includere la agenda riunione nella sezione Note dell'invito alla riunione online in modo che i partecipanti possono essere preparati.
-1. **Record alla riunione**  Utilizzare le funzioni di registrazione delle riunioni in Teams Microsoft per condividere la riunione con persone che non è possono partecipare o trascrivere note sulla versione successiva.  
+1. **È necessaria una riunione?** Considerare la possibilità di condividere un file in chat con i responsabili approvazione necessari per primo.  
+1. **Avere un ordine del giorno chiaro.**  Includere l'agenda della riunione nella sezione Note dell'invito alla riunione online in modo che i partecipanti possano essere preparati.
+1. **Registrare la riunione**  Utilizzare le funzioni di registrazione delle riunioni in Microsoft teams per condividere la riunione con utenti che non sono stati in grado di partecipare o di trascrivere le note in un secondo momento.  
 
-A questo punto si è pronti per tale riunione del libro: libro alla riunione con Microsoft Teams o in dettaglio le Skype for Business in Outlook. Pur pertanto consente di includere i membri del team da posizioni diverse, registrare la riunione e utilizzare video (se disponibili) per migliorare la comunicazione. 
+A questo punto si è pronti per prenotare la riunione: prenotare la riunione con Microsoft teams o i dettagli di Skype for business in Outlook. In questo modo è possibile includere i membri del team in posizioni diverse, registrare la riunione e utilizzare video (se disponibile) per migliorare la comunicazione. 
 
-![Team di Outlook ](media/ditl_teamsoutlook.png)
+![Teams in Outlook ](media/ditl_teamsoutlook.png)
 
 ## <a name="join-a-meeting"></a>Partecipare a una riunione
-Partecipare da qualsiasi posizione. È possibile partecipare a una Teams Microsoft o Skype per le riunioni aziendali da qualsiasi posizione tramite un dispositivo mobile, è possibile chiamare il numero di accesso nei dettagli della riunione o utilizzando applicazioni per dispositivi mobili. Quando si utilizzano le applicazioni per dispositivi mobili, tenere conto dei limiti di utilizzo di dati per dispositivi mobili che si applicano all'utente o il proprio paese.
+Join da qualsiasi posizione. È possibile partecipare a una riunione di Microsoft teams o Skype for business da qualsiasi luogo tramite un dispositivo mobile, chiamando il numero di accesso esterno nei dettagli della riunione o utilizzando le app per dispositivi mobili. Quando si utilizzano le app per dispositivi mobili, è necessario essere consapevoli dei limiti di utilizzo dei dati mobili che si applicano all'utente o al proprio paese.
 
-![Team di notifica di partecipazione alla riunione](media/ditl_teamsjoin.png)
-
-> [!TIP]
-> **Utilizzare un auricolare.** Se ci si connette dal computer dell'utente alla scrivania, utilizzare un auricolare anziché microfono del computer in uso e gli altoparlanti per garantire una migliore qualità delle chiamate.
+![Notifica di partecipazione alle riunioni di Teams](media/ditl_teamsjoin.png)
 
 > [!TIP]
-> Attivare la funzionalità video! Quando fotocamere sono disponibile, è opportuno utilizzarle, durante la comunicazione faccia a faccia fornisce non verbali che possono essere perse quando si utilizza solo VoIP. Non bisogna preoccuparsi, i fini accattivante. 
+> **Utilizzare un auricolare.** Se si sta effettuando la connessione dal computer alla propria scrivania, utilizzare un auricolare piuttosto che il microfono incorporato e gli altoparlanti del computer per garantire una migliore qualità delle chiamate.
+
+> [!TIP]
+> Attiva il video. Quando le fotocamere sono disponibili, è opportuno utilizzarle, in quanto la comunicazione faccia a faccia fornisce segnali non verbali che possono essere manomessi quando si utilizza solo la voce. Non preoccuparti, i tuoi capelli stanno benissimo. 
 
 ## <a name="present-information-in-a-meeting"></a>Informazioni presenti in una riunione
-Condivisione di contenuto da un dispositivo è un modo straordinario per lo stato attivo alla riunione e forniscono il contesto alla discussione. In generale, condivisione dello schermo intero può essere una buona idea. Significa che tutto ciò che viene visualizzata sullo schermo verrà visualizzato nella schermata di tutti i partecipanti alla riunione. Evitare questo problema selezionando semplicemente il contenuto che si desidera condividere Microsoft Teams. 
+La condivisione di contenuto dal dispositivo è un ottimo modo per concentrare la riunione e fornire il contesto alla discussione. In generale, la condivisione dell'intero schermo può essere una pessima idea. Significa che tutto ciò che viene visualizzato sullo schermo apparirà negli schermi di tutti i partecipanti alla riunione. Evitare di fare ciò semplicemente selezionando il contenuto che si desidera condividere in Microsoft teams. 
 
-## <a name="use-onenote-in-a-meeting"></a>Utilizzare OneNote in una riunione
-OneNote può consentire per la collaborazione in tempo reale e la creazione condivisa, rendendo strumento ideale per brainstorming e prendere nota taking nelle riunioni. Purché chiunque abbia accesso al percorso in cui è condivisa di OneNote, è possibile inserire un collegamento nel blocco note e avviare immediatamente brainstorming.
+## <a name="use-onenote-in-a-meeting"></a>Utilizzo di OneNote in una riunione
+OneNote è in grado di consentire la collaborazione e la creazione condivisa in tempo reale, rendendolo uno strumento ideale per il brainstorming e per prendere nota delle riunioni. Se tutti gli utenti hanno accesso alla posizione in cui è condiviso OneNote, è possibile inserire un collegamento al blocco appunti e avviare immediatamente il brainstorming.
 
-È possibile creare una sezione specifica per Lotus notes nel blocco appunti team delle riunioni. Inoltre, è possibile utilizzare la funzionalità "dettagli sulla riunione" in OneNote per creare pagine con un riepilogo dei dettagli della riunione.
+È possibile creare una sezione specifica per le note delle riunioni nel blocco appunti del team. È inoltre possibile utilizzare la funzionalità "Dettagli riunione" in OneNote per creare pagine con un riepilogo dei dettagli della riunione.
 
-## <a name="use-planner-in-a-meeting"></a>Utilizzare pianificazione in una riunione
-Aggiungere direttamente le azioni in un piano per il progetto evita la trascrizione li dopo aver fatto. È consigliabile nelle riunioni di progetto di grandi dimensioni per assegnare una persona all'azione prendere appunti & di verifica. In genere si tratta di un utente diverso rispetto a singoli che esegue la riunione. Promemoria azione vengono inviati direttamente ai singoli a cui è assegnato come sono promemoria se l'elemento passa la data di scadenza. 
+## <a name="use-planner-in-a-meeting"></a>Utilizzare planner in una riunione
+L'aggiunta diretta di elementi azione in un piano per il progetto consente di risparmiare dalla trascrizione dopo il fatto. Si tratta di una procedura consigliata per le riunioni di progetti di grandi dimensioni per assegnare un utente all'azione per il monitoraggio delle note &. Si tratta in genere di una persona diversa rispetto all'individuo che esegue la riunione. I promemoria degli elementi di azione vengono inviati direttamente all'utente a cui è assegnato come promemoria se l'elemento passa la data di scadenza. 
 
-![Attività di pianificazione](media/ditl_task.png)
+![Attività Planner](media/ditl_task.png)
 
 ## <a name="end-a-meeting"></a>Terminare una riunione
-Quando tutti gli elementi in agenda trattati, terminare la riunione, indipendentemente dal momento. Assegnare e inviare le azioni a tutti i partecipanti. Se si collabora Teams Microsoft, è possibile condividere facilmente le attività nel canale appropriato. Le azioni possono anche essere immesso e assegnate nella visualizzazione pianificazione durante la riunione, che fornisce un modo rapido per tenere traccia per il completamento che può essere [vi si accede nel team di Microsoft](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 
+Quando è stato discusso tutto l'ordine del giorno, terminare la riunione, indipendentemente dal tempo. Assegnare e inviare elementi di azione a tutti i partecipanti. Se si collabora con Microsoft teams, è possibile condividere facilmente gli elementi dell'azione nel canale appropriato. Gli elementi di azione possono anche essere immessi e assegnati in Planner durante la riunione, offrendo un modo veloce per tenere conto del completamento che è possibile [accedere anche in Microsoft teams](https://support.office.com/en-us/article/use-planner-in-microsoft-teams-62798a9f-e8f7-4722-a700-27dd28a06ee0). 

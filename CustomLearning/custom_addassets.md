@@ -5,11 +5,11 @@ title: Aggiungere risorse a una playlist
 ms.date: 02/17/2019
 description: Aggiungere risorse nuove e esistenti a una playlist di apprendimento personalizzata
 ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103511"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055971"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Aggiungere risorse a un elenco di riproduzione personalizzato
 
@@ -44,7 +44,7 @@ Con l'opzione **Crea pagina risorsa** , è possibile specificare un titolo per i
 
 ![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
 
-7. Fare clic su **pubblica**.
+7. Fare clic su **Pubblica**.
 8. Tornare alla pagina **Custom Learning Administration** . 
 9. Compilare la parte restante delle proprietà del cespite, quindi fare clic su **Salva risorsa.**
 
@@ -67,7 +67,7 @@ Con l'opzione **immettere l'URL** , è possibile specificare un titolo per il be
 
 Le risorse esistenti sono costituite da risorse o risorse di apprendimento personalizzate fornite da Microsoft che sono già state aggiunte all'apprendimento personalizzato dall'organizzazione. 
 
-- Nella casella di **ricerca** immettere una frase di ricerca e quindi selezionare una risorsa dai risultati della ricerca. In questo esempio, immettere "What ' s Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
+- Nella casella di **ricerca** immettere una frase di ricerca e quindi selezionare una risorsa dai risultati della ricerca. In questo esempio, immettere "che cos'è Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
 
 ![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
 

@@ -5,11 +5,11 @@ title: Domande frequenti sui partner
 ms.date: 3/9/2019
 description: In che modo l'apprendimento personalizzato per Office 365 viene confrontato con le offerte partner di aziende che forniscono servizi di formazione per l'organizzazione?
 ms.openlocfilehash: 5c1cdaabd3f506417607a80d7c058e61551fc332
-ms.sourcegitcommit: e0adc8963419a4dd5c4d9bcc9f4f2cc1fbe291d4
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/10/2019
-ms.locfileid: "30523597"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056352"
 ---
 # <a name="partner-frequently-asked-questions"></a>Domande frequenti sui partner
 

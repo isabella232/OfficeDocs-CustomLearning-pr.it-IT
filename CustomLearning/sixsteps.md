@@ -1,8 +1,8 @@
-# <a name="drive-adoption"></a>Stimolarne l'adozione
+# <a name="drive-adoption"></a>Adozione di unità
 
-Unità adozione della propria esperienza di soluzione per l'apprendimento personalizzato con questi passaggi semplici e strumenti. 
+Guidare l'adozione delle esperienze di soluzione di apprendimento personalizzate con questi semplici passaggi e strumenti. 
 
-È presente che le soluzioni di formazione solo a quanto previsto l'utilizzo che riceveranno all'interno dell'organizzazione.  Per tale motivo abbiamo creato questi passaggi semplici e modelli che consentono la consapevolezza delle unità e adozione gli strumenti.  
+Si capisce che le soluzioni formative sono valide solo per l'utilizzo che ricevono nell'organizzazione.  Questo è il motivo per cui sono stati creati questi semplici passaggi e modelli che consentono di guidare la consapevolezza e l'adozione degli strumenti.  
 
 
 

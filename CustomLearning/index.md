@@ -8,8 +8,8 @@ ms.openlocfilehash: 57f84e885206b622f779d20673da2dad4d1bd79b
 ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/18/2019
-ms.locfileid: "31922510"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056218"
 ---
 # <a name="custom-learning-for-office-365-beta-preview"></a>Apprendimento personalizzato per Office 365 Beta Preview
 L'apprendimento personalizzato per Office 365 Beta Preview è una soluzione di formazione su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione di Office 365 in un'organizzazione.  

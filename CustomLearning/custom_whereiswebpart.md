@@ -5,11 +5,11 @@ title: Dove è la Web part apprendimento personalizzato
 ms.date: 02/15/2019
 description: Informazioni sul percorso in cui viene visualizzata la Web part apprendimento personalizzato nel sito di apprendimento personalizzato
 ms.openlocfilehash: e1dff0c8624a69a299f718f0ce001000d0ca8dad
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103771"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32056256"
 ---
 # <a name="wheres-the-custom-learning-web-part"></a>Dov'è la Web part Learning personalizzata?
 

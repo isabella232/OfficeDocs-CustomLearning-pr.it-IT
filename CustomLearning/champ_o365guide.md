@@ -1,17 +1,17 @@
 ---
-titolo: ''
+title: ''
 ms.openlocfilehash: 6396722d085bf6c9e831ac34a86f9f3d087ef62e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733774"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055432"
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Guida all'adozione di Microsoft 365 degli utenti finali
+# <a name="microsoft-365-end-user-adoption-guide"></a>Guida all'adozione dell'utente finale di Microsoft 365
 
-![Guida di Microsoft 365 adozione](media/m365euguide.png)
+![Guida all'adozione di Microsoft 365](media/m365euguide.png)
 
-Ulteriori informazioni su questo argomento di utilizzare la [Guida all'adozione di Microsoft 365 degli utenti finali](https://aka.ms/adoptionguide). In questa Guida deve essere disposto passi verso adozione degli utenti finali nelle aree indicate di seguito:
+Per ulteriori informazioni su questo argomento, utilizzare la [Guida all'adozione dell'utente finale di Microsoft 365](https://aka.ms/adoptionguide). In questa guida vengono illustrati i passaggi per la Guida all'adozione da parte dell'utente finale nelle seguenti aree chiave:
 
 - Parti interessate
 - Scenari
@@ -19,4 +19,4 @@ Ulteriori informazioni su questo argomento di utilizzare la [Guida all'adozione 
 - Formazione 
 - Pianificare, implementare e gestire le modifiche
 - 
-- Microsoft aggiorna questa guida frequentemente per incorporare nuove informazioni.
+- Questa guida viene aggiornata di frequente per incorporare nuove informazioni.

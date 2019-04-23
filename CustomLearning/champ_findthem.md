@@ -1,29 +1,29 @@
 ---
-titolo: ''
+title: ''
 ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733775"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055352"
 ---
-# <a name="finding-your-champions"></a>Individuare la Champions 
+# <a name="finding-your-champions"></a>Individuazione dei campioni 
 
-È probabile che già sapere chi sono i champions, anche se non si dispone un programma formale.  Questi sono utenti che:
+È probabile che si conosca già chi sono i campioni, anche se attualmente non si dispone di un programma formale.  Si tratta di persone che:
 
-Spesso visibili aiuto con tecnologia esistente usufruire di apprendimento e informazioni sulle nuove tecnologie potrebbe essere vocale sulle limitazioni di soluzioni corrente sono vero e le nuove tecnologie, anche prima che gli altri collaboratori
+Sono spesso visti come gli altri utenti con tecnologia esistente godono di insegnamento e di apprendimento sulla nuova tecnologia può essere vocale sui limiti delle soluzioni correnti sono desiderosi di provare nuove cose, anche prima di altri colleghi di lavoro
 
 > [!NOTE]
-> Champions sono diversi da utenti che condividono test del nuovo software per la sola tecnologia. Champions si basano sull' **aiuto** indipendentemente dal contesto. 
+> I campioni sono diversi da quelli che amano testare il nuovo software solo per la tecnologia. I campioni prosperano nell' **aiutare gli altri** indipendentemente dal contesto. 
 
-## <a name="start-small-and-grow"></a>Avviare small e previste
+## <a name="start-small-and-grow"></a>Avvio di piccole dimensioni e aumento
 
-Se l'organizzazione non dispone di un programma da specialisti corrente o si desidera rafforzare quello che si sono invia un invito a un gruppo ristretto di persone noti adattare il profilo descritto in precedenza.  Raccogliere quindi per illustrare gli obiettivi di nuovo programma e ottenerne i commenti. True Champions desidera avere la propria voce ascoltare e la sensazione che fanno parte della creazione di un elemento.  
+Se l'organizzazione non dispone di un programma campione corrente o se si desidera rilanciare quello che è stato inviato, è necessario inviare un invito a un piccolo gruppo di persone note che si adattano al profilo precedente.  Raccogliere quindi insieme per discutere gli obiettivi del nuovo programma e ottenere i loro commenti e suggerimenti. I campioni veri amano far sentire la propria voce e sentirsi come se fossero parte della creazione di qualcosa.  
 
-## <a name="provide-structure"></a>Creare una struttura
+## <a name="provide-structure"></a>Fornire la struttura
 
-Programmi da specialisti corretto dispongono di un coordinatore e una pianificazione regolare per soddisfare i problemi correnti.  Le riunioni mensile almeno sono una parte importante della creazione di una lingua positiva nella community e promuovere crescita.  
+I programmi campione con esito positivo dispongono di un leader e di una pianificazione regolare per la riunione e la discussione di problemi correnti.  Le riunioni mensili sono una parte importante della creazione di una cultura positiva nella community e la promozione della crescita.  
 
-È inoltre possibile utilizzare Microsoft Teams per creare un hub programma degli Champions il lavoro del team.  In [questo articolo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)è possibile per un esempio per tale struttura team.
+È inoltre possibile utilizzare Microsoft teams per creare un hub per il programma di Team Champions.  In [questo articolo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)è possibile trovare un esempio per la struttura del team.
 
-![schede da specialisti team il lavoro del team](media/teams-adoption-tab-example.png)
+![schede squadra campione team](media/teams-adoption-tab-example.png)

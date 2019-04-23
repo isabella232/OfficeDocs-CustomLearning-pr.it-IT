@@ -1,20 +1,20 @@
 ---
-titolo: ''
+title: ''
 ms.openlocfilehash: d306c62b264a0198967fedb259db06cf8fe472e9
-ms.sourcegitcommit: f4f14027435ad7750943bab5c48007431ff691e0
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/04/2019
-ms.locfileid: "29733769"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055256"
 ---
-# <a name="real-world-guidance-for-your-champions-program"></a>Scenari reali indicazioni per il programma Champions
+# <a name="real-world-guidance-for-your-champions-program"></a>Guida del mondo reale per il programma Champions
 
-Consente di visualizzare questi video della Guida per scenari reali per lo sviluppo del programma Champions.  
+Visualizzare questi video sulle linee guida del mondo reale per la creazione del programma Champions.  
 
-Simon Denton, architetto di Business in Mott MacDonald
+Simon Denton, architetto d'affari di Mott MacDonald
 
 > [!VIDEO https://www.youtube.com/embed/ABBbUX6CAik]
 
-Partecipa alla discussione & Pouneh Kaufman Sara Bush da Microsoft IT compilazione di un programma Champions presso Microsoft
+Patrizia Kaufman & sara Bush di Microsoft IT discute Building a Champions Program at Microsoft
 
 > [!VIDEO https://www.youtube.com/embed/LzYQpt1Tea4]

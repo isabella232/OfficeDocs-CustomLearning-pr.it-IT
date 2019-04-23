@@ -5,11 +5,11 @@ title: Creare pagine di SharePoint per playlist
 ms.date: 02/10/2019
 description: Creare pagine di SharePoint per playlist
 ms.openlocfilehash: c2de66a0746260e8f6539656ad70052b209c54ba
-ms.sourcegitcommit: e10085e60ca3f38029fde229fb093e6bc4a34203
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/19/2019
-ms.locfileid: "30103691"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32055498"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Creare pagine di SharePoint per playlist personalizzate
 
