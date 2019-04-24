@@ -1,24 +1,24 @@
-# <a name="webpart-default-content"></a>Contenuto predefinito di Web part
+# <a name="webpart-default-content"></a>Contenuto predefinito di WebPart
 
-## <a name="the-playlist-model"></a>Il modello di elenco di riproduzione
+## <a name="the-playlist-model"></a>Il modello di playlist
 
-La Web part utilizza un modello di elenco di riproduzione familiare per organizzare il contenuto.  In questo modello è semplice per gli utenti finali di comprendere e per la personalizzazione se si decide di.  Personalizzazione non è necessaria.  Riduzione dell'esperienza completa viene fornita con formazione efficace contenuto basato su nostri ricerche.
+In WebPart viene utilizzato un modello di playlist familiare per organizzare il contenuto.  Questo modello è semplice per gli utenti finali di comprendere e personalizzare la scelta.  La personalizzazione non è obbligatoria.  La nostra esperienza fuori dalla scatola fornisce un contenuto di formazione efficace basato sulle nostre ricerche estese.
 
-Questi brani sono progettate per consentire alle organizzazioni di personalizzare l'esperienza di formazione per gli utenti e presentarli di facile utilizzo brani illustrare i comportamenti di nuovi e migliorare la produttività. Il contenuto il server di Support.Office.com e le risorse sono semplice ed efficace, con peppy, accattivanti video. 
+Tali elenchi di riproduzione sono stati creati per aiutare le organizzazioni a personalizzare l'esperienza di apprendimento per gli utenti e a presentare loro playlist facili da utilizzare per insegnare loro nuovi comportamenti produttivi. Il contenuto del servizio di Support.Office.com e le risorse sono brevi e dolci, con video accattivanti e coinvolgenti. 
 
-Ogni riquadro rappresenta un singolo elenco di riproduzione in primo piano o una categoria di contenuto. Fare clic su una tessera di riproduzione o categoria rapidamente passa all'utente nell'area selezionata. Nella figura riportata di seguito vengono illustrati entrambi gli elenchi in primo piano nelle categorie "Ottenere de Sélections introduttiva" e applicazioni di Office 365 come Excel, Microsoft Teams e altri utenti. 
+Ogni riquadro rappresenta una singola playlist in primo piano o una categoria di contenuto. Se si fa clic su qualsiasi playlist o sezione di categoria, l'utente viene spostato rapidamente nell'area selezionata. Nella figura seguente vengono illustrati entrambi gli elenchi consigliati in "inizia playlist" e le categorie di app di Office 365 come Excel, Microsoft teams e altri. 
 
-![Visualizzazione predefinita di Web part](media/clo365addwebpart.png)
+![Visualizzazione predefinita di WebPart](media/clo365addwebpart.png)
 
-Facendo clic sulla categoria di Excel, ad esempio li indirizza a una raccolta degli elenchi di riproduzione.  Possono visualizzare il contenuto nell'ordine o selezionare le informazioni importanti in base alle proprie esigenze di formazione. 
+Facendo clic sulla categoria Excel, ad esempio, vengono spostati in una raccolta di playlist.  È possibile controllare il contenuto nell'ordine o selezionare ciò che gli interessa in base alle proprie esigenze di apprendimento. 
 
-![Web part elenco di riproduzione](media/clo365exceltraining.png)
+![Playlist WebPart](media/clo365exceltraining.png)
 
-Elenco di riproduzione vista selezionata
+Visualizzazione playlist selezionata
 
-![Elenco di riproduzione di Excel](media/clo365excelplaylist.png)
+![Playlist di Excel](media/clo365excelplaylist.png)
 
-## <a name="next-steps"></a>Passaggi successivi
+## <a name="next-steps"></a>Operazioni successive
 
-- Individuare e acquisire familiarità con il contenuto esistente
-- Procedere per [personalizzare gli elenchi di riproduzione](customplaylists.md)
+- Esplorare e acquisire familiarità con il contenuto esistente
+- Procedere alla [personalizzazione delle playlist](customplaylists.md)

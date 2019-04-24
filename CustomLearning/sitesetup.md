@@ -3,15 +3,15 @@ author: karuanag
 ms.author: karuanag
 title: Personalizzare l'esperienza di formazione
 ms.date: 02/10/2019
-description: Domande frequenti informazioni di domande per l'apprendimento personalizzato per Office 365
+description: Informazioni sulle domande più frequenti per l'apprendimento personalizzato per Office 365
 ms.openlocfilehash: 95e779c147a1f6bd5f07050a24b34250b0e257f1
-ms.sourcegitcommit: f93a6a691331515ba10f4d43b491928ec268f0ec
+ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29952623"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32054916"
 ---
-Istruzioni di configurazione: il sito di adozione e formazione preconfigurato è pronto per la personalizzazione e l'utilizzo. In questa pagina verrà vengono fornite informazioni sulle operazioni da eseguire per rendere il sito più utili per l'azienda.
+Istruzioni di configurazione: il sito di formazione e adozione preconfigurato è ora pronto per la personalizzazione e l'utilizzo. In questa pagina vengono fornite informazioni sulle operazioni da eseguire per rendere più utile questo sito alla propria azienda.
 
-Esaminare ogni menu di spostamento di riepilogo a discesa. Rimozione di pagine dal riquadro di spostamento che non si utilizzano i servizi di struttura. Rimuovendo l'elemento dal riquadro di spostamento, si lasciano il contenuto della pagina inalterate nella raccolta pagine del sito. Se si decide di utilizzare i servizi in futuro, il contenuto saranno disponibili per restituire la struttura di spostamento. Modificare il contenuto delle pagine in base a criteri interni. Se l'organizzazione non consente l'accesso esterno alle risorse o applicazioni per dispositivi mobili, rimuovere i riferimenti nella documentazione relativa alla. Tutte le modifiche alle pagine verranno rispettate per gli aggiornamenti futuri al modello. La raccolta pagine del sito verranno copiate le nuove versioni delle pagine originale, ma le pagine modificate rimane invariate. È inoltre possibile aggiungere altre pagine per altri strumenti che si dispone nell'ambiente in uso. Le nuove pagine non essere influenzate da eventuali aggiornamenti futuri modello. Aggiungere collegamenti a una Guida in linea interna o supporto da tavolo esperienze. Questi collegamenti consente di passare un punto qualsiasi all'interno del contenuto del sito. È consigliabile aggiungendoli alla Guida introduttiva e formazione sezioni. Aggiungere collegamenti a community l'utente. Integrazione di persone entusiasti il programma da specialisti o community è uno degli aspetti più efficace che è possibile eseguire per aumentare la produttività della società.  
-Sono domande o suggerimenti? PC con apprendimento personalizzato per i forum di Office 365 utente Voice per rendere i comandi vocali ascoltare. 
+Esaminare ogni menu di spostamento a discesa. È possibile che si desideri rimuovere le pagine dalla struttura di spostamento che delineano i servizi che non si utilizzano. Rimuovendo l'elemento dalla struttura di spostamento, il contenuto della pagina viene lasciato intatto nella raccolta pagine del sito. Se si decide di utilizzare tali servizi in futuro, il contenuto sarà disponibile per tornare alla struttura di spostamento. Modificare il contenuto della pagina in modo che rifletta i criteri interni. Se l'organizzazione non consente l'accesso fuori sede alle risorse o alle applicazioni mobili, rimuovere tali riferimenti nella documentazione. Tutte le modifiche apportate alle pagine verranno rispettate tramite gli aggiornamenti futuri del modello. Le nuove versioni delle pagine originali verranno copiate nella raccolta pagine del sito, ma le pagine modificate rimarranno intatte. È inoltre possibile aggiungere altre pagine per gli altri strumenti presenti nell'ambiente. Le nuove pagine non verranno influenzate da tutti gli aggiornamenti futuri dei modelli. Aggiungere collegamenti alla guida interna o alle esperienze del supporto tecnico. Questi collegamenti possono andare ovunque all'interno del contenuto del sito. È consigliabile aggiungerle alle sezioni Guida introduttiva e formazione. Aggiungere collegamenti alle community degli utenti. Portare persone entusiaste insieme in un programma o in una community è una delle cose più potenti che puoi fare per guidare la produttività nell'azienda.  
+Domande o suggerimenti? Coinvolgere il forum vocale personalizzato per l'apprendimento di Office 365 per far udire la propria voce. 
