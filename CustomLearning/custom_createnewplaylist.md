@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Creare nuove playlist
 ms.date: 02/18/2019
 description: Come creare nuove playlist
-ms.openlocfilehash: b89e70fbe02e9a890759f832195037dd2ddbd8cf
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055843"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247591"
 ---
 # <a name="create-a-custom-playlist"></a>Creare un elenco di riproduzione personalizzato
 
@@ -17,7 +17,7 @@ Quando si crea una playlist, è necessario innanzitutto creare la playlist con i
 
 ## <a name="create-a-playlist"></a>Creare una playlist 
 
-1. Dalla **Home** page di apprendimento personalizzato, fare clic su **Office 365 Training**, selezionare il menu sistema dalla web part, quindi selezionare **amministra playlist**. 
+1. Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Office 365 Training**, selezionare il menu sistema dalla web part, quindi selezionare **amministra playlist**. 
 2. Selezionare una sottocategoria. In questo esempio vengono selezionati i **primi giorni**.  
 3. Fare clic sull'icona +.  
 

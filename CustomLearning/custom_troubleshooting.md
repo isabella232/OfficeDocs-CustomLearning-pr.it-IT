@@ -1,19 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Risoluzione dei problemi di apprendimento personalizzato
+title: Risoluzione dei problemi relativi ai percorsi di apprendimento di Microsoft 365
 ms.date: 02/10/2019
-description: Informazioni su come risolvere i problemi di apprendimento personalizzato
-ms.openlocfilehash: 7cbd049d4794d14f9e8cc26fd0db5f444812d688
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Informazioni su come risolvere i percorsi di apprendimento di Microsoft 365
+ms.openlocfilehash: de46b9c754dac36de230b36ec4a5542518a1dcd5
+ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055094"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34247681"
 ---
-# <a name="troubleshoot-custom-learning"></a>Risoluzione dei problemi di apprendimento personalizzato
+# <a name="troubleshoot-microsoft-365-learning-pathways"></a>Risoluzione dei problemi relativi ai percorsi di apprendimento di Microsoft 365
 
-Di seguito vengono forniti suggerimenti per la risoluzione dei problemi che possono verificarsi con l'apprendimento personalizzato per Office 365 o per il servizio di provisioning di SharePoint Online.
+Di seguito vengono forniti suggerimenti per la risoluzione dei problemi che possono verificarsi con i percorsi di apprendimento di Microsoft 365 o con il servizio di provisioning di SharePoint Online.
 
 ## <a name="how-to-know-if-you-have-tenant-admin-permissions"></a>Informazioni su come sapere se si dispone delle autorizzazioni di amministratore tenant
 
@@ -36,14 +36,14 @@ Per l'apprendimento personalizzato è necessario eseguire il provisioning di un 
 ### <a name="how-to-know-if-you-have-a-tenant-app-catalog"></a>Informazioni su come sapere se si dispone di un catalogo app tenant 
 Per iniziare, verificare di disporre delle autorizzazioni di amministratore globale. Vedere i passaggi per le autorizzazioni di amministratore tenant precedenti.
 
-1. da Office 365, fare clic su **amministratore**, fare clic su espandi freccia >, fare clic su **mostra tutti i** > **centri** > di amministrazione di**SharePoint**.
+1. Da Office 365, fare clic su **amministratore**, fare clic su Espandi freccia >, fare clic su **Mostra tutti i** > **centri** > di amministrazione di**SharePoint**.
 2. Fare clic su**** > **Catalogo app**di **amministrazione di SharePoint Center** > classico.
-3. In **app**, dovrebbe essere visualizzato un riquadro inTitolato **Distribuisci app per SharePoint**. Se viene visualizzato il riquadro, si dispone di un catalogo app tenant. Vedere la sezione **How to sure your are a site colllection...** . Se il riquadro non è visibile, sarà necessario creare un catalogo app tenant per il tenant. Vedere la sezione **come creare un catalogo app tenant di** seguito.
+3. In **app**, dovrebbe essere visualizzato un riquadro intitolato **Distribuisci app per SharePoint**. Se viene visualizzato il riquadro, si dispone di un catalogo app tenant. Vedere la sezione **How to sure your are a site colllection...** . Se il riquadro non è visibile, sarà necessario creare un catalogo app tenant per il tenant. Vedere la sezione **come creare un catalogo app tenant di** seguito.
 
 ### <a name="how-to-ensure-you-are-a-site-collection-owner-on-the-tenant-app-catalog"></a>Come assicurarsi di essere proprietari di una raccolta siti nel catalogo app tenant 
-Per eseguire il provisioning dell'apprendimento personalizzato per Office 365, è necessario essere proprietari di una raccolta siti nel catalogo app tenant. Ecco come determin se sei un proprietario.
+Per eseguire il provisioning dei percorsi di apprendimento di Microsoft 365, è necessario essere proprietari di una raccolta siti nel catalogo app tenant. Ecco come determinare se si è proprietari.
 
-1. da Office 365, fare clic su **amministratore**, fare clic su espandi freccia >, fare clic su **mostra tutti i** > **centri** > di amministrazione di**SharePoint**.
+1. Da Office 365, fare clic su **amministratore**, fare clic su Espandi freccia >, fare clic su **Mostra tutti i** > **centri** > di amministrazione di**SharePoint**.
 2. Fare clic su interfaccia di **amministrazione di SharePoint classica**, quindi selezionare il **Catalogo app**.
 3. Selezionare **owner**e quindi assicurarsi di essere proprietari della raccolta siti. Dovrebbe avere un aspetto simile al seguente.
  
