@@ -24,5 +24,5 @@
 # [Commenti e suggerimenti](feedback.md)
 # [Domande frequenti](faq.md)
 # [Domande frequenti sui partner](custom_partner.md)
-# [Aggiornare i percorsi di apprendimento di Microsoft 365](custom_upgrade.md)
+# [Aggiornare i percorsi di apprendimento di Microsoft 365](custom_update.md)
 # [Risoluzione dei problemi relativi ai percorsi di apprendimento di Microsoft 365](custom_troubleshooting.md)

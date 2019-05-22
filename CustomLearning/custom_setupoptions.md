@@ -4,15 +4,19 @@ ms.author: pkrebs
 title: Opzioni di installazione di Microsoft 365 Learning pathways
 ms.date: 02/11/2019
 description: Opzione di installazione per l'installazione di apprendimento personalizzato
-ms.openlocfilehash: bef8e513d9126defc4b4f73acc6e07fc060044aa
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 260480e69188995b46a8d22df305bf68997a921d
+ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247691"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34334702"
 ---
 # <a name="learning-pathways-setup-options"></a>Opzioni di installazione percorsi di apprendimento
 I percorsi di apprendimento offrono la flessibilità necessaria per configurare la soluzione in un paio di modi diversi. Nelle sezioni seguenti vengono illustrate le opzioni disponibili.
+
+> [!IMPORTANT]
+> A 5/21/2019, Microsoft 365 Learning pathways è il nuovo nome della soluzione precedentemente noto come Custom learning per Office 365. Se è già stato effettuato il provisioning di apprendimento personalizzato per Office 365 nell'organizzazione e si desidera aggiornare la soluzione, seguire le istruzioni "Updating the Solution" nel [file Leggimi di Microsoft 365 Learning pathways](https://github.com/pnp/custom-learning-office-365). Se si desidera eseguire il provisioning dei percorsi di apprendimento di Microsoft 365 per la prima volta, vedere [provision microsoft 365 Learning pathways]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) instructions nella documentazione relativa ai percorsi di apprendimento di Microsoft 365.  
+
 
 ## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Procedura consigliata: installazione del servizio di provisioning di SharePoint Online 
 Il servizio di provisioning di SharePoint Online offre il metodo più rapido, semplice e consigliato per la configurazione dell'apprendimento personalizzato. Con il servizio di provisioning di SharePoint Online, un amministratore di Office 365 tenant accede al servizio, effettua alcune scelte e fa clic su **Aggiungi al tenant** per eseguire il provisioning del sito di apprendimento personalizzato e della web part di apprendimento personalizzata. Quando si esegue il provisioning, l'amministratore del tenant riceve un messaggio di posta elettronica che il sito è pronto per l'esecuzione. 
