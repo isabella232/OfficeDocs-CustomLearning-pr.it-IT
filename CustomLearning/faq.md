@@ -4,14 +4,18 @@ ms.author: karuanag
 title: Domande frequenti per i percorsi di apprendimento di Microsoft 365
 ms.date: 02/10/2019
 description: Informazioni sulle domande più frequenti per i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 26d6c7140b4d387e13b907033ea53b752f5e20ea
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 66149439f0ca13b319bee3bea9c2773b43e98e25
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334720"
+ms.lasthandoff: 07/12/2019
+ms.locfileid: "35636110"
 ---
 # <a name="frequently-asked-questions"></a>Domande frequenti
+
+### <a name="i-recently-saw-a-blog-post-that-custom-learning-for-office-365-is-being-renamed-to-microsoft-365-learning-pathways-are-there-other-changes-being-added-to-the-solution-as-part-of-the-renaming-effort-should-i-update-the-solution-in-my-organization"></a>Recentemente ho visto un post di Blog in cui l'apprendimento personalizzato per Office 365 viene rinominato nei percorsi di apprendimento di Microsoft 365. Sono state aggiunte altre modifiche alla soluzione come parte dello sforzo di ridenominazione? È necessario aggiornare la soluzione nell'organizzazione?
+
+Microsoft 365 Learning pathways release è uno sforzo di rebranding dedicato alla modifica del nome della soluzione da allineare con Microsoft 365 branding. Se si dispone di un'istruzione personalizzata per Office 365 attualmente in esecuzione correttamente nell'organizzazione, non è necessario aggiornare la soluzione in questo momento.  
 
 ### <a name="what-are-the-requirements-for-installing-microsoft-365-learning-pathways-into-my-tenant-environment"></a>Quali sono i requisiti per l'installazione di percorsi di apprendimento di Microsoft 365 nell'ambiente tenant?
 
@@ -34,7 +38,7 @@ Microsoft 365 Learning pathways è attualmente in anteprima beta. Tenere present
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In quali lingue sono disponibili i percorsi di apprendimento di Microsoft 365?
 
-Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il provisioning finale automatico è compatibile solo con i tenant inglesi. Si prevede di implementare il supporto multilingue per queste nove lingue in CY19 Q3: 
+Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il provisioning finale automatico è compatibile solo con i tenant inglesi. Si prevede di implementare il supporto multilingue per queste nove lingue in CY19 Q4: 
 
 - Cinese (semplificato) 
 - Olandese (Paesi Bassi) 
