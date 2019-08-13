@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Dove si trova la Web part Microsoft 365 Learning
 ms.date: 02/15/2019
 description: Informazioni su dove viene visualizzata la Web part percorsi di apprendimento nel sito percorsi di apprendimento
-ms.openlocfilehash: 27793606ee425f8ca77a66898bb0c23aee5e3f2b
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: bc0a24f3f4fa9f2067f52a787da8fc25592fd151
+ms.sourcegitcommit: 076ad8f4dd99da270d34c01b03428a24632916e5
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247613"
+ms.lasthandoff: 05/21/2019
+ms.locfileid: "34327292"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Dove si trova la Web part Microsoft 365 Learning pathways?
 
@@ -44,11 +44,11 @@ La Web part nella pagina **Start-with-Six-Simple-Steps. aspx** è configurata in
 
 ![CG-whereiswp-Six. png](media/cg-whereiswp-six.png)
 
-## <a name="view-all-office-365-training"></a>Visualizzazione di tutti i corsi di formazione di Office 365
+## <a name="view-all-microsoft-365-training"></a>Visualizzare tutti gli allenamenti di Microsoft 365
 
-La Web part nella pagina **Office 365 Training** è configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo percorsi di apprendimento. Sono incluse le sottocategorie di Microsoft insieme a tutte le sottocategorie create per l'organizzazione.
+La Web part nella pagina **Microsoft 365 Training** è configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo percorsi di apprendimento. Sono incluse le sottocategorie di Microsoft insieme a tutte le sottocategorie create per l'organizzazione.
 
-- Nella Home page dei percorsi di apprendimento fare clic su **Office 365 Training**. La pagina viene visualizzata con la Web part configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo di apprendimento personalizzato.
+- Nella Home page dei percorsi di apprendimento fare clic su **Microsoft 365 Training**. La pagina viene visualizzata con la Web part configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo di apprendimento personalizzato.
 
 ![CG-whereiswp-O365. png](media/cg-whereiswp-o365.png)
 
