@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Accedere alla pagina di amministrazione dell'apprendimento personalizzato
 ms.date: 02/15/2019
 description: Come accedere alla pagina di apprendimento personalizzato dalla web part o dal menu
-ms.openlocfilehash: 0e108c4b523d0abed667b9f07d86e1b81bb686a3
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: e08d8dfc6690d9c5d26cd03efd780bbd27d72cd6
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247534"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327227"
 ---
 # <a name="access-the-custom-learning-administration-page"></a>Accedere alla pagina di amministrazione dell'apprendimento personalizzato
 

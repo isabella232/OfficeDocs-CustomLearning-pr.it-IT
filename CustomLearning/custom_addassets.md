@@ -3,29 +3,29 @@ author: pkrebs
 ms.author: pkrebs
 title: Aggiungere risorse a una playlist
 ms.date: 02/17/2019
-description: Aggiungere risorse nuove e esistenti a una playlist di apprendimento personalizzata
-ms.openlocfilehash: 4f8d977fb449d9124b3fee213f13a329584b1e22
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Aggiungere nuove risorse esistenti a una scaletta di percorsi di apprendimento
+ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055971"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34247641"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Aggiungere risorse a un elenco di riproduzione personalizzato
 
-Con l'apprendimento personalizzato, è possibile aggiungere le risorse seguenti a una playlist:
+Con i percorsi di apprendimento, è possibile aggiungere le risorse seguenti a una playlist:
 
-- **Asset di apprendimento personalizzati esistenti** -sono risorse che fanno parte del catalogo Microsoft online o delle risorse che l'organizzazione ha già aggiunto all'apprendimento personalizzato.
-- **Nuove risorse** : sono risorse che vengono aggiunte all'apprendimento personalizzato che sono state create dalle pagine di SharePoint che si creano o risorse di SharePoint già disponibili in un sito di SharePoint nell'organizzazione. 
+- **Asset dei percorsi di apprendimento microsoft 365 esistenti** -queste sono risorse che fanno parte del catalogo Microsoft online o delle risorse che l'organizzazione ha già aggiunto ai percorsi di apprendimento.
+- **Nuove risorse** : sono risorse che vengono aggiunte ai percorsi di apprendimento creati dalle pagine di SharePoint create o da risorse di SharePoint già disponibili in un sito di SharePoint nell'organizzazione. 
 
 > [!TIP]
-> Se una risorsa Microsoft playlist non soddisfa le proprie esigenze, creare una nuova playlist e quindi aggiungere le risorse Microsoft e tutte le risorse appena create alla playlist per creare l'esperienza desiderata. Non è possibile modificare le playlist di apprendimento personalizzate fornite da Microsoft, ma è possibile aggiungere risorse di apprendimento personalizzate a una playlist personalizzata.   
+> Se una risorsa Microsoft playlist non soddisfa le proprie esigenze, creare una nuova playlist e quindi aggiungere le risorse Microsoft e tutte le risorse appena create alla playlist per creare l'esperienza desiderata. Non è possibile modificare i percorsi di apprendimento delle playlist fornite da Microsoft, ma è possibile aggiungere risorse di apprendimento in una playlist personalizzata.   
 
 ## <a name="create-a-new-asset-for-a-playlist"></a>Creare una nuova risorsa per una playlist
 
 Sono disponibili due opzioni per l'aggiunta di un nuovo asset a una playlist.
 
-- **Pagina Crea risorsa** -con questa opzione, l'apprendimento personalizzato genererà una nuova pagina di SharePoint vuota per l'utente e la aggiungerà alla playlist. È quindi possibile aggiungere contenuto alla pagina e salvarlo.  
+- **Pagina Crea risorsa** -con questa opzione, i percorsi di apprendimento generano una nuova pagina di SharePoint vuota per l'utente e la aggiungono alla playlist. È quindi possibile aggiungere contenuto alla pagina e salvarlo.  
 - **Immettere l'URL** -con questa opzione, è possibile creare la pagina in anticipo oppure è già disponibile la pagina e si specifica l'URL per aggiungere la pagina alla playlist.
 
 ### <a name="create-asset-page"></a>Pagina Crea asset 
@@ -65,7 +65,7 @@ Con l'opzione **immettere l'URL** , è possibile specificare un titolo per il be
 
 ## <a name="add-an-existing-asset-to-a-playlist"></a>Aggiungere una risorsa esistente a una playlist
 
-Le risorse esistenti sono costituite da risorse o risorse di apprendimento personalizzate fornite da Microsoft che sono già state aggiunte all'apprendimento personalizzato dall'organizzazione. 
+Le risorse esistenti sono costituite da percorsi di apprendimento forniti da Microsoft o da attività che sono già state aggiunte ai percorsi di apprendimento da parte dell'organizzazione. 
 
 - Nella casella di **ricerca** immettere una frase di ricerca e quindi selezionare una risorsa dai risultati della ricerca. In questo esempio, immettere "che cos'è Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
 
@@ -90,7 +90,7 @@ Dopo aver aggiunto risorse a una playlist, chiudere la playlist e visualizzarla 
 
 1. Fare clic su **Chiudi playlist**.
 2. Fare clic sulla scheda con la pagina **training di Office 365** .
-3. Aggiornare la pagina e quindi fare clic su **primi giorni** in inizia. ****
-4. Fare clic su **personalizzato Learning Starter Kit** per visualizzare la prima playlist in azione. 
+3. Aggiornare la pagina e quindi fare clic su **primi giorni** **in inizia**.
+4. Fare clic su **Learning pathways Starter Kit** per visualizzare la prima playlist in azione. 
 
 ![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)

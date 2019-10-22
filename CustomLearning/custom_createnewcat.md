@@ -3,18 +3,18 @@ author: pkrebs
 ms.author: pkrebs
 title: Creare una nuova sottocategoria
 ms.date: 02/17/2019
-description: Creare una nuova sottocategoria con l'apprendimento personalizzato
-ms.openlocfilehash: 938a8f8f25a746155bf8da539b930764610acf5e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+description: Creare una nuova sottocategoria con percorsi di apprendimento
+ms.openlocfilehash: 9455e35120bbac1265ebe428979d5791dbd00924
+ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055452"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "34327257"
 ---
-# <a name="create-a-subcategory"></a>Creare una sottoCategoria 
-In alcuni casi, è possibile creare una nuova sottoCategoria. Ad esempio, se la sottocategoria First Days non funziona per l'organizzazione, è possibile creare una nuova sottocategoria e quindi aggiungervi elenchi di riproduzione per soddisfare le esigenze dell'organizzazione. 
+# <a name="create-a-subcategory"></a>Creare una sottocategoria 
+In alcuni casi, è possibile creare una nuova sottocategoria. Ad esempio, se la sottocategoria First Days non funziona per l'organizzazione, è possibile creare una nuova sottocategoria e quindi aggiungervi elenchi di riproduzione per soddisfare le esigenze dell'organizzazione. 
 
-1. Dalla **Home** page di apprendimento personalizzato, fare clic su **Office 365 Training**, scegliere il menu **sistema** dalla web part e quindi fare clic su **amministra playlist**. 
+1. Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Microsoft 365 Training**, scegliere il menu **sistema** dalla web part e quindi fare clic su **amministra playlist**. 
 2. Selezionare una **categoria**. In questo esempio, selezionare **inizia**.  
 3. Scorrere verso il basso la pagina, 
 3. Fare clic sull'icona **Aggiungi nuova sottocategoria +** .  
