@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Creare nuove playlist
+title: Copia di una playlist
 ms.date: 02/18/2019
-description: Come creare nuove playlist
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: Come copiare una playlist
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726794"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886869"
 ---
-# <a name="create-a-custom-playlist"></a><span data-ttu-id="b9c0b-103">Creare un elenco di riproduzione personalizzato</span><span class="sxs-lookup"><span data-stu-id="b9c0b-103">Create a Custom Playlist</span></span>
+# <a name="copy-a-playlist"></a><span data-ttu-id="4fd90-103">Copia di una playlist</span><span class="sxs-lookup"><span data-stu-id="4fd90-103">Copy a Playlist</span></span>
+<span data-ttu-id="4fd90-104">Molto spesso, le organizzazioni devono modificare una playlist fornita da Microsoft rimuovendo o sostituendo una risorsa con un asset creato dall'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="4fd90-104">Quite often, organizations need to modify a Microsoft-supplied playlist by removing or replacing an asset with an asset created by the organization.</span></span> <span data-ttu-id="4fd90-105">Ad esempio, potrebbe essere necessario rimuovere un passaggio dalla playlist di inizio con sei passaggi semplici.</span><span class="sxs-lookup"><span data-stu-id="4fd90-105">For example, you might want to remove a step from the Start with Six Simple Steps playlist.</span></span> <span data-ttu-id="4fd90-106">A questo punto, è possibile utilizzare la funzionalità di copia dei percorsi di apprendimento per copiare facilmente i sei passaggi della playlist semplice e semplicemente rimuovere una risorsa, sostituire un asset o aggiungere nuove risorse.</span><span class="sxs-lookup"><span data-stu-id="4fd90-106">Now you can use the learning pathways Copy Playlist feature to easily copy the Six Simple Steps playlist and simply remove an asset, replace an asset, or add new assets.</span></span> 
 
-<span data-ttu-id="b9c0b-104">Quando si crea una playlist, è necessario innanzitutto creare la playlist con i dettagli della playlist e quindi aggiungere risorse alla playlist.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-104">When you create a playlist, you first create the playlist with the playlist details, and then add assets to the playlist.</span></span> <span data-ttu-id="b9c0b-105">È possibile aggiungere una playlist a qualsiasi sottocategoria.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-105">You can add a playlist to any subcategory.</span></span> <span data-ttu-id="b9c0b-106">Ad esempio, è possibile aggiungere una playlist alla sottocategoria **First Days** o a una sottocategoria di **prodotti** come **Excel**.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-106">For example, you can add a playlist to the **First Days** subcategory or a **Product** subcategory like **Excel**.</span></span> <span data-ttu-id="b9c0b-107">In questa sezione vengono illustrate le modalità di creazione di una playlist e quindi l'aggiunta di risorse a una playlist nella sezione seguente, [aggiungere risorse a una playlist personalizzata](custom_addassets.md).</span><span class="sxs-lookup"><span data-stu-id="b9c0b-107">In this section, we’ll cover how to create a playlist, and then cover adding assets to a playlist in the following section, [Add assets to a custom playlist](custom_addassets.md).</span></span>
+## <a name="to-copy-a-playlist"></a><span data-ttu-id="4fd90-107">Per copiare una playlist</span><span class="sxs-lookup"><span data-stu-id="4fd90-107">To copy a playlist</span></span>
 
-## <a name="create-a-playlist"></a><span data-ttu-id="b9c0b-108">Creare una playlist</span><span class="sxs-lookup"><span data-stu-id="b9c0b-108">Create a playlist</span></span> 
+1. <span data-ttu-id="4fd90-108">Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Office 365 Training**.</span><span class="sxs-lookup"><span data-stu-id="4fd90-108">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**.</span></span>
+2. <span data-ttu-id="4fd90-109">Fare clic sull'icona di **Amministrazione** .</span><span class="sxs-lookup"><span data-stu-id="4fd90-109">Click the **Administration** icon.</span></span>
+3. <span data-ttu-id="4fd90-110">In **primi giorni**, fare clic sui **sei passaggi semplici-Welcome to Office 365** playlist, quindi fare clic su **Copy playlist**.</span><span class="sxs-lookup"><span data-stu-id="4fd90-110">Under **First Days**, click the **Six Simple Steps - Welcome to Office 365** playlist, and then click **Copy Playlist**.</span></span> 
+4. <span data-ttu-id="4fd90-111">Fare clic su **Modifica dettagli**e quindi immettere i campi **titolo** e **Descrizione** come illustrato nell'esempio seguente, quindi fare clic su **Salva dettagli**.</span><span class="sxs-lookup"><span data-stu-id="4fd90-111">Click **Edit Detail**, and then fill in the **Title** and **Description** fields as shown in the following example, then click **Save Detail**.</span></span>  
+ 
+4.  <span data-ttu-id="4fd90-112">Compilare i campi dell'elenco di riproduzione come illustrato nell'esempio seguente.</span><span class="sxs-lookup"><span data-stu-id="4fd90-112">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="4fd90-113">È possibile lasciare l'icona predefinita per questo esempio.</span><span class="sxs-lookup"><span data-stu-id="4fd90-113">You can leave the default icon for this example.</span></span> 
 
-1. <span data-ttu-id="b9c0b-109">Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Office 365 Training**, selezionare il menu sistema dalla web part, quindi selezionare **amministra playlist**.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-109">From the Microsoft 365 learning pathways **Home** page, click **Office 365 training**, select the system menu from the Web part, and then select **Administer Playlist**.</span></span> 
-2. <span data-ttu-id="b9c0b-110">Selezionare una sottocategoria.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-110">Select a subcategory.</span></span> <span data-ttu-id="b9c0b-111">In questo esempio vengono selezionati i **primi giorni**.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-111">In this example, select **First Days**.</span></span>  
-3. <span data-ttu-id="b9c0b-112">Fare clic sull'icona +.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-112">Click the + icon.</span></span>  
 
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
+## <a name="add-or-remove-assets-from-a-playlist"></a><span data-ttu-id="4fd90-114">Aggiungere o rimuovere risorse da una playlist</span><span class="sxs-lookup"><span data-stu-id="4fd90-114">Add or remove assets from a playlist</span></span>
+<span data-ttu-id="4fd90-115">Con le playlist personalizzate, è possibile:</span><span class="sxs-lookup"><span data-stu-id="4fd90-115">With custom playlists, you can:</span></span>
 
-4.  <span data-ttu-id="b9c0b-114">Compilare i campi dell'elenco di riproduzione come illustrato nell'esempio seguente.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-114">Fill out the fields in the playlist as shown in the following example.</span></span> <span data-ttu-id="b9c0b-115">È possibile lasciare l'icona predefinita per questo esempio.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-115">You can leave the default icon for this example.</span></span> 
+- <span data-ttu-id="4fd90-116">aggiungere e rimuovere risorse Microsoft, ma non modificare le risorse da Microsoft</span><span class="sxs-lookup"><span data-stu-id="4fd90-116">add and remove Microsoft assets, but not edit the assets from Microsoft</span></span>
+- <span data-ttu-id="4fd90-117">aggiungere, rimuovere e modificare risorse di SharePoint personalizzate esistenti dall'organizzazione o dalle risorse di SharePoint create.</span><span class="sxs-lookup"><span data-stu-id="4fd90-117">add, remove, and edit custom existing SharePoint assets from your organization or SharePoint assets that you create.</span></span> 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
+1. <span data-ttu-id="4fd90-118">Scorrere verso il basso la pagina di **Amministrazione** e quindi in **risorse playlist** fare clic sull'icona di eliminazione per il **passaggio 5. Configurare le app per dispositivi mobili**.</span><span class="sxs-lookup"><span data-stu-id="4fd90-118">Scroll down the **Administration** page, and then under **Playlist Assets** click the delete icon for **Step 5. Set up mobile apps**.</span></span> 
 
-5.  <span data-ttu-id="b9c0b-117">Al termine, selezionare **Salva dettaglio**.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-117">When you are done, select **Save Detail**.</span></span> 
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a><span data-ttu-id="4fd90-119">Verificare che il cespite sia stato rimosso dalla playlist</span><span class="sxs-lookup"><span data-stu-id="4fd90-119">Verify the asset is removed from the playlist</span></span>
+1. <span data-ttu-id="4fd90-120">Tornare alla scheda con la pagina **Microsoft 365 Training** .</span><span class="sxs-lookup"><span data-stu-id="4fd90-120">Return to the tab with the **Microsoft 365 training** page.</span></span>
+2. <span data-ttu-id="4fd90-121">Fare clic su **First Days**, quindi fare clic sui **cinque semplici passaggi-Welcome to Office 365** playlist.</span><span class="sxs-lookup"><span data-stu-id="4fd90-121">Click **First Days**, then click the **Five Simple Steps - Welcome to Office 365** playlist.</span></span> 
+3. <span data-ttu-id="4fd90-122">Fare clic sulla playlist per verificare che il cespite sia stato rimosso.</span><span class="sxs-lookup"><span data-stu-id="4fd90-122">Click through the playlist to verify that the asset has been removed.</span></span>
 
-## <a name="edit-a-playlist"></a><span data-ttu-id="b9c0b-118">Modificare una playlist</span><span class="sxs-lookup"><span data-stu-id="b9c0b-118">Edit a playlist</span></span>
 
-- <span data-ttu-id="b9c0b-119">Dalla pagina **amministrazione apprendimento personalizzato** , fare clic sulla playlist, quindi fare clic su **Modifica dettagli**.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-119">From the **Custom Learning Administration** page, click the playlist, and then click **Edit Detail**.</span></span>  
-
-![CG-editplaylist. png](media/cg-editplaylist.png)
-
-### <a name="delete-a-playlist"></a><span data-ttu-id="b9c0b-121">Eliminare una playlist</span><span class="sxs-lookup"><span data-stu-id="b9c0b-121">Delete a playlist</span></span>
-
-- <span data-ttu-id="b9c0b-122">Dalla pagina amministrazione apprendimento personalizzato, fare clic sull'icona di **eliminazione** per la playlist.</span><span class="sxs-lookup"><span data-stu-id="b9c0b-122">From the Custom Learning Administration page, click the **Delete** icon for the playlist.</span></span>  
-
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)
