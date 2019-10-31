@@ -4,16 +4,16 @@ ms.author: pkrebs
 title: Informazioni sulle pagine dell'applicazione di SharePoint
 ms.date: 02/15/2019
 description: Informazioni sulla funzionalità delle pagine dell'applicazione di SharePoint in Microsoft 365 Learning pathways
-ms.openlocfilehash: a150f9fcb3814106f5ee7737996f013b37656c3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: fa0dc543e0f2302015a587040caf4bd09fe561ba
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327242"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886910"
 ---
 # <a name="get-to-know-the-sharepoint-application-pages"></a>Informazioni sulle pagine dell'applicazione di SharePoint
 
-Percorsi di apprendimento sono disponibili due pagine di applicazioni di SharePoint che è necessario conoscere come amministratore. Queste due pagine non sono modificabili. 
+Percorsi di apprendimento sono disponibili due pagine di applicazioni di SharePoint che è necessario conoscere come amministratore. Queste due pagine non sono modificabili e non devono essere eliminate. 
 
 - CustomLearningAdmin. aspx
 - CustomLearningViewer. aspx
@@ -24,13 +24,13 @@ La pagina CustomLearningAdmin. aspx fornisce le caratteristiche amministrative p
 
 ### <a name="view-customlearningadminaspx"></a>Visualizzazione di CustomLearningAdmin. aspx
 
-1. Fare clic sull'icona **delle impostazioni** di SharePoint e quindi fare clic su **contenuto del sito**. 
+1. Fare clic sull'icona **delle impostazioni** di SharePoint, quindi fare clic su**pagine del sito**contenuto > del **sito**. 
 2. Fare clic su **CustomLearningAdmin. aspx**. 
 
 ![CG-adminapppage. png](media/cg-adminapppage.png)
 
 ## <a name="customlearningvieweraspx"></a>CustomLearningViewer. aspx
-La pagina CustomLearningViewer. aspx fornisce un visualizzatore per la visualizzazione dei contenuti dei percorsi di apprendimento nella web part. Ad esempio, se si copia un collegamento di playlist e lo si condivide con un collaboratore, il collegamento, quando si fa clic, porta l'utente nella pagina del visualizzatore e visualizza il contenuto collegato. Questa pagina e la relativa funzionalità verranno illustrate in modo più dettagliato negli argomenti successivi.
+La pagina CustomLearningViewer. aspx fornisce un visualizzatore per la visualizzazione dei contenuti dei percorsi di apprendimento nella web part. Ad esempio, se si copia un collegamento di playlist e lo si condivide con un collaboratore, il collegamento, quando si fa clic, porta l'utente nella pagina del visualizzatore e visualizza il contenuto collegato. 
 
 ### <a name="view-customlearningvieweraspx"></a>Visualizzazione di CustomLearningViewer. aspx
 

@@ -1,42 +1,40 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Creare nuove playlist
+title: Copia di una playlist
 ms.date: 02/18/2019
-description: Come creare nuove playlist
-ms.openlocfilehash: 8b855caf2512f6ab4db103c0f28f38176f4def55
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+description: Come copiare una playlist
+ms.openlocfilehash: b8df82928f3162704f1a86675d28b810119e3980
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726794"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886869"
 ---
-# <a name="create-a-custom-playlist"></a>Creare un elenco di riproduzione personalizzato
+# <a name="copy-a-playlist"></a>Copia di una playlist
+Molto spesso, le organizzazioni devono modificare una playlist fornita da Microsoft rimuovendo o sostituendo una risorsa con un asset creato dall'organizzazione. Ad esempio, potrebbe essere necessario rimuovere un passaggio dalla playlist di inizio con sei passaggi semplici. A questo punto, è possibile utilizzare la funzionalità di copia dei percorsi di apprendimento per copiare facilmente i sei passaggi della playlist semplice e semplicemente rimuovere una risorsa, sostituire un asset o aggiungere nuove risorse. 
 
-Quando si crea una playlist, è necessario innanzitutto creare la playlist con i dettagli della playlist e quindi aggiungere risorse alla playlist. È possibile aggiungere una playlist a qualsiasi sottocategoria. Ad esempio, è possibile aggiungere una playlist alla sottocategoria **First Days** o a una sottocategoria di **prodotti** come **Excel**. In questa sezione vengono illustrate le modalità di creazione di una playlist e quindi l'aggiunta di risorse a una playlist nella sezione seguente, [aggiungere risorse a una playlist personalizzata](custom_addassets.md).
+## <a name="to-copy-a-playlist"></a>Per copiare una playlist
 
-## <a name="create-a-playlist"></a>Creare una playlist 
-
-1. Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Office 365 Training**, selezionare il menu sistema dalla web part, quindi selezionare **amministra playlist**. 
-2. Selezionare una sottocategoria. In questo esempio vengono selezionati i **primi giorni**.  
-3. Fare clic sull'icona +.  
-
-![CG-newplaylistbtn. png](media/cg-newplaylistbtn.png)
-
+1. Nella **Home** page di Microsoft 365 Learning pathways fare clic su **Office 365 Training**.
+2. Fare clic sull'icona di **Amministrazione** .
+3. In **primi giorni**, fare clic sui **sei passaggi semplici-Welcome to Office 365** playlist, quindi fare clic su **Copy playlist**. 
+4. Fare clic su **Modifica dettagli**e quindi immettere i campi **titolo** e **Descrizione** come illustrato nell'esempio seguente, quindi fare clic su **Salva dettagli**.  
+ 
 4.  Compilare i campi dell'elenco di riproduzione come illustrato nell'esempio seguente. È possibile lasciare l'icona predefinita per questo esempio. 
 
-![CG-newplaylistdetails. png](media/cg-newplaylistdetails.png)
 
-5.  Al termine, selezionare **Salva dettaglio**. 
+## <a name="add-or-remove-assets-from-a-playlist"></a>Aggiungere o rimuovere risorse da una playlist
+Con le playlist personalizzate, è possibile:
 
-## <a name="edit-a-playlist"></a>Modificare una playlist
+- aggiungere e rimuovere risorse Microsoft, ma non modificare le risorse da Microsoft
+- aggiungere, rimuovere e modificare risorse di SharePoint personalizzate esistenti dall'organizzazione o dalle risorse di SharePoint create. 
 
-- Dalla pagina **amministrazione apprendimento personalizzato** , fare clic sulla playlist, quindi fare clic su **Modifica dettagli**.  
+1. Scorrere verso il basso la pagina di **Amministrazione** e quindi in **risorse playlist** fare clic sull'icona di eliminazione per il **passaggio 5. Configurare le app per dispositivi mobili**. 
 
-![CG-editplaylist. png](media/cg-editplaylist.png)
+## <a name="verify-the-asset-is-removed-from-the-playlist"></a>Verificare che il cespite sia stato rimosso dalla playlist
+1. Tornare alla scheda con la pagina **Microsoft 365 Training** .
+2. Fare clic su **First Days**, quindi fare clic sui **cinque semplici passaggi-Welcome to Office 365** playlist. 
+3. Fare clic sulla playlist per verificare che il cespite sia stato rimosso.
 
-### <a name="delete-a-playlist"></a>Eliminare una playlist
 
-- Dalla pagina amministrazione apprendimento personalizzato, fare clic sull'icona di **eliminazione** per la playlist.  
-
-![CG-deleteplaylist. png](media/cg-deleteplaylist.png)

@@ -1,38 +1,29 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Panoramica
+title: Personalizzare i percorsi di apprendimento
 ms.date: 02/18/2019
-description: Panoramica dei percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 74fac090177ad8009155e21a977b05ee2b742b3b
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+description: Personalizzare i percorsi di apprendimento
+ms.openlocfilehash: 15d782455204cf043937bec03041a85abc9e4ee3
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247851"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886639"
 ---
-# <a name="customize-the-learning-experience"></a>Personalizzare l'esperienza di apprendimento
+# <a name="customize-learning-pathways"></a>Personalizzare i percorsi di apprendimento
 
-Introduzione a Microsoft 365 Learning pathways, una nuova soluzione di Microsoft progettata per velocizzare l'utilizzo e l'adozione di Office 365 all'interno di un'organizzazione. Con Learning pathwyas, è possibile:
-- Adattare il contenuto Microsoft 365 Learning and adoption for your environment 
+I percorsi di apprendimento Microsoft 365 offrono vari modi per personalizzare i contenuti dell'organizzazione. Ad esempio, è possibile compiere queste operazioni:  
+- Modificare i percorsi di apprendimento sito di SharePoint-modificare il nome del sito, il logo e gli stessi. Modificare la pagina Chiedi informazioni e ottenere assistenza per creare un centro assistenza personalizzato. 
 - Nascondere o visualizzare il contenuto in modo che rifletta i servizi o le funzionalità supportate nell'organizzazione 
-- Mantenere aggiornati i contenuti e gli utenti con un feed aggiornato dei contenuti di apprendimento di Microsoft 
-- Creare playlist e categorie personalizzate in base alle esigenze dell'utente
+- Creare playlist e sottocategorie personalizzate in base alle esigenze dell'utente
+- Creare pagine di destinazione con contenuto filtrato per supportare i risultati aziendali, ad esempio la guida dell'adozione di Microsoft teams, Outlook Mobile o la collaborazione con Microsoft 365.
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="how-does-learning-pathways-work"></a>Come funziona il percorso di apprendimento?
-
-i percorsi di apprendimento per Office 365 (percorsi di apprendimento in breve) sono costituiti da tre parti: 
-1. feed live del contenuto di un catalogo Microsoft online
-2. un sito di comunicazione di SharePoint
-3. una Web part di SharePoint 
-
-![CG-howitworks. png](media/cg-howitworks.png)
-
 ## <a name="requirements-and-permissions"></a>Requisiti e autorizzazioni
 
-Prima di iniziare a usare questa guida, assicurarsi che i percorsi di apprendimento siano stati configurati dall'amministratore del tenant di SharePoint. Se non si è certi che sia stato configurato, rivolgersi all'amministratore tenant di SharePoint per verificare che i percorsi di apprendimento siano stati sottoposti a provisioning. Assicurarsi inoltre di ottenere l'URL del sito di SharePoint percorsi di apprendimento. Se si è l'amministratore tenant e non è stato effettuato il provisioning dei percorsi di apprendimento, vedere [provision Learning pathways](custom_provision.md). 
+Prima di iniziare a usare le istruzioni per la personalizzazione dei percorsi di apprendimento, assicurarsi che i percorsi di apprendimento siano stati configurati dall'amministratore tenant di SharePoint. Se non si è certi che sia stato configurato, rivolgersi all'amministratore tenant di SharePoint per verificare che i percorsi di apprendimento siano stati sottoposti a provisioning. Assicurarsi inoltre di ottenere l'URL del sito di SharePoint percorsi di apprendimento. Se si è l'amministratore tenant e non è stato effettuato il provisioning dei percorsi di apprendimento, vedere [provision Learning pathways](custom_provision.md). 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>Autorizzazioni per il provisioning di percorsi di apprendimento
 

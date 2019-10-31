@@ -1,16 +1,16 @@
 ---
-title: ''
-description: ''
+title: Guidare l'adozione di percorsi di apprendimento
+description: Guidare l'adozione di percorsi di apprendimento
 author: karuanag
 ms.author: karuanag
-ms.date: 5/16/19
+ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 33c327327239e156cf15235c2b180b7b37539f04
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
+ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726700"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37886979"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Guidare l'adozione del portale di apprendimento dei percorsi
 Dopo aver personalizzato i percorsi di apprendimento di Microsoft 365 e aver messo insieme le campagne di apprendimento iniziali, è il momento di riflettere su come ottenere gli utenti per tornare ai percorsi di apprendimento di Microsoft 365 per l'apprendimento e la trasformazione in esecuzione. È possibile utilizzare la guida, il kit di adozione e le procedure consigliate che Microsoft ha messo a disposizione per aiutarti a eseguire le campagne di adozione di Microsoft 365 Learning pathways di successo, offriamo linee guida, procedure consigliate e un kit di adozione. 
@@ -71,7 +71,6 @@ Collaborare con il team delle risorse umane per allineare il lancio del sito di 
 2.  Pilotare la versione personalizzata di Microsoft 365 Learning pathways con un gruppo rappresentativo di utenti finali e eseguire una esecuzione a secco del piano di adozione. Sulla base dei commenti e suggerimenti del pilota è stato iterato un piano di adozione finale.
 3.  Eseguire la campagna di adozione per un periodo di tempo prolungato. 
 4.  Join the driving adoption community. Condividere la propria esperienza con i percorsi di apprendimento di Microsoft 365 nella community di guida all'adozione online. Trovaci all' https://aka.ms/DriveAdoptionindirizzo. 
-
 
 ## <a name="join-the-driving-adoption-community"></a>Join the driving adoption community
 

@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 10/23/2019
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: 8d98269b5d0e6af369bd476e4de3be72bab78950
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
+ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726720"
+ms.lasthandoff: 10/30/2019
+ms.locfileid: "37885560"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 Learning pathways Beta Preview
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.  
@@ -38,7 +38,7 @@ Iniziamo a creare un'esperienza di apprendimento dei percorsi per l'ambiente.
 
 ## <a name="feedback-and-support"></a>Commenti e suggerimenti
 
-Microsoft 365 Learning pathways è un progetto open source supportato dall' [elenco dei problemi online](https://aka.ms/CustomLearningHelp) su GitHub. La soluzione dei percorsi di learnng e i relativi componenti non sono coperti da alcun contratto di supporto tecnico Microsoft esistente.  
+Microsoft 365 Learning pathways è un progetto open source supportato dall' [elenco dei problemi online](https://aka.ms/CustomLearningHelp) su GitHub. La soluzione percorsi di apprendimento e i suoi componenti non sono coperti da alcun contratto di supporto tecnico Microsoft esistente.  
 
 ## <a name="additional-resources"></a>Risorse aggiuntive
-È possibile utilizzare il sito Microsoft 365 Learning pathways per fornire collegamenti a qualsiasi nuovo o esistente forum della community di utenti. È consigliabile avviare un gruppo di utenti interno, se non è già presente, per consentire agli utenti di condividere i propri successi e imparare gli uni dagli altri.  Se non si ha tempo per alimentare un gruppo di utenti interno, è possibile partecipare alla [community di Microsoft Office 365](https://aka.ms/O365Champions) per la formazione mensile, l'appartenenza alla comunità online e l'accesso precoce agli strumenti e alle risorse per Office 365.
+È possibile utilizzare il sito Microsoft 365 Learning pathways per fornire collegamenti a qualsiasi nuovo o esistente forum della community di utenti. È consigliabile avviare un gruppo di utenti interno, se non è già presente, per consentire agli utenti di condividere i propri successi e imparare gli uni dagli altri.  Se non si ha tempo per alimentare un gruppo di utenti interno, è possibile che i dipendenti possano partecipare alla [community di campioni di Microsoft Office 365](https://aka.ms/O365Champions) per la formazione mensile, l'appartenenza alla comunità online e l'accesso anticipato agli strumenti e alle risorse per Office 365.
