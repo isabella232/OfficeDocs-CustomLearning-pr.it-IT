@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 10/23/2019
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: 9ac54d13ec23b3489f43dd30ead096f8f05303df
-ms.sourcegitcommit: 76c73e78038521b39b2a8e5328862f47557c8a54
+ms.openlocfilehash: f68f678f46633e9a5b661862d39f63b8b98138c3
+ms.sourcegitcommit: 91f02943cd5bfe6ad584fff71054c13e9547a0d7
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37885560"
+ms.lasthandoff: 11/03/2019
+ms.locfileid: "37947156"
 ---
 # <a name="microsoft-365-learning-pathways-beta-preview"></a>Microsoft 365 Learning pathways Beta Preview
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.  
@@ -25,7 +25,7 @@ Microsoft 365 Learning pathways offre:
 
 ![CG-Introducing. png](media/cg-introducing.png)
 
-## <a name="sharepoint-online-provisioning-service"></a>Servizio di provisioning di SharePoint Online 
+# <a name="sharepoint-online-provisioning-service"></a>Servizio di provisioning di SharePoint Online 
 È possibile eseguire il provisioning dei percorsi di apprendimento dal servizio di provisioning di SharePoint Online. Quando si esegue il provisioning dei percorsi di apprendimento di Microsoft 365, le organizzazioni ottengono un sito di comunicazione di SharePoint Online creato per essere un portale di formazione esterno, insieme a una Web part per i percorsi di apprendimento connesso a un catalogo online di contenuti di formazione. 
 
 ![CG-provision. png](media/cg-provision.png)
