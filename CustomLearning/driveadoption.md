@@ -5,12 +5,12 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: 7369e0b2911ba42b19eafe6a46ca9a639372df46
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886979"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956643"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Guidare l'adozione del portale di apprendimento dei percorsi
 Dopo aver personalizzato i percorsi di apprendimento di Microsoft 365 e aver messo insieme le campagne di apprendimento iniziali, è il momento di riflettere su come ottenere gli utenti per tornare ai percorsi di apprendimento di Microsoft 365 per l'apprendimento e la trasformazione in esecuzione. È possibile utilizzare la guida, il kit di adozione e le procedure consigliate che Microsoft ha messo a disposizione per aiutarti a eseguire le campagne di adozione di Microsoft 365 Learning pathways di successo, offriamo linee guida, procedure consigliate e un kit di adozione. 
@@ -31,8 +31,8 @@ L'utilizzo degli scenari seguenti nella campagna di comunicazione consentirà di
 - Condividere siti e contenuti
 - Connettere l'organizzazione a Yammer
 
-## <a name="use-the-download-adoption-kit"></a>Utilizzare il download adoption Kit
-Per facilitare l'esecuzione della campagna di comunicazione Microsoft 365 Learning pathways, utilizzare il kit di adozione scaricabile. Contiene: 
+## <a name="use-the-downloadable-adoption-kit"></a>Utilizzo del kit di adozione scaricabile
+Per facilitare l'esecuzione della campagna di comunicazione Microsoft 365 Learning pathways, utilizzare il [Kit di adozione scaricabile](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip). Contiene: 
 
 - Microsoft 365 Learning pathways consigliato calendario della campagna di comunicazione per semplificare la pianificazione della campagna
 - Modelli di posta elettronica di avvio e suggerimenti per gli utenti finali per ognuno dei cinque scenari di Microsoft 365.    

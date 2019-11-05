@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Commenti e suggerimenti
 ms.date: 02/10/2019
 description: Informazioni sul feedback e sul supporto per i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: ed1654bfe9ff762a9f9f17e7f564e1784608bdf1
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: 429275a1a6153a1434099feebee4bce703abe045
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248151"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956633"
 ---
 # <a name="feedback-and-support"></a>Commenti e suggerimenti
 
@@ -23,7 +23,7 @@ Come è standard con le soluzioni open source, la comunità triages questi probl
 
 ## <a name="provide-us-feedback"></a>Fornire commenti e suggerimenti
 
-La soluzione è solo un successo se è in grado di consentire i risultati aziendali.  Si prega di aiutarci a migliorare fornendoci commenti e suggerimenti regolari tramite [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  È consigliabile esaminare periodicamente tutti i commenti e le domande.
+La soluzione è solo un successo se è in grado di consentire i risultati aziendali.  Si prega di aiutarci a migliorare fornendoci commenti e suggerimenti regolari tramite [UserVoice](https://microsoftteams.uservoice.com/forums/913429-learning-solutions).  È consigliabile esaminare periodicamente tutti i commenti e le domande. 
 
 ## <a name="usage-questions"></a>Domande sull'utilizzo
 

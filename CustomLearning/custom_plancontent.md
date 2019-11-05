@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Pianificare il contenuto dei percorsi di apprendimento
 ms.date: 10/20/2019
 description: Aggiornamento del contenuto di Microsoft 365 Learning pathways
-ms.openlocfilehash: 90f2db3c320f23931059b12d3eb9a6a9daeada72
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 7c9687ca7c6e8373daa6f81cf9cd9624dd667e90
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886719"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956663"
 ---
 # <a name="plan-your-learning-pathways-content"></a>Pianificare il contenuto dei percorsi di apprendimento
 Prima di tuffarsi nell'implementazione dei percorsi di apprendimento di Microsoft 365, è consigliabile richiedere del tempo per esaminare il contenuto, gli strumenti e le funzionalità disponibili per l'utente. L'obiettivo è quello di aiutare gli utenti dell'organizzazione a velocizzare e produrre, nel modo più rapido ed efficiente possibile. Quando si tratta di pianificare percorsi di apprendimento, è consigliabile eseguire un processo in tre fasi:
@@ -53,18 +53,21 @@ Con i percorsi di apprendimento di Microsoft 365, è possibile disporre di conte
 - **Playlist** : sono contenitori per le risorse. Microsoft fornisce playlist che non è possibile modificare, ma è possibile creare playlist personalizzate.  
 - **Asset** : sono le pagine di apprendimento all'interno di playlist. Microsoft fornisce risorse nelle playlist che non è possibile modificare, ma è possibile creare risorse personali e aggiungerle alle playlist. est
 
-### <a name="review-the-learning-pathways-inventory-and-resources"></a>Esaminare l'inventario e le risorse dei percorsi di apprendimento
-Se l'inventario dell'amministratore non è abbastanza dettagliato, dai un'occhiata al foglio di calcolo inventario Microsoft 365 Learning pathways nella pagina risorse. Include un elenco completo dei metadati, delle categorie, delle sottocategorie, delle playlist e delle risorse. La pagina risorse fornisce anche un collegamento a risorse aggiuntive, come guide di avvio rapido personalizzabili. Per ulteriori informazioni, vedere [Learning pathways Resources](custom_plancontent_resources.md).
+### <a name="review-additional-resources-from-microsoft"></a>Rivedere risorse aggiuntive da Microsoft
+Microsoft fornisce le risorse di supporto e formazione che è possibile utilizzare quando si pianificano i contenuti per i percorsi di apprendimento.  
+
+-  [Guida e formazione per Office](https://support.office.com)
+-  [Area risorse di Office 365](https://support.office.com/office-training-center)
 
 ### <a name="review-the-learning-resources-in-your-organization"></a>Esaminare le risorse di apprendimento nell'organizzazione
 Fare un bilancio dei contenuti di apprendimento già disponibili nella propria organizzazione.
-Ad esempio, è possibile che l'organizzazione disponga già di guide di avvio rapido personalizzate, fogli di cheat o pagine di SharePoint dedicate a Microsoft 365 prontezza, HelpDesk, onboarding o formazione. Le risorse di SharePoint esistenti possono essere integrate nelle playlist del portale Microsoft 365 e o in combinazione con il contenuto Microsoft in una playlist per creare una playlist di destinazione per l'organizzazione. Per ulteriori informazioni sulla miscelazione del contenuto dell'organizzazione con il contenuto di Microsoft, vedere la sezione Customizing Learning Pathways of the admin Success Center.
+Ad esempio, è possibile che l'organizzazione disponga già di guide di avvio rapido personalizzate, fogli di cheat o pagine di SharePoint dedicate a Microsoft 365 prontezza, HelpDesk, onboarding o formazione. Le risorse di SharePoint esistenti possono essere integrate nelle playlist del portale Microsoft 365 e o in combinazione con il contenuto Microsoft in una playlist per creare una playlist di destinazione per l'organizzazione. Per ulteriori informazioni su come combinare i contenuti dell'organizzazione con il contenuto di Microsoft, vedere la pagina relativa alla [personalizzazione dei percorsi di apprendimento](custom_overview.md). Sezione di personalizzazione dei percorsi di apprendimento del centro di successo dell'amministratore.
 
 ### <a name="leverage-the-adoption-resources"></a>Sfruttare le risorse di adozione
 Si noti che è possibile iniziare a usare i percorsi di apprendimento in pochi giorni, ma è preferibile fare alcuni piani di pianificazione prima di eseguire una strategia di apprendimento della campagna per l'onboarding di una nuova tecnologia o un insieme di servizi. Lo sviluppo di un piano di contenuto e l'utilizzo di percorsi di apprendimento fanno davvero parte di uno sforzo più esteso nella pianificazione di una strategia di gestione delle modifiche complessiva, quindi forniamo materiali di adozione che è possibile utilizzare per pianificare la strategia complessiva. Come parte dello sforzo di pianificazione, consultare [risorse di adozione](https://resources.techcommunity.microsoft.com/adoption/).
 
 ### <a name="build-a-learning-plan-and-iterate"></a>Creare un piano di apprendimento ed eseguire un'iterazione 
-Molte aziende che hanno implementato con successo i percorsi di apprendimento hanno adottato campagne di apprendimento incentrate su scenari o tecnologie specifici. Ad esempio, "essere più collaborativi con teams" o "essere più mobili con Outlook Mobile". È possibile visualizzare esempi di potenziali campagne di apprendimento tramite il [Kit di adozione scaricabile](https://resources.techcommunity.microsoft.com/adoption/).
+Molte aziende che hanno implementato con successo i percorsi di apprendimento hanno adottato campagne di apprendimento incentrate su scenari o tecnologie specifici. Ad esempio, "essere più collaborativi con teams" o "essere più mobili con Outlook Mobile". È possibile visualizzare esempi di potenziali campagne di apprendimento tramite il [Kit di adozione scaricabile](https://teamworktools.azurewebsites.net/m365lp/m365lpadoptionkit.zip).
 
 
  

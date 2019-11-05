@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Esplorare il sito e il contenuto predefinito
 ms.date: 02/10/2019
 description: Esplorare il sito percorsi di apprendimento e il contenuto predefinito
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34248076"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956543"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Esplorare il sito percorsi di apprendimento
 
@@ -21,37 +21,16 @@ ms.locfileid: "34248076"
 2.  Accedere con il nome utente e la password.
 3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![CG-exploresite. png](media/cg-introducing.png)
 
-## <a name="explore-the-learning-pathways-site"></a>Esplorare il sito percorsi di apprendimento
+## <a name="explore-microsoft-365-learning-pathways"></a>Esplorare i percorsi di apprendimento di Microsoft 365
 
-Il sito percorsi di apprendimento si basa su un modello di comunicazione di SharePoint, pertanto è facile modificare il sito in modo da soddisfare le esigenze dell'organizzazione. È possibile modificare il nome del sito, il logo, le voci di menu e il contenuto delle pagine. Una delle pagine che si desidera modificare per l'organizzazione è la pagina fare domande e ottenere la guida. Diamo un'occhiata.
+Il sito percorsi di apprendimento si basa su un modello di comunicazione di SharePoint, pertanto è facile modificare il sito in modo da soddisfare le esigenze dell'organizzazione. È possibile modificare il nome del sito, il logo, le voci di menu e il contenuto delle pagine. Le linee guida per la personalizzazione dei percorsi di apprendimento sono disponibili nell'interfaccia di amministrazione. 
 
-### <a name="view-the-ask-questions-and-get-help-page"></a>Visualizzare la pagina Chiedi informazioni e ottenere assistenza
+### <a name="get-started-with-the-admin-success-center"></a>Guida introduttiva al centro per il successo dell'amministratore
 
-Il sito percorsi di apprendimento fornisce contenuti predefiniti che consentono di iniziare a creare il portale di formazione e supporto tecnico. In qualità di Admininstrator o proprietario del sito, una delle operazioni che si desidera eseguire è cambiare i collegamenti nella **pagina Chiedi e ottenere** il punto della pagina della Guida per le risorse nell'organizzazione. 
+L'admin Success Center fornisce le linee guida e le risorse utili per pianificare, personalizzare, guidare l'adozione e misurare l'impatto della distribuzione dei percorsi di apprendimento. 
 
-1.  Nella Home page di Microsoft 365 Learning pathways fare clic sulla voce di menu fare **domande e ottenere la guida** .
-2.  Fare clic sul pulsante **Modifica**.
-3.  Posizionare il puntatore del mouse su un'immagine dell'opzione della guida, quindi fare clic su **Modifica web part**.
+- Nella **Home** page di Microsoft 365 Learning pathways fare clic su Guida **introduttiva al centro per il successo dell'amministratore**.
 
-![CG-EDITHELP. png](media/cg-edithelp.png)
-
-Per istruzioni sulla personalizzazione delle pagine del sito, vedere [Customize the site](custom_edithelp.md).
-
-### <a name="view-the-learning-pathways-content-in-the-web-part"></a>Visualizzare il contenuto dei percorsi di apprendimento nella web part
-La pagina Microsoft 365 Training ospita la Web part percorsi di apprendimento configurata per visualizzare tutti i corsi di formazione disponibili per i percorsi di apprendimento. 
-
-1. Scorrere verso il basso la pagina per visualizzare tutte le categorie e le sottocategorie.
-2. Calciare un po' le gomme. Fare clic su alcune sottocategorie, quindi fare clic su alcune playlist per ottenere un'idea del modo in cui il contenuto dei percorsi di apprendimento è organizzato. 
-
-![CG-gotoall. png](media/cg-gotoall.png)
-
-Per istruzioni sulla personalizzazione della web part percorsi di apprendimento, vedere [Customize the Learning Experience](custom_overview.md).
-
-### <a name="get-a-complete-site-tour-and-customization-guidance"></a>Ottenere un tour completo del sito e una guida alla personalizzazione
-Per un'analisi dettagliata dei percorsi di apprendimento, incuding il sito, la Web part, le caratteristiche amministrative e le linee guida su come creare esperienze di apprendimento esclusive per l'ambiente in uso, vedere [Customize the Learning Experience](custom_overview.md) .
-
-## <a name="next-steps"></a>Operazioni successive
-- [Personalizzare l'esperienza di apprendimento](custom_overview.md)
-- [Adozione di unità](driveadoption.md) 
+I percorsi di apprendimento forniscono indicazioni all'interno del centro di successo dell'amministratore nella soluzione. La documentazione relativa al centro per il successo dell'amministratore è disponibile anche in questo set di documentazione. Vedere [Learning pathways admin Success Center](custom_successcenter.md).

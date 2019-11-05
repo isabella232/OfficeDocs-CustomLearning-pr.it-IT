@@ -4,19 +4,19 @@ ms.author: pkrebs
 title: Eseguire il provisioning del sito Microsoft 365 Learning pathways
 ms.date: 02/10/2019
 description: Eseguire il provisioning del sito Microsoft 365 Learning pathways tramite il servizio di provisioning di SharePoint
-ms.openlocfilehash: e48052a395a8669ef684110a1c93409f5859a1d2
-ms.sourcegitcommit: 0077704d7edcc26eda76900115716fc5b7b1c518
+ms.openlocfilehash: 7bffd8ae68099e8def1fa7a8b8620d95b4b65740
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/21/2019
-ms.locfileid: "34334745"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956679"
 ---
 # <a name="provision-microsoft-365-learning-pathways"></a>Provisioning di percorsi di apprendimento Microsoft 365
 
 Con il servizio di provisioning di SharePoint Online, un amministratore del tenant di Office 365 può avviare il processo di provisioning con alcuni semplici clic. Il servizio di provisioning è il modo consigliato per eseguire il provisioning dei percorsi di apprendimento. È veloce, semplice e richiede solo alcuni minuti per iniziare il processo. Prima di iniziare a usare il servizio di provisioning, accertarsi di aver soddisfatto i prerequisiti per il provisioning.
 
 > [!IMPORTANT]
-> A 5/21/2019, Microsoft 365 Learning pathways è il nuovo nome della soluzione precedentemente noto come Custom learning per Office 365. Se è già stato effettuato il provisioning di apprendimento personalizzato per Office 365 nell'organizzazione e si desidera aggiornare la soluzione, seguire le istruzioni "Updating the Solution" nel [file Leggimi di Microsoft 365 Learning pathways](https://github.com/pnp/custom-learning-office-365). Se si desidera eseguire il provisioning dei percorsi di apprendimento di Microsoft 365 per la prima volta, vedere [provision microsoft 365 Learning pathways]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) instructions nella documentazione relativa ai percorsi di apprendimento di Microsoft 365.  
+> A 5/21/2019, Microsoft 365 Learning pathways è il nuovo nome della soluzione precedentemente noto come Custom learning per Office 365. Se è già stato effettuato il provisioning di apprendimento personalizzato per Office 365 o una versione precedente di percorsi di apprendimento di Microsoft 365 nell'organizzazione e si desidera aggiornare la soluzione, seguire le istruzioni per l'aggiornamento della soluzione nei [percorsi di apprendimento di microsoft 365 File Leggimi](https://github.com/pnp/custom-learning-office-365). Se si desidera eseguire il provisioning dei percorsi di apprendimento di Microsoft 365 per la prima volta, vedere [provision microsoft 365 Learning pathways instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) nella documentazione relativa ai percorsi di apprendimento di Microsoft 365.  
 
 ## <a name="prerequisites"></a>Prerequisiti
  
@@ -28,31 +28,19 @@ Per configurare correttamente i percorsi di apprendimento di Microsoft 365 con i
 
 ### <a name="to-provision-learning-pathways"></a>Per eseguire il provisioning di percorsi di apprendimento
 
-1. Passare a http://provisioning.sharepointpnp.com e **accedere** dall'angolo in alto a destra della Home page.  Accedere con le credenziali del tenant di destinazione in cui si intende installare il modello di sito.
-
-![pnphome. png](media/inst_signin.png)
-
-2. Cancellare il **consenso per conto dell'organizzazione** e selezionare **accetta**.
-
-![in](media/inst_perms.png)
+1. Passare alla [pagina Microsoft 365 Learning pathways Solution](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+2. Fare clic su **Aggiungi al tenant**. Se l'utente non ha eseguito l'accesso al tenant, il servizio di provisioning richiederà le credenziali di amministratore tenant. 
+3. Nella finestra di dialogo autorizzazioni richieste selezionare **consenso per conto dell'organizzazione** e quindi selezionare **accetta**.
 
 Il servizio di provisioning richiede queste autorizzazioni per creare il catalogo app tenant, installare l'applicazione nel catalogo app tenant e provisionare il modello di sito. Non vi è alcun impatto generale sul tenant e queste autorizzazioni vengono utilizzate in modo esplicito per l'installazione della soluzione. È necessario accettare queste autorizzazioni per procedere con l'installazione.
 
-3. Scorrere verso il basso la pagina, selezionare la scheda **soluzioni** e quindi fare clic **su percorsi di apprendimento per Office 365**. 
-
-![in](media/inst_select.png)
-
-4. Selezionare **Aggiungi al tenant**
-
-![inst_select. png](media/inst_add.png)
-
-5. Completare i campi nella pagina informazioni di provisioning in base alle proprie esigenze per l'installazione. Immettere almeno l'indirizzo di posta elettronica in cui si desidera ottenere le notifiche relative al processo di provisioning e all'URL di destinazione del sito di cui eseguire il provisioning.  
+4. Completare i campi nella pagina informazioni di provisioning in base alle proprie esigenze per l'installazione. Immettere almeno l'indirizzo di posta elettronica in cui si desidera ottenere le notifiche relative al processo di provisioning e all'URL di destinazione del sito di cui eseguire il provisioning.  
 > [!NOTE]
 > Rendere l'URL di destinazione per il sito una cosa semplice per i dipendenti, ad esempio "/sites/MyTraining" o "/teams/LearnMicrosoft365".
 
 ![inst_options. png](media/inst_options.png)
 
-6. Selezionare **** provisioning quando si è pronti per installare percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica di notifica immesso nella pagina di provisioning) quando il sito è pronto per l'accesso. 
+6. Fare clic su **provisioning** quando si è pronti per installare percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica di notifica immesso nella pagina di provisioning) quando il sito è pronto per l'accesso. 
 
 > [!IMPORTANT]
 > L'amministratore tenant che accantona il sito percorsi di apprendimento deve passare al sito e quindi aprire **CustomLearningAdmin. aspx** per inizializzare le proprietà di amministratore di percorsi di apprendimento. A questo punto, l'amministratore del tenant deve anche assegnare i proprietari al sito. 

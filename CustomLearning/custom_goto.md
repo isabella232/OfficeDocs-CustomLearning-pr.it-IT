@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Accedere al sito Microsoft 365 Learning pathways
 ms.date: 02/18/2019
 description: Accedere al sito Microsoft 365 Learning pathways
-ms.openlocfilehash: f0582c286c1d7382f1bbb0d74fb44bce68f4afe8
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
+ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886629"
+ms.lasthandoff: 11/04/2019
+ms.locfileid: "37956623"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Accedere al sito Microsoft 365 Learning pathways
 
@@ -19,7 +19,7 @@ Il sito Microsoft 365 Learning pathways for Office 365 site è ospitato nel tena
 
 1.  Aprire il Web browser e accedere a office.com o al percorso di accesso dell'organizzazione. 
 2.  Accedere con il nome utente e la password.
-3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito **Microsoft 365 Learning pathways** . 
+3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito Microsoft 365 Learning pathways. 
 5. Fare clic su **microsoft 365 Training** Tile per visualizzare la serie completa di corsi di formazione disponibili con i percorsi di apprendimento di Microsoft 365. 
 
 ## <a name="view-all-the-learning-pathways-content"></a>Visualizzare tutto il contenuto dei percorsi di apprendimento
@@ -32,10 +32,8 @@ La pagina Microsoft 365 Training ospita la Web part percorsi di apprendimento co
 La navigazione tramite percorsi di apprendimento è stata migliorata in base ai commenti e suggerimenti degli utenti. 
 
 1. Fare clic sulla sottocategoria **Microsoft teams** , quindi fare clic sulla **configurazione e personalizzare la playlist del team** . Viene visualizzata la playlist come illustrato nell'esempio seguente.
-
-- Fare clic sui pulsanti avanti e indietro per spostarsi nella playlist
-- Fare clic sulla freccia a discesa nella barra di spostamento per visualizzare il contenuto della playlist e passare a un argomento specifico.
-- Fare clic sul pulsante attiva/disattiva modalità a schermo intero per visualizzare l'asset in full-screen. Fare di nuovo clic su Toggle modalità a schermo intero per tornare alla modalità di spostamento predefinita.
-
-- Utilizzare la mollica di spostamento per tornare a una sottocategoria o alla Home page della web part.  
+2. Fare clic sui pulsanti avanti e indietro per spostarsi nella playlist
+3. Fare clic sulla freccia a discesa nella barra di spostamento per visualizzare il contenuto della playlist e passare a un argomento specifico.
+4. Fare clic sul pulsante attiva/disattiva modalità a schermo intero per visualizzare l'asset in full-screen. Fare di nuovo clic su Toggle modalità a schermo intero per tornare alla modalità di spostamento predefinita.
+5. Utilizzare la mollica di spostamento per tornare a una sottocategoria o alla Home page della web part.  
 
