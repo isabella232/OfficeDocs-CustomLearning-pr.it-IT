@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Misurare l'impatto dei percorsi di apprendimento di Microsoft 365
 ms.date: 02/10/2019
 description: Come misurare l'impatto dei percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 95162ed8cead823f58a033922898beb4a7175399
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.openlocfilehash: 8beb4955208f14ca5d4bbc8a525d839d47e47b88
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34272698"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076010"
 ---
 # <a name="measuring-impact-of-microsoft-365-learning-pathways"></a>Misurazione dell'impatto dei percorsi di apprendimento di Microsoft 365
 
@@ -33,5 +33,5 @@ Seguire l'articolo a cui si fa riferimento per:
 
 ## <a name="feedback"></a>Commenti e suggerimenti
 
-A questo punto, la creazione di report è limitata al livello di sito di SharePoint. Presta il tuo voto al forum vocale del nostro [utente](https://microsoftteams.uservoice.com/forums/913429-learning-solutions) per semplificare la priorità alle richieste di funzionalità di creazione di report avanzate.   
+A questo punto, la creazione di report è limitata al livello di sito di SharePoint. Presta il tuo voto al forum vocale del nostro [utente](https://go.microsoft.com/fwlink/?linkid=2109552) per semplificare la priorità alle richieste di funzionalità di creazione di report avanzate.   
 

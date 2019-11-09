@@ -1,19 +1,23 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Guida del partner per i percorsi di apprendimento
+title: Microsoft 365 Learning pathways Early Adopter Program
 ms.date: 3/9/2019
-description: In che modo i percorsi di apprendimento di Microsoft 365 si confrontano con le offerte dei partner provenienti da aziende che forniscono servizi di formazione aziendale?
-ms.openlocfilehash: b932fe6ec7d456072eac3c70e1bb52f3631676ad
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: Microsoft 365 Learning pathways Early Adopter Program
+ms.openlocfilehash: 1245c6553ed20ae972bd7b7b2a78fdd273ffa440
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956834"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38075970"
 ---
-# <a name="microsoft-365-learning-pathways-partner-guide"></a>Guida per i partner di Microsoft 365 Learning pathways
+# <a name="microsoft-365-learning-pathways-early-adopter-program"></a>Microsoft 365 Learning pathways Early Adopter Program
 
-## <a name="coming-soon"></a>Prossimamente....
-Microsoft 365 Learning pathways partner guide è attualmente in fase di sviluppo e verrà presto.
- 
+Se sei un partner o un MVP che è interessato a connetterti con i tuoi coetanei e il team di ingegneri dei percorsi di apprendimento, ti invitiamo a partecipare al programma Early Adopter. Questa community è concentrata su un ambiente di collaborazione che consente di fare domande sulle indicazioni seguenti e di imparare dai propri coetanei. Sono disponibili ulteriori informazioni su ciò che il programma comporta:  
+- Un partner attivo e un forum di collaborazione MVP per l'impegno 
+- Argomenti di onboarding e sensibilizzazione mensili 
+- Informazioni sulla roadmap 
+- Accesso precoce alle linee guida e agli strumenti di onboarding per i partner 
+
+Interessati? Iscriviti qui per la nomination per l'inclusione [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP):.   
 

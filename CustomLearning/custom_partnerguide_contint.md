@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Modelli di integrazione partner
 ms.date: 3/9/2019
 description: Modelli di integrazione partner
-ms.openlocfilehash: 54e41e5271c0b4c7558329e79c1dc702606f0620
-ms.sourcegitcommit: 4f4dbe69fe6405c4267c1a4abc6d37f3441d6fd2
+ms.openlocfilehash: 0d52210c600e14fc9f224fbe6f91645fe4045c45
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/06/2019
-ms.locfileid: "38014242"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38076020"
 ---
 # <a name="partner-integration-models"></a>Modelli di integrazione partner
 Anche se non è possibile completare il contenuto dei percorsi di apprendimento di Microsoft 365 direttamente "out of the box" dal servizio di provisioning di SharePoint Online, esistono diversi modelli di integrazione che i partner possono sfruttare per creare un servizio di aggiunta di valore allineato. Offerte. I modelli di integrazione dei partner di cui sopra sono presentati in ordine di complessità ascendente e livelli di investimento. Di conseguenza, la nostra guida è quella di sviluppare le proprie competenze e perfezionarsi a livelli più avanzati basati sui modelli aziendali.
@@ -36,7 +36,7 @@ Il contenuto per i percorsi di apprendimento di Microsoft 365 è guidato da un i
 ### <a name="download-the-microsoft-365-learning-pathways-solution"></a>Scaricare la soluzione Microsoft 365 Learning pathways
 È possibile scaricare la soluzione Microsoft 365 Learning pathways, insieme ai file JSON, dall'archivio GitHub: https://github.com/pnp/custom-learning-office-365. Si noti che in questo momento, Microsoft non sta prendendo GitHub pull request sulla soluzione. Tuttavia, è possibile utilizzare i file GitHub come punto di partenza per la creazione di un pacchetto di contenuto personalizzato. 
 
-## <a name="metadatajson-structure"></a>Struttura Metadata. JSON
+### <a name="metadatajson-structure"></a>Struttura Metadata. JSON
 Questo file può essere pensato come il cervello dei menu e della struttura. Contiene tutta la struttura di spostamento e gli elenchi di raccolta per i dati negli altri due file. 
 
 
@@ -82,7 +82,7 @@ Questo file può essere pensato come il cervello dei menu e della struttura. Con
 |&nbsp;&nbsp;CDNbase           |L'URL di base dei manifesti per il pacchetto di contenuto                                       |
 |AssetOrigins                  |Una matrice di origine URL utilizzata nel file assets. JSON descritto in un secondo momento. Se l'URL di origine lo supporta, verrà inviato un messaggio di posta elettronica a help_getClientHeight. Una risposta nella proprietà Data di: "help_getClientHeight = {Height of content}" (ad esempio "help_getClientHeight = 5769") consentirà di ridimensionare l'iFrame all'altezza appropriata del contenuto incorniciato.         |
 
-## <a name="playlistsjson-structure"></a>Playlists. JSON, struttura
+### <a name="playlistsjson-structure"></a>Playlists. JSON, struttura
 playlists. JSON – il manifesto delle playlist è una matrice di oggetti che descrivono i metadati relativi a una playlist e le risorse incluse nell'elenco di riproduzione.
 
 |              Name        |                     Descrizione                                                               | 
@@ -101,7 +101,7 @@ playlists. JSON – il manifesto delle playlist è una matrice di oggetti che de
 |StatusNote                    |Note sul contenuto visualizzato agli amministratori                                            |
 |*Assets []*                        |Una matrice di GUID per le risorse che fanno parte di questa playlist, in ordine di visualizzazione.        |         
 
-## <a name="assetjson-structure"></a>Struttura asset. JSON
+### <a name="assetjson-structure"></a>Struttura asset. JSON
 playlists. JSON – il manifesto delle playlist è una matrice di oggetti che descrivono i metadati relativi a una playlist e le risorse incluse nell'elenco di riproduzione.
 
 |              Name        |                     Descrizione                                                               | 
@@ -116,7 +116,7 @@ playlists. JSON – il manifesto delle playlist è una matrice di oggetti che de
 |StatusTagId                   |Tag di stato associato                                                                      |
 |StatusNote                    |Note sul contenuto visualizzato agli amministratori.                                           |
 
-## <a name="caching"></a>Memorizzazione nella cache
+### <a name="caching"></a>Memorizzazione nella cache
 La versione corrente della web part visualizzatore utilizza una versione memorizzata nella cache dei file manifesto per 24 ore. Dopo 24 ore, il primo utente che ha colpito il WebPart prende il colpo di prestazioni per aggiornare la cache scaricando i manifesti dalla rete CDN di origine e unire tali informazioni con le tecnologie nascoste e le playlist, nonché l'Unione in sottocategorie personalizzate, playlist e risorse. In alternativa, la Web part admin Scarica sempre il contenuto dai manifesti e li unisce e aggiorna la cache.  Pertanto, in altre parole, l'amministratore può forzare l'aggiornamento della cache in qualsiasi momento caricando la Web part amministratore, ovvero accedendo alla pagina di amministrazione.
 
 ## <a name="content-pack-guidelines"></a>Linee guida per il pacchetto di contenuto
@@ -127,7 +127,7 @@ La funzionalità del pacchetto di contenuto Sblocca gli scenari seguenti:
 
 Questo set di documentazione corrente è destinato intenzionalmente ai partner a causa della complessità della caratteristica. Il team del servizio lavora attivamente per migliorare il supporto e l'abilitazione dello scenario #2, in futuro. 
 
-## <a name="how-content-packs-work"></a>Funzionamento del pacchetto di contenuto
+### <a name="how-content-packs-work"></a>Funzionamento del pacchetto di contenuto
 Microsoft utilizza le pagine GitHub come origine della rete di distribuzione dei contenuti (CDN) per i file e le immagini manifesti. Nella root del repository GitHub è presente una cartella Docs che include sottocartelle per ogni versione dei file manifesto. All'interno di ogni cartella sono presenti tre file manifesto, oltre a una cartella immagini per archiviare tutte le immagini categoria, sottocategoria e playlist. 
 
 È importante mantenere la stessa struttura di controllo delle versioni che Microsoft deve scegliere per estendere la soluzione di percorsi di apprendimento con il proprio pacchetto di contenuto. L'endpoint della rete CDN non deve includere la cartella della versione, poiché la versione del manifesto supportata dalla web part viene aggiunta al forno e viene automaticamente accodata all'URL della CDN. Ovviamente, è possibile creare nuove istanze dei file manifesto ogni volta che viene revisionato.
@@ -138,7 +138,7 @@ Per ulteriori informazioni sull'utilizzo di pagine GitHub come origine della ret
 
 La soluzione Microsoft rende accessibili al pubblico le informazioni relative alle risorse, in quanto non vi è alcuna sicurezza per gli utenti che hanno accesso a questi file. Noi crediamo che ci dovrebbe essere un livello di contenuto gratuito per un consumatore, che ha detto che se si ha bisogno di un muro di pagamento per alcuni o tutti i contenuti, sarà necessario implementarlo in modo diverso all'interno delle limitazioni tecniche della soluzione e l'utilizzo di pagine GitHub non è affatto s un requisito. Qualsiasi provider della rete CDN che si desidera utilizzare va bene se si mantiene la struttura di numerazione delle versioni descritta. Come indicato in precedenza, la versione della struttura del manifesto supportata dalla web part viene aggiunta al forno nel codice e viene automaticamente accodata all'URL della rete CDN. 
 
-## <a name="content-pack-integration-guidance"></a>Guida all'integrazione del pacchetto di contenuto 
+### <a name="content-pack-integration-guidance"></a>Guida all'integrazione del pacchetto di contenuto 
 Le web part di amministratore e Visualizzatore sono state estese per consentire al consumer di configurare altri endpoint della rete CDN nel tenant, che consentirà quindi alla web part Visualizzatore di selezionare la CDN che dovrebbe utilizzare come origine dei dati visualizzati. 
 
 Inquadratura dei tasti da tenere presente per questa caratteristica: 
@@ -147,10 +147,10 @@ Inquadratura dei tasti da tenere presente per questa caratteristica:
 
 > **Importante** Prima di aggiungere un pacchetto di contenuto personalizzato, è necessario eseguire il provisioning di Microsoft 365 Learning pathways 3,0 o versione successiva. Per informataion sul provisioning dei percorsi di apprendimento di Microsoft 365, vedere [provision microsoft 365 Learning pathways](https://docs.microsoft.com/en-us/office365/customlearning/custom_provision).
 
-## <a name="content-whitelisting"></a>Whitelist del contenuto
+### <a name="content-whitelisting"></a>Whitelist del contenuto
 Come partner è vostra responsabilità assistere i consumatori nel garantire che il contenuto sia in whitelist nel proprio ambiente. Si consiglia di creare uno scenario di testing nel proprio ambiente per convalidare che il contenuto può essere iFrame ' d in una pagina di SharePoint all'interno del proprio firewall. Seguire le istruzioni [create SharePoint pages for Custom playlists](https://docs.microsoft.com/en-us/office365/customlearning/custom_createnewpage) per confermare che questo è il caso.
 
-## <a name="add-a-content-pack-to-learning-pathways"></a>Aggiungere un pacchetto di contenuto ai percorsi di apprendimento
+### <a name="add-a-content-pack-to-learning-pathways"></a>Aggiungere un pacchetto di contenuto ai percorsi di apprendimento
 Dopo aver creato la modifica JSON e aver definito la rete CDN, è possibile aggiungere il contatto Pack ai percorsi di apprendimento. 
 
 1. Nella **Home** page del sito percorsi di apprendimento scegliere **Home** e quindi fare clic su **Learning pathways Administration**. 
@@ -163,7 +163,7 @@ Dopo aver creato la modifica JSON e aver definito la rete CDN, è possibile aggi
 
 ![CG-part-addconpackex. png](media/cg-part-addconpackex.png)
 
-## <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtro per il pacchetto di contenuto nella web part
+### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtro per il pacchetto di contenuto nella web part
 Con i percorsi di apprendimento, è possibile aggiungere la Web part percorsi di apprendimento a una pagina, filtrare la Web part in modo che punti all'origine del pacchetto di contenuto personalizzato e quindi filtrare la Web part per la categoria, la sottocategoria, la playlist e la risorsa desiderata. 
 
 1. Dal sito percorsi di apprendimento fare clic su **nuovo**e quindi su **pagina**.
