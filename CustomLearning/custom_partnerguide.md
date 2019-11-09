@@ -1,19 +1,23 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Guida del partner per i percorsi di apprendimento
+title: Microsoft 365 Learning pathways Early Adopter Program
 ms.date: 3/9/2019
-description: In che modo i percorsi di apprendimento di Microsoft 365 si confrontano con le offerte dei partner provenienti da aziende che forniscono servizi di formazione aziendale?
-ms.openlocfilehash: b932fe6ec7d456072eac3c70e1bb52f3631676ad
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+description: Microsoft 365 Learning pathways Early Adopter Program
+ms.openlocfilehash: 1245c6553ed20ae972bd7b7b2a78fdd273ffa440
+ms.sourcegitcommit: 6a17a7ab6d28349654520f2c28d08c480e3c7b47
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956834"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38075970"
 ---
-# <a name="microsoft-365-learning-pathways-partner-guide"></a><span data-ttu-id="b61b2-103">Guida per i partner di Microsoft 365 Learning pathways</span><span class="sxs-lookup"><span data-stu-id="b61b2-103">Microsoft 365 learning pathways Partner Guide</span></span>
+# <a name="microsoft-365-learning-pathways-early-adopter-program"></a><span data-ttu-id="313a7-103">Microsoft 365 Learning pathways Early Adopter Program</span><span class="sxs-lookup"><span data-stu-id="313a7-103">Microsoft 365 learning pathways Early Adopter Program</span></span>
 
-## <a name="coming-soon"></a><span data-ttu-id="b61b2-104">Prossimamente....</span><span class="sxs-lookup"><span data-stu-id="b61b2-104">Coming soon....</span></span>
-<span data-ttu-id="b61b2-105">Microsoft 365 Learning pathways partner guide è attualmente in fase di sviluppo e verrà presto.</span><span class="sxs-lookup"><span data-stu-id="b61b2-105">The Microsoft 365 learning pathways Partner Guide is currently under development and is coming soon.</span></span>
- 
+<span data-ttu-id="313a7-104">Se sei un partner o un MVP che è interessato a connetterti con i tuoi coetanei e il team di ingegneri dei percorsi di apprendimento, ti invitiamo a partecipare al programma Early Adopter.</span><span class="sxs-lookup"><span data-stu-id="313a7-104">If you are Partner or MVP that is interested in connecting with your peers and the learning pathways engineering team – then we invite you to join our Early Adopter Program.</span></span> <span data-ttu-id="313a7-105">Questa community è concentrata su un ambiente di collaborazione che consente di fare domande sulle indicazioni seguenti e di imparare dai propri coetanei.</span><span class="sxs-lookup"><span data-stu-id="313a7-105">This community is focused on a collaborative environment enabling you to ask questions on the below guidance as well as learn from your peers.</span></span> <span data-ttu-id="313a7-106">Sono disponibili ulteriori informazioni su ciò che il programma comporta:</span><span class="sxs-lookup"><span data-stu-id="313a7-106">More specifics on what the program entails include:</span></span>  
+- <span data-ttu-id="313a7-107">Un partner attivo e un forum di collaborazione MVP per l'impegno</span><span class="sxs-lookup"><span data-stu-id="313a7-107">An active Partner and MVP collaboration engagement forum</span></span> 
+- <span data-ttu-id="313a7-108">Argomenti di onboarding e sensibilizzazione mensili</span><span class="sxs-lookup"><span data-stu-id="313a7-108">Monthly onboarding and awareness topics</span></span> 
+- <span data-ttu-id="313a7-109">Informazioni sulla roadmap</span><span class="sxs-lookup"><span data-stu-id="313a7-109">Roadmap insights</span></span> 
+- <span data-ttu-id="313a7-110">Accesso precoce alle linee guida e agli strumenti di onboarding per i partner</span><span class="sxs-lookup"><span data-stu-id="313a7-110">Early access to partner onboarding guidance and tooling</span></span> 
+
+<span data-ttu-id="313a7-111">Interessati?</span><span class="sxs-lookup"><span data-stu-id="313a7-111">Interested?</span></span> <span data-ttu-id="313a7-112">Iscriviti qui per la nomination per l'inclusione [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP):.</span><span class="sxs-lookup"><span data-stu-id="313a7-112">Sign-up here for nomination for inclusion: [https://aka.ms/M365lpPartnerEAP](https://aka.ms/M365lpPartnerEAP).</span></span>   
 
