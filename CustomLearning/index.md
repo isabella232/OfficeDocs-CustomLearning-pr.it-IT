@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 10/23/2019
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: 21f85ad1434f27882ece4658dad466b55351b3a8
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
+ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956588"
+ms.lasthandoff: 11/14/2019
+ms.locfileid: "38626613"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento Microsoft 365 
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.   
@@ -23,7 +23,7 @@ Microsoft 365 Learning pathways offre:
 - **La possibilità di creare playlist di formazione personalizzate** -con percorsi di apprendimento, è possibile creare playlist di formazione mirate per soddisfare le esigenze specifiche dell'ambiente
 - Le vie di apprendimento del **contenuto aggiornate** forniscono contenuto tramite un catalogo di contenuto Microsoft online, in modo che il contenuto del sito venga aggiornato regolarmente
 
-![CG-Introducing. png](media/cg-introducing.png)
+> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-online-provisioning-service"></a>Servizio di provisioning di SharePoint Online 
 È possibile eseguire il provisioning dei percorsi di apprendimento dal servizio di provisioning di SharePoint Online. Quando si esegue il provisioning dei percorsi di apprendimento di Microsoft 365, le organizzazioni ottengono un sito di comunicazione di SharePoint Online creato per essere un portale di formazione esterno, insieme a una Web part per i percorsi di apprendimento connesso a un catalogo online di contenuti di formazione. 
