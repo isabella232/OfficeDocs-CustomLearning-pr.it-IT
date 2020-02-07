@@ -4,15 +4,15 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 10/23/2019
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: 4f15e8830f90564e2d0b40563e0b19e02580b0a0
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
+ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/14/2019
-ms.locfileid: "38626613"
+ms.lasthandoff: 02/06/2020
+ms.locfileid: "41831892"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento Microsoft 365 
-Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.   
+Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.    
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
@@ -36,7 +36,7 @@ Iniziamo a creare un'esperienza di apprendimento dei percorsi per l'ambiente.
 2. Percorsi di apprendimento personalizzati per l'ambiente.
 3. Condividere i percorsi di apprendimento con gli utenti utilizzando gli [strumenti di adozioni](driveadoption.md).
 
-## <a name="feedback-and-support"></a>Commenti e suggerimenti
+## <a name="feedback-and-support"></a>Feedback e supporto
 
 Microsoft 365 Learning pathways è un progetto open source supportato dall' [elenco dei problemi online](https://aka.ms/CustomLearningHelp) su GitHub. La soluzione percorsi di apprendimento e i suoi componenti non sono coperti da alcun contratto di supporto tecnico Microsoft esistente.  
 
