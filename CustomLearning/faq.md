@@ -4,12 +4,12 @@ ms.author: karuanag
 title: Domande frequenti per i percorsi di apprendimento di Microsoft 365
 ms.date: 02/10/2019
 description: Informazioni sulle domande più frequenti per i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 5b90971ef6e411b4bd8d0cece2d8211f6fd5db23
-ms.sourcegitcommit: 86cfa176d50b324c964b1a8609270cc73a2468b3
+ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068817"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141369"
 ---
 # <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -38,10 +38,9 @@ Microsoft 365 Learning pathways è attualmente in anteprima beta. Tenere present
 
 ### <a name="what-languages-is-microsoft-365-learning-pathways-available-in"></a>In quali lingue sono disponibili i percorsi di apprendimento di Microsoft 365?
 
-Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il provisioning finale automatico è compatibile solo con i tenant inglesi. Si prevede di implementare il supporto multilingue per queste nove lingue nel primo trimestre di 2020. 
+Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il provisioning finale automatico è compatibile solo con i tenant inglesi. Si prevede di implementare il supporto multilingue per le lingue seguenti nel secondo trimestre del 2020. 
 
 - Cinese (semplificato) 
-- Olandese (Paesi Bassi) 
 - Francese  
 - Tedesco 
 - Italiano (Italia) 
@@ -49,6 +48,8 @@ Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il p
 - Portoghese (Brasile) 
 - Russo (Russo)  
 - Spagnolo 
+
+> Il supporto per la lingua olandese non verrà incluso nella prossima versione del supporto multi-lingua per i percorsi di apprendimento. Continuerà a valutare nuove opzioni di lingua in futuro.
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Quanto tempo richiederà l'installazione del sito nell'ambiente tenant?
 

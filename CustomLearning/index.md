@@ -4,15 +4,18 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 10/23/2019
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: 0881b21179c5ffd60b7784f0c3879136dcb58d29
-ms.sourcegitcommit: b3448e95f676ccc5d2b7b153df9106319752936b
+ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 02/06/2020
-ms.locfileid: "41831892"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43141399"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento Microsoft 365 
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.    
+
+> [!IMPORTANT]
+> In risposta agli eventi correnti, i percorsi di apprendimento forniscono un aggiornamento del contenuto di aprile 2020 che si concentra su playlist e risorse progettate per abilitare il lavoro remoto nell'organizzazione. È stato aggiunto un nuovo set di elenchi di riproduzione in remoto, è stato aggiornato in modo significativo il contenuto di Microsoft teams, soprattutto per le riunioni di teams, e è stato aggiunto un nuovo set di Office per le playlist Web. Come parte dell'aggiornamento, è stato anche fornito un elenco di risorse di lavoro remote per gli amministratori. Per l'elenco completo degli aggiornamenti, vedere [Learning pathways April 2020 content updates](custom_contentupdates.md).   
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
