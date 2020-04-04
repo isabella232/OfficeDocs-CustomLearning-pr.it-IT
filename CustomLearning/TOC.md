@@ -3,11 +3,14 @@
 ## [Effettuare il provisioning dei percorsi di apprendimento di Microsoft 365](custom_provision.md)
 ## [Esplorare il sito dei percorsi di apprendimento di Microsoft 365](custom_exploresite.md)
 ## [Configurazione di Web part autonome](custom_manualsetup.md)
-# [Admin Success Center](custom_successcenter.md)
-## [Aggiornamenti dei contenuti di novembre](custom_contentupdates.md)
+# Novità 
+## [Aggiornamenti dei contenuti](custom_contentupdates.md) 
 ## [Gestire gli aggiornamenti dei contenuti](custom_contentupdatesmanage.md)
-## [Aggiornamenti delle funzionalità di novembre](custom_featureupdates.md)
-## [Pianificare i contenuti di apprendimento](custom_plancontent.md)
+## [Aggiornamenti delle funzionalità](custom_featureupdates.md)
+# [Admin Success Center](custom_successcenter.md)
+## Pianificare i contenuti di apprendimento 
+### [Pianificare i contenuti di apprendimento](custom_plancontent.md)
+### [Risorse per il supporto della forza lavoro remota](custom_plancontent_remoteresources.md)
 ## [Personalizzare i percorsi di apprendimento](custom_overview.md)
 ### [Passare al sito dei percorsi di apprendimento di M365](custom_goto.md)
 ### [Personalizzare il sito](custom_edithelp.md)
