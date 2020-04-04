@@ -1,0 +1,35 @@
+---
+author: pkrebs
+ms.author: pkrebs
+title: Risorse per il supporto della forza lavoro remota
+ms.date: 3/31/2020
+description: Risorse per il supporto della forza lavoro remota
+ms.openlocfilehash: b2babec04e7d1723c4c64fd81ce6c18412b9fa72
+ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.translationtype: MT
+ms.contentlocale: it-IT
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142197"
+---
+# <a name="resources-for-supporting-your-remote-workforce"></a><span data-ttu-id="9502f-103">Risorse per il supporto della forza lavoro remota</span><span class="sxs-lookup"><span data-stu-id="9502f-103">Resources for supporting your remote workforce</span></span>
+<span data-ttu-id="9502f-104">In risposta all'epidemia di Covid-19, l'aggiornamento del contenuto di aprile 2020 offre playlist e risorse di apprendimento incentrate sull'abilitazione del lavoro remoto nell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="9502f-104">In response to the Covid-19 outbreak, the April 2020 Content Update provides learning playlists and resources focused on enabling remote work in your organization.</span></span> <span data-ttu-id="9502f-105">È stato aggiunto un nuovo set di elenchi di riproduzione in remoto, è stato aggiornato in modo significativo il contenuto di Microsoft teams, soprattutto per le riunioni di teams, e è stato aggiunto un nuovo set di Office per le playlist Web.</span><span class="sxs-lookup"><span data-stu-id="9502f-105">We’ve added a new set of Work Remotely playlists, significantly updated the Microsoft Teams content, especially for Teams meetings, and added a new set of Office for the Web playlists.</span></span> 
+
+## <a name="customize-learning-pathways-for-remote-work"></a><span data-ttu-id="9502f-106">Personalizzare i percorsi di apprendimento per il lavoro remoto</span><span class="sxs-lookup"><span data-stu-id="9502f-106">Customize Learning Pathways for remote work</span></span>
+<span data-ttu-id="9502f-107">Per supportare i lavoratori remoti, è possibile personalizzare il sito di SharePoint dei percorsi di apprendimento per indirizzare gli utenti al lavoro in remoto.</span><span class="sxs-lookup"><span data-stu-id="9502f-107">To support remote workers, you can customize the Learning Pathways SharePoint site to direct users to the Work Remotely playlists.</span></span> <span data-ttu-id="9502f-108">Per ulteriori informazioni sulla personalizzazione dei percorsi di apprendimento.</span><span class="sxs-lookup"><span data-stu-id="9502f-108">For more information about customizing learning pathways.</span></span>
+
+<span data-ttu-id="9502f-109">Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Customize Learning pathways](custom_overview.md).</span><span class="sxs-lookup"><span data-stu-id="9502f-109">For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md).</span></span> <span data-ttu-id="9502f-110">Per informazioni su come aggiungere e modificare la Web part in modo che venga filtrata in una sottocategoria o in una playlist, vedere</span><span class="sxs-lookup"><span data-stu-id="9502f-110">For information about how to add and edit the Web part to filter to a subcategory or playlist, see</span></span> 
+
+## <a name="top-resources-from-microsoft-for-supporting-your-remote-workforce"></a><span data-ttu-id="9502f-111">Principali risorse di Microsoft per il supporto della forza lavoro remota</span><span class="sxs-lookup"><span data-stu-id="9502f-111">Top resources from Microsoft for supporting your remote workforce</span></span>
+<span data-ttu-id="9502f-112">È possibile creare una pagina di destinazione nel sito di SharePoint dei percorsi di apprendimento per il supporto di operatori remoti.</span><span class="sxs-lookup"><span data-stu-id="9502f-112">You can build a landing page in your Learning Pathways SharePoint site for supporting remote workers.</span></span> <span data-ttu-id="9502f-113">In alternativa, è possibile aggiungere risorse a una pagina di supporto esistente per i dipendenti remoti.</span><span class="sxs-lookup"><span data-stu-id="9502f-113">Or you can add resources to an existing support page for remote workers.</span></span> <span data-ttu-id="9502f-114">Ecco un elenco di alcune delle principali risorse di Microsoft per il supporto dell'attività remota nell'organizzazione.</span><span class="sxs-lookup"><span data-stu-id="9502f-114">Here’s a list of some of the top resources from Microsoft for supporting remote work in your organization.</span></span> 
+- [<span data-ttu-id="9502f-115">Come implementare Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9502f-115">How to roll out Microsoft Teams</span></span>](https://docs.microsoft.com/en-us/microsoftteams/how-to-roll-out-teams)
+- [<span data-ttu-id="9502f-116">Riunioni e conferenze in Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9502f-116">Meetings and conferencing in Microsoft Teams</span></span>](https://docs.microsoft.com/en-us/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
+- [<span data-ttu-id="9502f-117">Supporto di utenti remoti tramite Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9502f-117">Support Remote Workers using Microsoft Teams</span></span>](https://docs.microsoft.com/en-us/microsoftteams/support-remote-work-with-teams)
+- [<span data-ttu-id="9502f-118">Domande frequenti: Supporto del personale remoto</span><span class="sxs-lookup"><span data-stu-id="9502f-118">FAQ: Support your remote workforce</span></span>](https://docs.microsoft.com/en-us/microsoftteams/faq-support-remote-workforce)
+- [<span data-ttu-id="9502f-119">I 9 modi principali in Microsoft IT è l'abilitazione del lavoro remoto per i dipendenti</span><span class="sxs-lookup"><span data-stu-id="9502f-119">The top 9 ways Microsoft IT is enabling remote work for its employees</span></span>](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
+- [<span data-ttu-id="9502f-120">Formazione di Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="9502f-120">Microsoft Teams Training</span></span>](https://docs.microsoft.com/en-us/microsoftteams/training-microsoft-teams-landing-page)
+
+
+<span data-ttu-id="9502f-121">Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Customize Learning pathways](custom_overview.md).</span><span class="sxs-lookup"><span data-stu-id="9502f-121">For more information about how to customize Learning Pathways, see [Customize learning pathways](custom_overview.md).</span></span> <span data-ttu-id="9502f-122">Per informazioni su come aggiungere e modificare la Web part in modo che venga filtrata in una sottocategoria o in una playlist, vedere</span><span class="sxs-lookup"><span data-stu-id="9502f-122">For information about how to add and edit the Web part to filter to a subcategory or playlist, see</span></span> 
+
+
+ 
