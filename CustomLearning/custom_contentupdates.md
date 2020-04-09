@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Percorsi di apprendimento aggiornamenti del contenuto
 ms.date: 3/30/2020
 description: Percorsi di apprendimento degli aggiornamenti del contenuto di aprile 2020
-ms.openlocfilehash: 21b44cd09a4c8170c7b5740d25733c7b0af0792a
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.openlocfilehash: 8e30e3803d4b6a309cf5ddd8028cf8b3425b1e6e
+ms.sourcegitcommit: dbe293e5690223b5ca3862fe50cfec8ca641eb65
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141382"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43191339"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per aprile 2020.
@@ -109,9 +109,9 @@ Office per il Web fornisce un set di elenchi di riproduzione per gli scenari in 
 - Condividere i documenti
 - Creare un collegamento condivisibile
 - Proteggere i documenti solo per utenti specifici
-- Condivisione con un utente esterno all'organizzazione
+- Condivisione con un utente esterno all'organizzazione 
 
-###<a name="microsoft-forms"></a>Microsoft Forms 
+### <a name="microsoft-forms"></a>Microsoft Forms 
 In base alle richieste, sono presenti anche alcune nuove risorse per i moduli. 
 #### <a name="forms-4-new-assets"></a>Moduli (4 nuove risorse) 
 - Creare un modulo 
@@ -130,7 +130,7 @@ In base alle richieste, sono presenti anche alcune nuove risorse per i moduli.
 - [Formazione: Microsoft Education Center](https://education.microsoft.com) 
 - [Formazione: Guida introduttiva a Remote Learning](https://education.microsoft.com/resource/4c0c02c0)
 
-Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Customize Learning pathways] ((custom_overview. MD). 
+Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Customize Learning pathways](custom_overview.md). 
 
 ## <a name="november-2019-content-updates"></a>Aggiornamenti del contenuto di novembre 2019
 Aggiornamento del contenuto di Microsoft 365 Learning pathways. A partire dall'aggiornamento del 2019 novembre, verrà fornito un inventario aggiornato del catalogo percorsi di apprendimento su base trimestrale. Per l'aggiornamento del 2019 novembre, al catalogo percorsi di apprendimento sono state aggiunte le nuove sottocategorie di contenuto e le playlist seguenti. Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md).    
