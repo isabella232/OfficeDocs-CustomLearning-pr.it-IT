@@ -5,15 +5,15 @@ title: Provisioning di una nuova soluzione di percorsi di apprendimento multilin
 ms.date: 02/10/2019
 description: Eseguire il provisioning del sito Microsoft 365 Learning pathways tramite il servizio di provisioning di SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 380063b92713bf571438a0e2be21f0638dde0cfb
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
+ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031712"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038996"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Provisioning di una nuova soluzione di percorsi di apprendimento multilingue
-Le organizzazioni che non dispongono di percorsi di apprendimento già sottoposto a provisioning nel tenant possono aggiungere alla propria tenant la soluzione per i percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima. 
+Le organizzazioni che non dispongono di percorsi di apprendimento provisioning nel tenant possono utilizzare il servizio di provisioning di SharePoint per aggiungere la soluzione di percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima. 
 
 > [!IMPORTANT]
 > Se è già stato effettuato il provisioning dei percorsi di apprendimento nel tenant, è consigliabile seguire il [percorso di aggiornamento](custom_update_ml.md) per i percorsi di apprendimento. Se si installano percorsi di apprendimento su un'istanza esistente del tenant, le eventuali modifiche apportate al modello di sito percorsi di apprendimento o alle playlist potrebbero andare perse.
@@ -73,12 +73,12 @@ Come amministratore del tenant, è improbabile che tu sia la persona che Persona
 5. Aggiungere un collegamento per [esplorare il sito](custom_exploresite.md) nel messaggio di condivisione e quindi fare clic su **Condividi**.
 
 ## <a name="add-translators-to-the-site"></a>Aggiungere i traduttori al sito
-I traduttori richiedono autorizzazioni per i membri o superiori nel sito. 
+Se si utilizzeranno i traduttori per il sito, è possibile assegnargli le autorizzazioni. I traduttori richiedono autorizzazioni per i membri o superiori. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Scegliere le opzioni per l'utilizzo di più lingue nel sito
 Il servizio di provisioning di SharePoint crea il sito percorsi di apprendimento in nove lingue. Vengono applicati i seguenti suggerimenti:
 - Disattivare le lingue che non si desidera supportare
-- Se non si supporta un sito in più lingue, disattivare la funzionalità multilingue. 
+- Se non si supporta un sito in più lingue, disattivare la funzionalità multilingue. Vedere la sezione relativa alla disattivazione del supporto multilingue più avanti in questo argomento.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Rimuovere le lingue che non si desidera supportare
 Per le organizzazioni che scelgono di supportare una sola lingua, oltre alla lingua inglese predefinita, è consigliabile rimuovere le lingue che non sono supportate. 
@@ -102,6 +102,11 @@ Se si intende tradurre le pagine, facoltativamente assegnare uno o più tradutto
 
 ## <a name="turn-off-multilingual-support"></a>Disattiva supporto multilingue
 Se non si desidera un sito multilingue, ad esempio si desidera un sito solo in lingua inglese, è consigliabile disattivare la funzionalità multilingue. 
+
+1. Dal sito percorsi di apprendimento selezionare **Impostazioni** dall'alto a destra della pagina e quindi selezionare **informazioni sito**.
+2. Nella parte inferiore del riquadro delle informazioni del sito selezionare **Visualizza tutte le impostazioni del sito**.
+3. In **Amministrazione sito**selezionare **Impostazioni lingua**.
+4. In **attiva pagine e notizie da tradurre in più lingue**, scorrere l'interruttore **su**attivato. Dovrebbe essere attiva per impostazione predefinita.
 - In **attiva pagine e notizie da tradurre**, selezionare **disattivata**. 
 
 ### <a name="add-languages"></a>Aggiungere le lingue

@@ -5,12 +5,12 @@ title: Percorsi di apprendimento installazione manuale
 ms.date: 02/10/2019
 description: Percorsi di apprendimento installazione manuale
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 42e7aeeff7639f7fe77b12d60371ad6efe67f782
-ms.sourcegitcommit: 1e6e31d2bd43971b62322c7d2db352961c554d71
+ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
+ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/04/2020
-ms.locfileid: "45037231"
+ms.lasthandoff: 07/05/2020
+ms.locfileid: "45038976"
 ---
 # <a name="learning-pathways-manual-setup"></a>Percorsi di apprendimento installazione manuale
 
@@ -18,7 +18,7 @@ Microsoft 365 Learning pathways offre una configurazione manuale per le organizz
 
 - L'organizzazione dispone di un sito di comunicazione moderno di SharePoint Online definito dedicato all'allenamento e si desidera aggiungere percorsi di apprendimento a tale sito. In questo scenario, la Web part percorsi di apprendimento non è stata configurata nel sito.
 
-- Si desidera installare percorsi di apprendimento per il supporto multilingue in uno dei siti di comunicazione di SharePoint dell'organizzazione. Il sito ha o avrà una lingua predefinita che non è l'inglese, ma è una delle lingue supportate da percorsi di apprendimento. Di seguito sono ritratte le lingue supportate dai percorsi di apprendimento:
+- Si desidera installare percorsi di apprendimento per il supporto multilingue in uno dei siti di comunicazione di SharePoint dell'organizzazione. Il sito ha o avrà una lingua predefinita che non è l'inglese ed è una delle lingue supportate da percorsi di apprendimento. Di seguito sono ritratte le lingue supportate dai percorsi di apprendimento:
 
 - English
 - Cinese (semplificato)
@@ -30,23 +30,20 @@ Microsoft 365 Learning pathways offre una configurazione manuale per le organizz
 - Russo (Russo)
 - Spanish
 
-La configurazione manuale dei percorsi di apprendimento richiede un'esperienza di utilizzo di Windows PowerShell e di SharePoint Online Management Shell. Di seguito sono riportate le procedure per la configurazione manuale dei percorsi di apprendimento: 
+La configurazione manuale dei percorsi di apprendimento richiede un'esperienza di utilizzo di Windows PowerShell e di SharePoint Online Management Shell. Di seguito è riportata una panoramica dei passaggi per la configurazione manuale dei percorsi di apprendimento: 
 
 - Verificare che siano stati soddisfatti tutti i prerequisiti.
 - Controllare le impostazioni della lingua predefinite per il sito. Se si va bene, continuare con l'installazione manuale. Se è necessaria un'impostazione della lingua predefinita diversa, è necessario creare un nuovo sito. 
 - Installare il file customlearning. sppkg nel catalogo delle app tenant di SharePoint.
 - Provisioning/identificare un sito di comunicazione moderno che funga da Microsoft 365 Learning pathways Home site.
-- Eseguire uno script di PowerShell che configurerà il tenant con gli elementi idonei in base ai quali i percorsi di apprendimento dipendono.
+- Eseguire uno script di PowerShell che configurerà il tenant con gli elementi in base ai quali i percorsi di apprendimento dipendono.
 - Passare alla pagina del sito CustomLearningAdmin. aspx per caricare la Web part amministratore per inizializzare la configurazione del contenuto personalizzato.
-
-> [!NOTE]
-> Se si sta cercando un modo semplice e veloce per configurare i percorsi di apprendimento, vedere [provisioning Microsoft 365 Learning pathways](custom_provision.md).
 
 ## <a name="prerequisites"></a>Prerequisiti
 Per garantire una corretta configurazione manuale della web part percorsi di apprendimento, è necessario che vengano soddisfatti i prerequisiti seguenti. 
 
-- È necessario configurare e configurare il catalogo app a livello di tenant. Vedere [configurare il tenant di Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e seguire la sezione Crea sito Catalogo app. 
-- Se è già stato effettuato il provisioning del catalogo app a livello di tenant, è necessario accedere a un account che disponga dei diritti di caricamento di un pacchetto per completare il processo di installazione. In genere, questo account ha un ruolo di amministratore di SharePoint. 
+- È necessario configurare e configurare il catalogo app a livello di tenant. Per ulteriori informazioni, vedere [configurare il tenant di Office 365](https://docs.microsoft.com/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e seguire la sezione "creare Catalogo app". 
+- Se è già stato effettuato il provisioning del catalogo app a livello di tenant, è necessario accedere a un account che disponga dei diritti di caricamento di un pacchetto. In genere, questo account ha un ruolo di amministratore di SharePoint. 
 - Se un account con quel ruolo non funziona, passare all'interfaccia di amministrazione di SharePoint e individuare gli amministratori della raccolta siti per la raccolta siti Catalogo app e accedere come uno degli amministratori della raccolta siti oppure aggiungere l'account di amministratore di SharePoint che non è riuscito agli amministratori della raccolta siti. 
 - È inoltre necessario accedere a un account che sia un amministratore tenant di SharePoint.
 
@@ -76,7 +73,7 @@ Con questa opzione, si crea un nuovo sito di comunicazione di SharePoint Online 
 3. Aggiungere altre lingue, se necessario, e quindi fare clic su **Salva**. 
 4. Continuare con il passaggio 2. 
 
->! Nota Se è necessario eseguire la migrazione di contenuto personalizzato da un sito a un sito appena creato, vedere [eseguire la migrazione di contenuto personalizzato](Migrate custom content). 
+>! Nota Se è necessario eseguire la migrazione di contenuto personalizzato da un sito a un sito appena creato, vedere la sezione "eseguire la migrazione di contenuto personalizzato" più avanti in questo documento. 
 
 ## <a name="step-2---get-the-web-part-package-and-setup-script-from-github"></a>Passaggio 2: ottenere il pacchetto Web part e lo script di installazione da GitHub
 Come parte del processo di installazione, è necessario il pacchetto della web part di Microsoft 365 Learning pathways e lo script di installazione di PowerShell.
@@ -115,7 +112,7 @@ Parte di questa soluzione include la verifica della telemetria di anonimi opt-in
 
 Dopo che lo script di PowerShell è stato eseguito correttamente, passare al sito, inizializzare l'elemento dell'elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo e convalidare il funzionamento del sito.
 
-- Vai a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'apertura di **CustomLearningAdmin. aspx** consente di inizializzare l'elemento di elenco **CustomConfig** che consente di configurare i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
+- Passare a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. L'apertura di **CustomLearningAdmin. aspx** consente di inizializzare l'elemento di elenco **CustomConfig** che consente di configurare i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 
@@ -129,8 +126,9 @@ Come amministratore del tenant, è improbabile che tu sia la persona che Persona
 5. Aggiungere un collegamento per [esplorare il sito](https://docs.microsoft.com/Office365/CustomLearning/custom_explore) nel messaggio di condivisione e quindi fare clic su **Condividi**.
 
 ## <a name="migrate-custom-content"></a>Eseguire la migrazione di contenuto personalizzato
-Dopo aver ristabilito il sito dei percorsi di apprendimento seguendo la procedura descritta in alto, è necessario spostare i contenuti dell'elenco di **CustomPlaylists** e dell'elenco di **CustomAssets** . È anche possibile, facoltativamente, spostare le pagine personalizzate effettive che compongono le risorse personalizzate se sono presenti nel sito percorsi di apprendimento esistente e l'intenzione è di eliminarla. L'attività può essere difficile perché per tutti gli elementi nell'elenco **CustomPlaylists** , l'ID della voce di elenco nell'elenco **CustomAssets** è sepolto nel campo JSONData di ogni voce di elenco di playlist. Pertanto, semplicemente spostando il contenuto dell'elenco **CustomPlaylists** da un sito all'altro non sarà sufficiente. Inoltre, l'elenco **CustomAssets** contiene l'URL assoluto della pagina del cespite personalizzato nel campo JSONData della voce di elenco. Se le risorse non vengono spostate e il sito non viene rinominato (cambiando così l'URL assoluto della pagina del cespite), **CustomAssets** può rimanere. Tuttavia, sarà necessario correggere manualmente le voci. Data la complessità di questo tipo di migrazione, è consigliabile prendere in considerazione l'arruolamento di uno dei nostri partner di percorsi di apprendimento per facilitare la transizione.
+Dopo aver ristabilito il sito dei percorsi di apprendimento seguendo la procedura descritta in alto, è necessario spostare i contenuti dell'elenco di **CustomPlaylists** e dell'elenco di **CustomAssets** . È anche possibile, facoltativamente, spostare le pagine personalizzate effettive che compongono le risorse personalizzate se sono presenti nel sito percorsi di apprendimento esistente e l'intenzione è di eliminarla. L'attività può essere difficile perché per tutti gli elementi nell'elenco **CustomPlaylists** , l'ID della voce di elenco nell'elenco **CustomAssets** è sepolto nel campo JSONData di ogni voce di elenco di playlist. Pertanto, semplicemente spostando il contenuto dell'elenco **CustomPlaylists** da un sito all'altro non sarà sufficiente. Inoltre, l'elenco **CustomAssets** contiene l'URL assoluto della pagina del cespite personalizzato nel campo JSONData della voce di elenco. Se le risorse non vengono spostate e il sito non viene rinominato (cambiando così l'URL assoluto della pagina del cespite), **CustomAssets** può rimanere. Tuttavia, sarà necessario correggere manualmente le voci. Data la complessità di questo tipo di migrazione, è consigliabile prendere in considerazione l'arruolamento di uno dei nostri partner di percorsi di apprendimento per facilitare la transizione. 
 
 ### <a name="next-steps"></a>Operazioni successive
-- [Personalizzare](custom_overview.md) l'esperienza di formazione per l'organizzazione.
+- Per ulteriori informazioni, vedere [Customize Learning pathways](custom_overview.md). 
+- Vedere [translate site pages](custom_translate_page_ml.md).
 
