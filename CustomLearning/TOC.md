@@ -1,12 +1,18 @@
-# [Per iniziare](index.md)
-## [Opzioni di configurazione dei percorsi di apprendimento di Microsoft 365](custom_setupoptions.md)
-## [Effettuare il provisioning dei percorsi di apprendimento di Microsoft 365](custom_provision.md)
+# [Per iniziare](index.md)  
+## [Opzioni di configurazione per i percorsi di apprendimento](custom_setupoptions.md)
+## [Provisioning dei percorsi di apprendimento](custom_provision.md)
+## [Aggiornare percorsi di apprendimento](custom_update.md)
+## [Configurazione manuale](custom_manualsetup.md)
 ## [Esplorare il sito dei percorsi di apprendimento di Microsoft 365](custom_exploresite.md)
-## [Configurazione di Web part autonome](custom_manualsetup.md)
 # Novità 
 ## [Aggiornamenti dei contenuti](custom_contentupdates.md) 
 ## [Gestire gli aggiornamenti dei contenuti](custom_contentupdatesmanage.md)
 ## [Aggiornamenti delle funzionalità](custom_featureupdates.md)
+# Supporto multilingue
+## [Supporto multilingue per i percorsi di apprendimento](custom_overview_ml.md)
+## [Tradurre pagine del sito](custom_translate_page_ml.md)
+## [Tradurre le playlist personalizzate dei percorsi di apprendimento](custom_translate_pl_ml.md)
+## [Tradurre il nome del sito, la struttura di spostamento e i piè di pagina](custom_sitenamenav_ml.md)
 # [Admin Success Center](custom_successcenter.md)
 ## Pianificare i contenuti di apprendimento 
 ### [Pianificare i contenuti di apprendimento](custom_plancontent.md)
