@@ -1,34 +1,54 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Opzioni di installazione di Microsoft 365 Learning pathways
-ms.date: 02/11/2019
-description: Opzione di installazione per l'installazione di apprendimento personalizzato
-ms.openlocfilehash: 6906b5e70b186c106b3a9969b5bce1cbe87d7021
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
-ms.translationtype: MT
+title: Opzione di installazione per i percorsi di apprendimento
+ms.date: 07/16/2020
+description: Opzione di installazione per i percorsi di apprendimento
+ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956653"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043218"
 ---
-# <a name="learning-pathways-setup-options"></a>Opzioni di installazione percorsi di apprendimento
-I percorsi di apprendimento offrono la flessibilità necessaria per configurare la soluzione in un paio di modi diversi. Nelle sezioni seguenti vengono illustrate le opzioni disponibili.
+# <a name="setup-options-for-multilingual-learning-pathways"></a>Opzioni di installazione per percorsi di apprendimento multilingue
+Con il rilascio di funzionalità multilingue per i siti di comunicazione di SharePoint Online, i percorsi di apprendimento offrono ora il supporto per più lingue. È possibile configurare percorsi di apprendimento in diversi modi per soddisfare le esigenze dell'organizzazione. Per facilitare la scelta del percorso migliore per l'organizzazione, sono state descritte le opzioni di installazione. 
 
-> [!IMPORTANT]
-> Se è già stato effettuato il provisioning di apprendimento personalizzato per Office 365 nell'organizzazione e si desidera aggiornare la soluzione, seguire le istruzioni "Updating the Solution" nel [file Leggimi di Microsoft 365 Learning pathways](https://github.com/pnp/custom-learning-office-365). Se si desidera eseguire il provisioning dei percorsi di apprendimento di Microsoft 365 per la prima volta, vedere [provision microsoft 365 Learning pathways instructions]( https://docs.microsoft.com/en-us/office365/customlearning/custom_provision) nella documentazione relativa ai percorsi di apprendimento di Microsoft 365.  
+## <a name="new-install-scenarios"></a>Nuovi scenari di installazione
+Gli "scenari di installazione nuovi" spiegano le opzioni per l'installazione di una nuova istanza dei percorsi di apprendimento tramite il servizio Microsoft 365 look book. 
 
+### <a name="scenario-1-we-have-not-installed-learning-pathways-and-need-learning-pathways-multilingual-support"></a>Scenario 1: non sono stati installati percorsi di apprendimento e è necessario un supporto multilingue per i percorsi di apprendimento 
+Se non sono stati installati percorsi di apprendimento e sono necessari più lingue, è possibile utilizzare il servizio Microsoft 365 look book per installare una nuova soluzione di percorsi di apprendimento con supporto per nove lingue. L'inglese sarà la lingua predefinita e non può essere modificata. 
+- Per eseguire il provisioning di una nuova soluzione di percorsi di apprendimento con l'inglese come lingua predefinita per il sito, vedere [provisioning a New Learning pathways Solution](custom_provision.md).
 
-## <a name="recommended---sharepoint-online-provisioning-service-setup"></a>Procedura consigliata: installazione del servizio di provisioning di SharePoint Online 
-Il servizio di provisioning di SharePoint Online offre il metodo più rapido, semplice e consigliato per la configurazione dell'apprendimento personalizzato. Con il servizio di provisioning di SharePoint Online, un amministratore di Office 365 tenant accede al servizio, effettua alcune scelte e fa clic su **Aggiungi al tenant** per eseguire il provisioning del sito di apprendimento personalizzato e della web part di apprendimento personalizzata. Quando si esegue il provisioning, l'amministratore del tenant riceve un messaggio di posta elettronica che il sito è pronto per l'esecuzione. 
+### <a name="scenario-2-we-installed-learning-pathways-but-arent-currently-using-it-andor-havent-made-any-customization-to-the-site-or-playlists"></a>Scenario 2: i percorsi di apprendimento sono stati installati ma non sono attualmente in uso e/o non sono state apportate personalizzazioni al sito o alle playlist 
+Se i percorsi di apprendimento sono stati installati ma non sono stati utilizzati attivamente oppure non sono state apportate personalizzazioni al sito o alle playlist, è possibile utilizzare il servizio Microsoft 365 look book per installare una nuova soluzione con supporto per nove lingue. L'inglese sarà la lingua predefinita e non può essere modificata. 
+- Per eseguire il provisioning di una nuova soluzione di percorsi di apprendimento con l'inglese come lingua predefinita per il sito, vedere [provisioning a New Learning pathways Solution](custom_provision.md).
 
-- Per iniziare a utilizzare il servizio di provisioning di SharePoint, andare a provisioning [con il servizio di provisioning PNP](custom_provision.md) .   
+### <a name="scenario-3-we-havent-installed-learning-pathways-and-dont-need-multilingual-support"></a>Scenario 3: non sono stati installati percorsi di apprendimento e non è necessario il supporto multilingue 
+Se non sono stati installati percorsi di apprendimento e non è necessario un supporto multilingue, è possibile installarlo dal servizio Microsoft 365 look book. L'inglese sarà la lingua predefinita. Dopo l'installazione, è necessario disattivare il supporto multilingue. 
+- Per eseguire il provisioning di una nuova soluzione di percorsi di apprendimento senza supporto multilingue, vedere [provisioning an New Learning pathways Solution](custom_provision.md).
 
-## <a name="stand-alone-learning-pathways-web-part-setup"></a>Configurazione della web part percorsi di apprendimento stand alone
-Per le organizzazioni che già dispongono di un portale di formazione per la comunicazione moderna di SharePoint Online, i percorsi di apprendimento offrono la possibilità di installare manualmente la Web part Microsoft 365 Learning pathways in un sito di SharePoint Online esistente. Si noti che il sito deve essere un sito di SharePoint Online moderno. Questo metodo richiede autorizzazioni di amministratore tenant e esperienza con Windows PowerShell o SharePoint Online Management Shell. Si noti che questo metodo richiede un'esperienza più tecnica e quindi la configurazione del servizio di provisioning di SharePoint Online.
+## <a name="update-learning-pathways-with-a-web-part-upload-scenarios"></a>Aggiornare i percorsi di apprendimento (con caricamento di una Web part)
+Se è installata una versione esistente dei percorsi di apprendimento, è possibile caricare la Web part percorsi di apprendimento nel catalogo app di SharePoint per abilitare il supporto multilingue. 
 
-- Per istruzioni sull'installazione di Web part manuali, vedere Manual [Install the Web part](custom_manualsetup.md). 
+### <a name="scenario-1-we-need-to-upgrade-an-existing-version-of-learning-pathways-but-dont-need-multilingual-support"></a>Scenario 1: è necessario aggiornare una versione esistente dei percorsi di apprendimento ma non è necessario il supporto multilingue
+È possibile aggiornare i percorsi di apprendimento versione 4,0 senza supporto multilingue. Con l'aggiornamento, è possibile ottenere un paio di nuove funzionalità, tra cui un selettore di immagini per playlist e sottocategorie personalizzate. 
 
-## <a name="update-learning-pathways"></a>Aggiornare i percorsi di apprendimento
-Le organizzazioni che hanno utilizzato il servizio di provisioning di SharePoint Online per installare le versioni precedenti dei percorsi di apprendimento di Microsoft 365 possono aggiornare la soluzione alla versione più recente. Per istruzioni su come verificare la versione distribuita rispetto alla versione più recente della soluzione, insieme alle istruzioni su come aggiornare la soluzione, vedere la sezione "Updating the Solution" del [file Readme](https://github.com/pnp/custom-learning-office-365/blob/master/README.md).
+- Per aggiornare una soluzione di percorsi di apprendimento esistente senza supporto multilingue, vedere [Update Learning pathways for Multilingual Support](custom_update.md). Il processo di aggiornamento per nessun supporto multilingue è lo stesso del supporto multilingue, ma con meno passaggi. 
 
-### <a name="next-steps---provision-microsoft-365-learning-pathwayscustom_provisionmd"></a>Passaggi successivi- [provisioning di Microsoft 365 Learning pathways](custom_provision.md)
+### <a name="scenario-2-we-need-to-upgrade-to-multilingual-support-and-the-default-language-of-the-site-collection-is-our-default-language"></a>Scenario 2: è necessario eseguire l'aggiornamento al supporto multilingue e la lingua predefinita della raccolta siti è la lingua predefinita
+Percorsi di apprendimento la versione 4. O supporterà pagine multilingue nella raccolta siti. Oltre al supporto multilingue, è possibile ottenere un paio di nuove funzionalità, tra cui un selettore di immagini per playlist e sottocategorie personalizzate. 
+- Per aggiornare i percorsi di apprendimento esistenti supporto multilingue del sito, vedere [Update Learning pathways for Multilingual Support](custom_update.md). 
+
+## <a name="update-learning-pathways-for-multilingual-support-with-manual-install"></a>Aggiornare i percorsi di apprendimento per il supporto multilingue con installazione manuale 
+Di seguito vengono illustrati gli scenari per l'aggiornamento di un'istanza esistente della soluzione di percorsi di apprendimento alla versione multilingue versione 4,0, installando manualmente la Web part percorsi di apprendimento. 
+
+### <a name="scenario-1-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--no-custom-content"></a>Scenario 1: è necessario il supporto multilingue e la lingua predefinita della raccolta siti non è la lingua predefinita – nessun contenuto personalizzato 
+Percorsi di apprendimento la versione 4,0 sosterrà questo scenario. Tuttavia, in questo scenario si presuppone che non vi siano contenuti o elenchi di riproduzione personalizzati nel sito esistente. Per questo scenario, è possibile creare un nuovo sito di comunicazione di SharePoint Online con la lingua predefinita, caricare la Web part e quindi configurare manualmente i percorsi di apprendimento con uno script di PowerShell. 
+- Per impostare percorsi di apprendimento per il supporto multilingue con la lingua predefinita, vedere [Manual Install of Learning pathways for Multilingual Support](custom_manualsetup.md).
+
+### <a name="scenario-2-we-need-multilingual-support-and-the-default-language-of-the-site-collection-is-not-our-default-language--plus-we-have-custom-content"></a>Scenario 2: è necessario un supporto multilingue e la lingua predefinita della raccolta siti non è la lingua predefinita, oltre al contenuto personalizzato 
+Per questo scenario, è possibile creare un nuovo sito di comunicazione di SharePoint Online con la lingua predefinita, caricare la Web part e quindi configurare manualmente i percorsi di apprendimento con uno script di PowerShell. 
+
+Dopo aver ristabilito il sito dei percorsi di apprendimento seguendo la procedura descritta in alto, è necessario spostare i contenuti dell'elenco di **CustomPlaylists** e dell'elenco di **CustomAssets** . È anche possibile, facoltativamente, spostare le pagine personalizzate effettive che compongono le risorse personalizzate se sono presenti nel sito percorsi di apprendimento esistente e l'intenzione è di eliminarla. L'attività può essere difficile perché per tutti gli elementi nell'elenco **CustomPlaylists** , l'ID della voce di elenco nell'elenco **CustomAssets** è sepolto nel campo JSONData di ogni voce di elenco di playlist. Pertanto, semplicemente spostando il contenuto dell'elenco **CustomPlaylists** da un sito all'altro non sarà sufficiente. Inoltre, l'elenco **CustomAssets** contiene l'URL assoluto della pagina del cespite personalizzato nel campo JSONData della voce di elenco. Se le risorse non vengono spostate e il sito non viene rinominato (cambiando così l'URL assoluto della pagina del cespite), **CustomAssets** può rimanere. Tuttavia, sarà necessario correggere manualmente le voci. Data la complessità di questo tipo di migrazione, è consigliabile prendere in considerazione l'arruolamento di uno dei nostri partner di percorsi di apprendimento per facilitare la transizione.
+- Per impostare percorsi di apprendimento per il supporto multilingue con la lingua predefinita, vedere [Manual Install of Learning pathways for Multilingual Support](custom_manualsetup.md).

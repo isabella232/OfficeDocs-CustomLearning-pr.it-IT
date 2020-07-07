@@ -4,29 +4,36 @@ ms.author: pkrebs
 title: Aggiornamenti delle funzionalità per i percorsi di apprendimento
 ms.date: 10/20/2019
 description: Aggiornamenti delle funzionalità per i percorsi di apprendimento
-ms.openlocfilehash: 636be2078a87bee2ef9f406f76239e2d4ea94e11
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141359"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048094"
 ---
-# <a name="learning-pathways-feature-updates"></a>Aggiornamenti delle funzionalità per i percorsi di apprendimento
-Il team di Learning pathways ascolta i commenti e suggerimenti del cliente per fornire le funzionalità necessarie. Di seguito viene fornito un aggiornamento sulle caratteristiche pianificate per Q2 del 2020. 
+# <a name="july-2020-version-40-feature-updates"></a>Luglio 2020 versione 4,0 aggiornamenti delle funzionalità 
 
-## <a name="upcoming-feature-updates-for-q2-2020"></a>Aggiornamenti delle funzionalità imminenti per Q2 2020
-Il supporto multilingue per i percorsi di apprendimento è programmato per essere rilasciato nel secondo trimestre del 2020. Il supporto multilingue assume una dipendenza dalla caratteristica "pubblicazione di pagine di Multiligual per SharePoint moderna" e sarà disponibile contemporaneamente alla disponibilità generale per il supporto multilingue di SharePoint. Per ulteriori informazioni, vedere la Guida di [orientamento di Microsoft 365](https://www.microsoft.com/microsoft-365/roadmap?filters=&searchterms=50217).  
-  
-Le lingue seguenti saranno supportate per i percorsi di apprendimento:   
+Le nuove caratteristiche seguenti sono state aggiunte a Microsoft 365 Learning pathways versione 4,0. 
 
+## <a name="multilingual-support-for-learning-pathways"></a>Supporto multilingue per i percorsi di apprendimento 
+Il supporto multilingue per i percorsi di apprendimento è ora disponibile in nove lingue.  
+- English     
 - Cinese (semplificato) 
-- Francese  
+- Francese 
 - Tedesco 
 - Italiano (Italia) 
-- Giapponese (Giappone)  
+- Giapponese (Giappone) 
 - Portoghese (Brasile) 
-- Russo (Russo)  
-- Spagnolo 
+- Russo (Russo) 
+- Spanish 
+
+Per ulteriori informazioni, vedere [Learning pathways Multilingual Overview](custom_overview.md). 
+
+## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selezione immagini per percorsi di apprendimento sottocategorie personalizzate 
+I percorsi di apprendimento ora offrono un selettore di immagini di facile utilizzo per playlist e sottocategorie personalizzate.  Nelle versioni precedenti, è possibile modificare l'immagine per una playlist, ma non per una sottocategoria.  
+
+Per altre informazioni, vedere:
+- [Creare un elenco di riproduzione personalizzato](custom_createnewplaylist.md). 
+- [Creare una sottocategoria](custom_createnewcat.md)
 
 > [!NOTE]
 > Il supporto per la lingua olandese non verrà incluso nella prossima versione del supporto multi-lingua per i percorsi di apprendimento. Continuerà a valutare nuove opzioni di lingua in futuro.

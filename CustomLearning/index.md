@@ -2,20 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
-ms.date: 10/23/2019
+ms.date: 7/6/2020
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: e0e05618328ea0c9ccb187d1784b37a79f5a5be9
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
-ms.translationtype: MT
+ms.openlocfilehash: 6f2953ff8b5af209d2b72b1c052c78d29e948c52
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141399"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043238"
 ---
-# <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento Microsoft 365 
+# <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento di Microsoft 365 
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.    
 
 > [!IMPORTANT]
-> In risposta agli eventi correnti, i percorsi di apprendimento forniscono un aggiornamento del contenuto di aprile 2020 che si concentra su playlist e risorse progettate per abilitare il lavoro remoto nell'organizzazione. È stato aggiunto un nuovo set di elenchi di riproduzione in remoto, è stato aggiornato in modo significativo il contenuto di Microsoft teams, soprattutto per le riunioni di teams, e è stato aggiunto un nuovo set di Office per le playlist Web. Come parte dell'aggiornamento, è stato anche fornito un elenco di risorse di lavoro remote per gli amministratori. Per l'elenco completo degli aggiornamenti, vedere [Learning pathways April 2020 content updates](custom_contentupdates.md).   
+> In risposta ai commenti e suggerimenti dei clienti, i percorsi di apprendimento offrono ora supporto multilingue per nove lingue. Per informazioni e istruzioni su come abilitare il supporto multilingue per i percorsi di apprendimento, leggere gli argomenti seguenti: 
+>- [Panoramica del supporto multilingue per i percorsi di apprendimento](custom_overview_ml.md) 
+>- [Opzioni di installazione per i percorsi di apprendimento](custom_setupoptions.md)  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
@@ -31,13 +32,14 @@ Microsoft 365 Learning pathways offre:
 ## <a name="sharepoint-online-provisioning-service"></a>Servizio di provisioning di SharePoint Online 
 È possibile eseguire il provisioning dei percorsi di apprendimento dal servizio di provisioning di SharePoint Online. Quando si esegue il provisioning dei percorsi di apprendimento di Microsoft 365, le organizzazioni ottengono un sito di comunicazione di SharePoint Online creato per essere un portale di formazione esterno, insieme a una Web part per i percorsi di apprendimento connesso a un catalogo online di contenuti di formazione. 
 
-![CG-provision. png](media/cg-provision.png)
+![cg-provision.png](media/cg-provision.png)
 
-## <a name="3-easy-steps"></a>3 semplici passaggi
+## <a name="4-easy-steps"></a>4 semplici passaggi
 Iniziamo a creare un'esperienza di apprendimento dei percorsi per l'ambiente.
-1. Scegliere un' [opzione di installazione](custom_setupoptions.md) e provisioning di Microsoft 365 Learning pathways.  
-2. Percorsi di apprendimento personalizzati per l'ambiente.
-3. Condividere i percorsi di apprendimento con gli utenti utilizzando gli [strumenti di adozioni](driveadoption.md).
+1. Leggere la [Panoramica del supporto multilingue per i percorsi di apprendimento](custom_overview_ml.md). 
+2. Scegliere un' [opzione di installazione](custom_setupoptions.md) e provisioning di Microsoft 365 Learning pathways.  
+3. Percorsi di apprendimento personalizzati per l'ambiente.
+4. Condividere i percorsi di apprendimento con gli utenti utilizzando gli [strumenti di adozioni](driveadoption.md).
 
 ## <a name="feedback-and-support"></a>Feedback e supporto
 

@@ -1,18 +1,17 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Percorsi di apprendimento installazione manuale
+title: Percorsi di apprendimento installazione manuale per ml
 ms.date: 02/10/2019
 description: Percorsi di apprendimento installazione manuale
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: c524ebae73cb928a8e77567d4ea2c5e8d5032ccd
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 44bd47f0a49634a2f6ac6aca2d221fb8e6f15980
+ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038976"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45043278"
 ---
-# <a name="learning-pathways-manual-setup"></a>Percorsi di apprendimento installazione manuale
+# <a name="learning-pathways-manual-setup-for-multilingual"></a>Percorsi di apprendimento configurazione manuale per la lingua multilingue
 
 Microsoft 365 Learning pathways offre una configurazione manuale per le organizzazioni che necessitano del supporto per uno degli scenari seguenti:
 

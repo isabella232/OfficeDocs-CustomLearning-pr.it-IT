@@ -2,24 +2,23 @@
 author: pkrebs
 ms.author: pkrebs
 title: Tradurre pagine del sito
-ms.date: 02/10/2019
+ms.date: 07/06/2020
 description: Tradurre pagine del sito
-ms.openlocfilehash: cf397250ceab826efb8b82522c0560c2109d24bb
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: c712ff624f37efa54120a8567e2a6b3a79d54bcd
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038986"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048114"
 ---
 # <a name="translate-site-pages"></a>Tradurre pagine del sito
 Prima di iniziare a tradurre il sito dei percorsi di apprendimento, è importante comprendere alcuni concetti chiave di come funziona la funzionalità multilingue con i percorsi di apprendimento. 
 - Informazioni sul sito: la navigazione, il logo e le traduzioni dei nomi di sito richiedono che il sito sia visualizzato e convertito nel profilo della lingua dell'utente.  
 - La Web part percorsi di apprendimento deve essere visualizzata con il profilo della lingua dell'utente in modo che venga visualizzata in una lingua non inglese. La Web part e il contenuto fornito da Microsoft sono già tradotti per l'utente. Per ulteriori informazioni sui profili delle lingue, vedere [Change Your Personal Language and Regional Settings](https://support.microsoft.com/en-us/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7).
-- Il modo in cui si configurano i percorsi di apprendimento determina se sono state tradotte le pagine disponibili. I nuovi siti di cui è stato effettuato il provisioning con il servizio di provisioning di SharePoint avranno convertito pagine in nove lingue disponibili. I siti o i siti aggiornati creati richiederanno la traduzione manuale. Vedere [Opzioni di configurazione per i percorsi di apprendimento multilingue](custom_setupoptions_ml.md).
+- Il modo in cui si configurano i percorsi di apprendimento determina se sono state tradotte le pagine disponibili. I nuovi siti di cui è stato effettuato il provisioning con il servizio Microsoft 365 look book avranno convertito pagine in nove lingue disponibili. I siti o i siti aggiornati creati richiederanno la traduzione manuale. Vedere [Opzioni di configurazione per i percorsi di apprendimento multilingue](custom_setupoptions_ml.md).
 - Il supporto multilingue per i percorsi di apprendimento è abilitato dalle funzionalità multilingue di SharePoint Online per i siti di comunicazione. Per ulteriori informazioni sulle funzionalità di SharePoint online multilingue, vedere [creare siti di comunicazione multilingue, pagine e notizie](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c). 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Utilizzo di un nuovo sito di cui è stato effettuato il provisioning
-Se si esegue il provisioning di un nuovo sito di percorsi di apprendimento dal servizio di provisioning di SharePoint, le pagine tradotte sono già disponibili. Per impostazione predefinita, il sito contiene le pagine seguenti:
+Se si esegue il provisioning di un nuovo sito di percorsi di apprendimento dal servizio Microsoft 365 look book, le pagine tradotte sono già disponibili per l'utente. Per impostazione predefinita, il sito contiene le pagine seguenti:
 
 - Home. aspx
 - Start-with-Six-Simple-Steps. aspx

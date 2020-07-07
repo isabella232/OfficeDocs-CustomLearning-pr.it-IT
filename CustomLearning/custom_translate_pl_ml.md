@@ -2,15 +2,13 @@
 author: pkrebs
 ms.author: pkrebs
 title: Tradurre percorsi di apprendimento playlist personalizzate
-ms.date: 06/8/2020
+ms.date: 07/06/2020
 description: Tradurre percorsi di apprendimento playlist personalizzate
-ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 0ba85c9c5b3068325c887b3563d2b5daee4e8762
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: MT
+ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
+ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45039006"
+ms.lasthandoff: 07/06/2020
+ms.locfileid: "45048134"
 ---
 # <a name="translate-learning-pathways-custom-playlists"></a>Tradurre percorsi di apprendimento playlist personalizzate
 Con i percorsi di apprendimento, il modo in cui si lavora con playlist personalizzate dipende da come si configurano i percorsi di apprendimento.  
@@ -137,5 +135,5 @@ Dal menu **Home** percorsi di apprendimento fare clic su **Amministrazione perco
 3. Creare le traduzioni per la pagina e quindi fare clic su **pubblica**.   
 
 ## <a name="for-more-information"></a>Ulteriori informazioni
-- Per ulteriori informazioni sulla personalizzazione dei percorsi di apprendimento, vedere [Customize Learning pathways](custom_overview.md).  
+- Per ulteriori informazioni sulla personalizzazione dei percorsi di apprendimento, vedere [Customize Learning pathways](custom_overview.md). 
 
