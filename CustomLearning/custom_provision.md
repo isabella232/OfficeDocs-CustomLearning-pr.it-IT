@@ -4,11 +4,12 @@ ms.author: pkrebs
 title: Provisioning di una nuova soluzione di percorsi di apprendimento
 ms.date: 02/10/2019
 description: Provisioning del sito Microsoft 365 Learning pathways with the Microsoft 365 Look Book Service
-ms.openlocfilehash: 2ab7ca9c7c66ce86be09fcfd95d3ccfd18682777
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
+ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048124"
+ms.lasthandoff: 07/16/2020
+ms.locfileid: "45146537"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisioning di una nuova soluzione di percorsi di apprendimento 
 Le organizzazioni che non dispongono di percorsi di apprendimento provisioning nel tenant possono utilizzare il servizio di ricerca di SharePoint per aggiungere la soluzione per i percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima.
@@ -39,6 +40,8 @@ Prima di eseguire il provisioning dei percorsi di apprendimento, assicurarsi che
 1. Passare alla [pagina Microsoft 365 Learning pathways Solution](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Fare clic su **Aggiungi al tenant**. Se non è stato eseguito l'accesso al tenant, il servizio di provisioning richiederà le credenziali di amministratore tenant. 
 3. Nella finestra di dialogo autorizzazioni richieste selezionare **consenso per conto dell'organizzazione** e quindi selezionare **accetta**.
+
+![Immagine del consenso dell'app catologue](media/app-catologue-consent.png)
 
 Il servizio di ricerca richiede queste autorizzazioni per creare il catalogo app tenant, installare l'applicazione nel catalogo app tenant e provisionare il modello di sito. Non è previsto alcun impatto generale sul tenant. Queste autorizzazioni vengono utilizzate in modo esplicito per l'installazione della soluzione. È necessario accettare queste autorizzazioni per continuare con l'installazione.
 
