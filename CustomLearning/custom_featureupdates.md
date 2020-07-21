@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Aggiornamenti delle funzionalità per i percorsi di apprendimento
 ms.date: 10/20/2019
 description: Aggiornamenti delle funzionalità per i percorsi di apprendimento
-ms.openlocfilehash: e7becc7b6026e38eef349f1c5c0b2bd380b11cbc
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
+ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
+ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048094"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45199336"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Luglio 2020 versione 4,0 aggiornamenti delle funzionalità 
 
@@ -28,6 +28,12 @@ Il supporto multilingue per i percorsi di apprendimento è ora disponibile in no
 - Spanish 
 
 Per ulteriori informazioni, vedere [Learning pathways Multilingual Overview](custom_overview.md). 
+
+## <a name="sort-subcategories-and-playlists"></a>Ordinare sottocategorie e playlist
+
+A questo punto è possibile ordinare le sottocategorie e le playlist nei percorsi di apprendimento. Ad esempio, se si aggiunge una playlist personalizzata a una sottocategoria, è possibile ordinare le playlist in modo che la playlist personalizzata venga visualizzata per la prima volta nell'ordinamento. 
+
+Per ulteriori informazioni, vedere [ordinare sottocategorie e playlist](custom_sortsubplay.md). 
 
 ## <a name="image-picker-for-learning-pathways-custom-subcategories"></a>Selezione immagini per percorsi di apprendimento sottocategorie personalizzate 
 I percorsi di apprendimento ora offrono un selettore di immagini di facile utilizzo per playlist e sottocategorie personalizzate.  Nelle versioni precedenti, è possibile modificare l'immagine per una playlist, ma non per una sottocategoria.  

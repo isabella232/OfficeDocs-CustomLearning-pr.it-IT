@@ -4,22 +4,22 @@ ms.author: pkrebs
 title: Provisioning di una nuova soluzione di percorsi di apprendimento
 ms.date: 02/10/2019
 description: Provisioning del sito Microsoft 365 Learning pathways with the Microsoft 365 Look Book Service
-ms.openlocfilehash: 40b298406ee5f9f5acc3f4cc471429063430f856
-ms.sourcegitcommit: 22fd931116be1a39836f7f5429b96483bf7860ef
+ms.openlocfilehash: ba71b79497a01c2f0c0d51c12c2760adbb4e24c5
+ms.sourcegitcommit: e88aaa3c8b6afcb5a7c19dfaf144a676a6859229
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45146537"
+ms.lasthandoff: 07/21/2020
+ms.locfileid: "45196784"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Provisioning di una nuova soluzione di percorsi di apprendimento 
-Le organizzazioni che non dispongono di percorsi di apprendimento provisioning nel tenant possono utilizzare il servizio di ricerca di SharePoint per aggiungere la soluzione per i percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima.
+Le organizzazioni che non dispongono di percorsi di apprendimento provisioning nel tenant possono utilizzare il servizio di ricerca di SharePoint per aggiungere la soluzione per i percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima. 
 
 > [!IMPORTANT]
 > Se è già stato effettuato il provisioning dei percorsi di apprendimento nel tenant, è consigliabile [aggiornare](custom_update.md) i percorsi di apprendimento. Se si installa una nuova istanza di percorsi di apprendimento, sarà necessario trasferire manualmente eventuali personalizzazioni dal sito esistente al nuovo sito. 
 
 ## <a name="prerequisites-for-multilingual-support"></a>Prerequisiti per il supporto multilingue
  
-Per configurare correttamente i percorsi di apprendimento di Microsoft 365 con il servizio di ricerca, la persona che effettua il provisioning deve soddisfare i requisiti seguenti: 
+Per configurare correttamente i percorsi di apprendimento di Microsoft 365 con il servizio di ricerca, la persona che effettua il provisioning deve soddisfare i requisiti seguenti:   
  
 - I percorsi di apprendimento per il provisioning delle persone devono essere un amministratore tenant del tenant in cui verrà eseguito il provisioning dei percorsi di apprendimento.  
 - Un catalogo app tenant deve essere disponibile all'interno dell'opzione Apps dell'interfaccia di amministrazione di SharePoint. Se nell'organizzazione non è presente un catalogo delle app di SharePoint tenant, fare riferimento alla [documentazione di SharePoint Online](https://docs.microsoft.com/sharepoint/use-app-catalog) per crearne uno. Prima di eseguire il provisioning dei percorsi di apprendimento, è necessario attendere almeno due ore dopo aver creato il catalogo app.  
@@ -40,8 +40,6 @@ Prima di eseguire il provisioning dei percorsi di apprendimento, assicurarsi che
 1. Passare alla [pagina Microsoft 365 Learning pathways Solution](https://lookbook.microsoft.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
 2. Fare clic su **Aggiungi al tenant**. Se non è stato eseguito l'accesso al tenant, il servizio di provisioning richiederà le credenziali di amministratore tenant. 
 3. Nella finestra di dialogo autorizzazioni richieste selezionare **consenso per conto dell'organizzazione** e quindi selezionare **accetta**.
-
-![Immagine del consenso dell'app catologue](media/app-catologue-consent.png)
 
 Il servizio di ricerca richiede queste autorizzazioni per creare il catalogo app tenant, installare l'applicazione nel catalogo app tenant e provisionare il modello di sito. Non è previsto alcun impatto generale sul tenant. Queste autorizzazioni vengono utilizzate in modo esplicito per l'installazione della soluzione. È necessario accettare queste autorizzazioni per continuare con l'installazione.
 
