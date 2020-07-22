@@ -32,6 +32,7 @@
 ### [Aggiungere risorse a una playlist personalizzata](custom_addassets.md)
 ### [Creare una sottocategoria](custom_createnewcat.md)
 ### [Aggiungere e modificare la Web part dei percorsi di apprendimento di Microsoft 365](custom_addwebpart.md)
+### [Ordinare sottocategorie e playlist](custom_sortsubplay.md)
 ### [Creare un collegamento ai contenuti dei percorsi di apprendimento](custom_linking.md)
 ### [Cercare contenuti dei percorsi di apprendimento](custom_search.md)
 ## [Guidare l'adozione](driveadoption.md)
