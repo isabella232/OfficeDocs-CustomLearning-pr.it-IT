@@ -4,12 +4,12 @@ ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
 ms.date: 7/6/2020
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
-ms.openlocfilehash: f44f183abde3341cb8e176a15120d0f5b2390e56
-ms.sourcegitcommit: e44f60be18f4bc8faf58788ae4f131f0b066619d
+ms.openlocfilehash: 16197850e6ee14e4de77fb19fb96acbbcd530004
+ms.sourcegitcommit: c47986107ce45d89ba7f093c85f664f03033eb99
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/18/2020
-ms.locfileid: "46798764"
+ms.lasthandoff: 08/21/2020
+ms.locfileid: "46845548"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento di Microsoft 365 
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.    
@@ -48,6 +48,7 @@ Microsoft 365 Learning pathways è un progetto open source supportato dall' [ele
 ## <a name="link-test"></a>Test di collegamento
 Si tratta di un [test di collegamento interno](custom_setupoptions.md). Si tratta di un [test di collegamento esterno](https://adoption.microsoft.com/).
 Si tratta di un [test di collegamento di reindirizzamento](https://aka.ms/CustomLearningHelp).
+Si tratta di un nuovo collegamento [Vai](http://stackoverflow.com){: target = "_blank" rel = "noopener"}.
 
 ## <a name="additional-resources"></a>Ulteriori risorse
-È possibile utilizzare il sito Microsoft 365 Learning pathways per fornire collegamenti a qualsiasi nuovo o esistente forum della community di utenti. È consigliabile avviare un gruppo di utenti interno, se non è già presente, per consentire agli utenti di condividere i propri successi e imparare gli uni dagli altri.  Se non si ha tempo per alimentare un gruppo di utenti interno, è possibile che i dipendenti possano partecipare alla [community di campioni di Microsoft Office 365](https://aka.ms/O365Champions) per la formazione mensile, l'appartenenza alla comunità online e l'accesso anticipato agli strumenti e alle risorse per Office 365.
+È possibile utilizzare il sito Microsoft 365 Learning pathways per fornire collegamenti a qualsiasi nuovo o esistente forum della community di utenti. È consigliabile avviare un gruppo di utenti interno, se non è già presente, per consentire agli utenti di condividere i propri successi e imparare gli uni dagli altri.  Se non si ha tempo per alimentare un gruppo di utenti interno, è possibile che i dipendenti possano partecipare alla [community di campioni di Microsoft Office 365](https://aka.ms/O365Champions) per la formazione mensile, l'appartenenza alla comunità online e l'accesso anticipato agli strumenti e alle risorse per Office 365.  
