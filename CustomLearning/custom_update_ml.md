@@ -5,12 +5,12 @@ title: Aggiornare i percorsi di apprendimento per il supporto multilingue
 ms.date: 05/20/2019
 description: Aggiornare i percorsi di apprendimento per il supporto multilingue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 37a9b77ee45b8ae1ae4973f171c32de11fb530e1
-ms.sourcegitcommit: 1f080ed4cf3687f922907304db3fd7a06aa9d501
-ms.translationtype: Auto
+ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
+ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/02/2020
-ms.locfileid: "45031702"
+ms.lasthandoff: 08/25/2020
+ms.locfileid: "46874977"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Aggiornare i percorsi di apprendimento per il supporto multilingue
 Se si dispone di un sito di percorsi di apprendimento esistente, è possibile aggiornarlo per il supporto multilingue. Per aggiornare i percorsi di apprendimento alla versione multilingue di 4,0, caricare il pacchetto della web part, customlearning. sppkg, nel catalogo app tenant di SharePoint. Quando si aggiornano i percorsi di apprendimento:  
@@ -48,7 +48,7 @@ Quando si definiscono le impostazioni della lingua per i percorsi di apprendimen
 In questo passaggio viene caricata la Web part percorsi di apprendimento 4,0 nel catalogo app di SharePoint e quindi si passa alla pagina Amministrazione percorsi di apprendimento per avviare il processo di aggiornamento.
 
 ### <a name="upload-the-web-part-package"></a>Caricare il pacchetto della web part
-1.  Passare al percorso di condivisione multilingue in teams e scaricare **customlearning. sppkg** in un'unità locale del PC. 
+1.  Andare al [repository di apprendimento personalizzato GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), selezionare **customlearning. sppkg** e quindi scaricarlo su un'unità locale del PC. 
 2.  Se non è già stato eseguito l'accesso, accedere al tenant con un account amministratore tenant o una raccolta siti. 
 3.  Fare clic su **amministratore**per  >  **visualizzare tutte le**  >  **SharePoint**  >  **funzionalità**di SharePoint. 
 4.  In **app**fare clic su **Apri**. 

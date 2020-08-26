@@ -4,14 +4,14 @@ ms.author: pkrebs
 title: Aggiornare i percorsi di apprendimento di Microsoft 365
 ms.date: 07/06/2020
 description: Aggiornare i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 5fe9dc64916eb75d309c44188cd2f72fa88ba9e4
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.openlocfilehash: 6880e49f925f18b961790ec9eff2fbca55a741b7
+ms.sourcegitcommit: a34d166d01e0a0a0f7d36593ad69b93e923d778b
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043248"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46895584"
 ---
-# <a name="update-learning-pathways"></a>Aggiornare i percorsi di apprendimento
+# <a name="update-learning-pathways"></a>Aggiornare percorsi di apprendimento
 Se si dispone di un sito di percorsi di apprendimento esistente, è possibile aggiornarlo per il supporto multilingue. Per aggiornare i percorsi di apprendimento alla versione multilingue di 4,0, caricare il pacchetto della web part, customlearning. sppkg, nel catalogo app tenant di SharePoint. Quando si aggiornano i percorsi di apprendimento:  
 
 - Tutte le playlist e le risorse personalizzate create in precedenza vengono mantenute
@@ -47,7 +47,7 @@ Quando si definiscono le impostazioni della lingua per i percorsi di apprendimen
 In questo passaggio viene caricata la Web part percorsi di apprendimento 4,0 nel catalogo app di SharePoint e quindi si passa alla pagina Amministrazione percorsi di apprendimento per avviare il processo di aggiornamento.
 
 ### <a name="upload-the-web-part-package"></a>Caricare il pacchetto della web part
-1.  Passare al percorso di condivisione multilingue in teams e scaricare **customlearning. sppkg** in un'unità locale del PC. 
+1.  Andare al [repository di apprendimento personalizzato GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), selezionare **customlearning. sppkg** e quindi scaricarlo su un'unità locale del PC.
 2.  Se non è già stato eseguito l'accesso, accedere al tenant con un account amministratore tenant o una raccolta siti. 
 3.  Fare clic su **amministratore**per  >  **visualizzare tutte le**  >  **SharePoint**  >  **funzionalità**di SharePoint. 
 4.  In **app**fare clic su **Apri**. 
