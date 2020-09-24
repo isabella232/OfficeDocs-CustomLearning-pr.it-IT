@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Aggiornamenti delle funzionalità per i percorsi di apprendimento
 ms.date: 10/20/2019
 description: Aggiornamenti delle funzionalità per i percorsi di apprendimento
-ms.openlocfilehash: 7765de3e2f08b70003842086bc5f910ddc5fd987
-ms.sourcegitcommit: 46f10099fc13213e7095825440527cd22a5e48ab
+ms.service: sharepoint online
+ms.openlocfilehash: 1f075671854906cd331c1706c669eac30c04ddec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/21/2020
-ms.locfileid: "45199336"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234428"
 ---
 # <a name="july-2020-version-40-feature-updates"></a>Luglio 2020 versione 4,0 aggiornamenti delle funzionalità 
 
@@ -17,7 +18,7 @@ Le nuove caratteristiche seguenti sono state aggiunte a Microsoft 365 Learning p
 
 ## <a name="multilingual-support-for-learning-pathways"></a>Supporto multilingue per i percorsi di apprendimento 
 Il supporto multilingue per i percorsi di apprendimento è ora disponibile in nove lingue.  
-- English     
+- Inglese     
 - Cinese (semplificato) 
 - Francese 
 - Tedesco 
@@ -25,7 +26,7 @@ Il supporto multilingue per i percorsi di apprendimento è ora disponibile in no
 - Giapponese (Giappone) 
 - Portoghese (Brasile) 
 - Russo (Russo) 
-- Spanish 
+- Spagnolo 
 
 Per ulteriori informazioni, vedere [Learning pathways Multilingual Overview](custom_overview.md). 
 

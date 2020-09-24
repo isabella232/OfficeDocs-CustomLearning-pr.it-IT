@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Creare pagine di SharePoint per playlist
 ms.date: 02/10/2019
 description: Creare pagine di SharePoint per playlist
-ms.openlocfilehash: 97ef3e7fd37b11011afcc0738245f364a71f5112
-ms.sourcegitcommit: 1a111a49a0413a56a880e29109ba01b5e5f33d09
+ms.service: sharepoint online
+ms.openlocfilehash: 99425b9be685a8090394ecb446a7c82dee24fe5d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34247539"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234508"
 ---
 # <a name="create-sharepoint-pages-for-custom-playlists"></a>Creare pagine di SharePoint per playlist personalizzate
 
@@ -17,12 +18,12 @@ Una delle caratteristiche esclusive dei percorsi di apprendimento è la possibil
 
 ## <a name="create-a-sharepoint-page-for-a-custom-playlist"></a>Creare una pagina di SharePoint per un elenco di riproduzione personalizzato
 
-1. Fare clic sull' **** icona dell'ingranaggio di SharePoint e quindi fare clic su **Aggiungi pagina**.
+1. Fare clic sull'icona dell' **ingranaggio** di SharePoint e quindi fare clic su **Aggiungi pagina**.
 2. Fare clic su **Aggiungi una nuova sezione (+)** sul lato sinistro della pagina, quindi fare clic su **due colonne** per il layout della sezione.
 3. Nella colonna sinistra fare clic su + e quindi fare clic sulla Web part **Embed** . 
 4. Nella colonna a destra fare clic su +, quindi fare clic sulla Web part **testo** . La pagina dovrebbe essere simile alla seguente.
 
-![CG-pagenewstart. png](media/cg-pagenewstart.png)
+![cg-pagenewstart.png](media/cg-pagenewstart.png)
 
 ### <a name="add-a-video-and-text-from-youtube"></a>Aggiungere un video e un testo da YouTube
 
@@ -35,7 +36,7 @@ Una delle caratteristiche esclusive dei percorsi di apprendimento è la possibil
 7. Selezionare l'icona **Modifica web part** nell'area del titolo della pagina di SharePoint e quindi denominare la pagina "introduzione di playlist personalizzate". 
 8. Per **layout**, selezionare **pianura**, quindi riquadro delle proprietà dell' **area del titolo** . La pagina dovrebbe avere un aspetto analogo al seguente. 
 
-![CG-pagenewfinish. png](media/cg-pagenewfinish.png)
+![cg-pagenewfinish.png](media/cg-pagenewfinish.png)
 
 ### <a name="publish-the-page"></a>Pubblicare la pagina
 

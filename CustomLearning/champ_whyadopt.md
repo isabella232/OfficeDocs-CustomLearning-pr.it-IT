@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: a866c3de0dee75812bd590252d68f769727ad059
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Procedure consigliate per il programma Champion
+description: Perché guidare l'adozione?
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: fa20a40737159f97160526f61e73734923b5060d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055312"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233338"
 ---
 # <a name="why-put-effort-into-driving-adoption"></a>Perché mettere in pratica l'adozione?  
 
@@ -17,7 +23,7 @@ I programmi di adozione possono aumentare l'alfabetizzazione digitale dei dipend
 
 Guardare questo video per ottenere informazioni sul perché investire nell'adozione dell'utente.  
 
-**Adottare _AMP_ Embrace**: discuteTing adoption for Microsoft teams & Office 365 with [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), leader del [programma Office 365 Champions](https://aka.ms/O365Champions) e [Darryl Webster](https://webster.net.nz/), Microsoft MVP and Collaboration Expert Subject. 
+**Adozione & abbraccio**: discussione dell'adozione per Microsoft teams & Office 365 con [Karuana Gatimu](https://linkedin.com/in/karuanagatimu), leader del [programma Office 365 Champions](https://aka.ms/O365Champions) e [Darryl Webster](https://webster.net.nz/), Microsoft MVP e collaboratore esperto di materia. 
 
 > [!VIDEO https://www.youtube.com/embed/c-j5oF2Kwzk]
 

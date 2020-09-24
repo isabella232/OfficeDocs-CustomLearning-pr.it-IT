@@ -1,13 +1,19 @@
 ---
-title: ''
-ms.openlocfilehash: 80f12da704ef2ea8304c49a7ede3d36e33375ae1
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Procedure consigliate per il programma campione-specialista di adozione del servizio
+description: Guidare l'adozione di Office 365 con le procedure consigliate del programma Champion
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 9490887ca5b8debd804081872e2c57526838d556
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055412"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233478"
 ---
-# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>ConValidare le proprie competenze-diventare uno specialista di adozione del servizio
+# <a name="validate-your-skills---become-a-service-adoption-specialist"></a>Convalidare le proprie competenze-diventare uno specialista di adozione del servizio
 
 ![Tirocinio specialistico sull'adozione del servizio](media/champs_sascourse.png)
 
@@ -17,6 +23,6 @@ Questo [corso on-line Specialist adoption Service](https://aka.ms/AdoptionCert) 
 
 Le linee guida, gli strumenti e i contenuti aggiuntivi pratici sono contenuti in questo corso che consentirà di convalidare le Skils in questa importante funzionalità aziendale.  
 
-Per ulteriori informazioni, [](https://aka.ms/AdoptionCertAnnouncement) vedere l'articolo relativo alla pubblicazione di questo corso. 
+Per ulteriori informazioni, vedere l' [articolo relativo alla](https://aka.ms/AdoptionCertAnnouncement) pubblicazione di questo corso. 
 
-Iscriviti alla nostra community online di utenti aziendali e professionisti IT che imparano https://aka.ms/DriveAdoptiona prendere parte all'adozione. 
+Iscriviti alla nostra community online di utenti aziendali e professionisti IT che imparano a prendere parte all'adozione https://aka.ms/DriveAdoption . 

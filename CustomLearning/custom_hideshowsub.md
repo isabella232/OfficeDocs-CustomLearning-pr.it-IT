@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Nascondere e visualizzare le sottocategorie
 ms.date: 02/18/2019
 description: Come nascondere, visualizzare, modificare ed eliminare sottocategorie
-ms.openlocfilehash: 239df48cd09997e7319b31be83ef1a5810f22c93
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: d6580c3919f373e88713266ef8c53070ae60f48d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886799"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234308"
 ---
 # <a name="hide-and-show-subcategories"></a>Nascondere e visualizzare le sottocategorie
 
@@ -21,12 +22,12 @@ Con la pagina Amministrazione percorsi di apprendimento è possibile nascondere 
 2. Nella web part Microsoft 365 Learning pathways fare clic sull'icona di amministrazione. 
 3. Nel riquadro sinistro della pagina selezionare una sottocategoria e quindi selezionare il bulbo oculare della sottocategoria per nasconderlo. Per questo esempio, nascondere la sottocategoria **Yammer** .  
 
-![CG-hidesubcat. png](media/cg-hidesubcat.png)
+![cg-hidesubcat.png](media/cg-hidesubcat.png)
 
 ### <a name="verify-the-subcategory-is-hidden"></a>Verificare che la sottocategoria sia nascosta
 - Per verificare che la sottocategoria sia nascosta, selezionare la scheda browser con la pagina **inizia con Microsoft 365** caricato e quindi aggiornare la pagina. È ora necessario visualizzare la sottocategoria Yammer nascosta nella categoria prodotti. 
 
-![CG-hidesubcatrefresh. png](media/cg-hidesubcatrefresh.png)
+![cg-hidesubcatrefresh.png](media/cg-hidesubcatrefresh.png)
 
 ## <a name="unhide-a-subcategory"></a>Scopri una sottocategoria 
 

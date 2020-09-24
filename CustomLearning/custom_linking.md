@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Collegamento a Microsoft 365 percorsi di apprendimento risorse
 ms.date: 02/15/2019
 description: Come collegare a Microsoft 365 percorsi di apprendimento risorse
-ms.openlocfilehash: cc8ba80e1c658fabb44e3df405c9293ec763ab3d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 737bff4c8d98e210e619d16bb680a9ea30334d93
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34327277"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234318"
 ---
-# <a name="link-to-learning-pathways-content"></a>Collegamento al contenuto di percorsi di apprendimento
+# <a name="link-to-learning-pathways-content"></a>Creare un collegamento ai contenuti dei percorsi di apprendimento
 
 Con i percorsi di apprendimento, esistono due modi per collegarsi al contenuto:
 
@@ -26,7 +27,7 @@ Se sono state create nuove pagine e le esperienze di apprendimento con la Web pa
 2. Fare clic su **Modifica dettagli** in una delle sezioni della Home page. In questo esempio vengono modificati i riquadri delle **playlist consigliate** .
 3. In **collegamento**fare clic su **Cambia**.
 
-![CG-linktopage. png](media/cg-linktopage.png)
+![cg-linktopage.png](media/cg-linktopage.png)
 
 4. Fare clic su **sito**, quindi su **pagine del sito**, fare clic sulla pagina che si desidera collegare e quindi fare clic su **Apri**. In questo esempio viene collegato alla pagina **create-your-own-Experience. aspx** descritta nella sezione precedente.
 5. Chiudere il riquadro delle proprietà dell'eroe, fare clic su **pubblica**e quindi testare il collegamento. 
@@ -38,12 +39,12 @@ I percorsi di apprendimento offrono all'amministratore o a un utente finale la p
 2. Fare clic su **Microsoft teams**, quindi fare clic su **Intro to Microsoft teams**.
 3. Fare clic sull'icona **copia** .
 
-![CG-linktowebpart. png](media/cg-linktowebpart.png)
+![cg-linktowebpart.png](media/cg-linktowebpart.png)
 
 4. Fare clic su Home dal menu del sito Microsoft 365 Learning pathways.
 5. Incollare l'URL copiato nella barra degli indirizzi del browser e premere INVIO. 
 
 Come illustrato nella figura seguente, il collegamento passa alla pagina CustomLearningViewer. aspx e visualizza il contenuto in base ai parametri del collegamento copiato. 
 
-![CG-linktowebpartviewer. png](media/cg-linktowebpartviewer.png)
+![cg-linktowebpartviewer.png](media/cg-linktowebpartviewer.png)
 

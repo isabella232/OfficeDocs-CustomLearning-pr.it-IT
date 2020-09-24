@@ -5,12 +5,13 @@ title: Provisioning di una nuova soluzione di percorsi di apprendimento multilin
 ms.date: 02/10/2019
 description: Eseguire il provisioning del sito Microsoft 365 Learning pathways tramite il servizio di provisioning di SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 6948162d8a96c9a6582484c5f4fc8acad18405a7
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: cd14ff62eb0b7db99f300b346d9d9fd5089fde0a
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038996"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234058"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Provisioning di una nuova soluzione di percorsi di apprendimento multilingue
 Le organizzazioni che non dispongono di percorsi di apprendimento provisioning nel tenant possono utilizzare il servizio di provisioning di SharePoint per aggiungere la soluzione di percorsi di apprendimento multilingue. Con questa opzione, il modello di percorsi di apprendimento di SharePoint viene convertito in nove lingue e può essere utilizzato con una modifica minima. 
@@ -44,13 +45,13 @@ Prima di eseguire il provisioning dei percorsi di apprendimento, assicurarsi che
 
 Il servizio di provisioning richiede queste autorizzazioni per creare il catalogo app tenant, installare l'applicazione nel catalogo app tenant e provisionare il modello di sito. Non è previsto alcun impatto generale sul tenant. Queste autorizzazioni vengono utilizzate in modo esplicito per l'installazione della soluzione. È necessario accettare queste autorizzazioni per continuare con l'installazione.
 
-4. Completare i campi nella pagina informazioni di provisioning in base alle proprie esigenze per l'installazione. Immettere almeno l'indirizzo di posta elettronica in cui si desidera ottenere le notifiche relative al processo di provisioning e l'URL di destinazione per il sito di cui eseguire il provisioning.  
+4. Completare i campi nella pagina delle informazioni sul provisioning, come opportuno per l'installazione. Digitare almeno l'indirizzo e-mail in cui si vogliono ricevere le notifiche relative al processo di provisioning e l’URL di destinazione del sito in cui deve essere eseguito il provisioning.  
 > [!NOTE]
-> Rendere l'URL di destinazione per il sito una cosa semplice per i dipendenti, ad esempio "/sites/MyTraining" o "/teams/LearnMicrosoft365".
+> Impostare l’URL di destinazione in una maniera semplice per i tuoi dipendenti, come “/sites/MyTraining” o “/teams/LearnMicrosoft365”.
 
 ![inst_options.png](media/inst_options.png)
 
-6. Fare clic su **provisioning** quando si è pronti per installare percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning può richiedere fino a 15 minuti. L'utente riceverà una notifica tramite posta elettronica quando il sito sarà pronto. 
+6. Fare clic su **provisioning** quando si è pronti per installare percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning può richiedere fino a 15 minuti. Quando il sito è pronto, si riceverà una notifica via e-mail. 
 
 > [!IMPORTANT]
 > L'amministratore tenant che accantona il sito percorsi di apprendimento deve passare al sito e quindi aprire **CustomLearningAdmin. aspx** per inizializzare le proprietà di amministratore di percorsi di apprendimento. A questo punto, l'amministratore del tenant deve anche assegnare i proprietari al sito. 
@@ -59,7 +60,7 @@ Il servizio di provisioning richiede queste autorizzazioni per creare il catalog
 
 Al termine del provisioning, l'amministratore del tenant che ha eseguito il provisioning del sito riceve un messaggio di posta elettronica dal servizio di provisioning PnP. Il messaggio di posta elettronica contiene un collegamento al sito. A questo punto, l'amministratore del tenant deve passare al sito utilizzando il collegamento fornito nel messaggio di posta elettronica e configurare il sito per il primo utilizzo:
 
-- Passare a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. L'apertura di **CustomLearningAdmin. aspx** consente di inizializzare l'elemento di elenco **CustomConfig** che consente di configurare i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
+- Passare a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
 ![cg-adminapppage.png](media/cg-adminapppage.png)
 

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Aggiornamenti del contenuto di novembre 2019
 ms.date: 10/20/2019
 description: Aggiornamento del contenuto di Microsoft 365 Learning pathways
-ms.openlocfilehash: dbe5d6dd1e007bbef029b4d40136d83032ff5461
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 3634d0051c3eb71749d3a0111c83421bedada7aa
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43142202"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234708"
 ---
 # <a name="november-2019-content-updates"></a>Aggiornamenti del contenuto di novembre 2019
 Aggiornamento del contenuto di Microsoft 365 Learning pathways. A partire dall'aggiornamento del 2019 novembre, verrà fornito un inventario aggiornato del catalogo percorsi di apprendimento su base trimestrale. Per l'aggiornamento del 2019 novembre, al catalogo percorsi di apprendimento sono state aggiunte le nuove sottocategorie di contenuto e le playlist seguenti. Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md).    

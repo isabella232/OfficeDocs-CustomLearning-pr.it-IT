@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: 9e05bd63cf1f534bcb912f6d578df4ce95a4660e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Procedure consigliate per il programma campione-trovare campioni
+description: Guidare l'adozione di Office 365 con le procedure consigliate del programma Champion
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055352"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233468"
 ---
 # <a name="finding-your-champions"></a>Individuazione dei campioni 
 
@@ -24,6 +30,6 @@ Se l'organizzazione non dispone di un programma campione corrente o se si deside
 
 I programmi campione con esito positivo dispongono di un leader e di una pianificazione regolare per la riunione e la discussione di problemi correnti.  Le riunioni mensili sono una parte importante della creazione di una cultura positiva nella community e la promozione della crescita.  
 
-È inoltre possibile utilizzare Microsoft teams per creare un hub per il programma di Team Champions.  In [questo articolo](https://docs.microsoft.com/en-us/MicrosoftTeams/teams-adoption-your-first-teams)è possibile trovare un esempio per la struttura del team.
+È inoltre possibile utilizzare Microsoft teams per creare un hub per il programma di Team Champions.  In [questo articolo](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)è possibile trovare un esempio per la struttura del team.
 
 ![schede squadra campione team](media/teams-adoption-tab-example.png)

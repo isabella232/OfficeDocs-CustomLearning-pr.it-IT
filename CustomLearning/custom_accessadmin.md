@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Amministrazione di percorsi di apprendimento
 ms.date: 02/15/2019
 description: Come accedere alla pagina di apprendimento personalizzato dalla web part o dal menu
-ms.openlocfilehash: 86526f4c4b3d46360ab2c63a503bfd80e0848c13
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: b491c0416573ddf3be6cda3afc8182cdc746649d
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37886939"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233328"
 ---
 # <a name="access-the-learning-pathways-administration-page"></a>Accedere alla pagina Amministrazione percorsi di apprendimento
 
@@ -24,11 +25,11 @@ L'apertura della pagina di amministrazione dalla web part è il metodo preferito
 1. Nella **Home** page di Microsoft 365 Learning pathways fare clic sul riquadro di **formazione di Office 365** .
 2. Fare clic sull'icona di **Amministrazione** nella web part, come illustrato nell'esempio seguente.  
 
-![CG-adminaccbtn. png](media/cg-adminaccbtn.png)
+![cg-adminaccbtn.png](media/cg-adminaccbtn.png)
 
 ## <a name="access-from-the-home-menu-item"></a>Accesso dalla voce di menu Home
 Anziché passare a una pagina con una Web part, gli amministratori possono accedere alla pagina Amministrazione dalla voce di menu **Home** di SharePoint. 
 
 - Nella Home page di Microsoft 365 Learning pathways fare clic sul menu **Home** e quindi su **Microsoft Learning Administration**.
 
-![CG-adminaccmenu. png](media/cg-adminaccmenu.png)
+![cg-adminaccmenu.png](media/cg-adminaccmenu.png)

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Aggiungere risorse a una playlist
 ms.date: 02/17/2019
 description: Aggiungere nuove risorse esistenti a una scaletta di percorsi di apprendimento
-ms.openlocfilehash: d1032139e2d753601cb269e487db343778938d64
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247641"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234688"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Aggiungere risorse a un elenco di riproduzione personalizzato
 
@@ -35,14 +36,14 @@ Con l'opzione **Crea pagina risorsa** , è possibile specificare un titolo per i
 2. Per aggiungere un nuovo cespite a una playlist, fare clic su **nuovo asset**. 
 3. Immettere un titolo. In questo esempio viene immesso "Aggiungi risorse a una playlist" e quindi fare clic su **Crea asset page**.
 
-![CG-addassetcreatenewpage. png](media/cg-addassetcreatenewpage.png)
+![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
 4. Fare clic su **Apri pagina**.
 5. Fare clic sull'icona **modifica** e quindi su **Modifica web part** nell'area titolo.
 6. In **layout**fare clic su **normale**. 
 7. Aggiungere una nuova sezione a una colonna e quindi aggiungere del testo di esempio alla pagina in modo che sia simile all'esempio seguente. 
 
-![CG-addassetcreatenewpageedit. png](media/cg-addassetcreatenewpageedit.png)
+![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Fare clic su **Pubblica**.
 8. Tornare alla pagina **Custom Learning Administration** . 
@@ -55,11 +56,11 @@ Con l'opzione **immettere l'URL** , è possibile specificare un titolo per il be
 2. Per aggiungere un nuovo cespite a una playlist, fare clic su **nuovo asset**. 
 3. Immettere un titolo. In questo esempio, immettere "Introduzione playlist personalizzata", quindi fare clic su **Immetti URL**. 
 
-![CG-newplaylistasseturl. png](media/cg-newplaylistasseturl.png)
+![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Immettere l'URL della pagina di SharePoint creata in una precedente sezione [creare pagine di SharePoint per playlist personalizzate](custom_createnewpage.md) e quindi compilare il resto dei campi, come illustrato nella figura seguente.
+4. Immettere l'URL della pagina di SharePoint creata in una precedente sezione [creare pagine di SharePoint per playlist personalizzate ](custom_createnewpage.md) e quindi compilare il resto dei campi, come illustrato nella figura seguente.
 
-![CG-newplaylistassetdetails. png](media/cg-newplaylistassetdetails.png)
+![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
 5. Fare clic su **Salva risorsa**. 
 
@@ -69,12 +70,12 @@ Le risorse esistenti sono costituite da percorsi di apprendimento forniti da Mic
 
 - Nella casella di **ricerca** immettere una frase di ricerca e quindi selezionare una risorsa dai risultati della ricerca. In questo esempio, immettere "che cos'è Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
 
-![CG-existplaylistassetsearch. png](media/cg-existplaylistassetsearch.png)
+![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Modificare, spostare ed eliminare risorse
 È possibile modificare le risorse personalizzate create, ma non le risorse di Microsoft. Tuttavia, è possibile rimuovere tutte le risorse da una playlist e cambiare le risorse degli ordini. 
 
-![CG-playlistassetedit. png](media/cg-playlistassetedit.png)
+![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Modificare una risorsa
 - Fare clic sul pulsante modifica di un asset, modificare il cespite e quindi fare clic su Salva risorsa. 
@@ -93,4 +94,4 @@ Dopo aver aggiunto risorse a una playlist, chiudere la playlist e visualizzarla 
 3. Aggiornare la pagina e quindi fare clic su **primi giorni** **in inizia**.
 4. Fare clic su **Learning pathways Starter Kit** per visualizzare la prima playlist in azione. 
 
-![CG-addassetcheckwork. png](media/cg-addassetcheckwork.png)
+![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

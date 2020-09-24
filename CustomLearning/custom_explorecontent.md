@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Esplorare il sito e il contenuto predefinito
 ms.date: 02/10/2019
 description: Esplorare il sito percorsi di apprendimento e il contenuto predefinito
-ms.openlocfilehash: 5691f44bd121cfdb0c164e6f6aed389582e9420a
-ms.sourcegitcommit: 1ec8bc253850e9dd52eebf609033856e76d3e908
+ms.service: sharepoint online
+ms.openlocfilehash: 65c4eba8e0f1925c1512b330efbbd2dc5a970ab7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "37726795"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234488"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Esplorare il sito percorsi di apprendimento
 
@@ -17,11 +18,11 @@ ms.locfileid: "37726795"
 
 ## <a name="sign-in-to-office-365"></a>. 
 
-1.  Aprire il Web browser e accedere a office.com o al percorso di accesso dell'organizzazione. 
-2.  Accedere con il nome utente e la password.
+1.  Aprire il web browser e passare a office.com o alla posizione di accesso dell'organizzazione. 
+2.  Eseguire l'accesso con il nome utente e la password.
 3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito. 
 
-![CG-Introducing. png](media/cg-introducing.png)
+![cg-introducing.png](media/cg-introducing.png)
 
 ## <a name="explore-the-learning-pathways-site"></a>Esplorare il sito percorsi di apprendimento
 
@@ -35,7 +36,7 @@ Il sito percorsi di apprendimento fornisce contenuti predefiniti che consentono 
 2.  Fare clic sul pulsante **Modifica**.
 3.  Posizionare il puntatore del mouse su un'immagine dell'opzione della guida, quindi fare clic su **Modifica web part**.
 
-![CG-EDITHELP. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 Per istruzioni sulla personalizzazione delle pagine del sito, vedere [Customize the site](custom_edithelp.md).
 
@@ -45,7 +46,7 @@ La pagina Microsoft 365 Training ospita la Web part percorsi di apprendimento co
 1. Scorrere verso il basso la pagina per visualizzare tutte le categorie e le sottocategorie.
 2. Calciare un po' le gomme. Fare clic su alcune sottocategorie, quindi fare clic su alcune playlist per ottenere un'idea del modo in cui il contenuto dei percorsi di apprendimento è organizzato. 
 
-![CG-gotoall. png](media/cg-gotoall.png)
+![cg-gotoall.png](media/cg-gotoall.png)
 
 Per istruzioni sulla personalizzazione della web part percorsi di apprendimento, vedere [Customize the Learning Experience](custom_overview.md).
 

@@ -4,21 +4,22 @@ ms.author: pkrebs
 title: Accedere al sito Microsoft 365 Learning pathways
 ms.date: 02/18/2019
 description: Accedere al sito Microsoft 365 Learning pathways
-ms.openlocfilehash: 9b10552f17028b384b60b71f92e132686a65d776
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 5d102092f639e91c39dc163b0acab004d5605d86
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956623"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234378"
 ---
 # <a name="go-to-the-microsoft-365-learning-pathways-site"></a>Accedere al sito Microsoft 365 Learning pathways
 
 Il sito Microsoft 365 Learning pathways for Office 365 site è ospitato nel tenant di Office 365, quindi è necessario accedere a Office 365 per accedere al sito. Se non è già stato effettuato l'accesso a Office 365, accedere adesso. 
 
-## <a name="sign-in"></a>Accedi  
+## <a name="sign-in"></a>Accesso  
 
-1.  Aprire il Web browser e accedere a office.com o al percorso di accesso dell'organizzazione. 
-2.  Accedere con il nome utente e la password.
+1.  Aprire il web browser e passare a office.com o alla posizione di accesso dell'organizzazione. 
+2.  Eseguire l'accesso con il nome utente e la password.
 3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito Microsoft 365 Learning pathways. 
 5. Fare clic su **microsoft 365 Training** Tile per visualizzare la serie completa di corsi di formazione disponibili con i percorsi di apprendimento di Microsoft 365. 
 

@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Opzione di installazione per i percorsi di apprendimento
 ms.date: 07/16/2020
 description: Opzione di installazione per i percorsi di apprendimento
-ms.openlocfilehash: 1434a06fbe5f374de7b2f2e4fa471a8eda5ac871
-ms.sourcegitcommit: ba0cddd12dd8687ec4b97c26174fdda09de83b05
+ms.service: sharepoint online
+ms.openlocfilehash: 3246434cf450a17d324ce5b5afed5b9d7a4339ec
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45043218"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233968"
 ---
 # <a name="setup-options-for-multilingual-learning-pathways"></a>Opzioni di installazione per percorsi di apprendimento multilingue
 Con il rilascio di funzionalità multilingue per i siti di comunicazione di SharePoint Online, i percorsi di apprendimento offrono ora il supporto per più lingue. È possibile configurare percorsi di apprendimento in diversi modi per soddisfare le esigenze dell'organizzazione. Per facilitare la scelta del percorso migliore per l'organizzazione, sono state descritte le opzioni di installazione. 

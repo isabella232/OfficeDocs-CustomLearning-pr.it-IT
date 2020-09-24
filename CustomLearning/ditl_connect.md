@@ -1,11 +1,17 @@
 ---
-titolo: ''
-ms.openlocfilehash: 78115ccf91fbbd76d4b30a17ba72307a658fceed
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
-ms.translationtype: HT
+title: Day in the Life with Office 365-Connecting across the Company
+description: Passaggi rapidi da preparare per la giornata a portata di mano con Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 09cd657c1e5d1de4d794e03d36ee6c38ffbff6a0
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055151"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233658"
 ---
 # <a name="connecting-across-the-company"></a>Collegare l'intera azienda
 

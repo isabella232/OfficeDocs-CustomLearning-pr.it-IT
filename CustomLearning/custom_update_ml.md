@@ -5,12 +5,13 @@ title: Aggiornare i percorsi di apprendimento per il supporto multilingue
 ms.date: 05/20/2019
 description: Aggiornare i percorsi di apprendimento per il supporto multilingue
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: 917b1cea9144349dd40ed93f05cb0f850828fd28
-ms.sourcegitcommit: 519a52618ce8dd2f800dc55897526e4541dddb50
+ms.service: sharepoint online
+ms.openlocfilehash: 32870a21dfc1e012f140ffdbd33d69bd0f149880
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 08/25/2020
-ms.locfileid: "46874977"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233828"
 ---
 # <a name="update-learning-pathways-for-multilingual-support"></a>Aggiornare i percorsi di apprendimento per il supporto multilingue
 Se si dispone di un sito di percorsi di apprendimento esistente, è possibile aggiornarlo per il supporto multilingue. Per aggiornare i percorsi di apprendimento alla versione multilingue di 4,0, caricare il pacchetto della web part, customlearning. sppkg, nel catalogo app tenant di SharePoint. Quando si aggiornano i percorsi di apprendimento:  
@@ -49,7 +50,7 @@ In questo passaggio viene caricata la Web part percorsi di apprendimento 4,0 nel
 
 ### <a name="upload-the-web-part-package"></a>Caricare il pacchetto della web part
 1.  Andare al [repository di apprendimento personalizzato GitHub](https://github.com/pnp/custom-learning-office-365/tree/master/webpart), selezionare **customlearning. sppkg** e quindi scaricarlo su un'unità locale del PC. 
-2.  Se non è già stato eseguito l'accesso, accedere al tenant con un account amministratore tenant o una raccolta siti. 
+2.  Se non è ancora stato eseguito l'accesso, accedere al tenant con un account di amministratore tenant o amministratore della raccolta siti. 
 3.  Fare clic su **amministratore**per  >  **visualizzare tutte le**  >  **SharePoint**  >  **funzionalità**di SharePoint. 
 4.  In **app**fare clic su **Apri**. 
 5.  Fare clic su **App Catalog**  >  **distribuire le app per SharePoint**. 
@@ -60,7 +61,7 @@ In questo passaggio viene caricata la Web part percorsi di apprendimento 4,0 nel
 1.  Dal sito percorsi di apprendimento selezionare **Amministrazione percorsi di apprendimento** dal menu **Home** . 
 2.  Verrà visualizzato un messaggio che richiede se si desidera eseguire l'aggiornamento. 
 ![custom_update_adminprompt_ml.png](media/custom_update_adminprompt_ml.png)
-3.  Fare clic su **Avvia**. 
+3.  Fare clic su **Start**. 
 4. Al termine dell'aggiornamento, fare clic su **Chiudi**. 
 
 ### <a name="next-steps"></a>Operazioni successive

@@ -4,14 +4,15 @@ ms.author: pkrebs
 title: Copia di una playlist
 ms.date: 02/18/2019
 description: Come copiare una playlist
-ms.openlocfilehash: 0dce25a5ce9922d9a6a534144b29fc5b7ae90da6
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: f97b2e45f60a9d26f715f80ab29ae754b4dd0e1f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956528"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234538"
 ---
-# <a name="copy-a-playlist"></a>Copia di una playlist
+# <a name="copy-a-playlist"></a>Copiare una playlist
 Molto spesso, le organizzazioni devono modificare una playlist fornita da Microsoft rimuovendo o sostituendo una risorsa con un asset creato dall'organizzazione. Ad esempio, potrebbe essere necessario rimuovere un passaggio dalla playlist di inizio con sei passaggi semplici. A questo punto, è possibile utilizzare la funzionalità di copia dei percorsi di apprendimento per copiare facilmente i sei passaggi della playlist semplice e semplicemente rimuovere una risorsa, sostituire un asset o aggiungere nuove risorse. 
 
 ## <a name="to-copy-a-playlist"></a>Per copiare una playlist
@@ -21,7 +22,7 @@ Molto spesso, le organizzazioni devono modificare una playlist fornita da Micros
 3. In **primi giorni**, fare clic sui **sei passaggi semplici-Welcome to Office 365** playlist, quindi fare clic su **Copy playlist**. 
 4. Fare clic su **Modifica dettagli**e quindi immettere i campi **titolo** e **Descrizione** come illustrato nell'esempio seguente, quindi fare clic su **Salva dettagli**.  
  
-![CG-copyplaylist5steps. png](media/cg-copyplaylist5steps.png)
+![cg-copyplaylist5steps.png](media/cg-copyplaylist5steps.png)
 
 ## <a name="add-or-remove-assets-from-a-playlist"></a>Aggiungere o rimuovere risorse da una playlist
 Con le playlist personalizzate, è possibile:

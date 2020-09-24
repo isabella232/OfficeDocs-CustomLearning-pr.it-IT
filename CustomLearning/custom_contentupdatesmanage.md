@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Gestire gli aggiornamenti del contenuto per i percorsi di apprendimento
 ms.date: 10/20/2019
 description: Gestire gli aggiornamenti del contenuto per i percorsi di apprendimento
-ms.openlocfilehash: e59b05718192a5ace9ae6b8d999a26f5d7accbf9
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 171504fb3d3679f541bbf1cd9b2e3937d3aba1f7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956513"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234548"
 ---
 # <a name="manage-learning-pathways-content-updates"></a>Gestire gli aggiornamenti del contenuto per i percorsi di apprendimento
 Il catalogo percorsi di apprendimento di Microsoft 365 viene aggiornato trimestralmente. Il contenuto del catalogo, che è un insieme di metadati JSON che puntano a risorse di apprendimento ospitate in support.office.com, viene archiviato in una cache globale all'interno del tenant di un'organizzazione. La cache globale viene aggiornata automaticamente quando l'amministratore o il proprietario di una raccolta siti di apprendimento apre la pagina Amministrazione percorsi di apprendimento. Inoltre, la cache globale dei percorsi di apprendimento viene aggiornata ogni 24 ore. Gli aggiornamenti del contenuto del catalogo verranno visualizzati automaticamente per gli utenti dei percorsi di apprendimento quando viene aggiornata la cache globale. Un amministratore di percorsi di apprendimento può nascondere sottocategorie o playlist se non si desidera rendere disponibili nuovi contenuti per gli utenti.

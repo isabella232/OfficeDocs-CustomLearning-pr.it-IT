@@ -1,11 +1,17 @@
 ---
-title: ''
-ms.openlocfilehash: 6396722d085bf6c9e831ac34a86f9f3d087ef62e
-ms.sourcegitcommit: 775d6807291ab263eea5ec649d9aaf1933fb41ca
+title: Procedure consigliate per il programma campione-Guida all'adozione dell'utente finale Microsoft 365
+description: Guidare l'adozione di Office 365 con le procedure consigliate del programma Champion
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 96c8588f6600ed3cfb5e6a3945b5c04540797ad3
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32055432"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233448"
 ---
 # <a name="microsoft-365-end-user-adoption-guide"></a>Guida all'adozione dell'utente finale di Microsoft 365
 

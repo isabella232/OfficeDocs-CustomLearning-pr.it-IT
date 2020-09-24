@@ -10,7 +10,7 @@ ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
 ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234638"
+ms.locfileid: "48234804"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per aprile 2020.

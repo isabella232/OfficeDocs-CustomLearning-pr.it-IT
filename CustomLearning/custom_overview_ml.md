@@ -5,18 +5,19 @@ title: Panoramica
 ms.date: 07/06/2020
 description: Supporto multilingue per i percorsi di apprendimento
 ROBOTS: NOINDEX, NOFOLLOW
-ms.openlocfilehash: d3b123d3e10794f7415526c07001171b9c08fbd6
-ms.sourcegitcommit: f355885fb93d66abf61df535fa704ccdb8df9b64
-ms.translationtype: Auto
+ms.service: sharepoint online
+ms.openlocfilehash: 9df06c27b038b168383e1f0ad8632a68d4c0244f
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/05/2020
-ms.locfileid: "45038966"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234158"
 ---
 # <a name="multilingual-support-for-learning-pathways"></a>Supporto multilingue per i percorsi di apprendimento
 
 Se l'organizzazione si estende su una popolazione diversificata, è possibile rendere disponibili i percorsi di apprendimento di Microsoft 365 in più lingue. I percorsi di apprendimento attualmente supportano nove lingue. L'inglese è la lingua predefinita. Le lingue supportate includono:   
 
-- English    
+- Inglese    
 - Cinese (semplificato)
 - Francese
 - Tedesco
@@ -24,7 +25,7 @@ Se l'organizzazione si estende su una popolazione diversificata, è possibile re
 - Giapponese (Giappone)
 - Portoghese (Brasile)
 - Russo (Russo)
-- Spanish
+- Spagnolo
 
 ## <a name="get-familiar-with-the-sharepoint-online-multilingual-features"></a>Acquisire familiarità con le funzionalità di SharePoint online multilingue
 Il supporto multilingue per i percorsi di apprendimento è abilitato dalle funzionalità multilingue di SharePoint Online per i siti di comunicazione.

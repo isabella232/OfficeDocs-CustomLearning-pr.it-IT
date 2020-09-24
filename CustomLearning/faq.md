@@ -4,12 +4,13 @@ ms.author: karuanag
 title: Domande frequenti per i percorsi di apprendimento di Microsoft 365
 ms.date: 02/10/2019
 description: Informazioni sulle domande più frequenti per i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: 6720ab5671cb5e306a30211f272c610b502608ca
-ms.sourcegitcommit: 00307c0c2c2aea1f8896778411c2c23aac9b517d
+ms.service: sharepoint online
+ms.openlocfilehash: 56ea4d5ff50cf42009627af23eab9313853ace2b
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/03/2020
-ms.locfileid: "43141369"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233538"
 ---
 # <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -53,13 +54,13 @@ Microsoft 365 Learning pathways è attualmente disponibile solo in inglese. Il p
 
 ### <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Quanto tempo richiederà l'installazione del sito nell'ambiente tenant?
 
-In base al testing dell'installazione, dovrebbe essere necessario meno di 15 minuti. Questo non include il tempo necessario per personalizzare il sito in base alle proprie esigenze.
+In base al testing dell'installazione, dovrebbe essere necessario meno di 15 minuti. Questa operazione non include il tempo necessario per personalizzare il sito in base alle proprie esigenze.
 
 ### <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>Microsoft 365 Learning pathways è una soluzione open source e quali sono le implicazioni?
 
 Microsoft 365 Learning pathways è una soluzione open source software (OSS) e, come tale, trasporta una serie di vantaggi e considerazioni in tedesco per OSS:
 
-#### <a name="benefits"></a>Benefit 
+#### <a name="benefits"></a>Vantaggi 
 - **Microsoft 365 Learning pathways è una soluzione gratuita:** I clienti possono installare la soluzione nel tenant, personalizzarla e renderla disponibile per gli utenti finali
 - **OSS consente lo sviluppo e la collaborazione rapidi:**  Tutte le soluzioni open source sono disponibili per una vasta community di collaboratori.  Microsoft si impegna a questo metodo di guida dell'innovazione.  Per garantire la realizzazione di un'esperienza che avvantaggia il più ampio gruppo di clienti, il team di gestione dei servizi di base si riserva il diritto di stabilire quali contributi vengono uniti nella build ufficiale.  
 - **OSS consente la collaborazione con i partner:** Microsoft sta lavorando con diversi partner di apprendimento per supportare i propri sforzi per future estensioni e contributi a Microsoft 365 Learning pathways. Verranno fornite ulteriori informazioni man mano che questi piani vengono definiti. 

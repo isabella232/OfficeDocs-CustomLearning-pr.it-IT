@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Esplorare il sito e il contenuto predefinito
 ms.date: 02/10/2019
 description: Esplorare il sito percorsi di apprendimento e il contenuto predefinito
-ms.openlocfilehash: a7218cb09d23d553f50a09ace9b14e9522d8716f
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: 11a6fc8c68f1aaab6d36e1369147a97c4433e166
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956543"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234448"
 ---
 # <a name="explore-the-learning-pathways-site"></a>Esplorare il sito percorsi di apprendimento
 
@@ -17,11 +18,11 @@ ms.locfileid: "37956543"
 
 ## <a name="sign-in-to-office-365"></a>. 
 
-1.  Aprire il Web browser e accedere a office.com o al percorso di accesso dell'organizzazione. 
-2.  Accedere con il nome utente e la password.
+1.  Aprire il web browser e passare a office.com o alla posizione di accesso dell'organizzazione. 
+2.  Eseguire l'accesso con il nome utente e la password.
 3.  Passare al percorso del sito utilizzando l'URL fornito dall'amministratore del tenant oppure selezionare SharePoint dalla Home page di Office 365, quindi selezionare il sito. 
 
-![CG-exploresite. png](media/cg-introducing.png)
+![cg-exploresite.png](media/cg-introducing.png)
 
 ## <a name="explore-microsoft-365-learning-pathways"></a>Esplorare i percorsi di apprendimento di Microsoft 365
 

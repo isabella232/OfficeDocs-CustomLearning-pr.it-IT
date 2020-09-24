@@ -5,12 +5,13 @@ author: karuanag
 ms.author: karuanag
 ms.date: 10/30/2019
 ms.topic: getting-started
-ms.openlocfilehash: b07a7771c92ec69390e078f60e2e86ae04450cae
-ms.sourcegitcommit: f4c2b6ef531d2d820c3d97871e187d0a2220d8f4
+ms.service: sharepoint online
+ms.openlocfilehash: d19b3f25455e07efd8325899e0adb2f0a0c4adc2
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37956643"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233568"
 ---
 # <a name="drive-adoption-of-your-learning-pathways-portal"></a>Guidare l'adozione del portale di apprendimento dei percorsi
 Dopo aver personalizzato i percorsi di apprendimento di Microsoft 365 e aver messo insieme le campagne di apprendimento iniziali, è il momento di riflettere su come ottenere gli utenti per tornare ai percorsi di apprendimento di Microsoft 365 per l'apprendimento e la trasformazione in esecuzione. È possibile utilizzare la guida, il kit di adozione e le procedure consigliate che Microsoft ha messo a disposizione per aiutarti a eseguire le campagne di adozione di Microsoft 365 Learning pathways di successo, offriamo linee guida, procedure consigliate e un kit di adozione. 
@@ -70,12 +71,12 @@ Collaborare con il team delle risorse umane per allineare il lancio del sito di 
 1.  Creare un piano di adozione per l'implementazione di percorsi di apprendimento di Microsoft 365 nell'organizzazione.
 2.  Pilotare la versione personalizzata di Microsoft 365 Learning pathways con un gruppo rappresentativo di utenti finali e eseguire una esecuzione a secco del piano di adozione. Sulla base dei commenti e suggerimenti del pilota è stato iterato un piano di adozione finale.
 3.  Eseguire la campagna di adozione per un periodo di tempo prolungato. 
-4.  Join the driving adoption community. Condividere la propria esperienza con i percorsi di apprendimento di Microsoft 365 nella community di guida all'adozione online. Trovaci all' https://aka.ms/DriveAdoptionindirizzo. 
+4.  Join the driving adoption community. Condividere la propria esperienza con i percorsi di apprendimento di Microsoft 365 nella community di guida all'adozione online. Trovaci all'indirizzo https://aka.ms/DriveAdoption . 
 
 ## <a name="join-the-driving-adoption-community"></a>Join the driving adoption community
 
-Condividere la propria esperienza con i percorsi di apprendimento di Microsoft 365 nella community di guida all'adozione online.  Trovaci all' https://aka.ms/DriveAdoptionindirizzo.
+Condividere la propria esperienza con i percorsi di apprendimento di Microsoft 365 nella community di guida all'adozione online.  Trovaci all'indirizzo https://aka.ms/DriveAdoption .
 
 ## <a name="give-us-feedback"></a>Invia commenti e suggerimenti
 
-Sono richieste nuove funzionalità o contenuti nel portale di apprendimento personalizzato?  Visitate la nostra UserVoice online dove è possibile votare per i suggerimenti esistenti o aggiungere il proprio.  Individuare l'istanza di UserVoice https://aka.ms/AdoptionToolsin.
+Sono richieste nuove funzionalità o contenuti nel portale di apprendimento personalizzato?  Visitate la nostra UserVoice online dove è possibile votare per i suggerimenti esistenti o aggiungere il proprio.  Individuare l'istanza di UserVoice in https://aka.ms/AdoptionTools .

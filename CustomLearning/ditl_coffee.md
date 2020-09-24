@@ -1,11 +1,17 @@
 ---
-titolo: ''
-ms.openlocfilehash: 8f2351e1767de9073870e79d1111370cbe4df2cd
-ms.sourcegitcommit: 821d6b16d8ae415ae8c55d3bf0691158e2c8e7f3
-ms.translationtype: HT
+title: Day in the Life con Office 365-Morning Coffee
+description: Passaggi rapidi da preparare per la giornata a portata di mano con Office 365
+author: karuanag
+ms.author: karuanag
+ms.date: 02/01/2019
+ms.topic: how-to
+ms.service: sharepoint online
+ms.openlocfilehash: 5da7b3eb0e7b66c81c0bf3586509719c912ab609
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "32056338"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233698"
 ---
 # <a name="during-morning-coffee"></a>Durante il caffè del mattino
 

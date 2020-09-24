@@ -1,15 +1,16 @@
 ---
 author: mikeholl
 ms.author: mikeholl
-title: Domande frequenti sui partner
+title: Domande frequenti dei partner
 ms.date: 3/9/2019
 description: In che modo i percorsi di apprendimento di Microsoft 365 si confrontano con le offerte dei partner provenienti da aziende che forniscono servizi di formazione aziendale?
-ms.openlocfilehash: 27a05012363e2ef4a75656dd2e66f7beda51bd2d
-ms.sourcegitcommit: f5a7079d56598c14aef2f4b886c025a59ba89276
+ms.service: sharepoint online
+ms.openlocfilehash: 16eee021f7ba0da5628cc9412ac7cc9436c22b28
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/21/2019
-ms.locfileid: "34247801"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234148"
 ---
 # <a name="partner-frequently-asked-questions"></a>Domande frequenti sui partner
 
@@ -23,7 +24,7 @@ Il modello di sito di apprendimento personalizzato e la soluzione di contenuto s
 Anche se non è possibile completare l'alimentazione direttamente dal servizio di provisioning di SharePoint Online, esistono diversi modelli di integrazione che i partner possono sfruttare per creare servizi di aggiunta di valore allineati.
 
 1. **Servizi di distribuzione e personalizzazione per conto di clienti** -i partner possono eseguire l'installazione della soluzione, il branding e la personalizzazione del contenuto per i propri clienti. I partner possono anche fornire elenchi di riproduzione personalizzati che fanno riferimento a valore aggiunto per il contenuto di formazione che creano. 
-2. **Personalizzazione, rebranding, ricondizionamento e servizi di distribuzione per conto di clienti-i** partner possono personalizzare i modelli di sito e le playlist di contenuto per i requisiti dei clienti e possono riassemblarli e distribuirli all'interno degli ambienti dei clienti creazione dei modelli di esercitazione e del framework delle procedure di SharePoint open source. 
+2. **Personalizzazione, rebranding, ricondizionamento e servizi di distribuzione per conto di clienti-i** partner possono personalizzare i modelli di sito e le playlist di contenuto per i requisiti dei clienti e possono riassemblarli e distribuirli all'interno degli ambienti dei clienti mediante la creazione di modelli di SharePoint e Framework di esercitazione open source. 
 
 ### <a name="how-does-this-solution-affect-my-adoption-change-management-practice"></a>In che modo questa soluzione incide sulla prassi di gestione delle modifiche all'adozione? 
 I servizi di formazione sono una componente dell'adozione più ampia e dello spazio di pratica della gestione dei cambiamenti. La soluzione Microsoft 365 Learning pathways offre una specifica necessità di accelerare la capacità dei partner e dei clienti di accedere e personalizzare i contenuti di formazione forniti da Microsoft. I percorsi di apprendimento Microsoft 365 non includono la progettazione di corsi personalizzati, la progettazione guidata da istruttori, gamification, l'analisi del comportamento utente, le funzionalità estese per la comunicazione e l'impegno o il supporto in tempo reale. Microsoft si basa sull'adozione e sul cambiamento dei partner di gestione per soddisfare questi servizi per i clienti. 

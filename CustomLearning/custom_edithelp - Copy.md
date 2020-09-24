@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Personalizzare il sito percorsi di apprendimento
 ms.date: 02/15/2019
 description: Informazioni sulla varietà di personalizzazioni disponibili con i percorsi di apprendimento di Microsoft 365
-ms.openlocfilehash: fce6819b5d54a5f551ae2264f7b0b7e3169b25cc
-ms.sourcegitcommit: 3b8896c81ad2adbcfdbda658482847af5fccb264
+ms.service: sharepoint online
+ms.openlocfilehash: e6479fdd35dcd6a27482fb3faa3facd35e4d52e7
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/30/2019
-ms.locfileid: "37887015"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234498"
 ---
 # <a name="customize-the-site"></a>Personalizzare il sito
 
@@ -20,7 +21,7 @@ Il sito Microsoft 365 Learning pathways si basa su un modello di comunicazione d
 
 ## <a name="customize-the-site-and-web-pages"></a>Personalizzazione del sito e delle pagine Web
 
-Il sito percorsi di apprendimento è completamente personalizzabile. Se non si ha familiarità con il modo in cui personalizzare il sito di SharePoint o le pagine Web, è consigliabile leggere l'articolo [Personalizza il sito di SharePoint](https://support.office.com/en-us/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) in support.Office.com. 
+Il sito percorsi di apprendimento è completamente personalizzabile. Se non si ha familiarità con il modo in cui personalizzare il sito di SharePoint o le pagine Web, è consigliabile leggere l'articolo [Personalizza il sito di SharePoint](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) in support.Office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Personalizzare fare domande e ottenere assistenza
 
@@ -30,7 +31,7 @@ In qualità di amministratore del sito percorsi di apprendimento, una delle oper
 2.  Fare clic sul pulsante **Modifica**.
 3.  Posizionare il puntatore del mouse su un'immagine dell'opzione della guida, quindi fare clic su **Modifica web part**.
 
-![CG-EDITHELP. png](media/cg-edithelp.png)
+![cg-edithelp.png](media/cg-edithelp.png)
 
 4.  Nella casella **collegamento** immettere l'URL per la risorsa interna. 
 5.  Ripetere i passaggi 3 e 4 per le altre due immagini che non sono collegate.

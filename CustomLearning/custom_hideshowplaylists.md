@@ -4,12 +4,13 @@ ms.author: pkrebs
 title: Nascondere e visualizzare le playlist
 ms.date: 10/27/2019
 description: Nascondere e visualizzare le playlist
-ms.openlocfilehash: f5afc66220a936d2346c3a81b33545a46f7672f5
-ms.sourcegitcommit: 71c503c9f9a97ce01e8fd3e346b7713a2d5304ec
+ms.service: sharepoint online
+ms.openlocfilehash: e8f6a2df8e328d995143990be569f3de815d5646
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37886659"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48234328"
 ---
 # <a name="hide-and-show-playlists"></a>Nascondere e visualizzare le playlist
 
@@ -24,12 +25,12 @@ Per adattare i percorsi di apprendimento per l'ambiente, è possibile nascondere
 2. Nella web part percorsi di apprendimento selezionare l'icona **amministra** . 
 3. Dal riquadro sinistro della pagina **Amministrazione** , selezionare una sottocategoria, quindi selezionare il bulbo oculare di una playlist per nasconderla. In questo esempio, fare clic sulla sottocategoria **Microsoft teams** e quindi nascondere la playlist * * * * Start Chat, chiamate e riunioni * *.  
 
-![CG-hideplaylist. png](media/cg-hideplaylist.png)
+![cg-hideplaylist.png](media/cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verificare che la playlist sia nascosta
 - Per verificare che la playlist sia nascosta, selezionare la scheda Esplorazione con la pagina inizia **con Office 365** caricata e quindi aggiornare la pagina. Selezionare Microsoft teams. A questo punto, è possibile visualizzare la sottocategoria **Inizia chat, chiamate e riunioni** . 
 
-![CG-hideplaylistrefresh. png](media/cg-hideplaylistrefresh.png)
+![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
 
 ## <a name="unhide-a-playlist"></a>Scopri una playlist
 

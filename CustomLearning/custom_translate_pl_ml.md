@@ -1,17 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Tradurre percorsi di apprendimento playlist personalizzate
+title: Tradurre le playlist personalizzate dei percorsi di apprendimento
 ms.date: 07/06/2020
-description: Tradurre percorsi di apprendimento playlist personalizzate
-ms.openlocfilehash: 5bb3c96cce64fc26c5f5cd215c991c4849426693
-ms.sourcegitcommit: 0b56b96c215d4a5dd18fbeafc40b9fe63ff18b16
-ms.translationtype: Auto
+description: Tradurre le playlist personalizzate dei percorsi di apprendimento
+ms.service: sharepoint online
+ms.openlocfilehash: ceb354a48c6add948d8d2ecd1f6f2762e6b819c5
+ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 07/06/2020
-ms.locfileid: "45048134"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48233918"
 ---
-# <a name="translate-learning-pathways-custom-playlists"></a>Tradurre percorsi di apprendimento playlist personalizzate
+# <a name="translate-learning-pathways-custom-playlists"></a>Tradurre le playlist personalizzate dei percorsi di apprendimento
 Con i percorsi di apprendimento, il modo in cui si lavora con playlist personalizzate dipende da come si configurano i percorsi di apprendimento.  
 
 - Se si prevede di eseguire il provisioning di un nuovo sito multilingue di percorsi di apprendimento, è possibile copiare o creare una nuova playlist e tradurre la playlist nelle lingue supportate dal sito.
