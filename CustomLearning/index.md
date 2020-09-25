@@ -2,23 +2,21 @@
 author: pkrebs
 ms.author: pkrebs
 title: Panoramica dei percorsi di apprendimento di Microsoft 365
-ms.date: 7/6/2020
+ms.date: 9/24/2020
 description: Informazioni su come i percorsi di apprendimento di Microsoft 365 possono accelerare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una Web part di SharePoint Online personalizzata e un sito di formazione per la comunicazione di SharePoint Online moderno che può essere facilmente eseguito per il provisioning del tenant Microsoft 365.
 ms.service: sharepoint online
-ms.openlocfilehash: c2448fae5e01dc673f41b5fa0d7076528d9a75c5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 4a4e7f8bfcb6cf8288605154a4d71fde2db024f8
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233488"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261658"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento di Microsoft 365 
 Microsoft 365 Learning pathways è una soluzione di apprendimento su richiesta personalizzabile, progettata per aumentare l'utilizzo e l'adozione dei servizi di Microsoft 365 nell'organizzazione.    
 
 > [!IMPORTANT]
-> In risposta ai commenti e suggerimenti dei clienti, i percorsi di apprendimento offrono ora supporto multilingue per nove lingue. Per informazioni e istruzioni su come abilitare il supporto multilingue per i percorsi di apprendimento, leggere gli argomenti seguenti: 
->- [Panoramica del supporto multilingue per i percorsi di apprendimento](custom_overview_ml.md) 
->- [Opzioni di configurazione per i percorsi di apprendimento](custom_setupoptions.md)  
+> I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. A 9/24/2020, è stato aggiornato il contenuto dei percorsi di apprendimento per l'aggiornamento del contenuto di settembre. Per ulteriori informazioni sull'aggiornamento del contenuto di settembre 2020, vedere [aggiornamenti del contenuto](custom_contentupdates.md). Per informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestirne il contenuto, vedere [Manage content updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione su richiesta e personalizzata da Microsoft
 
@@ -34,7 +32,7 @@ Microsoft 365 Learning pathways offre:
 ## <a name="sharepoint-look-book-service"></a>Servizio di ricerca di SharePoint
 È possibile eseguire il provisioning dei percorsi di apprendimento dal servizio di ricerca di SharePoint. Quando si esegue il provisioning dei percorsi di apprendimento di Microsoft 365, le organizzazioni ottengono un sito di comunicazione di SharePoint Online creato per essere un portale di formazione esterno, insieme a una Web part per i percorsi di apprendimento connesso a un catalogo online di contenuti di formazione. 
 
-![cg-provision.png](media/cg-provision.png)
+![Pagina di provisioning della Rubrica di SharePoint](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 semplici passaggi
 Iniziamo a creare un'esperienza di apprendimento dei percorsi per l'ambiente.

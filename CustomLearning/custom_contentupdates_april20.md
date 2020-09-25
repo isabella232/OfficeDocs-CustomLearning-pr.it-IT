@@ -1,18 +1,18 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Percorsi di apprendimento aggiornamenti del contenuto
+title: Percorsi di apprendimento aggiornamenti del contenuto aprile
 ms.date: 3/30/2020
 description: Percorsi di apprendimento degli aggiornamenti del contenuto di aprile 2020
 ms.service: sharepoint online
-ms.openlocfilehash: 9a53c095b7fa2de1aa0628475b684048b07bd8f9
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: fa49140e731318ab07a9442cea40b0e3878eec12
+ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234804"
+ms.lasthandoff: 09/24/2020
+ms.locfileid: "48261678"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
+# <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 Learning pathways Updates Contents for April
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per aprile 2020.
 
 ## <a name="april-2020-content-updates"></a>Aggiornamenti del contenuto di aprile 2020
@@ -29,7 +29,7 @@ Sono state aggiunte o aggiornate le playlist seguenti.
 #### <a name="work-remotely-2-new-playlists11-new-assets"></a>Lavorare in remoto (2 nuove playlist/11 nuove risorse)
 Una nuova sottocategoria di lavoro è stata aggiunta a percorsi di apprendimento che sono caratterizzati dalle playlist e dagli asset seguenti: 
 
-![cg-contentupdate-apr2020-01.png](media/cg-contentupdate-apr2020-01.png)
+![percorsi di apprendimento lavoro in remoto playlist](media/cg-contentupdate-apr2020-01.png)
 
 ##### <a name="work-remotely-5-new-assets"></a>Lavorare in remoto (5 nuove risorse)
 - Lavorare in remoto con Office 365
