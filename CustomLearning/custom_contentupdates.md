@@ -4,19 +4,22 @@ ms.author: pkrebs
 title: Percorsi di apprendimento aggiornamenti del contenuto
 ms.date: 3/30/2020
 description: Percorsi di apprendimento aggiornamenti del contenuto
-ms.service: sharepoint online
-ms.openlocfilehash: 84565d0d65c4667cf0837634fde67fc0d5c96d40
-ms.sourcegitcommit: 7167475d4ce989c1f4d10889023814c5a650e777
+ms.service: o365-solutions
+ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
+ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "48261693"
+ms.lasthandoff: 10/02/2020
+ms.locfileid: "48336404"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per il 2020 settembre.
 
 ## <a name="september-2020-content-updates"></a>Aggiornamenti del contenuto di settembre 2020
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md). 
+
+> [!IMPORTANT]
+> L'aggiornamento del contenuto di settembre è stato rilasciato per l'inglese. Gli aggiornamenti del contenuto per il cinese (semplificato), francese, tedesco, italiano, giapponese, portoghese (brasiliano), russo e spagnolo saranno disponibili a breve.  
 
 ### <a name="security"></a>Sicurezza
 È stata aggiunta una nuova sottocategoria di sicurezza con elenchi di riproduzione e risorse per consentire agli utenti di lavorare in modo più sicuro in Office e a casa. 
