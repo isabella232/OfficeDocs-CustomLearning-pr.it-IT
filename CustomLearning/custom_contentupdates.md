@@ -5,12 +5,12 @@ title: Percorsi di apprendimento aggiornamenti del contenuto
 ms.date: 3/30/2020
 description: Percorsi di apprendimento aggiornamenti del contenuto
 ms.service: o365-solutions
-ms.openlocfilehash: 6610eecf67f36b130aaf45e227f5aa85d20f44d8
-ms.sourcegitcommit: 60554c63c0dd833b27e11b0b28c08aee69d16e26
+ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
+ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "48336404"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48361096"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per il 2020 settembre.
@@ -19,7 +19,7 @@ I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento t
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md). 
 
 > [!IMPORTANT]
-> L'aggiornamento del contenuto di settembre è stato rilasciato per l'inglese. Gli aggiornamenti del contenuto per il cinese (semplificato), francese, tedesco, italiano, giapponese, portoghese (brasiliano), russo e spagnolo saranno disponibili a breve.  
+> L'aggiornamento del contenuto di settembre è stato rilasciato per l'inglese, cinese (semplificato), francese, tedesco, italiano, giapponese, portoghese (brasiliano), russo e spagnolo.  
 
 ### <a name="security"></a>Sicurezza
 È stata aggiunta una nuova sottocategoria di sicurezza con elenchi di riproduzione e risorse per consentire agli utenti di lavorare in modo più sicuro in Office e a casa. 
