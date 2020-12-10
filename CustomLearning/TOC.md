@@ -14,6 +14,7 @@
 ## [Tradurre le playlist personalizzate dei percorsi di apprendimento](custom_translate_pl_ml.md)
 ## [Tradurre il nome del sito, la struttura di spostamento e i piè di pagina](custom_sitenamenav_ml.md)
 # [Admin Success Center](custom_successcenter.md)
+## [Usare l'Assistente per Teams con percorsi di apprendimento per agevolare la distribuzione di Microsoft Teams](custom_teamsadvisor.md)
 ## Pianificare i contenuti di apprendimento 
 ### [Pianificare i contenuti di apprendimento](custom_plancontent.md)
 ### [Risorse per il supporto della forza lavoro remota](custom_plancontent_remoteresources.md)
