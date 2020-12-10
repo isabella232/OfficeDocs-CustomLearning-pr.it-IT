@@ -5,12 +5,12 @@ title: Percorsi di apprendimento aggiornamenti del contenuto
 ms.date: 3/30/2020
 description: Percorsi di apprendimento aggiornamenti del contenuto
 ms.service: o365-solutions
-ms.openlocfilehash: 5111cb5a61f369be93adeae0198b52f53a267150
-ms.sourcegitcommit: 6a496a594cfbbeb9a53630cad0fce003c8b02501
+ms.openlocfilehash: a292e0daa81b384bad8cf45fd2a9e0a1dc3257e7
+ms.sourcegitcommit: 896b2635713967987bb705c861e11b5568fd72ca
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48361096"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "49614634"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning pathways content updates
 I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per il 2020 settembre.
@@ -36,7 +36,7 @@ I percorsi di apprendimento si sforzano di aderire a un ciclo di aggiornamento t
 #### <a name="security-at-home-playlist"></a>Elenco di riproduzione "sicurezza in casa"
 - Suggerimenti per garantire la sicurezza dei dati
 - Mantenere il computer sicuro a casa
-- Proteggi la tua famiglia online con Windows Security – è qui per sbaglio?
+- Proteggi la tua famiglia online con la sicurezza di Windows   
 
 #### <a name="security-at-work-playlist"></a>Playlist "sicurezza sul lavoro"
 - Mantenere il computer sicuro sul posto di lavoro
@@ -146,7 +146,7 @@ Le risorse seguenti sono state aggiornate o aggiunte alle playlist di Products\P
 Le guide introduttive di Office per tutti i prodotti Office sono state aggiornate. 
 
 ## <a name="april-2020-content-updates"></a>Aggiornamenti del contenuto di aprile 2020
- In risposta agli eventi correnti, l'aggiornamento del contenuto di aprile 2020 offre playlist e risorse di apprendimento progettate per abilitare il lavoro remoto nell'organizzazione. È stato aggiunto un nuovo set di elenchi di riproduzione in remoto, è stato aggiornato significativamente il contenuto di Microsoft teams, specialmente per le riunioni di teams, è stato aggiunto un nuovo gruppo di Office per le playlist Web e sono state aggiunte nuove risorse di Microsoft Forms. Come parte dell'aggiornamento, è stato anche fornito un elenco di risorse di lavoro remote per gli amministratori.  
+ In risposta agli eventi correnti, l'aggiornamento del contenuto di aprile 2020 offre playlist e risorse di apprendimento progettate per abilitare il lavoro remoto nell'organizzazione. È stato aggiunto un nuovo set di elenchi di riproduzione a distanza di lavoro e sono stati aggiornati i contenuti di Microsoft teams, soprattutto per le riunioni dei team. Inoltre, è stato aggiunto un nuovo gruppo di Office per le playlist Web e sono state aggiunte nuove risorse di Microsoft Forms. È stato inoltre fornito un elenco di risorse di lavoro remote per gli amministratori.  
  
  Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md). Di seguito sono elencati gli aggiornamenti del contenuto di aprile 2020 Microsoft 365 Learning pathways. 
 
@@ -161,7 +161,7 @@ Una nuova sottocategoria di lavoro è stata aggiunta a percorsi di apprendimento
 
 ![percorso di apprendimento lavoro in remoto](media/cg-contentupdate-apr2020-01.png)
 
-##### <a name="work-remotely-5-new-assets"></a>Lavorare in remoto (5 nuove risorse)
+##### <a name="work-remotely-five-new-assets"></a>Lavorare in remoto (cinque nuove risorse)
 - Lavorare in remoto con Office 365
 - Per iniziare, vedere Office.com
 - Comunicare o rispondere
@@ -175,20 +175,20 @@ Una nuova sottocategoria di lavoro è stata aggiunta a percorsi di apprendimento
 - Soddisfare
 - Mobile
 
-### <a name="teams-9-new-assets6-updated-assets"></a>Teams (9 nuove risorse/6 risorse aggiornate)
+### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (nove nuove risorse/sei risorse aggiornate)
 È stata apportata una serie di aggiornamenti al contenuto dei team. 
-#### <a name="collaborate-in-teams-and-channels-1-new1-updated-asset"></a>Collaborare in Teams and Channels (1 nuovo/1 asset aggiornato)
+#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Collaborare in Teams and Channels (One New/One updated asset)
 - Creazione e utilizzo di canali privati (nuovi)
 - Mostrare o nascondere i canali (aggiornato)
-#### <a name="start-chats-and-calls-2-new1-updated"></a>Avviare chat e chiamate (2 nuove/1 aggiornate)
+#### <a name="start-chats-and-calls-two-newone-updated"></a>Avviare le chat e le chiamate (due nuove/una aggiornata)
 - Chat di avvio e pin (nuova)
 - Nascondi chat, Elimina messaggi (nuovo)
 - Effettuare chiamate (aggiornate)
-#### <a name="explore-apps-and-tools-1-new"></a>Esplorare le app e gli strumenti (1 nuovo)
+#### <a name="explore-apps-and-tools-one-new"></a>Esplorare le app e gli strumenti (uno nuovo)
 - Utilizzare le app (nuove)
 #### <a name="work-with-posts-and-messages"></a>Utilizzare i messaggi e i messaggi
 - Inviare un messaggio a più canali (nuovo)
-#### <a name="manage-meetings-3-new4-updated-assets"></a>Gestire le riunioni (3 nuove/4 risorse aggiornate)
+#### <a name="manage-meetings-three-newfour-updated-assets"></a>Gestire le riunioni (tre nuove/quattro risorse aggiornate)
 - Partecipare a una riunione di Teams (nuovo)
 - Creare riunioni istantanee con Meet Now (aggiornato)
 - Incontrarsi in un canale (nuovo)
@@ -196,12 +196,12 @@ Una nuova sottocategoria di lavoro è stata aggiunta a percorsi di apprendimento
 - Visualizzazione dello schermo durante una riunione (aggiornata)
 - Mostrare diapositive di PowerPoint (aggiornate)
 - Spostarsi in una riunione di Teams (aggiornata)
-#### <a name="work-with-post-and-messages-1-new"></a>Utilizzo di post e messaggi (1 nuovo)
+#### <a name="work-with-post-and-messages-one-new"></a>Utilizzo di post e messaggi (un nuovo)
 - Inviare un messaggio a più canali (nuovo)
 
 ### <a name="office-for-the-web"></a>Office per il web
 Office per il Web fornisce un set di elenchi di riproduzione per gli scenari in cui gli utenti desiderano creare, condividere e collaborare con Office sul Web. Questo set di contenuti è utile anche per le organizzazioni che stanno facendo il passaggio da Google G Suite a Microsoft 365.
-#### <a name="get-started-5-new-assets"></a>Introduzione (5 nuove risorse)
+#### <a name="get-started-five-new-assets"></a>Introduzione (cinque nuove risorse)
 - Per iniziare
 - Trovalo con la ricerca
 - Creare nuovi documenti
@@ -244,7 +244,7 @@ Office per il Web fornisce un set di elenchi di riproduzione per gli scenari in 
 
 ### <a name="microsoft-forms"></a>Microsoft Forms 
 In base alle richieste, sono presenti anche alcune nuove risorse per i moduli. 
-#### <a name="forms-4-new-assets"></a>Moduli (4 nuove risorse) 
+#### <a name="forms-four-new-assets"></a>Moduli (quattro nuove risorse) 
 - Creare un modulo 
 - Condivisione di un modulo 
 - Visualizzare i risultati di un modulo 
@@ -267,27 +267,26 @@ Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, v
 Aggiornamento del contenuto di Microsoft 365 Learning pathways. A partire dall'aggiornamento del 2019 novembre, verrà fornito un inventario aggiornato del catalogo percorsi di apprendimento su base trimestrale. Per l'aggiornamento del 2019 novembre, al catalogo percorsi di apprendimento sono state aggiunte le nuove sottocategorie di contenuto e le playlist seguenti. Per ulteriori informazioni sul modo in cui vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del contenuto, vedere [gestire gli aggiornamenti del contenuto](custom_contentupdatesmanage.md).    
 
 ### <a name="teams"></a>Teams
-Nella sottocategoria teams sono state aggiunte diverse nuove playlist.
-- Utilizzare i messaggi e i messaggi (3 risorse)
-- Caricare e trovare file (2 risorse)
-- Configurare e partecipare a eventi in tempo reale (4 risorse)
-- Gestire il feed attività (2 risorse)
-- Teams in viaggio (2 risorse)
+Alla sottocategoria teams sono state aggiunte diverse nuove playlist.
+- Utilizzare i messaggi e i messaggi (quattro risorse)
+- Caricare e trovare file (due risorse)
+- Configurare e partecipare a eventi in tempo reale (quattro risorse)
+- Gestire il feed attività (due risorse)
+- Teams on-the-go (due risorse)
 
 ### <a name="microsoft-365-success-center"></a>Microsoft 365 centro risultati
 È stata aggiunta una sottocategoria Microsoft 365 Learning pathways Success Center all'esperienza dei percorsi di apprendimento. Il centro di successo fornisce le playlist seguenti.
-- Cosa c'è di nuovo, cosa è cambiato (3 asset)
-- Pianificare il contenuto di apprendimento (2 risorse)
-- Personalizzare i percorsi di apprendimento (8 risorse?)
-- Unità di adozione di percorsi di apprendimento (1 risorsa)
-- Misurare l'impatto dei percorsi di apprendimento (1 risorsa)
+- Cosa c'è di nuovo, cosa è cambiato (tre risorse)
+- Pianificare il contenuto di apprendimento (due risorse)
+- Personalizzare i percorsi di apprendimento (otto risorse?)
+- Unità di adozione di percorsi di apprendimento (una risorsa)
+- Misurare l'impatto dei percorsi di apprendimento (una risorsa)
 
 ### <a name="outlook"></a>Outlook
-Alla sottocategoria di Outlook è stata aggiunta la seguente playlist. 
-- Outlook Mobile: gestire la posta in arrivo (4 risorse)
-- Outlook Mobile: gestire il proprio tempo (8 risorse)
-- Outlook Mobile: utenti e connessioni (5 risorse)
-- Outlook Mobile: ricerca e condivisione (4 risorse)
+Alla sottocategoria di Outlook sono state aggiunte le playlist seguenti. 
+- Outlook Mobile: gestire la posta in arrivo (otto risorse)
+- Outlook Mobile: utenti e connessioni (cinque risorse)
+- Outlook Mobile: ricerca e condivisione (quattro risorse)
 
 ### <a name="onedrive"></a>OneDrive
 Per OneDrive sono state aggiunte le risorse video seguenti. 
@@ -296,36 +295,33 @@ Per OneDrive sono state aggiunte le risorse video seguenti.
 
 ### <a name="planner"></a>Planner
 Al catalogo sono state aggiunte le playlist e le risorse seguenti.  
-- Pianificazione rapida avvio (6 risorse)
-- Utilizzare Planner (8 risorse)
+- Pianificazione rapida (Six assets)
+- Utilizzare Planner (otto risorse)
 
 ### <a name="accessibility"></a>Accessibilità
 La sottocategoria accessibilità dei contenuti è stata aggiunta con gli elenchi di riproduzione seguenti. 
-- Informazioni generali su accessibilità e risorse di Microsoft 365 (3 risorse)
-- Creare messaggi di posta elettronica più accessibili in Outlook (3 risorse)
-- Creare documenti di Word più accessibili (8 risorse)
-- Creare cartelle di lavoro di Excel più accessibili (3 risorse)
-- Creare diapositive più accessibili in PowerPoint (5 risorse)
-
-### <a name="onedrive"></a>OneDrive
-Nota: le modifiche devono essere aggiunte qui.....
+- Informazioni generali su accessibilità e risorse di Microsoft 365 (tre risorse)
+- Creare messaggi di posta elettronica più accessibili in Outlook (tre risorse)
+- Creare documenti di Word più accessibili (otto risorse)
+- Creare cartelle di lavoro di Excel più accessibili (tre risorse)
+- Creare diapositive più accessibili in PowerPoint (cinque risorse)
 
 ### <a name="sway"></a>Sway
 La sottocategoria Sway del contenuto è stata aggiunta con gli elenchi di riproduzione seguenti. 
-- Avvio veloce ondeggiamento (4 risorse)
-- Condivisione e accesso all'influenza (5 risorse)
+- Ondeggiamento rapido (quattro risorse)
+- Condivisione e accesso all'influenza (cinque risorse)
 - Aggiungere contenuto a Sway (11 risorse)
-- Personalizza Sway (5 risorse)
+- Personalizza Sway (cinque risorse)
 
-### <a name="access"></a>Access
-- Accedere a avvio veloce (4 risorse)
-- Introduzione all'accesso (3 risorse)
-- Creare un database di Access (2 risorse)
-- Aggiungere tabelle (2 risorse)
-- Utilizzare le relazioni (5 risorse)
-- Aggiungere e modificare dati (2 risorse)
-- Gestire i dati con le query (5 risorse)
-- Creare moduli (1 risorsa)
-- Creare report (2 risorse)
-- Proteggi database (1 risorsa)
+### <a name="access"></a>Accesso
+- Accedere a avvio veloce (quattro risorse)
+- Introduzione all'accesso (tre risorse)
+- Creare un database di Access (due risorse)
+- Aggiungere tabelle (due risorse)
+- Utilizzare le relazioni (cinque risorse)
+- Aggiungere e modificare dati (due risorse)
+- Gestire i dati con le query (cinque risorse)
+- Creare moduli (una risorsa)
+- Creare report (due risorse)
+- Proteggi database (una risorsa)
 
