@@ -1,33 +1,33 @@
 ---
-title: Procedure consigliate per il programma campione-raccogliere commenti e suggerimenti
-description: Guidare l'adozione di Office 365 con le procedure consigliate del programma Champion
+title: Procedure consigliate per il programma Champion - Raccolta commenti e suggerimenti
+description: Guidare l'adozione di Office 365 con le procedure consigliate per il programma Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: 56549c66672d98a217e5dedbf88392855c0dd685
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: 259952d15b960f1946ad7bed466ff44bcd23ccb6
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233438"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162883"
 ---
 # <a name="collect-feedback-from-your-employees"></a>Raccogliere commenti e suggerimenti dai dipendenti
 
-L'adozione di una nuova esperienza di collaborazione è relativa alla modifica del comportamento degli utenti. Il cambiamento umano richiede formazione, incoraggiamento e esempi positivi. È inoltre fondamentale che gli utenti si sentano ascoltati durante la transizione. Se nell'organizzazione sono stati precedentemente stabiliti dei metodi di feedback riusciti, è consigliabile espanderli in modo da includere l'implementazione di Office 365. Se questa operazione non è stata completata, prendere in considerazione uno degli approcci seguenti:
+L'adozione di una nuova esperienza di collaborazione riguarda la modifica del comportamento degli utenti. Il cambiamento umano richiede formazione, incoraggiamento ed esempi positivi. È inoltre fondamentale che le persone si senta ascoltate durante la transizione. Se in precedenza sono stati stabiliti metodi di feedback riusciti nell'organizzazione, è consigliabile espanderli per includere l'implementazione di Office 365. Se questa operazione non è stata eseguita in precedenza, prendere in considerazione uno degli approcci seguenti:
 
-## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>Utilizzare Yammer per fornire una community aperta per le procedure consigliate e il supporto per l'esperienza.
-I metodi di feedback basati su community richiedono l'impegno di campioni e proprietari di servizi. Creare una community di Yammer aperta che sia mirata alla tecnologia che si sta implementando.  Ad esempio, si può avere un generale per Office 365 oppure scegliere di indirizzarlo agli utenti di Office, Microsoft teams o altre tecnologie.  È consigliabile creare una pianificazione di monitoraggio per la community di Yammer che ruota tra questi membri. 
+## <a name="use-yammer-to-provide-an-open-community-for-best-practices-and-support-for-the-experience"></a>Usare Yammer per fornire una community aperta per le procedure consigliate e il supporto per l'esperienza.
+I metodi di feedback della community richiedono l'intervento di campioni e proprietari di servizi. Creare una community yammer aperta mirata alla tecnologia che si sta implementazione.  Ad esempio, si potrebbe avere una versione generale per Office 365 o scegliere di scegliere di impostarla come destinazione per gli utenti di Office, Microsoft Teams o altre tecnologie.  È consigliabile creare una pianificazione di monitoraggio per la community yammer che ruota tra questi membri. 
 
-## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>Creazione di un team a livello di organizzazione all'interno di Microsoft Teams (fino a 2500)
-Per le organizzazioni di piccole dimensioni, il team pubblico può anche fornire un centro di gravità per i commenti e la guida.  Valutare la possibilità di creare un canale denominato "Ask a Champion" per favorire la comunicazione tra campioni e dipendenti.  Tenere presente che attualmente Microsoft teams è limitato a 2500 persone anche se questo aumenterà in futuro. In [questo articolo](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team)è possibile ottenere ulteriori informazioni sui team org-Wide. 
+## <a name="creating-an-org-wide-team-within-microsoft-teams-up-to-2500"></a>Creazione di un team a livello di organizzazione in Microsoft Teams (fino a 2500)
+Per le organizzazioni più piccole un team pubblico a livello di organizzazione può anche fornire un centro di gravità per feedback e assistenza.  Prendi in considerazione la possibilità di creare un canale denominato "Chiedi a un campione" per favorire la comunicazione tra i campioni e i dipendenti.  Tenere presente che attualmente Microsoft Teams è limitato a 2500 persone, anche se questo sarà in futuro in aumento. Per ulteriori informazioni sui team a livello di organizzazione, vedere [questo articolo](/microsoftteams/create-an-org-wide-team). 
 
-## <a name="microsoft-forms-for-employee-surveys"></a>Microsoft Forms per i sondaggi dei dipendenti
+## <a name="microsoft-forms-for-employee-surveys"></a>Microsoft Forms for Employee Surveys
 
-Utilizzare [Microsoft Forms](https://support.office.com/forms) per eseguire brevi sondaggi sulla distribuzione con i set di chiavi degli utenti.  Si consiglia di inviare queste indagini all'inizio, nel mezzo e verso la fine della distribuzione del servizio.  In questo modo, verranno restituite informazioni utili per continuare a migliorare l'approccio.  
+Utilizzare [Microsoft Forms per](https://support.office.com/forms) condurre brevi sondaggi sulla distribuzione con set di utenti chiave.  Ti consigliamo di inviare questi sondaggi all'inizio, nel mezzo e verso la fine della distribuzione del servizio.  In questo modo potrai ottenere dati importanti per continuare a migliorare il tuo approccio.  
 
-## <a name="highlight-the-wins-share-showcases"></a>Evidenziare le presentazioni WINS: Condividi
-Come si continua lungo questo viaggio, troverete Showcase dei dipendenti la cui creatività con Office 365 vi sorprenderà e delizierà. Si consiglia di condividere queste vetrine in generale. Questo incoraggerà gli altri a essere innovativi, a informare gli utenti che potrebbero essere in precedenza nella curva di adozione e a premiare coloro che hanno avuto il tempo di riflettere su come usare al meglio Office 365 nel proprio ambiente. L'impostazione di un obiettivo misurabile di identificazione di un numero stabilito di Showcase ogni trimestre è utile per mantenere la quantità di moto di adozione.
+## <a name="highlight-the-wins-share-showcases"></a>Evidenziare le caratteristiche Wins: Share Showcases
+Continuando in questo percorso, troverai le vetrine dei dipendenti la cui creatività con Office 365 ti sorprenderà e ti delizierà. Ti consigliamo di condividere queste dimostrazioni su larga base. Ciò incoraggerà gli altri a essere innovativi, informare gli utenti che potrebbero essere in precedenza nella curva di adozione e premiare gli utenti che hanno impiegato il tempo necessario per riflettere su come usare al meglio Office 365 nel proprio ambiente. L'impostazione di un obiettivo misurabile di identificare un numero limitato di vetrine ogni trimestre è utile per mantenere il momento dell'adozione.
 
-Condividi queste vetrine nelle tue comunità pubice per ispirare altri dipendenti e aiutarli a imparare i vantaggi di Office 365.  
+Condividere queste dimostrazioni nelle community pubiche per ispirare altri dipendenti e aiutarli a imparare i vantaggi di Office 365.

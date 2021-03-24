@@ -1,35 +1,35 @@
 ---
-title: Procedure consigliate per il programma campione-trovare campioni
-description: Guidare l'adozione di Office 365 con le procedure consigliate del programma Champion
+title: Procedure consigliate per il programma Champion - Trovare i campioni
+description: Guidare l'adozione di Office 365 con le procedure consigliate per il programma Champion
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint online
-ms.openlocfilehash: d3dc0b573469e8990c7b82014f645bcd4824a282
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.openlocfilehash: d7e3d5bf25a822c6c09245658726d255dbb82a3f
+ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233468"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51162902"
 ---
-# <a name="finding-your-champions"></a>Individuazione dei campioni 
+# <a name="finding-your-champions"></a>Trovare i campioni 
 
-È probabile che si conosca già chi sono i campioni, anche se attualmente non si dispone di un programma formale.  Si tratta di persone che:
+È probabile che tu sappia già chi sono i tuoi campioni, anche se attualmente non hai un programma formale.  Si tratta di persone che:
 
-Sono spesso visti come gli altri utenti con tecnologia esistente godono di insegnamento e di apprendimento sulla nuova tecnologia può essere vocale sui limiti delle soluzioni correnti sono desiderosi di provare nuove cose, anche prima di altri colleghi di lavoro
+Sono spesso visti aiutare gli altri con la tecnologia esistente Divertere l'insegnamento e l'apprendimento delle nuove tecnologie Può essere utile per conoscere i limiti delle soluzioni correnti Sono desiderosi di provare cose nuove, anche prima di altri colleghi
 
 > [!NOTE]
-> I campioni sono diversi da quelli che amano testare il nuovo software solo per la tecnologia. I campioni prosperano nell' **aiutare gli altri** indipendentemente dal contesto. 
+> I campioni sono diversi dalle persone che amano testare il nuovo software solo per la tecnologia. I campioni si **impossessano di aiutare gli** altri indipendentemente dal contesto. 
 
-## <a name="start-small-and-grow"></a>Avvio di piccole dimensioni e aumento
+## <a name="start-small-and-grow"></a>Start small and grow
 
-Se l'organizzazione non dispone di un programma campione corrente o se si desidera rilanciare quello che è stato inviato, è necessario inviare un invito a un piccolo gruppo di persone note che si adattano al profilo precedente.  Raccogliere quindi insieme per discutere gli obiettivi del nuovo programma e ottenere i loro commenti e suggerimenti. I campioni veri amano far sentire la propria voce e sentirsi come se fossero parte della creazione di qualcosa.  
+Se l'organizzazione non dispone di un programma Campione corrente o si desidera rinvigorire quello che si è inviato un invito a un piccolo gruppo di persone note che si adattano al profilo precedente.  Riunirsi quindi insieme per discutere gli obiettivi del nuovo programma e ottenere il loro feedback. Ai veri campioni piace far sentire la propria voce e sentirsi parte della creazione di qualcosa.  
 
-## <a name="provide-structure"></a>Fornire la struttura
+## <a name="provide-structure"></a>Fornisci struttura
 
-I programmi campione con esito positivo dispongono di un leader e di una pianificazione regolare per la riunione e la discussione di problemi correnti.  Le riunioni mensili sono una parte importante della creazione di una cultura positiva nella community e la promozione della crescita.  
+I programmi di successo dei campioni hanno un leader e una pianificazione regolare per soddisfare e discutere i problemi correnti.  Le riunioni mensili come minimo sono una parte importante della creazione di una cultura positiva nella community e della promozione della crescita.  
 
-È inoltre possibile utilizzare Microsoft teams per creare un hub per il programma di Team Champions.  In [questo articolo](https://docs.microsoft.com/MicrosoftTeams/teams-adoption-your-first-teams)è possibile trovare un esempio per la struttura del team.
+È inoltre possibile utilizzare Microsoft Teams per creare un hub per il programma dei campioni del lavoro in team.  Un esempio di tale struttura del team è disponibile in [questo articolo.](/MicrosoftTeams/teams-adoption-your-first-teams)
 
-![schede squadra campione team](media/teams-adoption-tab-example.png)
+![schede del team campione del lavoro in team](media/teams-adoption-tab-example.png)
