@@ -1,34 +1,38 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Nascondere e visualizzare le playlist
+title: Come nascondere e visualizzare le playlist
+description: Come nascondere le playlist fornite da Microsoft e sostituirle con le playlist create per l'organizzazione.
 ms.date: 02/15/2019
-description: Nascondere e visualizzare le playlist
-ms.openlocfilehash: 36151a997e4090b4d2130981ace5fd8871e8792f
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+manager: bpardi
+audience: itpro
+ms.topic: article
+ms.service: o365-solutions
+ms.openlocfilehash: e6622478759c9942dbb79f6c1bf5b39946886240
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233288"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749464"
 ---
-# <a name="hide-and-show-playlists"></a>Nascondere e visualizzare le playlist
+# <a name="how-to-hide-and-show-playlists"></a>Come nascondere e visualizzare le playlist
 
-Per adattare i percorsi di apprendimento per l'ambiente in uso, potrebbe essere necessario nascondere le playlist fornite da Microsoft e sostituirle con playlist create per l'organizzazione. Ad esempio, un caso comune di utilizzo dei clienti consiste nel nascondere i sei semplici passaggi di playlist da Microsoft e sostituirli con una playlist creata per l'organizzazione o per il gruppo di utenti. 
+Per personalizzare i percorsi di apprendimento per l'ambiente, potrebbe essere necessario nascondere le playlist fornite da Microsoft e sostituirle con le playlist create per l'organizzazione. Ad esempio, un caso d'uso comune per i clienti è nascondere la playlist Six Simple Steps a Microsoft e sostituirla con una playlist creata per l'organizzazione o il gruppo di utenti. 
 
 ## <a name="hide-a-playlist"></a>Nascondere una playlist
 
-1. Nella **Home** page dei percorsi di apprendimento fare clic sul riquadro di **formazione di Office 365** .
-2. Dalla web part percorsi di apprendimento, selezionare il menu **sistema** , quindi selezionare **amministra playlist**. È ora necessario aprire due schede: una con la pagina **Amministrazione percorsi di apprendimento** ; e uno con la pagina di **formazione di Office 365** . 
-3. Dalla pagina **amministrazione apprendimento personalizzato** , in **categoria**, selezionare una sottocategoria, quindi selezionare il bulbo oculare di una playlist per nasconderla. Per questo esempio, fare clic sulla prima sottocategoria **giorni** e quindi nascondere la sequenza di **sei passaggi semplici** .  
+1. Nella home page dei percorsi di **apprendimento** fare clic sul riquadro formazione di **Office 365.**
+2. Nella web part Percorsi di apprendimento selezionare il menu **Sistema** e quindi **Amministra playlist.** A questo punto dovrebbero essere aperte due schede: una con la pagina amministrazione **dei percorsi di** apprendimento; e uno con la pagina di formazione su **Office 365.** 
+3. Nella pagina **Amministrazione apprendimento personalizzata,** in **Categoria,** selezionare una sottocategoria e quindi selezionare il bulbo oculare per una playlist per nasconderla. Per questo esempio, fare clic sulla **sottocategoria First Days** e quindi nascondere la playlist **Six Simple Steps.**  
 
-![cg-hideplaylist.png](media/cg-hideplaylist.png)
+![Scheda Browser che mostra la pagina Introduzione a Office 365](cg-hideplaylist.png)
 
 ### <a name="verify-the-playlist-is-hidden"></a>Verificare che la playlist sia nascosta
-- Per verificare che la playlist sia nascosta, selezionare la scheda Esplorazione con la pagina inizia **con Office 365** caricata e quindi aggiornare la pagina. Si dovrebbe ora vedere la sottocategoria **First Days** e **sei semplici passaggi** sono nascosti. In questo caso, è presente una sola playlist nella sottocategoria ed è nascosta, quindi i percorsi di apprendimento nascondono anche la sottocategoria invece di visualizzare una sottocategoria vuota. 
+- Per verificare che la playlist sia nascosta, selezionare la scheda del browser con la pagina Introduzione a **Office 365** caricata e quindi aggiornare la pagina. A questo punto dovrebbe essere visualizzata **la sottocategoria First Days** e Six Simple **Steps** è nascosta. In questo caso, è presente una sola playlist nella sottocategoria ed è nascosta, quindi anche i percorsi di apprendimento nascondono la sottocategoria anziché visualizzare una sottocategoria vuota. 
 
-![cg-hideplaylistrefresh.png](media/cg-hideplaylistrefresh.png)
+![Browser con pagina Introduzione a Office 365 aggiornata](cg-hideplaylistrefresh.png)
 
-## <a name="unhide-a-playlist"></a>Scopri una playlist
+## <a name="unhide-a-playlist"></a>Mostrare una playlist
 
-- Dalla pagina **amministrazione apprendimento personalizzato** , in **categoria**, selezionare una sottocategoria, selezionare una playlist e quindi selezionare il bulbo oculare della playlist nascosta per scoprirlo. In questo esempio, scoprire i **sei Simple Steps** playlist under the **First Days** Subcategory.  
+- Nella pagina **Amministrazione apprendimento** personalizzata, in **Categoria,** selezionare una sottocategoria, selezionare una playlist e quindi selezionare il bulbo oculare per la playlist nascosta per scoprirla. Per questo esempio, scopri la playlist **Six Simple Steps** nella **sottocategoria First Days.**  
 

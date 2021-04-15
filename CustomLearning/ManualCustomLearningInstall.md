@@ -3,14 +3,17 @@ author: pkrebs
 ms.author: pkrebs
 title: Percorsi di apprendimento per l'installazione manuale
 ms.date: 02/18/2019
+manager: bpardi
 description: Percorsi di apprendimento per l'installazione manuale
-ms.service: sharepoint online
-ms.openlocfilehash: 992fe28f1ca2bdd09c5d29a4a5342b06ff093105
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+audience: itpro
+ms.service: o365-administration
+ms.topic: article
+ms.openlocfilehash: 212ee8a1517cf79538d4a2d076f60f9382eeaf74
+ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162843"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51749314"
 ---
 # <a name="manually-installing-and-configuring-custom-learning-for-office-365"></a>Installazione e configurazione manuale di Apprendimento personalizzato per Office 365
 
@@ -26,15 +29,15 @@ Per installare e configurare manualmente la web part e la raccolta siti, è nece
 
 ## <a name="prerequisites"></a>Prerequisiti
 
-È necessario aver configurato e configurato il Catalogo app a livello di tenant. Vedere [Configurare il tenant di Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e seguire la sezione Creare il sito catalogo app. Se è già stato effettuato il provisioning del Catalogo app a livello di tenant, sarà necessario accedere a un account che dispone dei diritti per caricare un pacchetto in esso per completare il processo di installazione. In genere si tratta di un account con il ruolo di amministratore di SharePoint. Se un account con tale ruolo non funziona, passare all'interfaccia di amministrazione di SharePoint e individuare Gli amministratori raccolta siti per la raccolta siti del catalogo app e accedere come uno degli amministratori della raccolta siti oppure aggiungere l'account amministratore di SharePoint che non è riuscito ad amministratori della raccolta siti. Sarà inoltre necessario accedere a un account che sia un amministratore tenant di SharePoint.
+È necessario aver configurato e configurato il Catalogo app a livello di tenant. Vedere [Configurare il tenant di Office 365](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) e seguire la sezione Creare il sito catalogo app. Se il provisioning del Catalogo app a livello di tenant è già stato eseguito, sarà necessario accedere a un account che dispone dei diritti per caricare un pacchetto per completare il processo di installazione. In genere questo account ha il ruolo di amministratore di SharePoint. Se un account con tale ruolo non funziona, passare all'interfaccia di amministrazione di SharePoint e individuare Gli amministratori raccolta siti per la raccolta siti del catalogo app e accedere come uno degli amministratori della raccolta siti oppure aggiungere l'account amministratore di SharePoint che non è riuscito ad amministratori della raccolta siti. Sarà inoltre necessario accedere a un account che sia un amministratore tenant di SharePoint.
 
 ## <a name="upload-the-web-part-to-the-tenant-app-catalog"></a>Caricare la web part nel Catalogo app tenant
 
-Per configurare l'apprendimento personalizzato per Office 365, caricare il file customlearning.sppkg nel Catalogo app a livello di tenant e distribuirlo. Per istruzioni dettagliate su come aggiungere un'app al catalogo app, vedere Use [the App Catalog to make custom business apps available for your SharePoint Online environment.](/sharepoint/use-app-catalog)
+Per configurare l'apprendimento personalizzato per Office 365, caricare il file customlearning.sppkg nel Catalogo app a livello di tenant e distribuirlo. Per istruzioni dettagliate su come aggiungere un'app al catalogo app, vedere Use [the App Catalog to make custom business apps available for your SharePoint Online](/sharepoint/use-app-catalog) environment.
 
 ## <a name="provisionidentify-modern-communication-site"></a>Provisioning/identificazione del sito di comunicazione moderna
 
-Identificare un sito di comunicazione di SharePoint esistente o eseguirne il provisioning nel tenant di SharePoint Online. Per ulteriori informazioni su come eseguire il provisioning di un sito di comunicazione, vedere [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e seguire i passaggi per creare un sito di comunicazione.
+Identificare un sito di comunicazione di SharePoint esistente o eseguirne il provisioning nel tenant di SharePoint Online. Per ulteriori informazioni su come eseguire il provisioning di un sito di comunicazione, vedere [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e seguire la procedura per creare un sito di comunicazione.
 
 ## <a name="set-permissions-for-the-site"></a>Impostare le autorizzazioni per il sito
 
@@ -44,7 +47,7 @@ Aggiungere apprendimento personalizzato per Office 365 App alla raccolta siti.
 
 ## <a name="execute-powershell-configuration-script"></a>Eseguire lo script di configurazione di PowerShell
 
-È incluso uno script di PowerShell che sarà necessario eseguire per creare tre proprietà `CustomLearningConfiguration.ps1` [tenant](/sharepoint/dev/spfx/tenant-properties) utilizzate dalla soluzione. Inoltre, lo script crea due pagine app a [parte singola](/sharepoint/dev/spfx/web-parts/single-part-app-pages) nella raccolta pagine del sito per ospitare le web part amministratore e utente in un percorso noto.
+È incluso uno script di PowerShell che sarà necessario eseguire per creare tre proprietà `CustomLearningConfiguration.ps1` [tenant](/sharepoint/dev/spfx/tenant-properties) utilizzate dalla soluzione. Inoltre, lo script crea due pagine dell'app a [parte singola](/sharepoint/dev/spfx/web-parts/single-part-app-pages) nella raccolta pagine del sito per ospitare le web part amministratore e utente in un percorso noto.
 
 ### <a name="disabling-telemetry-collection"></a>Disabilitazione della raccolta di telemetria
 
