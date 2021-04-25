@@ -1,97 +1,97 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Aggiungere risorse a una playlist
+title: Aggiungere asset a una playlist
 ms.date: 02/17/2019
-description: Aggiungere nuove risorse esistenti a una scaletta di percorsi di apprendimento
-ms.service: sharepoint online
-ms.openlocfilehash: 52684f4c76ecbe54d5377469de6d3ee6fdbcfdb1
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Aggiungere asset nuovi ed esistenti a una playlist di percorsi di apprendimento
+ms.service: sharepoint-online
+ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234688"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999832"
 ---
-# <a name="add-assets-to-a-custom-playlist"></a>Aggiungere risorse a un elenco di riproduzione personalizzato
+# <a name="add-assets-to-a-custom-playlist"></a>Aggiungere asset a una playlist personalizzata
 
-Con i percorsi di apprendimento, è possibile aggiungere le risorse seguenti a una playlist:
+Con i percorsi di apprendimento, puoi aggiungere le risorse seguenti a una playlist:
 
-- **Asset dei percorsi di apprendimento microsoft 365 esistenti** -queste sono risorse che fanno parte del catalogo Microsoft online o delle risorse che l'organizzazione ha già aggiunto ai percorsi di apprendimento.
-- **Nuove risorse** : sono risorse che vengono aggiunte ai percorsi di apprendimento creati dalle pagine di SharePoint create o da risorse di SharePoint già disponibili in un sito di SharePoint nell'organizzazione. 
+- Asset dei percorsi di apprendimento di **Microsoft 365** esistenti: si tratta di asset che fanno parte del catalogo online Microsoft o delle risorse che l'organizzazione ha già aggiunto ai percorsi di apprendimento.
+- **Nuovi asset:** si tratta di asset che vengono aggiunti ai percorsi di apprendimento creati da pagine di SharePoint create dall'utente o asset di SharePoint già disponibili in un sito di SharePoint nell'organizzazione. 
 
 > [!TIP]
-> Se una risorsa Microsoft playlist non soddisfa le proprie esigenze, creare una nuova playlist e quindi aggiungere le risorse Microsoft e tutte le risorse appena create alla playlist per creare l'esperienza desiderata. Non è possibile modificare i percorsi di apprendimento delle playlist fornite da Microsoft, ma è possibile aggiungere risorse di apprendimento in una playlist personalizzata.   
+> Se un asset di playlist Microsoft non soddisfa le tue esigenze, crea una nuova playlist e quindi aggiungi gli asset Microsoft e gli asset appena creati alla playlist per creare l'esperienza desiderata. Non puoi modificare le playlist dei percorsi di apprendimento fornite da Microsoft, ma puoi aggiungere risorse fornite dai percorsi di apprendimento a una playlist personalizzata.   
 
-## <a name="create-a-new-asset-for-a-playlist"></a>Creare una nuova risorsa per una playlist
+## <a name="create-a-new-asset-for-a-playlist"></a>Creare un nuovo asset per una playlist
 
-Sono disponibili due opzioni per l'aggiunta di un nuovo asset a una playlist.
+Esistono due opzioni per aggiungere un nuovo asset a una playlist.
 
-- **Pagina Crea risorsa** -con questa opzione, i percorsi di apprendimento generano una nuova pagina di SharePoint vuota per l'utente e la aggiungono alla playlist. È quindi possibile aggiungere contenuto alla pagina e salvarlo.  
-- **Immettere l'URL** -con questa opzione, è possibile creare la pagina in anticipo oppure è già disponibile la pagina e si specifica l'URL per aggiungere la pagina alla playlist.
+- **Crea pagina asset:** con questa opzione, i percorsi di apprendimento genereranno automaticamente una nuova pagina di SharePoint vuota e la aggiungeranno alla playlist. È quindi possibile aggiungere contenuto alla pagina e salvarlo.  
+- **Immetti l'URL:** con questa opzione, puoi creare la pagina in anticipo o avere già la pagina disponibile e specificare l'URL per aggiungere la pagina alla playlist.
 
-### <a name="create-asset-page"></a>Pagina Crea asset 
-Con l'opzione **Crea pagina risorsa** , è possibile specificare un titolo per il bene, quindi fare clic su Crea pagina asset per creare e aprire una nuova pagina di SharePoint per la modifica. 
+### <a name="create-asset-page"></a>Pagina Crea risorsa 
+Con **l'opzione Crea pagina risorsa,** si fornisce un titolo per l'asset, quindi si fa clic su Crea pagina risorsa per creare e aprire una nuova pagina di SharePoint per la modifica. 
 
-1.  Se la playlist non è ancora aperta per la modifica, dalla pagina **Custom Learning Administration** fare clic sulla playlist che si desidera modificare. 
-2. Per aggiungere un nuovo cespite a una playlist, fare clic su **nuovo asset**. 
-3. Immettere un titolo. In questo esempio viene immesso "Aggiungi risorse a una playlist" e quindi fare clic su **Crea asset page**.
+1.  Se la playlist non è già aperta per la modifica, nella pagina **Amministrazione** apprendimento personalizzata fare clic sulla playlist che si desidera modificare. 
+2. Per aggiungere un nuovo asset a una playlist, fai clic **su Nuovo asset.** 
+3. Immettere un titolo. In questo esempio immetti "Add Assets to a Playlist" e quindi fai clic **su Create Asset Page.**
 
 ![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
 
-4. Fare clic su **Apri pagina**.
-5. Fare clic sull'icona **modifica** e quindi su **Modifica web part** nell'area titolo.
-6. In **layout**fare clic su **normale**. 
-7. Aggiungere una nuova sezione a una colonna e quindi aggiungere del testo di esempio alla pagina in modo che sia simile all'esempio seguente. 
+4. Fare **clic su Apri pagina**.
+5. Fare clic **sull'icona** Modifica e quindi **su Modifica web part nell'area** Titolo.
+6. In **Layout** fare clic su **Normale.** 
+7. Aggiungi una nuova sezione a una colonna e quindi aggiungi del testo di esempio alla pagina in modo che sia simile all'esempio seguente. 
 
 ![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
 
 7. Fare clic su **Pubblica**.
-8. Tornare alla pagina **Custom Learning Administration** . 
-9. Compilare la parte restante delle proprietà del cespite, quindi fare clic su **Salva risorsa.**
+8. Torna alla **pagina Amministrazione apprendimento** personalizzata. 
+9. Compilare il resto delle proprietà dell'asset e quindi fare clic su **Salva risorsa.**
 
 ### <a name="enter-the-url"></a>Immettere l'URL
-Con l'opzione **immettere l'URL** , è possibile specificare un titolo per il bene, quindi fare clic su **immettere l'URL** per indicare la pagina di SharePoint che si desidera aggiungere alla playlist. 
+Con **l'opzione Immettere l'URL,** specificare un titolo per l'asset, quindi fare clic su **Immettere l'URL** per specificare la pagina di SharePoint che si desidera aggiungere alla playlist. 
 
-1.  Se la playlist non è aperta per la modifica, dalla pagina di **amministrazione dell'apprendimento personalizzato** fare clic sulla playlist che si desidera modificare. 
-2. Per aggiungere un nuovo cespite a una playlist, fare clic su **nuovo asset**. 
-3. Immettere un titolo. In questo esempio, immettere "Introduzione playlist personalizzata", quindi fare clic su **Immetti URL**. 
+1.  Se la playlist non è aperta per la modifica, nella pagina **Amministrazione** apprendimento personalizzata fare clic sulla playlist che si desidera modificare. 
+2. Per aggiungere un nuovo asset a una playlist, fai clic **su Nuovo asset.** 
+3. Immettere un titolo. In questo esempio immetti "Custom Playlist Introduction" e quindi fai clic **su Enter URL**. 
 
 ![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
 
-4. Immettere l'URL della pagina di SharePoint creata in una precedente sezione [creare pagine di SharePoint per playlist personalizzate ](custom_createnewpage.md) e quindi compilare il resto dei campi, come illustrato nella figura seguente.
+4. Immettere l'URL della pagina di SharePoint creata in una precedente sezione Creare pagine di [SharePoint ](custom_createnewpage.md) per playlist personalizzate e quindi compilare il resto dei campi, come illustrato nella figura seguente.
 
 ![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
 
-5. Fare clic su **Salva risorsa**. 
+5. Fare **clic su Salva risorsa.** 
 
-## <a name="add-an-existing-asset-to-a-playlist"></a>Aggiungere una risorsa esistente a una playlist
+## <a name="add-an-existing-asset-to-a-playlist"></a>Aggiungere un asset esistente a una playlist
 
-Le risorse esistenti sono costituite da percorsi di apprendimento forniti da Microsoft o da attività che sono già state aggiunte ai percorsi di apprendimento da parte dell'organizzazione. 
+Le risorse esistenti sono costituite da asset o asset di percorsi di apprendimento forniti da Microsoft che sono già stati aggiunti ai percorsi di apprendimento dall'organizzazione. 
 
-- Nella casella di **ricerca** immettere una frase di ricerca e quindi selezionare una risorsa dai risultati della ricerca. In questo esempio, immettere "che cos'è Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
+- Nella casella **Cerca** immettere una frase di ricerca e quindi selezionare un asset nei risultati della ricerca. In questo esempio immettere "What is Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
 
 ![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
 
-## <a name="edit-move-and-delete-assets"></a>Modificare, spostare ed eliminare risorse
-È possibile modificare le risorse personalizzate create, ma non le risorse di Microsoft. Tuttavia, è possibile rimuovere tutte le risorse da una playlist e cambiare le risorse degli ordini. 
+## <a name="edit-move-and-delete-assets"></a>Modificare, spostare ed eliminare asset
+È possibile modificare gli asset personalizzati creati, ma non gli asset di Microsoft. Tuttavia, puoi rimuovere tutti gli asset da una playlist e modificare gli asset dell'ordine. 
 
 ![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Modificare una risorsa
-- Fare clic sul pulsante modifica di un asset, modificare il cespite e quindi fare clic su Salva risorsa. 
+- Fai clic sul pulsante Modifica per un asset, modifica l'asset e quindi fai clic su Salva risorsa. 
 
 ### <a name="move-an-asset-in-a-playlist"></a>Spostare una risorsa in una playlist
-- Fare clic sulla freccia verso l'alto o verso il basso a destra del cespite per spostare l'ordine dei cespiti nella playlist
+- Fai clic sulla freccia su o giù a destra dell'asset per spostare l'ordine degli asset nella playlist
 
-### <a name="remove-an-asset-from-a-playlist"></a>Rimuovere una risorsa da una playlist
-- Fare clic sull'icona Rimuovi da playlist X per il cespite. 
+### <a name="remove-an-asset-from-a-playlist"></a>Rimuovere un asset da una playlist
+- Fai clic sull'icona Rimuovi dalla playlist X per l'asset. 
 
-## <a name="view-the-playlist-in-action"></a>Visualizzazione dell'elenco di riproduzione in azione
-Dopo aver aggiunto risorse a una playlist, chiudere la playlist e visualizzarla in azione. 
+## <a name="view-the-playlist-in-action"></a>Visualizzare la playlist in Azione
+Ora che hai aggiunto asset a una playlist, chiudiamo la playlist e vediamola in azione. 
 
-1. Fare clic su **Chiudi playlist**.
-2. Fare clic sulla scheda con la pagina **training di Office 365** .
-3. Aggiornare la pagina e quindi fare clic su **primi giorni** **in inizia**.
-4. Fare clic su **Learning pathways Starter Kit** per visualizzare la prima playlist in azione. 
+1. Fare **clic su Chiudi playlist.**
+2. Fare clic sulla scheda con la pagina di formazione su **Office 365.**
+3. Aggiornare la pagina e quindi fare clic su **Primi giorni** in **Introduzione.**
+4. Fai **clic su Learning Pathways Starter Kit** per visualizzare la prima playlist in azione. 
 
 ![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)

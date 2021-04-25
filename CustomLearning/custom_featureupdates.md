@@ -1,17 +1,6 @@
 ---
-author: pkrebs
-ms.author: pkrebs
-title: Aggiornamenti delle funzionalità dei percorsi di apprendimento
-ms.date: 4/13/2021
-description: Aggiornamenti delle funzionalità dei percorsi di apprendimento
-ms.service: o365-solutions
-ms.openlocfilehash: 4be3d93b40e1e7ab5545dd1f835369df5f7fc7e0
-ms.sourcegitcommit: 6b304698cdde8fae25e990f4b4680d142a1ecba1
-ms.translationtype: MT
-ms.contentlocale: it-IT
-ms.lasthandoff: 04/14/2021
-ms.locfileid: "51755282"
----
+author: pkrebs ms.author: pkrebs title: Learning pathways Feature Updates ms.date: 13/4/2021 description: Learning pathways Feature Updates ms.service: sharepoint-online
+
 # <a name="learning-pathways-version-40-feature-updates"></a>Aggiornamenti delle funzionalità dei percorsi di apprendimento versione 4.0
 Di seguito sono riportati gli aggiornamenti delle funzionalità per i percorsi di apprendimento versione 4.0.  
 

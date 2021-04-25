@@ -4,13 +4,13 @@ ms.author: pkrebs
 title: Percorsi di apprendimento Aggiornamenti del contenuto aprile
 ms.date: 3/30/2020
 description: Percorsi di apprendimento Aggiornamenti del contenuto di aprile 2020
-ms.service: sharepoint online
-ms.openlocfilehash: 9cae2f1f3fe96a5e6496739ca194202a45286c2e
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+ms.openlocfilehash: a8b6cf64a93e7d10aa0fa8602ba8b7f52ded1f67
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163063"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999132"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates-for-april"></a>Microsoft 365 Learning Pathways Content Updates for April
 I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. Di seguito sono elencati gli aggiornamenti del contenuto per aprile 2020.
@@ -187,7 +187,7 @@ La sottocategoria Sway del contenuto è stata aggiunta con le playlist seguenti.
 - Aggiungere contenuto a Sway (11 asset)
 - Personalizzare Sway (5 asset)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accesso
 - Guida introduttiva di Access (4 risorse)
 - Introduzione ad Access (3 asset)
 - Creare un database di Access (2 asset)

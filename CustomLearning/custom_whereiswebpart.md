@@ -1,68 +1,66 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Dove si trova la Web part Microsoft 365 Learning
+title: Dove si trova la web part di apprendimento di Microsoft 365
 ms.date: 02/15/2019
-description: Informazioni su dove viene visualizzata la Web part percorsi di apprendimento nel sito percorsi di apprendimento
-ms.service: sharepoint online
-ms.openlocfilehash: db3a205048786f97960757b6a62586588d824528
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Informazioni sulla posizione in cui viene visualizzata la web part percorsi di apprendimento nel sito dei percorsi di apprendimento
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 75d753a8f6b6dd65c5b723588bc83238ad63b35a
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233748"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000222"
 ---
 # <a name="wheres-the-microsoft-365-learning-pathways-web-part"></a>Dove si trova la Web part dei percorsi di apprendimento di Microsoft 365? 
 
-Quando si esegue il provisioning dei percorsi di apprendimento nell'organizzazione, il sito e le web part di apprendimento vengono aggiunti al tenant di SharePoint dell'organizzazione. Come parte del provisioning, la Web part Learning di Microsoft 365 viene aggiunta alle pagine seguenti del sito Microsoft 365 Learning pathways:
+Quando viene eseguito il provisioning dei percorsi di apprendimento nell'organizzazione, il sito e la web part dei percorsi di apprendimento vengono aggiunti al tenant di SharePoint dell'organizzazione. Come parte del provisioning, la web part di apprendimento di Microsoft 365 viene aggiunta alle pagine seguenti del sito percorsi di apprendimento di Microsoft 365:
 
-- Start-with-Six-Simple-Steps. aspx 
-- Recommended-Playlists. aspx
-- Get-Started with-Office 365. aspx
-- Get-started-with-Microsoft-Teams. aspx
-- Get-started-with-OneDrive. aspx
-- Get-started-with-SharePoint. aspx
-- Percorsi di apprendimento admin Success Center. aspx
+- Start-with-Six-Simple-Steps.aspx 
+- Recommended-Playlists.aspx
+- Introduzione a Office 365.aspx
+- Introduzione a Microsoft-Teams.aspx
+- Introduzione a OneDrive.aspx
+- Introduzione a SharePoint.aspx
+- Percorsi di apprendimento Admin Success Center.aspx
 
-Per ogni pagina, la Web part è configurata in modo diverso per visualizzare le categorie, le sottocategorie, le playlist o l'asset disegnati per supportare lo scopo della pagina. La Web part percorsi di apprendimento, come verrà mostrato nelle sezioni successive, può essere aggiunta a qualsiasi pagina di SharePoint e filtrata per visualizzare categorie specifiche, sottocategorie, playlist o solo asset. Diamo un'occhiata. 
+Per ogni pagina, la web part è configurata in modo diverso per visualizzare le categorie, le sottocategorie, le playlist o gli asset progettati per supportare lo scopo della pagina. La web part percorsi di apprendimento, come illustrato nelle sezioni successive, può essere aggiunta a qualsiasi pagina di SharePoint e filtrata per visualizzare categorie, sottocategorie, playlist o solo asset specifici. Diamo un'occhiata. 
 
 ## <a name="view-microsoft-teams-playlists"></a>Visualizzare le playlist di Microsoft Teams
 
-Di seguito è riportato un esempio della pagina inizia **con Microsoft teams** con la Web part filtrata per visualizzare le playlist di apprendimento per i team. 
+Ecco un esempio della pagina Introduzione a **Microsoft Teams** con la web part filtrata per mostrare le playlist di apprendimento per Teams. 
 
-- Nella Home page dei percorsi di apprendimento selezionare **Introduzione a Microsoft teams**.
+- Nella home page dei percorsi di apprendimento seleziona **Introduzione a Microsoft Teams.**
+![Schermata Introduzione a Microsoft Teams.](media/cg-whereiswp-teams.png)
 
-![cg-whereiswp-teams.png](media/cg-whereiswp-teams.png)
+- Fare clic sul menu **Home** del menu del sito percorsi di apprendimento per tornare alla home page del sito.
+![Schermata Percorsi di apprendimento in cui selezionare Home.](media/cg-homebtnmenu.png)
 
-- Fare clic sul menu **Home** dal menu del sito percorsi di apprendimento per tornare alla Home page del sito.
+## <a name="view-the-six-simple-steps-playlist"></a>Visualizzare la playlist Sei semplici passaggi
 
-![cg-homebtnmenu.png](media/cg-homebtnmenu.png)
+La web part nella **pagina Start-with-Six-Simple-Steps.aspx** è configurata per visualizzare il primo asset nella playlist Six Simple Steps. 
 
-## <a name="view-the-six-simple-steps-playlist"></a>Visualizzare la playlist di sei semplici passaggi
+- Nella home page dei percorsi di apprendimento fai clic su **Inizia con sei semplici passaggi.** 
+![Pagina di Office 365 in cui si seleziona Inizia con sei semplici passaggi.](media/cg-whereiswp-six.png)
 
-La Web part nella pagina **Start-with-Six-Simple-Steps. aspx** è configurata in modo da visualizzare il primo asset nella playlist di sei semplici passaggi. 
+## <a name="view-all-microsoft-365-training"></a>Visualizzare tutti i corsi di formazione su Microsoft 365
 
-- Nella Home page dei percorsi di apprendimento fare clic su **Avvia con sei semplici passaggi**. 
+La web part nella pagina di formazione di **Microsoft 365** è configurata per visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo dei percorsi di apprendimento. Sono incluse le sottocategorie di Microsoft insieme a tutte le sottocategorie create dall'utente per l'organizzazione.
 
-![cg-whereiswp-six.png](media/cg-whereiswp-six.png)
+- Nella home page dei percorsi di apprendimento fai clic su **Formazione su Microsoft 365.** Verrà visualizzata la pagina con la web part configurata per visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo di apprendimento personalizzato.
+![Finestra Percorsi che mostra le categorie.](media/cg-whereiswp-o365.png)
 
-## <a name="view-all-microsoft-365-training"></a>Visualizzare tutti gli allenamenti di Microsoft 365
+- Fare clic sul menu **Home** del menu del sito percorsi di apprendimento per tornare alla home page del sito.
 
-La Web part nella pagina **Microsoft 365 Training** è configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo percorsi di apprendimento. Sono incluse le sottocategorie di Microsoft insieme a tutte le sottocategorie create per l'organizzazione.
+## <a name="view-the-web-part-on-the-admin-success-center-page"></a>Visualizzare la web part nella pagina Interfaccia di amministrazione
 
-- Nella Home page dei percorsi di apprendimento fare clic su **Microsoft 365 Training**. La pagina viene visualizzata con la Web part configurata in modo da visualizzare tutte le categorie e le sottocategorie disponibili nel catalogo di apprendimento personalizzato.
+La web part nella pagina **Admin Success Center** è configurata per filtrare tutte le playlist disponibili per l'interfaccia di amministrazione. Come illustrato nell'esempio seguente, la web part viene aggiunta a una pagina che contiene anche collegamenti rapidi alle risorse di amministrazione. 
 
-![cg-whereiswp-o365.png](media/cg-whereiswp-o365.png)
+- Nella home page dei percorsi di apprendimento fai clic su **Introduzione all'Interfaccia di amministrazione.** pulsante. 
+![Pagina principale di Admin Success Center.](media/cg-adminsuccesscenterwebpart.png)
 
-- Fare clic sul menu **Home** dal menu del sito percorsi di apprendimento per tornare alla Home page del sito.
-
-## <a name="view-the-web-part-on-the-admin-success-center-page"></a>Visualizzare la Web part nella pagina dell'interfaccia di amministrazione con esito positivo
-
-La Web part nella pagina dell'interfaccia di **amministrazione di successo** è configurata per filtrare tutte le playlist disponibili per il centro di successo dell'amministratore. Come illustrato nell'esempio seguente, la Web part viene aggiunta a una pagina che contiene anche collegamenti rapidi alle risorse di amministratore. 
-
-- Nella Home page dei percorsi di apprendimento fare clic su Guida **introduttiva al centro per il successo dell'amministratore**. pulsante. 
-
-![cg-adminsuccesscenterwebpart.png](media/cg-adminsuccesscenterwebpart.png)
-
-- Fare clic sul menu **Home** dal menu del sito percorsi di apprendimento per tornare alla Home page del sito.
+- Fare clic sul menu **Home** del menu del sito percorsi di apprendimento per tornare alla home page del sito.
 

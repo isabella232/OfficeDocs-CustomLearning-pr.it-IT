@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Guida all'onboarding dei partner
 ms.date: 3/9/2019
 description: Guida all'onboarding dei partner per i percorsi di apprendimento di Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: d2023c308872bc665322ed3eaf470cca2b9b500a
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: itpro
+ms.openlocfilehash: f19e413d533b8bfcef7e5b7489a51806eb8fbdcc
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163033"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999422"
 ---
 # <a name="partner-onboarding-guide"></a>Guida all'onboarding dei partner
 Per iniziare a usare i percorsi di apprendimento, seguire i tre passaggi descritti di seguito. Con i tre passaggi puoi creare una demo accattivante che puoi usare per coinvolgere le presentazioni con i clienti. 
 
-![cg-partner-getfam.png](media/cg-partner-getfam.png)
+![Il grafico illustra il processo di onboarding in cinque passaggi.](media/cg-partner-getfam.png)
 
 ## <a name="1-create-a-microsoft-365-demonstration-environment"></a>1. Creare un ambiente dimostrativo di Microsoft 365
 È possibile usare demos.microsoft.com per creare un ambiente demo in cui è possibile eseguire il provisioning del servizio, convalidarlo e usarlo per presentare i percorsi di apprendimento ai clienti. Tutti i partner hanno accesso https://demos.microsoft.com a questi scopi. Se non si ha  una demos.microsoft.com demo, è possibile usare la guida introduttiva.

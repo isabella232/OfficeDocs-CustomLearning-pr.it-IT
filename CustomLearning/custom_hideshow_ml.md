@@ -1,23 +1,23 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Hide and Show Learning percorsi di playlist multilingue
+title: Nascondere e mostrare percorsi di apprendimento playlist multilingue
 ms.date: 10/27/2019
 description: Nascondere e visualizzare le playlist
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 7ea1ac68d1abb82ac4c356934037e558b39e1f36
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+ms.service: sharepoint-online
+ms.openlocfilehash: 9d0169c6b13930ebd66e6994d4782c91142d4a16
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48234348"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999692"
 ---
-# <a name="hide-and-show-learning-pathways-multilingual-content"></a>Nascondere e visualizzare i percorsi di apprendimento contenuti multilingue 
+# <a name="hide-and-show-learning-pathways-multilingual-content"></a>Nascondere e mostrare i percorsi di apprendimento in più lingue 
 
-Per adattare i percorsi di apprendimento per l'ambiente, è possibile nascondere sottocategorie e playlist. Per nascondere il contenuto, è possibile utilizzare la pagina di amministrazione dei percorsi di apprendimento. La pagina di amministrazione è sempre nella lingua predefinita inglese. Quando si nasconde e si Visualizza il contenuto, le impostazioni vengono applicate a tutte le lingue supportate. Non è necessario alcun lavoro di traduzione. 
+Per personalizzare i percorsi di apprendimento per il tuo ambiente, puoi nascondere sottocategorie e playlist. Per nascondere il contenuto, usa la pagina amministrazione dei percorsi di apprendimento. La pagina Amministrazione è sempre nella lingua predefinita dell'inglese. Quando si nasconde e si visualizza il contenuto, le impostazioni si applicano a tutte le lingue supportate. Non è richiesto alcun lavoro di traduzione. 
 
-- Per ulteriori informazioni su come nascondere e visualizzare il contenuto, vedere Hide and Show subcategories e Hide and Show playlists. 
+- Per altre informazioni su come nascondere e visualizzare il contenuto, vedi Nascondere e mostrare sottocategorie e Nascondere e mostrare le playlist. 
 
 
 

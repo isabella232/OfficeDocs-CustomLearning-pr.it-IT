@@ -5,13 +5,16 @@ title: Effettuare il provisioning di una nuova soluzione multilingue per i perco
 ms.date: 02/10/2019
 description: Effettuare il provisioning del sito dei percorsi di apprendimento di Microsoft 365 tramite il servizio di provisioning di SharePoint
 ROBOTS: NOINDEX, NOFOLLOW
-ms.service: sharepoint online
-ms.openlocfilehash: 19de14ba0785fa394dfe65e50ba8c4f27864cccf
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 40371138db2ec01e0e4a6558175f68cfa06fba51
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163003"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999382"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Effettuare il provisioning di una nuova soluzione multilingue per i percorsi di apprendimento
 Le organizzazioni che non dispongono di percorsi di apprendimento di cui è stato eseguito il provisioning nel tenant possono usare il servizio di provisioning di SharePoint per aggiungere la soluzione percorsi di apprendimento multilingue. Con questa opzione, il modello di SharePoint percorsi di apprendimento viene tradotto in nove lingue e può essere utilizzato con un minimo di modifica. 

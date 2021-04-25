@@ -1,16 +1,19 @@
 ---
 author: pkrebs
 ms.author: pkrebs
+manager: bpardi
 title: Percorsi di apprendimento Aggiornamenti del contenuto
 ms.date: 3/30/2020
+audience: Admin
+ms.topic: article
 description: Percorsi di apprendimento Aggiornamenti del contenuto
 ms.service: o365-solutions
-ms.openlocfilehash: 092520d6c56f9d9d96f4d4de8ff5d2dbc898e1f2
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51163083"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000112"
 ---
 # <a name="microsoft-365-learning-pathways-content-updates"></a>Aggiornamenti del contenuto dei percorsi di apprendimento di Microsoft 365
 I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates . 
@@ -434,7 +437,7 @@ La sottocategoria Sway del contenuto è stata aggiunta con le playlist seguenti.
 - Aggiungere contenuto a Sway (11 asset)
 - Personalizzare Sway (cinque asset)
 
-### <a name="access"></a>Access
+### <a name="access"></a>Accesso
 - Guida introduttiva di Access (quattro risorse)
 - Introduzione ad Access (tre risorse)
 - Creare un database di Access (due asset)

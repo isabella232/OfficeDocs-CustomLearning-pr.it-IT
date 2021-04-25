@@ -4,18 +4,21 @@ ms.author: pkrebs
 title: Modelli di integrazione dei partner
 ms.date: 3/9/2019
 description: Modelli di integrazione dei partner
-ms.service: sharepoint online
-ms.openlocfilehash: f3b5c5ddc8de29d2805c86a24b1d9bef0c8cacfa
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: 826b8a463fde50188abbc80e295924b120104cf6
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162933"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999522"
 ---
 # <a name="partner-integration-models"></a>Modelli di integrazione dei partner
 Sebbene non sia possibile integrare il contenuto dei percorsi di apprendimento di Microsoft 365 direttamente "out of the box" dal servizio di provisioning di SharePoint Online, esistono diversi modelli di integrazione che i partner possono sfruttare per creare offerte di servizi a valore aggiunto allineate. I modelli di integrazione dei partner precedenti sono presentati in ordine di complessità crescente e livelli di investimento. Di conseguenza, la nostra guida è di sviluppare le tue competenze e i tuoi laureati a livelli più avanzati in base ai tuoi modelli di business.
 
-![cg-part-intmodel.png](media/cg-part-intmodel.png) 
+![Il diagramma di flusso mostra il ruolo di abilitatori, integratori e redistibutors.](media/cg-part-intmodel.png)
 
 ## <a name="how-should-i-get-started"></a>Come iniziare? 
 Per iniziare, ecco alcune procedure consigliate da seguire.     
@@ -133,7 +136,7 @@ Microsoft utilizza le pagine GitHub come origine CDN (Content Delivery Network) 
 
 È importante mantenere la stessa struttura di controllo delle versioni di Microsoft se si sceglie di estendere la soluzione dei percorsi di apprendimento con il proprio pacchetto di contenuto. L'endpoint della rete CDN non deve includere la cartella della versione, poiché la versione del manifesto supportata dalla web part viene aggiunta automaticamente all'URL della rete CDN. Ti daremo ovviamente il tempo di creare nuove istanze dei file manifesto ogni volta che li revisioniamo.
 
-![cg-part-json-folder.png](media/cg-part-json-folder.png) 
+![Screenshot shows sample structure.](media/cg-part-json-folder.png) 
 
 Per ulteriori informazioni sull'utilizzo delle pagine GitHub come origine CDN, vedere la documentazione della Guida seguente: [https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages) .
 
@@ -158,11 +161,11 @@ Dopo aver creato json modificato e definito la rete CDN, puoi aggiungere il Cont
 2. Nella pagina **Amministrazione** fare clic sul **pulsante ... Aggiungere il pacchetto di** contenuto nell'angolo superiore destro della pagina.
 3. Fare clic su Pacchetto di contenuto personalizzato, quindi immettere un nome del pacchetto di contenuto e quindi specificare la rete CDN in cui si trovano i file JSON.
 
-![cg-part-addconpack.png](media/cg-part-addconpack.png)
+   ![Schermata in cui immettere il nome e i percorsi.](media/cg-part-addconpack.png)
 
 4. Fare clic su **Salva**. Il contenuto del pacchetto di contenuto personalizzato dovrebbe ora essere visualizzato nella pagina Amministrazione. Ecco un esempio. 
 
-![cg-part-addconpackex.png](media/cg-part-addconpackex.png)
+   ![Esempio di pagina di amministrazione.](media/cg-part-addconpackex.png)
 
 ### <a name="filter-to-the-content-pack-in-the-web-part"></a>Filtrare in base al pacchetto di contenuto nella web part
 Con i percorsi di apprendimento, è possibile aggiungere la web part percorsi di apprendimento a una pagina, filtrare la web part in modo che punti all'origine Pacchetto di contenuto personalizzato e quindi filtrare la web part in base alla categoria, alla sottocategoria, alla playlist e all'asset desiderati. 
@@ -175,4 +178,4 @@ Con i percorsi di apprendimento, è possibile aggiungere la web part percorsi di
 6. Fare clic sulla web part e quindi **sull'icona** Modifica.
 7. Nella casella **Selezionare l'origine di** apprendimento selezionare il pacchetto di contenuto personalizzato e quindi filtrare la web part in base al contenuto desiderato. Di seguito viene fornito un esempio della web part filtrata in una playlist da un pacchetto di contenuto personalizzato.
 
-![cg-part-conpackfilter.png](media/cg-part-conpackfilter.png)
+   ![Screenshot di una web part di esempio filtrata in una playlist da un pacchetto di contenuto personalizzato.](media/cg-part-conpackfilter.png)

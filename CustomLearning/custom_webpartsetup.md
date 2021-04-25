@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Eseguire il provisioning del sito di apprendimento personalizzato
 ms.date: 02/10/2019
 description: Eseguire il provisioning del sito di apprendimento personalizzato per Office 365 tramite il motore di provisioning di SharePoint
-ms.service: sharepoint online
-ms.openlocfilehash: be45ade7588f08801062710d310ca967ddd23926
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: f930eba5815366bcefd2730c88a3c2df3f246dd4
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162923"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000322"
 ---
 # <a name="provision-custom-learning"></a>Eseguire il provisioning dell'apprendimento personalizzato
 
@@ -27,26 +30,22 @@ Per configurare correttamente l'apprendimento personalizzato con il servizio di 
 ### <a name="to-provision-custom-learning"></a>Per eseguire il provisioning dell'apprendimento personalizzato
 
 1. Vai a http://provisioning.sharepointpnp.com e **accedi dall'angolo** in alto a destra della home page.  Accedere con le credenziali per il tenant di destinazione in cui si prevede di installare il modello di sito.
-
-![pnphome.png](media/inst_signin.png)
+![Pagina principale del servizio di provisioning.](media/inst_signin.png)
 
 2. Deselezionare **Consenso per conto dell'organizzazione e** selezionare **Accetta**.
-
-![in](media/inst_perms.png)
+![Schermata consenso](media/inst_perms.png)
 
 3. Selezionare **Apprendimento personalizzato per Office 365** dalla raccolta soluzioni.
+![Schermata in cui selezionare Apprendimento personalizzato per Office 365.](media/inst_select.png)
 
-![in](media/inst_select.png)
-
-4. Nella home page della soluzione seleziona **Aggiungi al tenant**
-
-![inst_select.png](media/inst_add.png)
+4. Nella home page della soluzione seleziona **Aggiungi alla schermata tenant** in cui seleziona Aggiungi al 
+ ![ tenant.](media/inst_add.png)
 
 5. Completare i campi nella pagina delle informazioni sul provisioning, come opportuno per l'installazione. Immettere almeno l'indirizzo di posta elettronica in cui si desidera ricevere notifiche sul processo di provisioning e sull'URL di destinazione per il provisioning del sito.  
-> [!NOTE]
-> Rendere l'URL di destinazione del sito più semplice per i dipendenti, ad esempio "/sites/MyTraining" o "/teams/LearnOffice365".
+   > [!NOTE]
+   > Rendere l'URL di destinazione del sito più semplice per i dipendenti, ad esempio "/sites/MyTraining" o "/teams/LearnOffice365".
 
-![inst_options.png](media/inst_options.png)
+   ![Schermata in cui fornire i dettagli del provisioning.](media/inst_options.png)
 
 6. Selezionare **Esegui il** provisioning quando si è pronti per installare Apprendimento personalizzato nell'ambiente tenant.  Il processo di provisioning richiederà fino a 15 minuti. Quando il sito è pronto per l'accesso, si riceverà una notifica tramite posta elettronica (all'indirizzo di posta elettronica immesso nella pagina del provisioning).
 
@@ -66,6 +65,3 @@ In quanto amministratore tenant, è improbabile che tu sia la persona che person
 4. Fare **clic** su Nuovo Aggiungi utenti a questo gruppo, aggiungere le persone che si desidera siano proprietari  >  e quindi fare clic su **Condividi.**
 
 8. Fare clic **sull'opzione** Seguente nell'angolo in alto a destra della pagina per seguire il sito.  
-
-### <a name="next-steps"></a>Operazioni successive
-- Esplorare il [contenuto predefinito](sitecontent.md) incluso nella web part.

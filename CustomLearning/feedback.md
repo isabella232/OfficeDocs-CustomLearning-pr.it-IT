@@ -1,32 +1,35 @@
 ---
 author: karuanag
 ms.author: karuanag
+manager: alexb
 title: Feedback e supporto
 ms.date: 02/10/2019
-description: Informazioni sul feedback e sul supporto per i percorsi di apprendimento di Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: 77e0630153cf72ee2682c2536fe4ed2ef11da74d
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Feedback e informazioni di supporto per i percorsi di apprendimento di Microsoft 365.
+ms.service: sharepoint-online
+audience: itpro
+ms.topic: article
+ms.openlocfilehash: 01b0b129eb3b041e18414dee1e785feaa3d6fd8e
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233528"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000062"
 ---
 # <a name="feedback-and-support"></a>Feedback e supporto
 
-Microsoft 365 Learning pathways è un progetto open source supportato tramite un elenco di [problemi online](https://aka.ms/CustomLearningHelp) su GitHub. La soluzione Microsoft 365 Learning pathways non è coperta da alcun contratto di supporto tecnico Microsoft esistente.  
+I percorsi di apprendimento di Microsoft 365 sono un progetto open source supportato tramite un [elenco di](https://aka.ms/CustomLearningHelp) problemi online su GitHub. La soluzione dei percorsi di apprendimento di Microsoft 365 non è coperta da alcun contratto di supporto Microsoft esistente.  
 
-## <a name="report-issues"></a>Problemi relativi ai rapporti
+## <a name="report-issues"></a>Segnalazione dei problemi
 
-Se si verificano problemi con il modello di sito Open Source o WebPart che fornisce l'esperienza di Microsoft 365 Learning pathways, immettere il proprio problema nell'elenco dei problemi di GitHub.  Questo elenco può essere trovato all'indirizzo https://aka.ms/CustomLearningHelp  
+Se si verificano problemi con il modello di sito open source o la web part che offre l'esperienza dei percorsi di apprendimento di Microsoft 365, immettere il problema nell'elenco dei problemi di GitHub.  È possibile trovare questo elenco all'indirizzo https://aka.ms/CustomLearningHelp  
 
-Come è standard con le soluzioni open source, la comunità triages questi problemi per la risoluzione. Le richieste di funzionalità vengono trasferite nell'istanza di Voice utente riportata di seguito. I bug del codice vengono inoltrati alla community e ai responsabili dei servizi per la valutazione e la risoluzione.  
+Come è standard per le soluzioni open source, la community valuta questi problemi per la risoluzione. Le richieste di funzionalità vengono trasferite nell'istanza di User Voice riportata di seguito. I bug del codice vengono inoltrati ai responsabili della community e dei servizi per la analisi e la risoluzione.  
 
-## <a name="provide-us-feedback"></a>Fornire commenti e suggerimenti
+## <a name="provide-us-feedback"></a>Inviare commenti e suggerimenti
 
-La soluzione è solo un successo se è in grado di consentire i risultati aziendali.  Si prega di aiutarci a migliorare fornendoci commenti e suggerimenti regolari tramite  [UserVoice](https://go.microsoft.com/fwlink/?linkid=2109552).  È consigliabile esaminare periodicamente tutti i commenti e le domande. 
+La nostra soluzione è un successo solo se consente i risultati aziendali.  Aiutaci a migliorarlo fornendoci un feedback regolare tramite [UserVoice.](https://go.microsoft.com/fwlink/?linkid=2109552)  Rivediamo regolarmente tutti i commenti e le domande. 
 
 ## <a name="usage-questions"></a>Domande sull'utilizzo
 
-Per domande sulle procedure consigliate nell'utilizzo dei percorsi di apprendimento di Microsoft 365, partecipare ai forum di [adoption Driving](https://aka.ms/DriveAdoption) nella Community Technical Microsoft all'indirizzo https://aka.ms/DriveAdoption . 
+Per domande sulle procedure consigliate per l'utilizzo dei percorsi di apprendimento di Microsoft 365, partecipa a microsoft nei forum [sull'adozione](https://aka.ms/DriveAdoption) della community tecnica Microsoft all'indirizzo https://aka.ms/DriveAdoption . 
 

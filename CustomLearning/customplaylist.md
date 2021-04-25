@@ -1,103 +1,104 @@
 ---
 author: karuanag
 ms.author: karuanag
+manager: alexb
 title: Personalizzare e condividere playlist
 ms.date: 02/10/2019
-description: Creare playlist personalizzate dal contenuto esistente o dalle nuove pagine di SharePoint
-ms.service: sharepoint online
-ms.openlocfilehash: 6258668b417ba496c7ac75e36ce2bc1f1dae27a5
-ms.sourcegitcommit: ee4aebf60893887ae95a1294a9ad8975539ea762
+description: Creare playlist personalizzate da contenuto esistente o da nuove pagine di SharePoint
+ms.service: sharepoint-online
+audience: itpro
+ms.topic: article
+ms.openlocfilehash: 31a0e5524181d26f4d62ae7206636c9e553b6f8f
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48233808"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "52000212"
 ---
 # <a name="customize-and-share-playlists"></a>Personalizzare e condividere playlist
 
 ## <a name="create-a-playlist"></a>Creare una playlist
 
-Una playlist è una Compliation di "asset". "Asset" è una pagina di SharePoint o un elemento esistente di Microsoft Training Content. Quando si crea una playlist, si selezionano risorse che vanno insieme per creare un percorso di apprendimento per l'utente.  
+Una playlist è una compilazione di "asset". Un "asset" è una pagina di SharePoint o un elemento esistente del contenuto di formazione Microsoft. Quando crei una playlist, seleziona gli asset che vanno insieme per creare un percorso di apprendimento per l'utente.  
 
-Il vantaggio dell'aggiunta di pagine di SharePoint è che è possibile creare pagine di SharePoint con video o video di YouTube ospitati nell'organizzazione. È inoltre possibile creare pagine con moduli o altri contenuti di Office 365.  
+Il vantaggio dell'aggiunta di pagine di SharePoint è che è possibile creare pagine di SharePoint con video di YouTube o video ospitati nell'organizzazione. È inoltre possibile creare pagine con moduli o altro contenuto di Office 365.  
 
-#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Passaggio 1: creare una pagina di SharePoint per la playlist
-In questo esempio viene creata prima una pagina di SharePoint da aggiungere alla playlist. Verrà creata una pagina con una Web part video di YouTube e una Web part di testo.  Queste istruzioni presuppongono che si utilizzi il servizio SharePoint Online. 
+#### <a name="step-1-create-a-sharepoint-page-for-your-playlist"></a>Passaggio 1: Creare una pagina di SharePoint per la playlist
+In questo esempio verrà innanzitutto creata una pagina di SharePoint da aggiungere alla playlist. Verrà creata una pagina con una web part video di YouTube e una web part Testo.  Queste istruzioni presuppongono che si utilizzi il servizio SharePoint Online. 
 
 #### <a name="create-a-new-page"></a>Creare una nuova pagina
-1.  Selezionare il menu impostazioni > contenuto del sito > pagine del sito > nuova pagina del sito >.
-2.  Nell'area titolo, digitare use the teams Command Box.
-3.  Selezionare la sezione Aggiungi una nuova e quindi selezionare due colonne.
+1.  Selezionare il menu Impostazioni > contenuto del sito > pagine del sito > Nuova > Pagina sito.
+2.  Nell'area del titolo digitare Use the Teams command box
+3.  Selezionare la sezione Aggiungi nuovo e quindi selezionare Due colonne.
 
-![Aggiunta di due colonne](media/clo365addtwocolumn.png)
+![aggiunta di due colonne](media/clo365addtwocolumn.png)
 
-4.  Nella casella a sinistra, selezionare Aggiungi una nuova Web part, quindi fare clic su incorpora. 
-5.  In un Web browser, passare a questo URL https://youtu.be/wYrRCRphrp0 e ottenere il codice di incorporamento per il video. 
-6.  Nella web part di SharePoint, selezionare Aggiungi codice embed e incollarlo nella casella incorpora. 
-7.  Nella casella a destra, selezionare Aggiungi una nuova Web part, quindi selezionare testo. 
-8.  In un Web browser, passare a questo URL: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b e copiare la prova! Istruzioni dalla pagina e incollarle nella web part testo. La pagina dovrebbe essere simile alla seguente. 
+4.  Nella casella a sinistra selezionare Aggiungi una nuova web part e quindi incorporare. 
+5.  In un Web browser passare a questo URL https://youtu.be/wYrRCRphrp0 e ottenere il codice di incorporamento per il video. 
+6.  Nella web part Di SharePoint selezionare Aggiungi codice di incorporamento e quindi incollarlo nella casella Incorpora. 
+7.  Nella casella a destra selezionare Aggiungi una nuova web part e quindi testo. 
+8.  In un Web browser passare all'URL seguente: https://support.office.com/article/13c4e429-7324-4886-b377-5dbed539193b e copiare l'opzione Prova. Istruzioni della pagina e incollarle nella web part Testo. La pagina dovrebbe essere simile alla seguente. 
+![Pagina Incorpora](media/clo365teamscommandbox.png)
+9.  Fare **clic su** Pubblica e quindi copiare l'URL della pagina e incollarlo nel Blocco note
 
-![Pagina incorporamento](media/clo365teamscommandbox.png)
+#### <a name="step-2-create-the-playlist"></a>Passaggio 2: Creare la playlist
 
-9.  Fare clic su **pubblica**e quindi copiare l'URL della pagina e incollarlo nel blocco note
+1. Passare alla **pagina Amministrazione apprendimento personalizzata** nell'esperienza del sito.
+![Schermata in cui selezionare Amministrazione apprendimento personalizzata.](media/custom_admin.png)
+1. Verificare che **l'opzione Categoria** sia selezionata 
+1. Fai clic sulla categoria in cui vuoi che venga visualizzata la nuova playlist
+1. Accanto al nome della categoria, fai clic sul simbolo più ![ Finestra con l'opzione Categoria e il segno più evidenziato.](media/custom_addplay.png)
 
-#### <a name="step-2-create-the-playlist"></a>Passaggio 2: creare la playlist
+1. Inserire i valori come illustrato nell'esempio seguente e selezionare **Crea**. 
+![Pagina in cui immettere i dettagli della playlist.](media/custom_details.png)
+- **Title** - Nome visualizzato della playlist
+- **Descrizione** - Informazioni su ciò che verrà appreso
+- **Categoria** : preselezionata in base alla selezione iniziale
+- **Sottocategozia** - Preselezionata in base alla selezione inziale
+- **Tecnologia** - Seleziona come applicabile
+- **Livello** - Principiante, Intermidate o Avanzato
+- **Gruppo** di destinatari: in questo modo è possibile scegliere come destinazione il contenuto in base a un elenco predefinito di ruoli forniti da Microsoft.
 
-1. Passare alla pagina di **amministrazione dell'apprendimento personalizzata** nell'esperienza del sito.
-![custom_admin.png](media/custom_admin.png)
-1. Verificare che la **categoria** sia selezionata 
-1. Fare clic sulla categoria in cui si desidera visualizzare la nuova playlist
-1. Accanto al nome della categoria, fare clic sul segno più ![custom_addplay.png](media/custom_addplay.png)
-
-1. Inserire i valori come illustrato nell'esempio riportato di seguito e selezionare **Crea**. 
-![custom_details.png](media/custom_details.png)
-- **Titolo** -nome visualizzato della playlist
-- **Descrizione** -informazioni su ciò che verrà imparato
-- **Categoria** -preselezionata in base alla selezione iniziale
-- **Sottocategoria** -preselezionata in base alla selezione iniziale
-- **Tecnologia** : selezionare applicabile
-- **Level** -Beginner, Intermidate o Advanced
-- Gruppo di **destinatari** : consente di assegnare il contenuto in base a un elenco predefinito di ruoli forniti da Microsoft.
-
-6. Fare clic su **Salva dettaglio**
+6. Fare clic **su Salva dettagli**
 
 > [!TIP]
-> È possibile personalizzare l'immagine dell'icona per la playlist.  Fare clic sull'icona dell'immagine e inserire un URL di un'immagine caricata in precedenza.  Verificare che l'immagine si trovi all'interno della raccolta siti di apprendimento personalizzato o in un'altra posizione in cui tutti gli utenti avranno accesso al file.  
-![custom_image.png](media/custom_image.png)
+> Puoi personalizzare l'immagine dell'icona per la playlist.  Fai clic sull'icona dell'immagine e inserisci un URL di un'immagine caricata in precedenza.  Verificare che l'immagine si trovi all'interno della raccolta siti di apprendimento personalizzato o in un'altra posizione in cui tutti gli utenti avranno accesso al file.  
+![Scegliere una finestra immagine.](media/custom_image.png)
 
-#### <a name="step-3-add-assets-to-the-playlist"></a>Passaggio 3: aggiungere risorse alla playlist
-In questo passaggio, si aggiungono le risorse esistenti da Microsoft e la pagina di SharePoint creata per la playlist. 
+#### <a name="step-3-add-assets-to-the-playlist"></a>Passaggio 3: Aggiungere asset alla playlist
+In questo passaggio verranno aggiunti asset esistenti da Microsoft e dalla pagina di SharePoint creata alla playlist. 
 
-1. Dopo aver salvato i dettagli per la playlist, è possibile utilizzare la ricerca per le risorse esistenti.
-1. **Immettere un termine di ricerca** per visualizzare un elenco di risorse predefinite che sono disponibili da altre playlist. **Fare clic sul nome** di una risorsa per includerla nella nuova playlist.
-![custom_slist.png](media/custom_slist.png)
+1. Dopo aver salvato i dettagli per la playlist, puoi usare la ricerca di asset esistenti.
+1. **Immettere un termine di ricerca** per visualizzare un elenco di risorse predefinite disponibili in altre playlist. **Fai clic sul nome** di una risorsa per includerla nella nuova playlist.<br/>
+![Pagina Risorse playlist](media/custom_slist.png)
 
 È inoltre possibile aggiungere la pagina di SharePoint creata in precedenza o crearne una da zero nell'esperienza.
 
-1. Fare clic sull'opzione **nuova risorsa** nella finestra di dialogo risorse playlist.
-1. Assegnare un **titolo**alla propria risorsa. Una volta immessa, vengono visualizzate altre opzioni ![custom_newpage.png](media/custom_newpage.png)
+1. Fai clic **sull'opzione Nuovo asset** nella finestra di dialogo Asset playlist.
+1. Assegnare un titolo **all'asset.** Dopo l'immissione, verranno visualizzate altre opzioni.
+![Modulo in cui immettere il titolo e ulteriori dettagli.](media/custom_newpage.png)
 1. È ora possibile creare una nuova pagina di asset in SharePoint Online o immettere l'URL di una pagina esistente per aggiungerla alla playlist personalizzata. 
-1. I campi **categoria**, **sottocategoria** e **tecnologia** verranno prepopolati in base alle selezioni precedenti per la playlist.
-1. Effettuare le selezioni appropriate per il livello e il gruppo di destinatari per questo singolo cespite.  
-1. Fare clic su **Salva risorsa** per aggiungerla all'elenco di riproduzione personalizzato
-1. Ripetere questi passaggi, cercando o aggiungendo singole pagine, finché la playlist non è stata completata. 
-1. Fare clic su **Chiudi playlist** per salvare
+1. **I** campi **Categoria, Categoria** secondaria **e** Tecnologia verranno pre-popolati in base alle selezioni precedenti per questa playlist.
+1. Effettuare le selezioni appropriate per Livello e Gruppo di destinatari per questa singola risorsa.  
+1. Fai **clic su Salva** risorsa per aggiungerlo alla playlist personalizzata
+1. Ripeti questi passaggi, cercando o aggiungendo singole pagine, fino al completamento della playlist. 
+1. Fare **clic su Chiudi playlist** per salvare
 
-L'elenco di riproduzione con questo contenuto sarà ora disponibile ovunque sia stato installato/incorporato il WebPart di apprendimento personalizzato. 
+La playlist con questo contenuto sarà ora disponibile ovunque sia stata installata/incorporata la web part Apprendimento personalizzato. 
 
 > [!NOTE]
-> Se si commette un errore dopo aver chiuso la playlist, è possibile eliminarla dalla categoria facendo clic sulla X accanto al nome della playlist.  
+> Se commette un errore dopo aver chiuso la playlist, puoi eliminarla dalla categoria facendo clic sulla X accanto al nome della playlist.  
 
-#### <a name="things-to-think-about"></a>Aspetti da considerare
+#### <a name="things-to-think-about"></a>Aspetti da riflettere
 
-Gli elenchi di riproduzione personalizzati possono essere utilizzati per assistere gli utenti finali in una vasta gamma di attività.  Si dispone di un modulo di richiesta di tempo di disattivazione?  Un modulo per richiedere apparecchiature hardware?  Tutte le risorse formative esistenti possono essere programmate nell'esperienza.  
+Le playlist personalizzate possono essere usate per assistere gli utenti finali in un'ampia gamma di attività.  Hai un modulo di richiesta di tempo libero?  Un modulo per richiedere attrezzature hardware?  Tutte le risorse di formazione esistenti possono essere programmate nell'esperienza.  
 
-## <a name="share-playlists"></a>Condivisione di playlist
+## <a name="share-playlists"></a>Condividere playlist
 
-1. Passare a una playlist all'interno di WebPart o di un'esperienza del sito
-1. Nell'angolo in alto a sinistra vengono visualizzate tre icone
+1. Passare a qualsiasi playlist all'interno della web part o dell'esperienza del sito
+1. Nell'angolo in alto a sinistra verranno visualizzate tre icone
 1. Fare clic sull'icona che rappresenta un collegamento
-1. Copiare l'URL nella playlist
+1. Copia l'URL nella schermata della playlist ![ in cui fai clic su Copia accanto all'URL.](media/share.png)
+Questo URL può ora essere inserito nella struttura di spostamento del sito o utilizzato in altre comunicazioni per portare i dipendenti direttamente a tale playlist. 
 
-![share.png](media/share.png) questo URL ora può essere inserito nella struttura di spostamento del sito o utilizzato in altre comunicazioni per portare i dipendenti direttamente a quella playlist. 
-
-### <a name="next-steps---drive-adoption"></a>Passaggi successivi: [adozione dell'unità](driveadoption.md)
+### <a name="next-steps---drive-adoption"></a>Passaggi successivi - [Guidare l'adozione](driveadoption.md)

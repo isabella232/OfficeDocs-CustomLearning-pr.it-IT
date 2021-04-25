@@ -4,13 +4,16 @@ ms.author: pkrebs
 title: Effettuare il provisioning di una nuova soluzione di percorsi di apprendimento
 ms.date: 02/10/2019
 description: Effettuare il provisioning del sito dei percorsi di apprendimento di Microsoft 365 con il servizio look book di Microsoft 365
-ms.service: sharepoint online
-ms.openlocfilehash: fd50eed38ea6f2073eb61b4d21545a73bc918a49
-ms.sourcegitcommit: 907c657e7cc5a4a44d2b9f38cc35fea9ac5c5943
+ms.service: sharepoint-online
+manager: bpardi
+ms.topic: article
+audience: admin
+ms.openlocfilehash: bf260f41ea149a2344d1f09ba67d3e3a1d6e6180
+ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51162913"
+ms.lasthandoff: 04/25/2021
+ms.locfileid: "51999442"
 ---
 # <a name="provision-a-new-learning-pathways-solution"></a>Effettuare il provisioning di una nuova soluzione di percorsi di apprendimento 
 Le organizzazioni che non dispongono di percorsi di apprendimento di cui è stato eseguito il provisioning nel tenant possono utilizzare il servizio look book di SharePoint per aggiungere la soluzione di percorsi di apprendimento multilingue. Con questa opzione, il modello di SharePoint percorsi di apprendimento viene tradotto in nove lingue e può essere utilizzato con un minimo di modifica. 
@@ -45,10 +48,10 @@ Prima di effettuare il provisioning dei percorsi di apprendimento, assicurati ch
 Il servizio look book richiede queste autorizzazioni per creare il Catalogo app tenant, installare l'applicazione nel Catalogo app tenant ed eseguire il provisioning del modello di sito. Non c'è alcun impatto complessivo sul tenant. Queste autorizzazioni vengono utilizzate in modo esplicito ai fini dell'installazione della soluzione. Per continuare con l'installazione, è necessario accettare queste autorizzazioni.
 
 4. Completare i campi nella pagina delle informazioni sul provisioning, come opportuno per l'installazione. Digitare almeno l'indirizzo e-mail in cui si vogliono ricevere le notifiche relative al processo di provisioning e l’URL di destinazione del sito in cui deve essere eseguito il provisioning.  
-> [!NOTE]
-> Impostare l’URL di destinazione in una maniera semplice per i tuoi dipendenti, come “/sites/MyTraining” o “/teams/LearnMicrosoft365”.
+   > [!NOTE]
+   > Impostare l’URL di destinazione in una maniera semplice per i tuoi dipendenti, come “/sites/MyTraining” o “/teams/LearnMicrosoft365”.
 
-![inst_options.png](media/inst_options.png)
+   ![Schermata che richiede di immettere le informazioni di base per l'installazione.](media/inst_options.png)
 
 6. Fare **clic su Provisioning** quando si è pronti per installare i percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning può richiedere fino a 15 minuti. Quando il sito è pronto, si riceverà una notifica via e-mail. 
 
@@ -61,7 +64,7 @@ Al termine del provisioning, l'amministratore tenant che ha effettuato il provis
 
 - Passare a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+   ![Esempio di pagina CustomLearningAdmin.aspx iniziale.](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Aggiungere proprietari al sito
 In quanto amministratore tenant, è improbabile che tu sia la persona che personalizza il sito, quindi dovrai assegnare alcuni proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rebrand il sito. Hanno anche la possibilità di nascondere e mostrare il contenuto e creare playlist e sottocategorie personalizzate.  
@@ -88,7 +91,7 @@ Per le organizzazioni che scelgono di supportare una sola lingua, oltre alla lin
 4. In **Abilita la traduzione di pagine e notizie in più lingue,** fai scorrere l'interruttore su **Attivato.** Dovrebbe essere on per impostazione predefinita.
 5. In Aggiungi o rimuovi lingue sito fare clic **su Rimuovi** per rimuovere le lingue non necessarie per il sito. Di seguito viene illustrato un esempio della pagina Impostazioni lingua per visualizzare l'italiano supportato per il sito, oltre alla lingua inglese predefinita.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+   ![Schermata delle lingue del sito di esempio.](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > Durante la rimozione delle lingue non è possibile rimuovere la lingua inglese predefinita. 
