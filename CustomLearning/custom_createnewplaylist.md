@@ -5,20 +5,22 @@ title: Creare nuove playlist
 ms.date: 02/18/2019
 description: Come creare nuove playlist
 ms.service: sharepoint-online
-ms.openlocfilehash: aa526826414f3dd5b3c4b8d9daca7de1d62a1864
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4d2576cb5ea39ea2251b78481451ac098cda2c23
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999142"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310650"
 ---
 # <a name="create-a-custom-playlist"></a>Creare una playlist personalizzata
 
-Con i percorsi di apprendimento di Microsoft 365, è possibile creare playlist personalizzate da zero personalizzate in base alle esigenze specifiche dell'organizzazione. Ad esempio, creare una playlist per l'onboarding di nuovi assunti in Microsoft Teams. Oppure creare playlist per amministratori esecutivi con informazioni adatte al loro ruolo univoco. In alternativa, crea una playlist Primo giorno per Microsoft 365 con tre semplici passaggi anziché sei. Puoi aggiungere una playlist personalizzata a qualsiasi sottocategoria. Ad esempio, **First Days**, una **sottocategoria Product** come **Excel** o anche una sottocategoria creata dall'utente. In questa sezione verrà descritto come creare una playlist e quindi verrà illustrata l'aggiunta di risorse a una playlist nella sezione seguente, [Aggiungere risorse a una playlist personalizzata.](custom_addassets.md)
+Con Microsoft 365 di apprendimento, puoi creare playlist personalizzate da zero personalizzate in base alle esigenze specifiche dell'organizzazione. Ad esempio, crea una playlist per l'onboarding di nuovi assunti Microsoft Teams. Oppure creare playlist per amministratori esecutivi con informazioni adatte al loro ruolo univoco. In alternativa, crea un primo giorno Microsoft 365 playlist con tre semplici passaggi anziché sei. Puoi aggiungere una playlist personalizzata a qualsiasi sottocategoria. Ad esempio, **First Days**, una **sottocategoria Product** come **Excel** o anche una sottocategoria creata dall'utente. In questa sezione verrà descritto come creare una playlist e quindi verrà illustrata l'aggiunta di risorse a una playlist nella sezione seguente, [Aggiungere risorse a una playlist personalizzata.](custom_addassets.md)
 
 ## <a name="create-a-playlist"></a>Creare una playlist 
 
-1. Nella home **page** dei percorsi di apprendimento di Microsoft 365 fare  clic su Formazione **su Office 365** e quindi selezionare l'icona Amministra dalla web part. 
+1. Nella home page Microsoft 365  percorsi di apprendimento fare clic su Office 365  **formazione** e quindi selezionare l'icona Amministra dalla web part. 
 2. Selezionare la **sottocategoria** Amministra " icona. In questo esempio, selezionare **First Days**.  
 3. Fai clic sull'icona +.  
 

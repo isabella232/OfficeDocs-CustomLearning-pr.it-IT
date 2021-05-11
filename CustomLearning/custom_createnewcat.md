@@ -5,18 +5,20 @@ title: Creare una nuova sottocategoria
 ms.date: 02/17/2019
 description: Creare una nuova sottocategoria con percorsi di apprendimento
 ms.service: sharepoint-online
-ms.openlocfilehash: cf50403eee4fac0494298a84354eb142e7957790
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
+ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999087"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52310420"
 ---
 # <a name="create-a-subcategory"></a>Creare una sottocategoria 
 In alcuni casi, è necessario creare una nuova sottocategoria. Ad esempio, se la sottocategoria Primi giorni non funziona per l'organizzazione, è possibile creare una nuova sottocategoria e quindi aggiungervi playlist per soddisfare le esigenze dell'organizzazione. 
 
-1. Nella home **page** dei percorsi di apprendimento di Microsoft 365 fare clic su Formazione su **Microsoft 365,** scegliere il menu **Sistema** dalla web part e quindi fare clic su **Amministra playlist.** 
-2. Selezionare una **categoria**. In questo esempio, selezionare **Introduzione**.  
+1. Nella home page Microsoft 365 percorsi  di apprendimento, fare clic su Microsoft 365 **formazione,** scegliere il **menu** Sistema dalla web part e quindi fare clic su **Amministra playlist.** 
+2. Selezionare una **categoria**. In questo esempio selezionare **Informazioni di base**.  
 3. Scorrere verso il basso la pagina, 
 3. Fare clic **sull'icona Aggiungi nuova sottocategoria +** .  
 
