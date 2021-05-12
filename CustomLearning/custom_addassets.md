@@ -5,12 +5,14 @@ title: Aggiungere asset a una playlist
 ms.date: 02/17/2019
 description: Aggiungere asset nuovi ed esistenti a una playlist di percorsi di apprendimento
 ms.service: sharepoint-online
-ms.openlocfilehash: abd4500faccf8d4e8008f72dc800855035d8a2c9
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+manager: bpardi
+ms.topic: article
+ms.openlocfilehash: 409a1dab13d00c3592f565675475cf2446da9908
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999832"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334550"
 ---
 # <a name="add-assets-to-a-custom-playlist"></a>Aggiungere asset a una playlist personalizzata
 
@@ -36,14 +38,14 @@ Con **l'opzione Crea pagina risorsa,** si fornisce un titolo per l'asset, quindi
 2. Per aggiungere un nuovo asset a una playlist, fai clic **su Nuovo asset.** 
 3. Immettere un titolo. In questo esempio immetti "Add Assets to a Playlist" e quindi fai clic **su Create Asset Page.**
 
-![cg-addassetcreatenewpage.png](media/cg-addassetcreatenewpage.png)
+   ![In una finestra viene visualizzato il pulsante Crea pagina risorsa in alto.](media/cg-addassetcreatenewpage.png)
 
 4. Fare **clic su Apri pagina**.
 5. Fare clic **sull'icona** Modifica e quindi **su Modifica web part nell'area** Titolo.
 6. In **Layout** fare clic su **Normale.** 
 7. Aggiungi una nuova sezione a una colonna e quindi aggiungi del testo di esempio alla pagina in modo che sia simile all'esempio seguente. 
 
-![cg-addassetcreatenewpageedit.png](media/cg-addassetcreatenewpageedit.png)
+   ![Finestra di dialogo Aggiungi risorsa.](media/cg-addassetcreatenewpageedit.png)
 
 7. Fare clic su **Pubblica**.
 8. Torna alla **pagina Amministrazione apprendimento** personalizzata. 
@@ -56,11 +58,11 @@ Con **l'opzione Immettere l'URL,** specificare un titolo per l'asset, quindi far
 2. Per aggiungere un nuovo asset a una playlist, fai clic **su Nuovo asset.** 
 3. Immettere un titolo. In questo esempio immetti "Custom Playlist Introduction" e quindi fai clic **su Enter URL**. 
 
-![cg-newplaylistasseturl.png](media/cg-newplaylistasseturl.png)
+   ![Finestra di dialogo Asset playlist con il nuovo titolo aggiunto.](media/cg-newplaylistasseturl.png)
 
 4. Immettere l'URL della pagina di SharePoint creata in una precedente sezione Creare pagine di [SharePoint ](custom_createnewpage.md) per playlist personalizzate e quindi compilare il resto dei campi, come illustrato nella figura seguente.
 
-![cg-newplaylistassetdetails.png](media/cg-newplaylistassetdetails.png)
+   ![Modulo per l'immissione delle informazioni di introduzione alle playlist.](media/cg-newplaylistassetdetails.png)
 
 5. Fare **clic su Salva risorsa.** 
 
@@ -70,12 +72,12 @@ Le risorse esistenti sono costituite da asset o asset di percorsi di apprendimen
 
 - Nella casella **Cerca** immettere una frase di ricerca e quindi selezionare un asset nei risultati della ricerca. In questo esempio immettere "What is Excel?" per aggiungere un argomento introduttivo di Excel alla playlist.
 
-![cg-existplaylistassetsearch.png](media/cg-existplaylistassetsearch.png)
+![Finestra di dialogo Nuovo asset.](media/cg-existplaylistassetsearch.png)
 
 ## <a name="edit-move-and-delete-assets"></a>Modificare, spostare ed eliminare asset
 È possibile modificare gli asset personalizzati creati, ma non gli asset di Microsoft. Tuttavia, puoi rimuovere tutti gli asset da una playlist e modificare gli asset dell'ordine. 
 
-![cg-playlistassetedit.png](media/cg-playlistassetedit.png)
+![Finestra di dialogo Asset playlist con opzioni per rimuovere o modificare gli elementi.](media/cg-playlistassetedit.png)
 
 ### <a name="edit-an-asset"></a>Modificare una risorsa
 - Fai clic sul pulsante Modifica per un asset, modifica l'asset e quindi fai clic su Salva risorsa. 
@@ -94,4 +96,4 @@ Ora che hai aggiunto asset a una playlist, chiudiamo la playlist e vediamola in 
 3. Aggiornare la pagina e quindi fare clic su **Primi giorni** in **Introduzione.**
 4. Fai **clic su Learning Pathways Starter Kit** per visualizzare la prima playlist in azione. 
 
-![cg-addassetcheckwork.png](media/cg-addassetcheckwork.png)
+![Pagina di introduzione di esempio.](media/cg-addassetcheckwork.png)

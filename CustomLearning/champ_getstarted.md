@@ -1,19 +1,20 @@
 ---
-title: Procedure consigliate per il programma Champion
-description: Guidare l'adozione di Office 365 con le procedure consigliate per il programma Champion
+title: "Procedure consigliate per il programma Champion: Stabilire i campioni per l'adozione da parte degli utenti"
+description: Le procedure consigliate del programma Champion aiutano a guidare l'adozione di Office 365.
 author: karuanag
 ms.author: karuanag
+manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 2eab242302ed952141a256f3c9c1e6265044bf8f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 691b6535be07028bb02d6340cdfddeba841274a2
+ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999932"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "52334590"
 ---
-# <a name="establish-champions-for-user-adoption"></a>Stabilire i campioni per l'adozione degli utenti 
+# <a name="champion-program-best-practices-establish-champions-for-user-adoption"></a>Procedure consigliate per il programma Champion: Stabilire i campioni per l'adozione da parte degli utenti
 
 La gestione dei cambiamenti organizzativi è l'arte di modificare il comportamento di un gruppo mirato di persone. C'è una grande quantità di scienza e ricerca a supporto di questa pratica. In questi articoli verrà descritto come guidare l'adozione di servizi chiave che porteranno a risultati aziendali nell'azienda.  Seguendo le procedure consigliate, è possibile ridurre il tempo necessario per ottenere valore misurabile da Office 365.  
 
@@ -24,7 +25,7 @@ Un programma di campioni è una parte essenziale dell'adozione. Questi influence
 
 ## <a name="who-are-champions-and-what-makes-them-tick"></a>Chi sono i campioni e cosa li fa spuntare?
 
-I campioni non sono solo appassionati di ciò che fanno, ma sono anche entusiasti di condividere le proprie conoscenze e aiutare i propri colleghi a imparare soluzioni più efficaci. I campioni sono entusiasti e spesso frustrati per gli strumenti esistenti. Ti aiuteranno a vincere la sfida del ronzio del watercooler!  
+I campioni non sono solo appassionati di ciò che fanno, ma sono anche entusiasti di condividere le proprie conoscenze e aiutare i propri colleghi a imparare soluzioni più efficaci. I campioni sono entusiasti e spesso frustrati per gli strumenti esistenti. Ti aiuteranno a vincere la sfida di buzz più cool dell'acqua!  
 
 Ci sembra importante premiare i campioni in modo significativo. Alcuni suggerimenti sono:
 
