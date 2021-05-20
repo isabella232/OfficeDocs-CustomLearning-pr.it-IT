@@ -3,20 +3,134 @@ author: pkrebs
 ms.author: pkrebs
 manager: bpardi
 title: Percorsi di apprendimento Aggiornamenti del contenuto
-ms.date: 3/30/2020
-audience: Admin
+ms.date: 5/19/2021
 ms.topic: article
 description: Percorsi di apprendimento Aggiornamenti del contenuto
 ms.service: o365-solutions
-ms.openlocfilehash: 6ec05d670dd9ccd925e07f71e3a8e5b99bc4621e
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+audience: itpro
+ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
+ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000112"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52575981"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Aggiornamenti del contenuto dei percorsi di apprendimento di Microsoft 365
-I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates . 
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Aggiornamenti del contenuto dei percorsi di apprendimento
+I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates .  
+
+## <a name="may-2021-content-updates"></a>Aggiornamenti del contenuto di maggio 2021
+Di seguito sono elencati gli aggiornamenti del contenuto per maggio 2021.    
+
+### <a name="yammer"></a>Yammer
+Yammer contenuto è stato aggiornato.
+
+#### <a name="yammer-quick-start-updated"></a>Yammer Guida introduttiva (aggiornata)
+- Accedi : aggiornato con nuovo video
+- Individuare le community , aggiornate con il nuovo titolo
+- Partecipare alla conversazione : contenuto aggiornato
+- Collaborare - ritirato
+- Configurare le app per dispositivi mobili - nessuna modifica
+
+#### <a name="roll-out-a-successful-yammer-network-updated"></a>Implementare una rete Yammer (aggiornata)
+- Che cos'è Yammer? – aggiornato con nuovo video
+- Pianificare la strategia: contenuto aggiornato
+- Personalizzare una Yammer di rete , aggiornata con un nuovo video
+- Identificare i casi d'uso più a destra: video aggiornato e rimosso
+- Creare una community per un caso di utilizzo: gruppo aggiornato e modificato in community nel titolo 
+- Educare gli utenti : video aggiornato e rimosso
+- Guidare il coinvolgimento continuo - ritirato
+- Integrare Yammer : titolo aggiornato e modificato
+
+#### <a name="use-yammer-every-day-updated"></a>Usa Yammer ogni giorno (aggiornato)
+- What is Yammer – updated with new video
+- Modificare il profilo Yammer utente e le impostazioni – contenuto aggiornato
+- Avviare una conversazione - Titolo aggiornato
+- Modificare le notifiche e ricevere annunci - titolo aggiornato
+- Partecipare e creare community : titolo aggiornato
+- Individuazione e ricerca in Yammer - ritirato
+- Creare e modificare file - ritirato
+- Continua: contenuto aggiornato
+
+### <a name="hybrid-workplace-updated"></a>Ambiente di lavoro ibrido (aggiornato)
+Le nuove playlist seguenti sono state aggiunte alla sottocategoria ambiente di lavoro ibrido.
+
+#### <a name="stay-well-new"></a>Stare bene (nuovo)
+- Introduzione al benessere nell'ambiente di lavoro ibrido - nuovo asset
+- Prendere pause e pianificare il tempo personale - nuovo asset
+- Pianificare e rispettare i limiti - nuovo asset
+- Impostare lo stato in Microsoft Teams - nuovo asset
+- Gestire le notifiche in Teams - nuovo asset
+- Attivare l'Assistente stato attivo in Windows nuovo asset
+
+#### <a name="stay-productive-new"></a>Rimanere produttivi (nuovo)
+- Produttività personale nell'ambiente di lavoro ibrido - nuovo asset
+- Produttività del team nell'ambiente di lavoro ibrido - nuovo asset
+
+#### <a name="stay-connected-new"></a>Rimanere connessi (nuovo)
+- Rimanere connessi nell'ambiente di lavoro ibrido - nuovo asset
+- Avviare conversazioni in Teams - nuovo asset
+- Creare un contratto di comunicazione con il team - nuovo asset
+
+### <a name="microsoft-teams-updated"></a>Microsoft Teams (aggiornato)
+Sono stati aggiunti nuovi asset con video alle playlist Microsoft Teams seguenti. 
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>Collaborare in team e canali (aggiornato)
+- Collaborare con gli utenti guest esterni: nuovo asset con video
+
+#### <a name="create-approvals-updated"></a>Creare approvazioni (aggiornate)
+- Creare un'approvazione tramite firma elettronica - nuovo asset con video
+
+### <a name="teams-excel-powerpoint-word-outlook"></a>Teams, Excel, PowerPoint, Word, Outlook
+Gli asset seguenti hanno video nuovi o aggiornati.
+
+#### <a name="teams"></a>Teams
+- Manage meetings\Join a Teams meeting - video aggiornato
+- Gestire le riunioni\Gestire le riunioni - video aggiornato
+- Collaborare in team e canali\Panoramica di team e canali - video aggiornato
+- Collaborare in team e canali\Collaborare con utenti guest esterni - nuovo video
+- Upload e trovare file\Upload e condividere file - video aggiornato
+- Create approvals\Create an e-sign approval request - new video
+
+#### <a name="excel"></a>Excel
+- Introduzione a Excel\Usare Excel calcolatrice (sottrazione) - video aggiornato
+- Introduzione a Excel\Usare Excel calcolatore (moltiplicazione) - video aggiornato
+- Introduzione a Excel\Usare Excel calcolatrice (dividere) - video aggiornato
+- Introduzione a Excel\spostare o copiare fogli di lavoro o dati del foglio di lavoro - video aggiornato
+- Introduzione a Excel\Riempi automaticamente i dati nelle celle del foglio di lavoro - video aggiornato
+- Formattazione\Allineamento o rotazione del testo in una cella - nuovo video
+- Charts\Create a chart from start to finish - updated video
+- Righe e colonne\Nascondere o visualizzare righe o colonne - video aggiornato
+
+#### <a name="powerpoint"></a>PowerPoint
+- Diapositive e layout\Aggiungere, ridisporre, duplicare ed eliminare diapositive in PowerPoint - video aggiornato
+- Diapositive e layout\Modificare l'orientamento della pagina in PowerPoint tra orizzontale e verticale - video aggiornato
+- Animazione, video e audio\Aggiungere o eliminare audio nella presentazione PowerPoint - video aggiornato  
+- Animazione, video e audio\Inserire un video da YouTube o da un altro sito - nuovo video 
+- Testo & tabelle\Aggiungere un collegamento ipertestuale a una diapositiva - video aggiornato
+- Immagini & grafica\Aggiungere un'immagine di sfondo alle diapositive - video aggiornato
+- Present slide shows\Start the presentation and see your notes in Presenter view - updated video
+
+##### <a name="word"></a>Word
+- Layout delle pagine\Cambia orientamento pagina in orizzontale o verticale - nuovo video
+- Inserire tabelle, immagini & filigrane\Mostra il righello - nuovo video
+- Inserire tabelle, immagini & filigrane\Inserire una tabella - video aggiornato
+- Inserire tabelle, immagini & filigrane\Inserisci immagini - video aggiornato
+
+#### <a name="outlook"></a>Outlook
+- Calendario\Benvenuto nel calendario - video aggiornato
+- Calendar\Use calendar categories and reminders - Video aggiornato
+- Calendar\Search for calendar items - Video aggiornato
+- Contatti e attività\Aggiungere un contatto - video aggiornato
+- Contatti e attività\Creare un gruppo di contatti - video aggiornato
+- Contatti e attività\Creare attività e un elenco attività - video aggiornato
+- Contatti e attività\Importare contatti - video aggiornato
+- Contatti e attività\Esportare contatti - video aggiornato
+- Creare e inviare messaggi di posta elettronica\Creare una firma di posta elettronica - video aggiornato
+- Creare e inviare messaggi di posta elettronica\Benvenuto nella posta in arrivo - video aggiornato
+- Creare e inviare messaggi di posta elettronica\Ritirare o sostituire un messaggio di posta elettronica inviato - video aggiornato
+- Configurare e personalizzare\Aggiungere un account Outlook.com o Microsoft 365 - video aggiornato
+- Configurare e personalizzare\Configurare account Gmail - video aggiornato
+- Gestire la posta elettronica\Cercare e filtrare la posta elettronica - video aggiornato
 
 ## <a name="march-2021-content-updates"></a>Aggiornamenti del contenuto di marzo 2021
 Di seguito sono elencati gli aggiornamenti del contenuto per marzo 2021. 
@@ -45,7 +159,7 @@ Per aiutare le organizzazioni a passare a un ambiente di lavoro ibrido, in cui i
 - Ridurre o sostituire riunioni con collaborazione asincrona
 - Collaborare e creare in modalità condivisa contenuto condiviso
 - Procedure consigliate per la collaborazione in Microsoft 365
-- Creare file di Microsoft 365 in modalità condivisa
+- Creazione condivisa Microsoft 365 file
 - Collaborazione e creazione condivisa di documenti
 - Collaborazione con SharePoint, Teams e OneDrive
 - Collaborazione in Teams
@@ -54,8 +168,8 @@ Per aiutare le organizzazioni a passare a un ambiente di lavoro ibrido, in cui i
 
 #### <a name="reach-large-audiences-with-live-events"></a>Raggiungere grandi gruppi di destinatari con eventi live
 - Usare eventi live per raggiungere gruppi di destinatari di grandi dimensioni
-- Introduzione all'uso di Microsoft Teams per eventi live
-- Pianificare un evento live in Teams
+- Introduzione all'uso Microsoft Teams eventi live
+- Pianificare e pianificare un evento live in Teams
 - Organizzare un live even
 
 ### <a name="microsoft-teams"></a>Microsoft Teams
@@ -63,10 +177,10 @@ Microsoft Teams è stato aggiornato con il contenuto seguente.
 
 #### <a name="manage-meetings-playlist"></a>Gestire la playlist delle riunioni
 La playlist Gestisci riunione include il nuovo asset seguente.
-- Suggerimenti per le riunioni di Teams
+- Suggerimenti per Teams riunioni
 
-#### <a name="teams-on-the-go-playlist"></a>Playlist di Teams in movimento
-La playlist di Teams on the go è stata aggiornata con i nuovi asset seguenti.
+#### <a name="teams-on-the-go-playlist"></a>Teams playlist in movimento
+La Teams playlist in movimento è stata aggiornata con i nuovi asset seguenti.
 - Avviare un canale in viaggio
 - Creare un canale in viaggio
 - Gestire le notifiche in viaggio
@@ -79,13 +193,13 @@ La playlist Gestisci pianificazioni team con turni è stata aggiunta con le riso
 - Gestire una pianificazione turni
 - Turni per i lavoratori firstline
 
-#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Attività ed elogi
-La playlist Walkie Talkie, Tasks e Praise è stata aggiunta con le risorse seguenti.
+#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Attività e Complimenti
+La playlist Walkie Talkie, Tasks e Complimenti è stata aggiunta con gli asset seguenti.
 - Walkie-talkie
 - Usare l'app Attività in Teams
 - Attività per i responsabili
 - Attività per i lavoratori firstline
-- Comunicazione e lode
+- Comunicazione e Complimenti
 
 #### <a name="create-approvals"></a>Creare approvazioni
 La playlist Crea approvazione è stata aggiunta con gli asset seguenti.
@@ -99,7 +213,7 @@ Ai percorsi di apprendimento è stata aggiunta una nuova sottocategoria Elenchi 
 #### <a name="get-started-with-lists"></a>Introduzione a Elenchi
 La playlist Introduzione a Elenchi include le nuove risorse seguenti.
 - Creare un elenco dall'app Elenchi
-- Creare un elenco in un canale di Teams
+- Creare un elenco in un Teams canale
 - Aggiungere o modificare voci di elenco
 - Creare o modificare la visualizzazione di un elenco
 - Modificare una visualizzazione elenco
@@ -121,7 +235,7 @@ La playlist Create a form and view results è stata aggiornata con i nuovi asset
 Excel nei percorsi di apprendimento è stato aggiornato con il contenuto seguente.
 
 #### <a name="intro-to-excel"></a>Introduzione a Excel
-La playlist Intro in Excel include il nuovo asset seguente.
+La playlist Intro Excel include il nuovo asset seguente.
 - Creare un elenco a discesa
 
 #### <a name="linked-data-types"></a>Tipi di dati collegati
@@ -136,7 +250,7 @@ Due nuovi asset sono stati aggiunti alla playlist Formule e funzioni.
 - Funzione MATCH
 
 ### <a name="sharepoint"></a>SharePoint
-Tutte le playlist e gli asset di SharePoint sono stati aggiornati. Le playlist aggiornate includono:
+Tutte SharePoint playlist e asset sono stati aggiornati. Le playlist aggiornate includono:
 - SharePoint Online Quick Start
 - Introduzione a SharePoint Online
 - Creare siti, post ed elenchi
@@ -155,31 +269,31 @@ Di seguito sono elencati gli aggiornamenti del contenuto per settembre 2020.
 - Evitare truffe di supporto tecnico
 - Lavorare da casa in modo più sicuro
 - Mantenere aggiornato il PC
-- Mantenere la protezione con la sicurezza di Windows
+- Mantenere la protezione con Windows sicurezza
 
 #### <a name="security-at-home-playlist"></a>Playlist "Sicurezza a casa"
-- Suggerimenti per mantenere i dati al sicuro
+- Suggerimenti per mantenere al sicuro i dati
 - Mantenere il computer sicuro a casa
 - Proteggere la famiglia online con Sicurezza di Windows   
 
 #### <a name="security-at-work-playlist"></a>Playlist "Sicurezza sul lavoro"
 - Proteggere il computer sul luogo di lavoro
 - Che cos'è l'autenticazione a più fattori?
-- Firewall e protezione di rete nella sicurezza di Windows
+- Firewall e protezione di rete in Windows sicurezza
 - Impedisci modifiche alle impostazioni di sicurezza con Protezione anti-manomissione
 
 ### <a name="get-started-with-teams-playlist"></a>Playlist "Introduzione a Teams"
-Una nuova playlist "Introduzione a Teams" è stata aggiunta alla sottocategoria "Introduzione/Primi giorni" per aiutare gli utenti a iniziare a usare Teams. La playlist include:
+Una nuova playlist "Informazioni di base con Teams" è stata aggiunta alla sottocategoria "Informazioni di base/Primi giorni" per consentire agli utenti di iniziare a utilizzare Teams. La playlist include:
 - Benvenuto in Microsoft Teams  
 - Iniziare a utilizzare il team
 - Lavorare nei canali  
-- Caricare e condividere file 
+- Upload e condividere file 
 - Avviare e aggiungere chat  
-- Partecipare a una riunione di Teams 
+- Partecipare a una Teams riunione 
 - Gestire le riunioni 
  
-### <a name="microsoft-365-basics"></a>Nozioni di base su Microsoft 365
-Nella categoria Prodotti, la sottocategoria "Nozioni di base di Office 365" è stata aggiornata alla categoria "Microsoft 365 Basics". Gli asset ritirati nella categoria "Nozioni di base di Office 365" sono ancora disponibili se sono stati aggiunti a una playlist personalizzata.
+### <a name="microsoft-365-basics"></a>Microsoft 365 Nozioni di base
+Nella categoria Prodotti, la sottocategoria "Office 365 di base" è stata aggiornata alla categoria "Microsoft 365 di base". Gli asset ritirati nella categoria "Office 365 base" sono ancora disponibili se sono stati aggiunti a una playlist personalizzata.
 
 #### <a name="get-started-playlist"></a>Playlist "Introduzione"
 - Che cos'è Microsoft 365?
@@ -188,7 +302,7 @@ Nella categoria Prodotti, la sottocategoria "Nozioni di base di Office 365" è s
 
 #### <a name="create-and-save-playlist"></a>Playlist "Crea e salva"
 - Uso delle app desktop
-- Uso Office.com app
+- Uso delle app Office.com
 - Salvare i file nel cloud
 - Sincronizzare i file su richiesta con OneDrive
 
@@ -198,13 +312,13 @@ Nella categoria Prodotti, la sottocategoria "Nozioni di base di Office 365" è s
 - Usare @mentions
 - Follow-up
 
-#### <a name="work-with-microsoft-teams-playlist"></a>Playlist "Utilizzare Microsoft Teams"
+#### <a name="work-with-microsoft-teams-playlist"></a>Playlist "Usare Microsoft Teams"
 - Benvenuto in Microsoft Teams
 - Panoramica su team e canali
 - Creare e formattare un post
 - Avviare e aggiungere chat
 - Effettuare chiamate
-- Partecipare a una riunione di Teams
+- Partecipare a una Teams riunione
 - Suggerimenti per riunioni migliori
 
 #### <a name="get-the-most-out-of-windows-playlist"></a>Playlist "Ottenere il massimo da Windows"
@@ -213,10 +327,10 @@ Nella categoria Prodotti, la sottocategoria "Nozioni di base di Office 365" è s
 - Microsoft Search in Bing
 
 #### <a name="work-from-anywhere-playlist"></a>Playlist "Lavorare da qualsiasi luogo"
-- App OneDrive per dispositivi mobili
-- App Outlook per dispositivi mobili
+- OneDrive app per dispositivi mobili
+- Outlook app per dispositivi mobili
 
-#### <a name="cool-microsoft-365-features-playlist"></a>Playlist "Funzionalità interessanti di Microsoft 365"
+#### <a name="cool-microsoft-365-features-playlist"></a>Playlist "Funzionalità Microsoft 365 interessanti"
 - PowerPoint Designer
 - Idee in Excel
 - Editor in Word
@@ -230,11 +344,11 @@ Alla sottocategoria "Products\Access" è stata aggiunta una playlist "Create a c
 - Creare un grafico a torta
 - Creare un grafico combinato
 
-### <a name="teams-updates"></a>Aggiornamenti di Teams
+### <a name="teams-updates"></a>Teams aggiornamenti
 La sottocategoria "Product\Microsoft Teams" è stata aggiornata con le risorse seguenti. 
 
 #### <a name="manage-meetings-playlist"></a>Playlist "Gestisci riunioni"
-- Partecipare a una riunione di Teams
+- Partecipare a una Teams riunione
 #### <a name="work-with-posts-and-messages-playlist"></a>Playlist "Usare post e messaggi"
 - Creare e formattare un post
 
@@ -242,7 +356,7 @@ La sottocategoria "Product\Microsoft Teams" è stata aggiornata con le risorse s
 Gli asset seguenti sono stati aggiunti alla playlist "Use Planner" in "Products\Planner".
 #### <a name="use-planner-playlist"></a>Usare la playlist di Planner
 - To Do vs Planner
-- Vedere le attività di Planner in To Do
+- Visualizzare le attività di Planner in To Do
 - Usare l'app Attività in Teams
 
 ### <a name="word"></a>Word
@@ -258,7 +372,7 @@ L'asset seguente è stato aggiornato nella playlist "Office per il Web: Word per
 - Trascrivere le registrazioni
 
 ### <a name="powerpoint-new-updated"></a>PowerPoint (nuovo, aggiornato)
-Gli asset seguenti sono stati aggiornati o aggiunti alle playlist Products\PowerPoint. 
+Le risorse seguenti sono state aggiornate o aggiunte alle playlist Products\PowerPoint. 
 
 #### <a name="text--tables-with-powerpoint-playlist"></a>Playlist "Tabelle & testo con PowerPoint"
 - Modificare l'input penna scritto a mano in forme, testo o matematica in PowerPoint (nuovo)
@@ -266,185 +380,8 @@ Gli asset seguenti sono stati aggiornati o aggiunti alle playlist Products\Power
 #### <a name="present-slideshows-playlist"></a>Presentazione presentazione playlist
 - Registrare una presentazione (aggiornata)
 
-### <a name="office-quick-start-guides-updated"></a>Guide introduttive di Office (aggiornate)
-Le guide introduttive di Office per tutti i prodotti Office sono state aggiornate. 
-
-## <a name="april-2020-content-updates"></a>Aggiornamenti del contenuto di aprile 2020
- In risposta agli eventi correnti, l'aggiornamento del contenuto di aprile 2020 fornisce playlist di apprendimento e risorse progettate per consentire il lavoro remoto nell'organizzazione. È stato aggiunto un nuovo set di playlist di Lavoro in remoto e aggiornato il contenuto di Microsoft Teams, in particolare per le riunioni di Teams. È stato inoltre aggiunto un nuovo set di playlist di Office per il Web e sono state aggiunte nuove risorse di Microsoft Forms. È stato inoltre fornito un elenco di risorse di lavoro remoto per gli amministratori.  
- 
- Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates . Di seguito sono elencati gli aggiornamenti del contenuto dei percorsi di apprendimento di Microsoft 365 di aprile 2020. 
-
-### <a name="office-365-was-rebranded-to-microsoft-365"></a>Office 365 è stato rebranded a Microsoft 365
-Office 365 è stato rebranded a Microsoft 365. La modifica del nome si riflette in tutto il contenuto dei percorsi di apprendimento di Microsoft 365. 
-
-### <a name="new-or-updated-playlists"></a>Playlist nuove o aggiornate
-Le playlist seguenti sono state aggiunte o aggiornate.  
-
-#### <a name="work-remotely-2-new-playlists11-new-assets"></a>Lavorare in remoto (2 nuove playlist/11 nuovi asset)
-È stata aggiunta una nuova sottocategoria Lavoro in remoto ai percorsi di apprendimento che include le playlist e gli asset seguenti: 
-
-![playlist di lavoro percorso di apprendimento in remoto](media/cg-contentupdate-apr2020-01.png)
-
-##### <a name="work-remotely-five-new-assets"></a>Lavorare in remoto (cinque nuovi asset)
-- Lavorare in remoto con Office 365
-- Introduzione a Office.com
-- Comunicare o incontrarsi
-- Archiviare i file di lavoro
-- Alternative avanzate
-##### <a name="best-practices-for-collaborating-with-office-365-6-new-assets"></a>Procedure consigliate per collaborare con Office 365 (6 nuovi asset)
-- Per iniziare
-- Condividere
-- Coautore
-- Chat nei file
-- Meet
-- Dispositivi mobili
-
-### <a name="teams-nine-new-assetssix-updated-assets"></a>Teams (nove nuovi asset/sei asset aggiornati)
-Sono stati apportati diversi aggiornamenti al contenuto di Teams. 
-#### <a name="collaborate-in-teams-and-channels-one-newone-updated-asset"></a>Collaborare in team e canali (un asset nuovo/aggiornato)
-- Creare e usare canali privati (nuovo)
-- Mostrare o nascondere i canali (aggiornati)
-#### <a name="start-chats-and-calls-two-newone-updated"></a>Avviare chat e chiamate (due nuove/una aggiornate)
-- Avviare e aggiungere chat (nuovo)
-- Nascondere le chat, eliminare i messaggi (nuovo)
-- Effettuare chiamate (aggiornate)
-#### <a name="explore-apps-and-tools-one-new"></a>Esplorare app e strumenti (una novità)
-- Usare le app (nuove)
-#### <a name="work-with-posts-and-messages"></a>Usare post e messaggi
-- Pubblicare un messaggio su più canali (nuovo)
-#### <a name="manage-meetings-three-newfour-updated-assets"></a>Gestire le riunioni (tre asset nuovi/quattro aggiornati)
-- Partecipare a una riunione di Teams (nuovo)
-- Creare riunioni istantanee con Riunione immediata (aggiornato)
-- Meet in a channel (new)
-- Gestire le riunioni (nuove)
-- Visualizzare lo schermo durante una riunione (aggiornato)
-- Mostra diapositive di PowerPoint (aggiornate)
-- Spostarsi durante una riunione di Teams (aggiornato)
-#### <a name="work-with-post-and-messages-one-new"></a>Usare post e messaggi (uno nuovo)
-- Pubblicare un messaggio su più canali (nuovo)
-
-### <a name="office-for-the-web"></a>Office per il web
-Office per il Web offre un set di playlist per gli scenari in cui gli utenti desiderano creare, condividere e collaborare con Office sul Web. Questo set di contenuti è utile anche per le organizzazioni che stanno passando da Google G Suite a Microsoft 365.
-#### <a name="get-started-five-new-assets"></a>Introduzione (cinque nuovi asset)
-- Per iniziare
-- Trovalo con la ricerca
-- Creare nuovi documenti
-- Tornare al lavoro
-- File consigliati
-#### <a name="outlook-for-the-web"></a>Outlook per il Web
-- Informazioni su Outlook per il Web
-- Creare una risposta a un messaggio di posta elettronica
-- Organizzare la posta in arrivo
-- Creare una firma e una risposta automatica
-- Pianificare un appuntamento o una riunione
-- Creare una modifica di un contatto
-- Cercare messaggi di posta elettronica, contatti ed eventi
-#### <a name="word-for-the-web"></a>Word per il Web
-- Informazioni su Word per il Web
-- Modificare il layout del documento
-- Inserire tabelle e immagini
-- Collaborare online
-- Elementi interessanti in Word per il Web
-#### <a name="excel-for-the-web"></a>Excel per il Web
-- Informazioni su Excel per il Web
-- Creare formule
-- Inserire una tabella pivot
-- Ottenere informazioni dettagliate con le idee
-- Collaborare
-- Risparmiare tempo con Anteprima flash
-- Disegnare un'immagine con formattazione condizionale
-#### <a name="powerpoint-for-the-web"></a>PowerPoint per il Web
-- Informazioni su PowerPoint per il Web
-- Inserire immagini, forme e altro ancora
-- Animazioni e transizioni
-- Creare una presentazione con altri utenti
-- Quando si è pronti per la presentazione
-- Progettazione di diapositive
-#### <a name="share-your-documents"></a>Condividere i documenti
-- Condividere i documenti
-- Creare un collegamento condivisibile
-- Proteggere i documenti solo a persone specifiche
-- Condividere con un utente esterno all'organizzazione 
-
-### <a name="microsoft-forms"></a>Microsoft Forms 
-Su richiesta, sono disponibili anche alcune nuove risorse forms. 
-#### <a name="forms-four-new-assets"></a>Moduli (quattro nuovi asset) 
-- Creare un modulo 
-- Condividere un modulo 
-- Visualizzare i risultati di un modulo 
-- Domande frequenti su Microsoft Forms 
-
-### <a name="resources-for-supporting-your-remote-workforce"></a>Risorse per il supporto della forza lavoro remota
-Puoi usare percorsi di apprendimento per creare una pagina di destinazione nel sito dei percorsi di apprendimento per supportare i lavoratori remoti. In alternativa, è possibile aggiungere la web part percorsi di apprendimento a una pagina di supporto esistente nel sito dei percorsi di apprendimento e filtrare la web part per visualizzare le playlist Di lavoro in remoto. Ecco un elenco di alcune delle principali risorse di Microsoft per il supporto del lavoro remoto nell'organizzazione. 
-- [Come implementare Microsoft Teams](/microsoftteams/how-to-roll-out-teams)
-- [Riunioni e conferenze in Microsoft Teams](/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-- [Supportare i lavoratori remoti con Microsoft Teams](/microsoftteams/support-remote-work-with-teams)
-- [Domande frequenti: Supporto del personale remoto](/microsoftteams/faq-support-remote-workforce)
-- [I primi 9 modi in cui Microsoft IT abilita il lavoro remoto per i dipendenti](https://www.microsoft.com/microsoft-365/blog/2020/03/12/top-9-ways-microsoft-it-enabling-remote-work-employees/)
-- [Formazione su Microsoft Teams](/microsoftteams/training-microsoft-teams-landing-page)
-- [Education: Microsoft Education Center](https://education.microsoft.com) 
-- [Formazione: Introduzione all'apprendimento remoto](https://education.microsoft.com/resource/4c0c02c0)
+### <a name="office-quick-start-guides-updated"></a>Office Guide introduttive (aggiornate)
+Le Office guida introduttiva per tutti i Office sono state aggiornate. 
 
 Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Personalizzare i percorsi di apprendimento.](custom_overview.md) 
 
-## <a name="november-2019-content-updates"></a>Aggiornamenti del contenuto di novembre 2019
-Benvenuti nell'aggiornamento del contenuto dei percorsi di apprendimento di Microsoft 365. A partire dall'aggiornamento di novembre 2019, verrà fornito un inventario aggiornato del catalogo dei percorsi di apprendimento su base trimestrale. Per l'aggiornamento di novembre 2019, le nuove sottocategorie e playlist di contenuto seguenti sono state aggiunte al catalogo dei percorsi di apprendimento. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates .    
-
-### <a name="teams"></a>Teams
-Alla sottocategoria Teams sono state aggiunte diverse nuove playlist.
-- Usare post e messaggi (quattro asset)
-- Caricare e trovare file (due asset)
-- Configurare e partecipare a eventi live (quattro risorse)
-- Gestire il feed attività (due asset)
-- Teams in viaggio (due asset)
-
-### <a name="microsoft-365-success-center"></a>Microsoft 365 Success Center
-È stata aggiunta una sottocategoria dei percorsi di apprendimento di Microsoft 365 Success Center all'esperienza dei percorsi di apprendimento. Il Success Center fornisce le playlist seguenti.
-- Novità, modifiche (tre asset)
-- Pianificare il contenuto di apprendimento (due risorse)
-- Personalizzare i percorsi di apprendimento (otto risorse?)
-- Guidare l'adozione di percorsi di apprendimento (una risorsa)
-- Misurare l'impatto dei percorsi di apprendimento (una risorsa)
-
-### <a name="outlook"></a>Outlook
-Le playlist seguenti sono state aggiunte alla sottocategoria di Outlook. 
-- Outlook mobile: gestire la posta in arrivo (otto risorse)
-- Outlook mobile: utenti e connessioni (cinque risorse)
-- Outlook mobile: ricerca e condivisione (quattro asset)
-
-### <a name="onedrive"></a>OneDrive
-Le risorse video seguenti sono state aggiunte per OneDrive. 
-- La configurazione dell'iPhone o dell'iPad è stata aggiunta alla playlist Intro to OneDrive
-- Attivare Backup di OneDrive è stato aggiunto alla playlist Gestisci i file con OneDrive
-
-### <a name="planner"></a>Planner
-Le playlist e gli asset seguenti sono stati aggiunti al catalogo.  
-- Guida introduttiva di Planner (sei risorse)
-- Usare Planner (otto risorse)
-
-### <a name="accessibility"></a>Accessibilità
-La sottocategoria Accessibilità del contenuto è stata aggiunta con le playlist seguenti. 
-- Panoramica e risorse sull'accessibilità di Microsoft 365 (tre risorse)
-- Creare messaggi di posta elettronica più accessibili in Outlook (tre risorse)
-- Creare documenti di Word più accessibili (otto risorse)
-- Creare cartelle di lavoro di Excel più accessibili (tre risorse)
-- Creare diapositive più accessibili in PowerPoint (cinque risorse)
-
-### <a name="sway"></a>Sway
-La sottocategoria Sway del contenuto è stata aggiunta con le playlist seguenti. 
-- Guida introduttiva di Sway (quattro asset)
-- Condividere e accedere a Sway (cinque asset)
-- Aggiungere contenuto a Sway (11 asset)
-- Personalizzare Sway (cinque asset)
-
-### <a name="access"></a>Accesso
-- Guida introduttiva di Access (quattro risorse)
-- Introduzione ad Access (tre risorse)
-- Creare un database di Access (due asset)
-- Aggiungere tabelle (due asset)
-- Usare le relazioni (cinque risorse)
-- Aggiungere e modificare dati (due asset)
-- Gestire i dati con query (cinque asset)
-- Creare moduli (una risorsa)
-- Creare report (due risorse)
-- Proteggere i database (un asset)
