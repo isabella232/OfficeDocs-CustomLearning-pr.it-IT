@@ -1,28 +1,28 @@
 ---
-title: Procedure consigliate per il programma Champion - Guida all'adozione da parte dell'utente finale di Microsoft 365
-description: Guidare l'adozione di Office 365 con le procedure consigliate per il programma Champion e la Guida all'adozione degli utenti finali di Microsoft 365.
+title: Procedure consigliate per il programma Champion - Guida Microsoft 365'adozione da parte dell'utente finale
+description: Guidare l'adozione di Office 365 con le procedure consigliate nel programma Champion
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 6e62361e9aa4328e06844747f1bbbcab5cca1596
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: 8553c5c97c42d8709f8da87efed8bb4ec2fc418a
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334600"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460914"
 ---
-# <a name="microsoft-365-end-user-adoption-guide"></a>Guida all'adozione degli utenti finali di Microsoft 365
+# <a name="microsoft-365-end-user-adoption-guide"></a>Microsoft 365 Guida all'adozione da parte dell'utente finale
 
-![Guida all'adozione di Microsoft 365](media/m365euguide.png)
+![Microsoft 365 Guida all'adozione](media/m365euguide.png)
 
-Per ulteriori informazioni su questo argomento, utilizzare la Guida all'adozione degli utenti finali di [Microsoft 365.](https://aka.ms/adoptionguide) Questa guida illustra i passaggi per guidare l'adozione da parte degli utenti finali nelle aree chiave seguenti:
+Per ulteriori informazioni su questo argomento, usa la Guida [all'adozione Microsoft 365'utente finale](https://aka.ms/adoptionguide). Questa guida illustra i passaggi per guidare l'adozione da parte degli utenti finali nelle aree chiave seguenti:
 
 - Stakeholder
 - Scenari
-- Informazioni sulla presenza
+- Consapevolezza
 - Formazione 
 - Pianificare, implementare e gestire Le modifiche
 - 

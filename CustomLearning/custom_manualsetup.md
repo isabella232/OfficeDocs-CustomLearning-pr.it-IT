@@ -1,20 +1,20 @@
 ---
 author: pkrebs
 ms.author: pkrebs
-title: Configurazione manuale dei percorsi di apprendimento
+title: Learning percorsi manuali
 ms.date: 07/06/2020
 description: Microsoft 365 percorsi di apprendimento manuali
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 05df35787399cfb2445fa3ea4193e7f7f64848c5
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 7c6fc47336d354304164cebd95768a4bf97ee60f
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310440"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460964"
 ---
-# <a name="learning-pathways-manual-setup"></a>Configurazione manuale dei percorsi di apprendimento
+# <a name="learning-pathways-manual-setup"></a>Learning percorsi manuali
 
 Microsoft 365 percorsi di apprendimento offre una configurazione manuale per le organizzazioni che necessitano del supporto per uno degli scenari seguenti: 
 
@@ -30,24 +30,24 @@ Microsoft 365 percorsi di apprendimento offre una configurazione manuale per le 
 - Giapponese (Giappone)
 - Portoghese (Brasile)
 - Russo (russo)
-- Spagnolo
+- Spanish
 
-La configurazione manuale dei percorsi di apprendimento richiede l'esperienza di Windows PowerShell e SharePoint Online Management Shell. Ecco una panoramica dei passaggi per la configurazione manuale dei percorsi di apprendimento: 
+La configurazione manuale dei percorsi di apprendimento richiede esperienza di Windows PowerShell e SharePoint Online Management Shell. Ecco una panoramica dei passaggi per la configurazione manuale dei percorsi di apprendimento: 
 
 - Verificare di aver soddisfatto tutti i prerequisiti.
 - Controllare le impostazioni di lingua predefinite per il sito. Se OK, continuare con l'installazione manuale. Se è necessaria un'impostazione di lingua predefinita diversa, è necessario creare un nuovo sito. 
 - Installare il file customlearning.sppkg nel Catalogo app tenant SharePoint tenant.
-- Effettuare il provisioning/identificare un sito di comunicazione moderno in modo che agi Microsoft 365 sito principale dei percorsi di apprendimento.
+- Effettuare il provisioning/identificare un sito di comunicazione moderno che agirà Microsoft 365 sito principale dei percorsi di apprendimento.
 - Eseguire uno script di PowerShell che configurerà il tenant con gli artefatti da cui dipendono i percorsi di apprendimento.
 - Passare alla pagina del sito CustomLearningAdmin.aspx per caricare la web part di amministrazione per inizializzare la configurazione del contenuto personalizzato.
 
 ## <a name="prerequisites"></a>Prerequisiti
 Per garantire una corretta configurazione manuale della web part percorsi di apprendimento, è necessario che siano soddisfatti i prerequisiti seguenti. 
 
-- È necessario aver configurato e configurato il Catalogo app a livello di tenant. Vedere [Set up your Office 365 tenant](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) and follow the "Create App Catalog" site section. 
+- È necessario aver configurato e configurato il Catalogo app a livello di tenant. Vedere [Configurare il tenant Office 365 e](/sharepoint/dev/spfx/set-up-your-developer-tenant#create-app-catalog-site) seguire la sezione "Creare il catalogo app". 
 - Se il provisioning del Catalogo app a livello di tenant è già stato eseguito, è necessario accedere a un account che dispone dei diritti per caricare un pacchetto. In genere questo account ha un SharePoint amministratore. 
-- Se un account con tale ruolo non funziona, passare all'interfaccia di amministrazione di SharePoint e individuare gli amministratori della raccolta siti del Catalogo app e accedere come uno degli amministratori della raccolta siti oppure aggiungere l'account di amministratore di SharePoint che non è riuscito agli amministratori della raccolta siti. 
-- È inoltre necessario accedere a un account che sia un amministratore tenant SharePoint tenant.
+- Se un account con tale ruolo non funziona, passare all'interfaccia di amministrazione di SharePoint e individuare gli amministratori della raccolta siti del Catalogo app e accedere come uno degli amministratori della raccolta siti oppure aggiungere l'account di amministratore di SharePoint che non è riuscito ad Amministratori raccolta siti. 
+- Sarà inoltre necessario accedere a un account che sia un SharePoint Tenant Admin.
 
 ## <a name="step-1---check-your-language-settings"></a>Passaggio 1 - Controllare le impostazioni della lingua
 Come primo passaggio del processo di installazione manuale, controllare le impostazioni della lingua del sito. Ecco le opzioni possibili:
@@ -57,23 +57,23 @@ Se non si desidera il supporto multilingue per il sito, verificare che sia disat
 1.  Nel sito SharePoint comunicazioni selezionare **Impostazioni** Informazioni sito  >    >  **Visualizza tutte le impostazioni del sito** Impostazioni  >  **lingua.** 
 2.  Impostare **l'opzione Abilita la traduzione di pagine** e notizie in più lingue su **Disattivato.**
 3.  Fare clic su **Salva**. 
-4.  Andare al passaggio 2.
+4.  Continuare con il passaggio 2.
 
 ## <a name="option-2---you-want-multilingual-support-and-youre-ok-with-the-default-language"></a>Opzione 2 - Si desidera il supporto multilingue e si sta bene con la lingua predefinita
 Un SharePoint di comunicazione ha una lingua predefinita. La lingua predefinita determina la lingua in cui si visualizzano i percorsi di apprendimento, inclusa la pagina Di amministrazione dei percorsi di apprendimento. L'impostazione predefinita della lingua viene impostata quando il sito viene creato per la prima volta e non può essere modificato in seguito. Prima di continuare con la configurazione manuale, assicurati di avere la lingua predefinita del sito di destinazione.
 
 1.  Nel sito SharePoint comunicazioni selezionare **Impostazioni** Informazioni sito  >    >  **Visualizza tutte le impostazioni del sito** Impostazioni  >  **lingua.** 
 2.  Impostare **l'opzione Abilita la traduzione** di pagine e notizie in più lingue su **Attivato.**
-    - Se si sta bene con la lingua visualizzata all'inizio dell'elenco in **Lingua**, è possibile aggiungere altre lingue e quindi fare clic su **Salva**. Andare al passaggio 2.
-    - Se si desidera una lingua predefinita diversa da quella selezionata per il sito, sarà necessario creare un nuovo sito di SharePoint Communication con la lingua desiderata. Passare all'opzione 3. 
+    - Se si sta bene con la lingua visualizzata all'inizio dell'elenco in **Lingua**, è possibile aggiungere altre lingue e quindi fare clic su **Salva**. Continuare con il passaggio 2.
+    - Se si desidera una lingua predefinita diversa da quella selezionata per il sito, è necessario creare un nuovo sito di comunicazione SharePoint con la lingua desiderata. Passare all'opzione 3. 
 
 ## <a name="option-3---you-want-multilingual-support-but-want-a-different-default-language-for-the-site"></a>Opzione #3 - Si desidera il supporto multilingue ma si desidera una lingua predefinita diversa per il sito
-Con questa opzione, si crea un nuovo sito di comunicazione SharePoint Online con la lingua predefinita desiderata e quindi si impostano le impostazioni della lingua per il sito. 
+Con questa opzione, si crea un nuovo SharePoint di comunicazione online con la lingua predefinita desiderata e quindi si impostano le impostazioni della lingua per il sito. 
 1.  Per creare un nuovo sito SharePoint comunicazione, vedere [Create a communication site in SharePoint Online](https://support.microsoft.com/office/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb). Quando crei il sito, assicurati di impostare la lingua predefinita per i percorsi di apprendimento. 
-2. Dal sito creato, selezionare Impostazioni  >  **Informazioni sito** Visualizza tutte le impostazioni del  >  **sito**  >  **Impostazioni lingua.** 
+2. Dal sito creato, selezionare Impostazioni Informazioni sito Visualizza tutte le impostazioni  >    >  **del sito**  >  **Impostazioni lingua.** 
 2.  Impostare **l'opzione Abilita la traduzione** di pagine e notizie in più lingue su **Attivato.**
 3. Aggiungere altre lingue, se necessario, e quindi fare clic su **Salva.** 
-4. Andare al passaggio 2. 
+4. Continuare con il passaggio 2. 
 
 >! [Nota] Se è necessario eseguire la migrazione di contenuto personalizzato da un sito a un sito appena creato, vedere la sezione "Eseguire la migrazione del contenuto personalizzato" più avanti in questo documento. 
 
@@ -81,23 +81,23 @@ Con questa opzione, si crea un nuovo sito di comunicazione SharePoint Online con
 Come parte del processo di installazione, è necessario il pacchetto web part Microsoft 365 percorsi di apprendimento e lo script di installazione di PowerShell.
 
 - Passare ai [percorsi di apprendimento GitHub Repository](https://github.com/pnp/custom-learning-office-365).
-- Fare **clic su** Scarica per salvare il pacchetto web part e lo script in un'unità locale. Nei passaggi successivi di questo processo verrà utilizzato lo script e il pacchetto della web part.
+- Fare **clic su** Download per salvare il pacchetto web part e lo script in un'unità locale. Nei passaggi successivi di questo processo verrà utilizzato lo script e il pacchetto della web part.
 
 ## <a name="step-2---upload-the-web-part-to-the-tenant-app-catalog"></a>Passaggio 2 : Upload la web part nel Catalogo app tenant
-Per configurare Microsoft 365 percorsi di apprendimento, devi caricare il file customlearning.sppkg nel Catalogo app a livello di tenant e distribuirlo. Vedi [Usare il Catalogo app](/sharepoint/use-app-catalog) per rendere disponibili app aziendali personalizzate per l'ambiente SharePoint Online per istruzioni dettagliate su come aggiungere un'app al Catalogo app.
+Per configurare Microsoft 365 percorsi di apprendimento, caricare il file customlearning.sppkg nel Catalogo app a livello di tenant e distribuirlo. Vedi [Usare il Catalogo app](/sharepoint/use-app-catalog) per rendere disponibili app aziendali personalizzate per l'ambiente SharePoint Online per istruzioni dettagliate su come aggiungere un'app al Catalogo app.
 
 ## <a name="step-3---provisionidentify-a-modern-communication-site"></a>Passaggio 3 - Provisioning/identificazione di un sito di comunicazione moderno
 Identificare un sito di SharePoint esistente o eseguirne il provisioning nel tenant di SharePoint Online. Per ulteriori informazioni su come effettuare il provisioning di un sito di comunicazione, vedere [Create a communication site in SharePoint Online](https://support.office.com/article/create-a-communication-site-in-sharepoint-online-7fb44b20-a72f-4d2c-9173-fc8f59ba50eb) e seguire la procedura per creare un sito di comunicazione.
 
 ## <a name="step-4---add-the-microsoft-365-learning-pathways-app-to-the-site"></a>Passaggio 4 - Aggiungere l'app Microsoft 365 percorsi di apprendimento al sito
 
-1. Nel sito SharePoint, fare clic sul menu Sistema, quindi **su Aggiungi un'app.** 
+1. Dal sito SharePoint, fai clic sul menu Sistema, quindi fai clic **su Aggiungi un'app.** 
 2. In **App fare** clic su **Dall'organizzazione** e quindi su Percorsi di apprendimento **per Office 365**. 
 
 ## <a name="step-5---set-permissions-for-the-site"></a>Passaggio 5 - Impostare le autorizzazioni per il sito
 Verificare che per il sito siano impostate le autorizzazioni seguenti:
 - **Amministratore raccolta siti o parte del** gruppo Proprietari - Autorizzazioni necessarie per inizializzare la voce di elenco CustomConfig che configura i percorsi di apprendimento per il primo utilizzo. 
-- **Gruppo membri** - Autorizzazioni necessarie per amministrare percorsi di apprendimento, tra cui nascondere e visualizzare contenuto e amministrare playlist personalizzate
+- **Gruppo Membri** - Autorizzazioni necessarie per amministrare i percorsi di apprendimento, tra cui nascondere e visualizzare il contenuto e amministrare playlist personalizzate
 - **Gruppo Visitatori** - Autorizzazioni necessarie per visualizzare il contenuto del sito. 
 
 ## <a name="step-6--execute-powershell-configuration-script"></a>Passaggio 6- Eseguire lo script di configurazione di PowerShell
@@ -112,11 +112,11 @@ Parte di questa soluzione include il consenso esplicito per il rilevamento della
 
 ## <a name="validate-provisioning-success-and-initialize-the-customconfig-list"></a>Convalidare il provisioning con esito positivo e inizializzare l'elenco CustomConfig
 
-Dopo aver eseguito correttamente lo script di PowerShell, passare al sito, inizializzare la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo e verificare che il sito funzioni.
+Dopo la corretta esecuzione dello script di PowerShell, passare al sito, inizializzare la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo e verificare che il sito funzioni.
 
-- Passare a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
+- Vai a `<YOUR-SITE-COLLECTION-URL>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
-![Pagina di configurazione di esempio.](media/cg-adminapppage.png)
+![Pagina dell'app amministratore](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Aggiungere proprietari al sito
 In quanto amministratore tenant, è improbabile che tu sia la persona che personalizza il sito, quindi dovrai assegnare alcuni proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rebrand il sito. Hanno anche la possibilità di nascondere e mostrare il contenuto fornito tramite la web part percorsi di apprendimento. Inoltre, hanno la possibilità di creare playlist personalizzate e assegnarle a sottocategorie personalizzate.  

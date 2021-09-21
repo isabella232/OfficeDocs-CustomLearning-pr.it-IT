@@ -8,22 +8,22 @@ ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: baa46deda7d7e10f3a7655fc6da076d37607e29f
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 87130512dafe55ddd7dd0ac4f0667efb2108f360
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "52000292"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460924"
 ---
 # <a name="translate-site-pages"></a>Tradurre pagine del sito
 Prima di iniziare a tradurre il sito dei percorsi di apprendimento, è importante comprendere alcuni concetti chiave del funzionamento della funzionalità multilingue con i percorsi di apprendimento. 
-- Informazioni sul sito- Le traduzioni di spostamento, logo e nome del sito richiedono che il sito sia visualizzato e tradotto nel profilo della lingua dell'utente.  
+- Informazioni sul sito - Le traduzioni di spostamento, logo e nome del sito richiedono che il sito sia visualizzato e tradotto nel profilo della lingua dell'utente.  
 - La web part Percorsi di apprendimento deve essere visualizzata con il profilo della lingua dell'utente perché venga visualizzata in una lingua diversa dall'inglese. La web part e il contenuto fornito da Microsoft sono già stati tradotti automaticamente. Per ulteriori informazioni sui profili delle lingue, vedere [Modificare la lingua personale e le impostazioni internazionali.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7)
-- La modalità di configurazione dei percorsi di apprendimento determina se sono disponibili pagine tradotte. I nuovi siti di cui è stato eseguito il provisioning con il servizio look book di Microsoft 365 avranno pagine tradotte in nove lingue disponibili. I siti o i siti aggiornati creati richiederanno la traduzione manuale. Vedi [Opzioni di installazione per percorsi di apprendimento multilingue.](custom_setupoptions_ml.md)
-- Il supporto multilingue per i percorsi di apprendimento è abilitato dalle funzionalità multilingue di SharePoint Online per i siti di comunicazione. Per informazioni sulle funzionalità multilingue di SharePoint Online, vedere [Create multilingual communication sites, pages, and news.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c) 
+- Il modo in cui si configurano i percorsi di apprendimento determina se sono disponibili pagine tradotte. I nuovi siti di cui è stato eseguito il provisioning Microsoft 365 servizio look book avranno pagine tradotte in nove lingue disponibili. I siti o i siti aggiornati creati richiederanno la traduzione manuale. Vedi [Opzioni di installazione per percorsi di apprendimento multilingue.](custom_setupoptions_ml.md)
+- Il supporto multilingue per i percorsi di apprendimento è abilitato SharePoint funzionalità multilingue online per i siti di comunicazione. Per informazioni sulle SharePoint multilingue online, vedere [Create multilingual communication sites, pages, and news.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c) 
 
 ## <a name="working-with-a-newly-provisioned-site"></a>Utilizzo di un nuovo sito di cui è stato eseguito il provisioning
-Se è stato effettuato il provisioning di un nuovo sito di percorsi di apprendimento dal servizio look book di Microsoft 365, le pagine tradotte sono già disponibili. Per impostazione predefinita, il sito fornisce le pagine seguenti:
+Se è stato eseguito il provisioning di un nuovo sito di percorsi di apprendimento dal servizio Microsoft 365 look book, le pagine tradotte sono già disponibili. Per impostazione predefinita, il sito fornisce le pagine seguenti:
 
 - Home.aspx
 - Start-with-Six-Simple-Steps.aspx
@@ -35,7 +35,7 @@ Se è stato effettuato il provisioning di un nuovo sito di percorsi di apprendim
 - Eventi di formazione calendar.aspx
 - Become-a-Champion.aspx
 - Recommended-Playlists.aspx
-- Percorsi di apprendimento Admin Success Center
+- Learning percorsi admin success center
 
 ## <a name="view-translated-pages-from-the-newly-provisioned-site"></a>Visualizzare le pagine tradotte dal nuovo sito di cui è stato eseguito il provisioning
 Per acquisire familiarità con il sito dei percorsi di apprendimento tradotti, diamo un'occhiata ad alcune pagine tradotte.
@@ -43,18 +43,18 @@ Per acquisire familiarità con il sito dei percorsi di apprendimento tradotti, d
 ### <a name="view-the-translated-home-page"></a>Visualizzare la home page tradotta
 Nella home page dei percorsi di apprendimento seleziona una lingua nell'elenco a discesa della lingua, come illustrato nell'esempio seguente. Nell'esempio viene visualizzato l'italiano selezionato nell'angolo superiore destro e tutti gli elementi della pagina vengono convertiti.
 
-![Foto percorsi di apprendimento in uso](media/custom_ml_pages_home.png)
+![custom_ml home page](media/custom_ml_pages_home.png)
 
-### <a name="view-the-translated-microsoft-365-training-page"></a>Visualizzare la pagina di formazione tradotta di Microsoft 365
-Esamini ora la pagina di formazione di Microsoft 365. 
+### <a name="view-the-translated-microsoft-365-training-page"></a>Visualizzare la pagina di Microsoft 365 traduzione
+Esamini ora la pagina di Microsoft 365 formazione. 
 
-1. Nella home page del sito percorsi **di** apprendimento fare clic su Formazione su **Microsoft 365.**
+1. Nella home page del sito percorsi **di** apprendimento fare clic su **Microsoft 365 formazione.**
 2. Nell'angolo superiore destro della pagina selezionare una lingua. In questo esempio viene selezionato italiano.
 
-![Pagina percorsi di apprendimento di esempio per l'italiano.](media/custom_ml_pages_training.png)
+![custom_ml_ formazione](media/custom_ml_pages_training.png)
 
 Quali traduzioni sono visibili quando si seleziona la lingua?
-- La pagina di SharePoint viene tradotta come illustrato nell'immagine precedente. Si noti che il testo per il banner della pagina è ora in italiano.
+- La SharePoint viene tradotta come illustrato nell'immagine precedente. Si noti che il testo per il banner della pagina è ora in italiano.
 
 Che cos'è che le traduzioni non sono visibili?
 - Il nome del sito è in inglese
@@ -65,7 +65,7 @@ Che cos'è che le traduzioni non sono visibili?
 Per visualizzare un sito completamente tradotto in una lingua specifica, incluse le pagine del sito, la struttura di spostamento e la web part, è necessario impostare la lingua personale e le impostazioni internazionali dell'utente per tale lingua. Per ulteriori informazioni sull'impostazione delle impostazioni internazionali e della lingua, vedere Modificare la lingua [personale e le impostazioni internazionali.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7) È consigliabile usare un account separato o fare in modo che un altro utente con le diverse impostazioni della lingua visualizza le pagine tradotte.  
 
 ## <a name="working-with-an-updated-or-manually-installed-learning-pathways-site"></a>Utilizzo di un sito di percorsi di apprendimento aggiornato o installato manualmente
-Se è stato aggiornato un sito percorsi di apprendimento esistente o la web part è stata installata manualmente in un sito esistente, sarà necessario tradurre manualmente le pagine del sito. La web part percorsi di apprendimento e il contenuto sono già tradotti e verranno visualizzati nella lingua preferita dell'utente. Per tradurre le pagine, vedere le istruzioni seguenti "Creare pagine per le lingue desiderate". 
+Se è stato aggiornato un sito Learning percorsi esistenti o la web part è stata installata manualmente in un sito esistente, sarà necessario tradurre manualmente le pagine del sito. La web part percorsi di apprendimento e il contenuto sono già tradotti e verranno visualizzati nella lingua preferita dell'utente. Per tradurre le pagine, vedere le istruzioni seguenti "Creare pagine per le lingue desiderate". 
 
 ## <a name="create-pages-for-the-languages-you-want"></a>Creare pagine per le lingue desiderate
 Dopo aver abilitato il sito per le caratteristiche multilingue e aver scelto le lingue che si desidera rendere disponibili, è possibile creare le pagine di traduzione desiderate. 
@@ -114,5 +114,5 @@ Dopo la configurazione del sito in inglese, un utente con lo spagnolo come lingu
 Per visualizzare un sito completamente tradotto in una lingua specifica, incluse le pagine del sito, la struttura di spostamento e la web part, è necessario impostare la lingua personale e le impostazioni internazionali dell'utente per tale lingua. Per ulteriori informazioni sull'impostazione delle impostazioni internazionali e della lingua, vedere Modificare la lingua [personale e le impostazioni internazionali.](https://support.microsoft.com/office/change-your-personal-language-and-region-settings-caa1fccc-bcdb-42f3-9e5b-45957647ffd7) È consigliabile usare un account separato o fare in modo che un altro utente con le diverse impostazioni della lingua visualizza le pagine tradotte.
 
 ## <a name="for-more-information"></a>Ulteriori informazioni
-- Per ulteriori informazioni sulla traduzione delle pagine del sito di comunicazione di SharePoint, vedere [Create multilingual communication sites, pages, and news.](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c)
-- Per ulteriori informazioni sulla personalizzazione dei percorsi di apprendimento, vedere [Customize Learning Pathways.](custom_overview.md)  
+- Per ulteriori informazioni sulla traduzione SharePoint pagine del sito di comunicazione, vedere [Create multilingual communication sites, pages, and news](https://support.office.com/article/2bb7d610-5453-41c6-a0e8-6f40b3ed750c).
+- Per ulteriori informazioni sulla personalizzazione dei percorsi di apprendimento, vedere [Customize Learning Pathways](custom_overview.md).  

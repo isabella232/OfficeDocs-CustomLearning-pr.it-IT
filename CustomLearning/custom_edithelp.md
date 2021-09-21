@@ -3,27 +3,27 @@ author: pkrebs
 ms.author: pkrebs
 title: Personalizzare il sito dei percorsi di apprendimento
 ms.date: 02/15/2019
-description: Informazioni sulla varietà di personalizzazioni disponibili con i Microsoft 365 di apprendimento
+description: Informazioni sulle varie personalizzazioni disponibili con i Microsoft 365 di apprendimento
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: b892605f5200983c74132f73fe48e2746d2e6b08
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: a9d95faa6eb0cd3f7bf002d707aba1e83b9a7656
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310630"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461094"
 ---
-# <a name="customize-the-site"></a>Personalizzare il sito
+# <a name="customize-the-learning-pathways-site"></a>Personalizzare il sito dei percorsi di apprendimento
 
-Il sito Microsoft 365 percorsi di apprendimento è basato su un modello di comunicazione SharePoint, quindi è facile modificare il sito per soddisfare le esigenze dell'organizzazione. È possibile modificare il nome del sito, il logo, le voci di menu e il contenuto delle pagine. 
+Il Microsoft 365 percorsi di apprendimento è basato su un modello di comunicazione SharePoint, quindi è facile modificare il sito per soddisfare le esigenze dell'organizzazione. È possibile modificare il nome del sito, il logo, le voci di menu e il contenuto delle pagine. 
 
 > [!TIP]
 > Raccogliere commenti e suggerimenti dai dipendenti e aggiornare periodicamente il sito. Ad esempio, è possibile aggiornare il calendario degli eventi di formazione non appena diventano disponibili nuovi eventi. Quando avvii nuovi servizi, puoi scoprire il contenuto e creare playlist di formazione mirate progettate per l'avvio dei nuovi servizi. 
 
 ## <a name="customize-the-site-and-web-pages"></a>Personalizzare il sito e le pagine Web
 
-Il sito dei percorsi di apprendimento è completamente personalizzabile. Se non si ha familiarità con la personalizzazione del sito o delle pagine Web di SharePoint, è consigliabile leggere l'articolo [Personalizzare](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) il sito di SharePoint in support.office.com. 
+Il sito dei percorsi di apprendimento è completamente personalizzabile. Se non si ha familiarità con la personalizzazione del sito o delle pagine Web di SharePoint, è consigliabile consultare l'articolo [Personalizzare](https://support.office.com/article/customize-your-sharepoint-site-320b43e5-b047-4fda-8381-f61e8ac7f59b) il sito di SharePoint in support.office.com. 
 
 ### <a name="customize-ask-questions-and-get-help"></a>Personalizzare Porre domande e ottenere assistenza
 
@@ -33,7 +33,7 @@ In quanto amministratore del sito dei percorsi di apprendimento, una delle opera
 2.  Fare clic sul pulsante **Modifica**.
 3.  Posizionare il puntatore del mouse sull'immagine di un'opzione della Guida, quindi **fare clic su Modifica web part.**
 
-![cg-edithelp.png](media/cg-edithelp.png)
+![Modificare il contenuto della Guida](media/cg-edithelp.png)
 
 4.  Nella casella **Collegamento** immettere l'URL della risorsa interna. 
 5.  Ripetere i passaggi 3 e 4 per le altre due immagini non collegate.

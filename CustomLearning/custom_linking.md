@@ -7,12 +7,12 @@ description: Come collegare le risorse Microsoft 365 percorsi di apprendimento
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 8dc08f92ab833f9754cb044796f4ed11274f811e
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 3669037e614657f6c7fc147ed033d557aeed6fb2
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310550"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460974"
 ---
 # <a name="link-to-learning-pathways-content"></a>Creare un collegamento ai contenuti dei percorsi di apprendimento
 
@@ -29,24 +29,24 @@ Se sono state create nuove pagine ed esperienze di apprendimento con la web part
 2. Fare **clic su Modifica** dettagli in uno dei riquadri della home page. In questo esempio vengono modificati i **riquadri Playlist consigliate.**
 3. In **Collegamento** fare clic su **Cambia.**
 
-![Schermata principale dei percorsi con il pulsante Cambia in alto.](media/cg-linktopage.png)
+![Collegamento alla pagina](media/cg-linktopage.png)
 
 4. Fare **clic su** Sito, quindi **su** Pagine del sito, sulla pagina a cui si desidera creare il collegamento e quindi su **Apri.** In questo esempio viene creato un collegamento alla **pagina Create-your-own-experience.aspx** illustrata nella sezione precedente.
 5. Chiudere il riquadro delle proprietà di Hero, fare **clic su Pubblica** e quindi testare il collegamento. 
 
 ## <a name="link-to-the-microsoft-365-learning-pathways-web-part"></a>Collegamento alla web part Microsoft 365 percorsi di apprendimento
-I percorsi di apprendimento consente all'utente, all'amministratore o all'utente finale di collegarsi a un'istanza della web part indipendentemente dalla pagina che contiene la web part. È possibile condividere il collegamento copiato o il collegamento ad esso da altre pagine. Il collegamento copiato, quando si fa clic, mostra l'istanza Microsoft 365 web part percorsi di apprendimento nella pagina CustomLLearningViewer.aspx. Vediamo un esempio. 
+Learning percorsi consente all'utente, all'amministratore o all'utente finale di collegarsi a un'istanza della web part indipendentemente dalla pagina che contiene la web part. È possibile condividere il collegamento copiato o il collegamento ad esso da altre pagine. Quando si fa clic sul collegamento copiato, viene visualizzata Microsoft 365'istanza della web part percorsi di apprendimento nella pagina CustomLLearningViewer.aspx. Di seguito è riportato un esempio. 
 
 1. Nella home page fare clic su **Formazione su Microsoft365.**
 2. Fare **clic Microsoft Teams** e quindi su Intro per **Microsoft Teams**.
 3. Fare clic **sull'icona** Copia.
 
-![Schermata di esempio che mostra l'URL con il pulsante Copia accanto ad esso evidenziato.](media/cg-linktowebpart.png)
+![Collegamento a web part](media/cg-linktowebpart.png)
 
-4. Scegliere Home dal menu Microsoft 365 del sito percorsi di apprendimento.
+4. Fare clic su Home dal menu Microsoft 365 del sito percorsi di apprendimento.
 5. Incollare l'URL copiato nella barra degli indirizzi del browser e premere INVIO. 
 
 Come illustrato nella figura seguente, il collegamento passa alla pagina CustomLearningViewer.aspx e visualizza il contenuto in base ai parametri nel collegamento copiato. 
 
-![Pagina di esempio visualizzata.](media/cg-linktowebpartviewer.png)
+![Collegamento al visualizzatore web part](media/cg-linktowebpartviewer.png)
 

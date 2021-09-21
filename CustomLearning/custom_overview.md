@@ -8,36 +8,36 @@ audience: admin
 ms.topic: article
 description: Personalizzare i percorsi di apprendimento
 ms.service: sharepoint-online
-ms.openlocfilehash: a5087096ec3bd7c1194aab9dd089276fc196a736
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 63644440a070a005532507c8e2562fe089180db5
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999502"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59461196"
 ---
 # <a name="customize-learning-pathways"></a>Personalizzare i percorsi di apprendimento
 
-I percorsi di apprendimento di Microsoft 365 forniscono diversi modi per personalizzare il contenuto per l'organizzazione. Ad esempio, è possibile:  
-- Modificare i percorsi di apprendimento Sito di SharePoint- Modificare il nome del sito, il logo e i percorsi. Modificare la pagina Domande e assistenza per creare un Centro assistenza personalizzato. 
+Microsoft 365 percorsi di apprendimento offre diversi modi per personalizzare il contenuto per l'organizzazione. Ad esempio, è possibile:  
+- Modificare i percorsi di apprendimento SharePoint sito: modificare il nome del sito, il logo e i percorsi. Modificare la pagina Domande e risposte Richiesta supporto per creare un Centro assistenza personalizzato. 
 - Nascondere o visualizzare il contenuto per riflettere i servizi o le funzionalità supportati nell'organizzazione 
 - Creare playlist e sottocategorie personalizzate appositamente per le esigenze dell'utente
-- Creare pagine di destinazione con contenuto filtrato per supportare i risultati aziendali, ad esempio per guidare l'adozione di Microsoft Teams, Outlook mobile o lavorare in modo più collaborativo con Microsoft 365.
+- Creare pagine di destinazione con contenuto filtrato per supportare i risultati aziendali, ad esempio per l'adozione di Microsoft Teams, Outlook dispositivi mobili o per lavorare in modo più collaborativo con Microsoft 365.
 
-![Raccolta generale di foto per percorsi di apprendimento Microsoft.](media/cg-introducing.png)
+![Introduzione](media/cg-introducing.png)
 
 ## <a name="requirements-and-permissions"></a>Requisiti e autorizzazioni
 
-Prima di iniziare a usare le indicazioni per personalizzare i percorsi di apprendimento, verificare che i percorsi di apprendimento siano stati impostati dall'amministratore tenant di SharePoint. Se non si è certi che sia stato configurato, contattare l'amministratore tenant di SharePoint per verificare che sia stato eseguito il provisioning dei percorsi di apprendimento. Assicurarsi inoltre di ottenere l'URL dei percorsi di apprendimento del sito di SharePoint. Se si è l'amministratore tenant e non è stato eseguito il provisioning dei percorsi di apprendimento, vedere [Provisioning dei percorsi di apprendimento.](custom_provision.md) 
+Prima di iniziare a usare le indicazioni per personalizzare i percorsi di apprendimento, assicurati che i percorsi di apprendimento siano stati impostati dall'SharePoint Tenant Administrator. Se non si è certi che sia stato configurato, contattare l'amministratore del tenant di SharePoint per verificare che sia stato eseguito il provisioning dei percorsi di apprendimento. Assicurati inoltre di ottenere l'URL dei percorsi di apprendimento SharePoint sito. Se si è l'amministratore tenant e non è stato eseguito il provisioning dei percorsi di apprendimento, vedere [Provisioning di percorsi di apprendimento.](custom_provision.md) 
 
 ### <a name="permissions-to-provision-learning-pathways"></a>Autorizzazioni per il provisioning dei percorsi di apprendimento
 
-- Amministratore tenant, noto anche come amministratore globale di Office 365
+- Amministratore tenant, noto anche come Office 365 amministratore globale
 - L’amministratore della raccolta siti di SharePoint con autorizzazioni di proprietario nel sito
 
 ### <a name="permissions-to-use-learning-pathways-administration-features"></a>Autorizzazioni per l'utilizzo dei percorsi di apprendimento Funzionalità di amministrazione
 
 - Amministratori delle raccolte siti
-- Autorizzazioni proprietario o membro di SharePoint
+- SharePoint Autorizzazioni proprietario o membro
 
 ### <a name="permissions-to-use-the-learning-pathways-site-as-a-user"></a>Autorizzazioni per l'utilizzo del sito dei percorsi di apprendimento come utente
 

@@ -3,38 +3,38 @@ author: pkrebs
 ms.author: pkrebs
 title: Effettuare il provisioning di una nuova soluzione multilingue per i percorsi di apprendimento
 ms.date: 02/10/2019
-description: Effettuare il provisioning del sito dei percorsi di apprendimento di Microsoft 365 tramite il servizio di provisioning di SharePoint
+description: Effettuare il provisioning Microsoft 365 sito dei percorsi di apprendimento tramite il servizio SharePoint provisioning
 ROBOTS: NOINDEX, NOFOLLOW
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
 audience: admin
-ms.openlocfilehash: 40371138db2ec01e0e4a6558175f68cfa06fba51
-ms.sourcegitcommit: 97e175e5ff5b6a9e0274d5ec9b39fdf7e18eb387
+ms.openlocfilehash: 4f48a92a4df67198b357d9bbe9221135e482f035
+ms.sourcegitcommit: 6005c2551bdea334767e6a056fdcb79533f2c858
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/25/2021
-ms.locfileid: "51999382"
+ms.lasthandoff: 09/21/2021
+ms.locfileid: "59460984"
 ---
 # <a name="provision-a-new-learning-pathways-multilingual-solution"></a>Effettuare il provisioning di una nuova soluzione multilingue per i percorsi di apprendimento
-Le organizzazioni che non dispongono di percorsi di apprendimento di cui è stato eseguito il provisioning nel tenant possono usare il servizio di provisioning di SharePoint per aggiungere la soluzione percorsi di apprendimento multilingue. Con questa opzione, il modello di SharePoint percorsi di apprendimento viene tradotto in nove lingue e può essere utilizzato con un minimo di modifica. 
+Le organizzazioni che non dispongono di percorsi di apprendimento di cui è stato eseguito il provisioning nel tenant possono usare il servizio di provisioning SharePoint per aggiungere la soluzione percorsi di apprendimento multilingue. Con questa opzione, i percorsi di apprendimento SharePoint modello vengono tradotti in nove lingue e possono essere utilizzati con un minimo di modifica. 
 
 > [!IMPORTANT]
 > Se si dispone già di percorsi di apprendimento di cui è stato eseguito il provisioning nel tenant, è consigliabile seguire il percorso di [aggiornamento](custom_update_ml.md) per i percorsi di apprendimento. Se si installano percorsi di apprendimento in un'istanza esistente nel tenant, eventuali modifiche apportate al modello di sito percorsi di apprendimento o alle playlist potrebbero andare perdute.
 
 ## <a name="prerequisites-for-multilingual-support"></a>Prerequisiti per il supporto multilingue
  
-Per configurare correttamente i percorsi di apprendimento di Microsoft 365 con il servizio di provisioning, la persona che effettua il provisioning deve soddisfare i prerequisiti seguenti: 
+Per configurare correttamente Microsoft 365 percorsi di apprendimento con il servizio di provisioning, la persona che effettua il provisioning deve soddisfare i prerequisiti seguenti: 
  
 - La persona che effettua il provisioning dei percorsi di apprendimento deve essere un amministratore tenant del tenant in cui verrà eseguito il provisioning dei percorsi di apprendimento.  
-- Un Catalogo app tenant deve essere disponibile nell'opzione App dell'interfaccia di amministrazione di SharePoint. Se l'organizzazione non dispone di un Catalogo app tenant di SharePoint, fare riferimento alla documentazione [di SharePoint Online](/sharepoint/use-app-catalog) per crearne uno. Devi attendere almeno due ore dopo aver creato il Catalogo app prima di eseguire il provisioning dei percorsi di apprendimento.  
+- Un Catalogo app tenant deve essere disponibile nell'opzione App dell'interfaccia SharePoint admin center. Se l'organizzazione non dispone di un SharePoint app tenant, fare riferimento alla documentazione [SharePoint Online](/sharepoint/use-app-catalog) per crearne uno. Devi attendere almeno due ore dopo aver creato il Catalogo app prima di eseguire il provisioning dei percorsi di apprendimento.  
 - I percorsi di apprendimento di provisioning della persona devono essere proprietari della raccolta siti del Catalogo app tenant. Se la persona che provisioning percorsi di apprendimento non è un proprietario della raccolta siti del Catalogo app, [completare queste istruzioni](addappadmin.md) e continuare. 
 
 ## <a name="ensure-the-tenant-admin-account-doesnt-have-a-language-selected"></a>Verificare che l'account amministratore tenant non abbia una lingua selezionata
 Prima di effettuare il provisioning dei percorsi di apprendimento, assicurati che l'account amministratore per il tenant non abbia una lingua selezionata. Ecco come verificare se l'account amministratore non ha una lingua selezionata. 
-1.  Con il profilo di amministratore edge, passare a office.com.
+1.  Con il profilo di amministratore di Edge, passare a office.com.
 2.  Immettere le credenziali utente (se necessario).
-3.  In Microsoft 365, fare clic **su Tutte le app** > Delve. 
+3.  In Microsoft 365 fare clic **su Tutte le app** > Delve. 
 4.  Fare **clic su Aggiorna**  >  **profilo**.
 5.  Scorrere la pagina verso il basso e fare **clic su Come modificare le impostazioni internazionali e della lingua.**
 6.  Fare **clic qui** e quindi fare clic sui puntini di sospensione **...**.
@@ -42,7 +42,7 @@ Prima di effettuare il provisioning dei percorsi di apprendimento, assicurati ch
 
 ### <a name="to-provision-learning-pathways"></a>Per effettuare il provisioning dei percorsi di apprendimento
 
-1. Passare alla pagina della soluzione percorsi di apprendimento [di Microsoft 365](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239).
+1. Passare alla pagina [Microsoft 365 soluzione percorsi di apprendimento.](https://provisioning.sharepointpnp.com/details/3df8bd55-b872-4c9d-88e3-6b2f05344239)
 2. Fare **clic su Aggiungi al tenant.** Se non è stato eseguito l'accesso al tenant, il servizio di provisioning richiederà le credenziali di amministratore tenant. 
 3. Nella finestra di dialogo Autorizzazioni richieste selezionare **Consenso per conto dell'organizzazione** e quindi selezionare **Accetta.**
 
@@ -52,7 +52,7 @@ Il servizio di provisioning richiede queste autorizzazioni per creare il Catalog
 > [!NOTE]
 > Impostare l’URL di destinazione in una maniera semplice per i tuoi dipendenti, come “/sites/MyTraining” o “/teams/LearnMicrosoft365”.
 
-![inst_options.png](media/inst_options.png)
+![Opzioni per l'installazione](media/inst_options.png)
 
 6. Fare **clic su Provisioning** quando si è pronti per installare i percorsi di apprendimento nell'ambiente tenant.  Il processo di provisioning può richiedere fino a 15 minuti. Quando il sito è pronto, si riceverà una notifica via e-mail. 
 
@@ -63,16 +63,16 @@ Il servizio di provisioning richiede queste autorizzazioni per creare il Catalog
 
 Al termine del provisioning, l'amministratore tenant che ha eseguito il provisioning del sito riceve un messaggio di posta elettronica dal servizio di provisioning PnP. Il messaggio di posta elettronica contiene un collegamento al sito. A questo punto, l'amministratore tenant deve accedere al sito usando il collegamento fornito nel messaggio di posta elettronica e configurare il sito per il primo utilizzo:
 
-- Passare a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
+- Vai a `<YOUR-SITE-COLLECTION-URL>sites/<YOUR-SITE-NAME>/SitePages/CustomLearningAdmin.aspx`. Aprendo **CustomLearningAdmin.aspx** inizializza la voce di elenco **CustomConfig** che configura i percorsi di apprendimento per il primo utilizzo. Dovrebbe essere visualizzata una pagina simile alla seguente:
 
-![cg-adminapppage.png](media/cg-adminapppage.png)
+![Pagina dell'app amministratore](media/cg-adminapppage.png)
 
 ## <a name="add-owners-to-site"></a>Aggiungere proprietari al sito
 In quanto amministratore tenant, è improbabile che tu sia la persona che personalizza il sito, quindi dovrai assegnare alcuni proprietari al sito. I proprietari dispongono di privilegi amministrativi per il sito in modo che possano modificare le pagine del sito e rebrand il sito. Hanno anche la possibilità di nascondere e mostrare il contenuto e creare playlist e sottocategorie personalizzate.  
 
-1. Scegliere Autorizzazioni sito **dal** menu Impostazioni di SharePoint. 
-2. Fare clic **su Impostazioni di autorizzazione avanzate**.
-3. Fare **clic su Microsoft 365 learning pathways Owners**.
+1. Scegliere Autorizzazioni sito **dal** menu SharePoint Impostazioni **sito.**
+2. Fare **clic su Autorizzazioni avanzate Impostazioni**.
+3. Fare **clic Microsoft 365 percorsi di apprendimento Proprietari**.
 4. Fare **clic** su Nuovo Aggiungi utenti a questo gruppo e quindi aggiungere le  >  persone che si desidera siano proprietari. 
 5. Aggiungere un collegamento a [Esplora sito](custom_exploresite.md) nel messaggio Condividi e quindi fare clic su **Condividi.**
 
@@ -80,26 +80,26 @@ In quanto amministratore tenant, è improbabile che tu sia la persona che person
 Se si utilizzano traduttori per il sito, è possibile assegnare loro le autorizzazioni. I traduttori richiedono autorizzazioni membro o superiori. 
 
 ## <a name="choose-options-for-using-multiple-languages-on-the-site"></a>Scegliere le opzioni per l'utilizzo di più lingue nel sito
-Il servizio di provisioning di SharePoint crea il sito Percorsi di apprendimento in nove lingue. Si applicano le raccomandazioni seguenti:
+Il SharePoint provisioning crea il sito Learning percorsi in nove lingue. Si applicano le raccomandazioni seguenti:
 - Disattivare le lingue che non si desidera supportare
 - Se non si supporta un sito multilingue, disattivare la funzionalità multilingue. Vedere la sezione "Disattivare il supporto multilingue" più avanti in questo argomento.
 
 ### <a name="remove-languages-you-dont-want-to-support"></a>Rimuovere le lingue che non si desidera supportare
 Per le organizzazioni che scelgono di supportare una sola lingua, oltre alla lingua inglese predefinita, è consigliabile rimuovere le lingue non supportate. 
-1. Nel sito Percorsi di apprendimento selezionare **Impostazioni** nell'angolo in alto a destra della pagina e quindi selezionare **Informazioni sito.**
+1. Nel sito Learning percorsi selezionare Impostazioni **dall'alto** a destra della pagina e quindi selezionare **Informazioni sito.**
 2. Nella parte inferiore del riquadro informazioni sito selezionare **Visualizza tutte le impostazioni del sito.**
 3. In **Amministrazione sito** selezionare Impostazioni **lingua.**
-4. In **Abilita la traduzione di pagine e notizie in più lingue,** fai scorrere l'interruttore su **Attivato.** Dovrebbe essere on per impostazione predefinita.
-5. In Aggiungi o rimuovi lingue sito fare clic **su Rimuovi** per rimuovere le lingue non necessarie per il sito. Di seguito viene illustrato un esempio della pagina Impostazioni lingua per visualizzare l'italiano supportato per il sito, oltre alla lingua inglese predefinita.
+4. In **Abilita la traduzione di pagine e notizie in più lingue** fai scorrere l'interruttore su **Attivato.** Dovrebbe essere on per impostazione predefinita.
+5. In Aggiungi o rimuovi lingue sito fare clic **su Rimuovi** per rimuovere le lingue non necessarie per il sito. Di seguito viene illustrato un esempio della pagina Lingua Impostazioni per visualizzare l'italiano supportato per il sito, oltre alla lingua inglese predefinita.
 
-![custom_update_ml_langsettings.png](media/custom_update_ml_langsettings.png)
+![Aggiornare le impostazioni della lingua](media/custom_update_ml_langsettings.png)
 
 > [!NOTE]
 > Durante la rimozione delle lingue non è possibile rimuovere la lingua inglese predefinita. 
 
 ### <a name="assign-translators"></a>Assegnare traduttori
 Se vuoi tradurre le pagine, assegna facoltativamente uno o più traduttori per ogni lingua (ad eccezione della lingua predefinita del sito). 
-- Nella colonna **Translator** iniziare a digitare il nome di una persona che si desidera convertire e quindi selezionare il nome dall'elenco. 
+- Nella colonna **Translator,** iniziare a digitare il nome di una persona che si desidera convertire e quindi selezionare il nome dall'elenco. 
 
 > [!NOTE]
 > Tutti gli utenti di Active Directory dell'organizzazione possono essere assegnati come traduttori. Le persone assegnate come traduttori non riceveranno automaticamente le autorizzazioni appropriate. Quando un utente senza autorizzazioni di modifica per un sito tenta di accedere al sito, verrà indirizzato a una pagina Web in cui può richiedere l'accesso.
@@ -107,12 +107,12 @@ Se vuoi tradurre le pagine, assegna facoltativamente uno o più traduttori per o
 ## <a name="turn-off-multilingual-support"></a>Disattivare il supporto multilingue
 Se ad esempio non si desidera un sito multilingue, è consigliabile disattivare la caratteristica multilingue. 
 
-1. Nel sito Percorsi di apprendimento selezionare **Impostazioni** nell'angolo in alto a destra della pagina e quindi selezionare **Informazioni sito.**
+1. Nel sito Learning percorsi selezionare Impostazioni **dall'alto** a destra della pagina e quindi selezionare **Informazioni sito.**
 2. Nella parte inferiore del riquadro informazioni sito selezionare **Visualizza tutte le impostazioni del sito.**
 3. In **Amministrazione sito** selezionare Impostazioni **lingua.**
-4. In **Abilita la traduzione di pagine e notizie in più lingue,** fai scorrere l'interruttore su **Attivato.** Dovrebbe essere on per impostazione predefinita.
+4. In **Abilita la traduzione di pagine e notizie in più lingue** fai scorrere l'interruttore su **Attivato.** Dovrebbe essere on per impostazione predefinita.
 - In **Abilita la traduzione di pagine e notizie** selezionare **Disattivato.** 
 
 ### <a name="add-languages"></a>Aggiungere le lingue
-I percorsi di apprendimento supportano 9 lingue, ma è consigliabile aggiungere solo le lingue necessarie per il sito dei percorsi di apprendimento. Puoi aggiungere langauges in qualsiasi momento. 
-- In **Aggiungere o rimuovere lingue del sito** iniziare a digitare un nome di lingua in **Selezionare** o digitare una lingua oppure scegliere una lingua nell'elenco a discesa. È possibile ripetere questo passaggio per aggiungere più lingue. È possibile aggiungere o rimuovere lingue dal sito in qualsiasi momento tornando a questa pagina.
+Learning percorsi di apprendimento supporta 9 lingue, ma è consigliabile aggiungere solo le lingue necessarie per il sito dei percorsi di apprendimento. Puoi aggiungere langauges in qualsiasi momento. 
+- In **Aggiungere o rimuovere lingue del sito** iniziare a digitare un nome di lingua in Selezionare o **digitare** una lingua oppure scegliere una lingua nell'elenco a discesa. È possibile ripetere questo passaggio per aggiungere più lingue. È possibile aggiungere o rimuovere lingue dal sito in qualsiasi momento tornando a questa pagina.
