@@ -1,6 +1,6 @@
 ---
-title: Day in the Life with Office 365 - Meeting at the Office
-description: Alcuni suggerimenti per essere pronti per la giornata di lavoro in Office 365
+title: Day in the Life with Office 365 - Riunione al Office
+description: Passaggi rapidi per portare alla preparazione per il giorno a portata di mano con Office 365
 author: karuanag
 ms.author: karuanag
 manager: alexb
@@ -8,12 +8,12 @@ audience: itpro
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 426e675aa73d91ed82c09a7fca4dcc0053f4c821
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: 09a972d8e429aa1ee7190ddf617577c5b5809f53
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749374"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485567"
 ---
 # <a name="meeting-at-the-office"></a>Incontrarsi in ufficio
 

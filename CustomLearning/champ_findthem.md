@@ -1,18 +1,18 @@
 ---
 title: Procedure consigliate per il programma Champion - Trovare i campioni
-description: Guidare l'adozione di Office 365 usando le procedure consigliate per il programma Champion.
+description: Guidare l'adozione di Office 365 con le procedure consigliate dei programmi Campione
 author: karuanag
 ms.author: karuanag
 manager: alexb
 ms.date: 02/01/2019
 ms.topic: how-to
 ms.service: sharepoint-online
-ms.openlocfilehash: 34870108b82bf79793a014129dbd45f145f214be
-ms.sourcegitcommit: fb9ca876b6605fef4a41f14a069e7cf7bf3d2791
+ms.openlocfilehash: c950f00218aa4f6dbd24b410e261ad86a5e44412
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "52334610"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485507"
 ---
 # <a name="finding-your-champions"></a>Trovare i campioni 
 
@@ -31,6 +31,6 @@ Se l'organizzazione non dispone di un programma Campione corrente o si desidera 
 
 I programmi di successo dei campioni hanno un leader e una pianificazione regolare per soddisfare e discutere i problemi correnti.  Le riunioni mensili come minimo sono una parte importante della creazione di una cultura positiva nella community e della promozione della crescita.  
 
-È inoltre possibile utilizzare Microsoft Teams per creare un hub per il programma dei campioni del lavoro in team.  Un esempio di tale struttura del team è disponibile in [questo articolo.](/MicrosoftTeams/teams-adoption-your-first-teams)
+Puoi anche usare Microsoft Teams per creare un hub per il programma dei campioni del lavoro in team.  Un esempio di tale struttura del team è disponibile in [questo articolo.](/MicrosoftTeams/teams-adoption-your-first-teams)
 
 ![schede del team campione del lavoro in team](media/teams-adoption-tab-example.png)

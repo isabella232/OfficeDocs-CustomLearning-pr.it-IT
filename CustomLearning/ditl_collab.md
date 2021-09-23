@@ -1,6 +1,6 @@
 ---
 title: Day in the Life with Office 365 - Collaborazione con i colleghi
-description: Prepararsi per la giornata con Office 365
+description: Passaggi rapidi per stabilire la preparazione per il giorno a portata di mano con Office 365
 author: karuanag
 ms.author: karuanag
 ms.date: 02/01/2019
@@ -8,12 +8,12 @@ ms.topic: how-to
 manager: alexb
 audience: itpro
 ms.service: sharepoint-online
-ms.openlocfilehash: 8c32e727b09eb7ed7b82e12821c95f18092ea91f
-ms.sourcegitcommit: 96ad347dc08694ce2af5a5d42bf1f753d1c30a65
+ms.openlocfilehash: f13951cc8a5c8f851f7f59023b3af982bca8cca8
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51749364"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485207"
 ---
 # <a name="collaborating-with-colleagues"></a>Collaborare con i colleghi
 
@@ -35,7 +35,7 @@ Sono le 14:00 ed è ora di collaborare con i colleghi. Office 365 offre opportun
 
 ## <a name="create-or-join-a-microsoft-team-for-collaboration"></a>Creare o partecipare a un team di Microsoft per la collaborazione
 
-Microsoft Teams e i canali sono luoghi in cui le persone possono collaborare condividendo i file, monitorando le azioni del team e molto altro. Ogni Microsoft Teams dispone di un'integrazione in un sito di SharePoint, in un blocco appunti di OneNote e in altri asset. Questo servizio di Office 365 è ideale per le persone che collaborano spesso a progetti od obiettivi condivisi. 
+Microsoft Teams e i canali sono luoghi in cui le persone possono collaborare condividendo i file, monitorando le azioni del team e molto altro. Ogni Microsoft Teams dispone di un'integrazione in un sito SharePoint, un OneNote blocco appunti e altri asset. Questo servizio di Office 365 è ideale per le persone che collaborano spesso a progetti od obiettivi condivisi. 
 
 ## <a name="share-files-from-your-onedrive"></a>Condivisione di file da OneDrive
 I file salvati in OneDrive for Business possono essere condivisi con qualsiasi utente dal browser o da applicazioni desktop di Office 365 come Word o Excel. È possibile condividere con altri utenti usando il nome, l'alias o l'indirizzo di posta elettronica aziendale. 

@@ -7,12 +7,12 @@ description: Creare una nuova sottocategoria con percorsi di apprendimento
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: 4cf22317096bba2f4eacb64ce7ca838219d6b390
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 5f42f3b347a0ca20d44d03c397be71defb00a30e
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310420"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485457"
 ---
 # <a name="create-a-subcategory"></a>Creare una sottocategoria 
 In alcuni casi, è necessario creare una nuova sottocategoria. Ad esempio, se la sottocategoria Primi giorni non funziona per l'organizzazione, è possibile creare una nuova sottocategoria e quindi aggiungervi playlist per soddisfare le esigenze dell'organizzazione. 
@@ -22,7 +22,7 @@ In alcuni casi, è necessario creare una nuova sottocategoria. Ad esempio, se la
 3. Scorrere verso il basso la pagina, 
 3. Fare clic **sull'icona Aggiungi nuova sottocategoria +** .  
 
-![cg-newsubcategory.png](media/cg-newsubcategory.png)
+![Nuova sottocategoria](media/cg-newsubcategory.png)
 
 > [!TIP]
 > Le sottocategorie fornite da Microsoft possono essere nascoste, ma non modificate o eliminate. 

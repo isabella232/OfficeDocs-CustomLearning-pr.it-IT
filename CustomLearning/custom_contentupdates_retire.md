@@ -3,77 +3,77 @@ author: pkrebs
 ms.author: pkrebs
 title: Aggiornamenti del contenuto di novembre 2019
 ms.date: 10/20/2019
-description: Microsoft 365 del contenuto dei percorsi di apprendimento
+description: Microsoft 365 percorsi di apprendimento - aggiornamento nel contenuto
 ms.service: sharepoint-online
 manager: bpardi
 ms.topic: article
-ms.openlocfilehash: c2f065ec4dd35a036f873e1838fa9910f76014f2
-ms.sourcegitcommit: 956ab22dd8ce23ee1779f1a01d34b434243c3cb1
+ms.openlocfilehash: 1132a18b117765227de6724aa2382ccd131d024e
+ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "52310400"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59485427"
 ---
 # <a name="november-2019-content-updates"></a>Aggiornamenti del contenuto di novembre 2019
 Benvenuti nell'aggiornamento Microsoft 365 del contenuto dei percorsi di apprendimento. A partire dall'aggiornamento di novembre 2019, verrà fornito un inventario aggiornato del catalogo dei percorsi di apprendimento su base trimestrale. Per l'aggiornamento di novembre 2019, le nuove sottocategorie e playlist di contenuto seguenti sono state aggiunte al catalogo dei percorsi di apprendimento. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates .    
 
 ## <a name="teams"></a>Teams
 Alla sottocategoria Teams sono state aggiunte diverse nuove playlist.
-- Usare post e messaggi (3 asset)
-- Upload e trovare file (2 asset)
-- Configurare e partecipare a eventi live (4 asset)
-- Gestire il feed attività (2 asset)
-- Teams in viaggio (2 asset)
+- Usare post e messaggi (tre asset)
+- Upload e trova file (due asset)
+- Configurare e partecipare a eventi live (quattro risorse)
+- Gestire il feed attività (due asset)
+- Teams in viaggio (due asset)
 
 ## <a name="microsoft-365-success-center"></a>Microsoft 365 Success Center
-Abbiamo aggiunto una sottocategoria Microsoft 365 percorsi di apprendimento success center all'esperienza dei percorsi di apprendimento. Il Success Center fornisce le playlist seguenti.
-- Novità, novità (3 asset)
-- Pianificare il contenuto di apprendimento (2 risorse)
-- Personalizzare i percorsi di apprendimento (8 risorse?)
-- Guidare l'adozione di percorsi di apprendimento (1 risorsa)
-- Misurare l'impatto dei percorsi di apprendimento (1 risorsa)
+Abbiamo aggiunto una sottocategoria Microsoft 365 percorsi di apprendimento all'esperienza dei percorsi di apprendimento. Il Success Center fornisce le playlist seguenti.
+- Novità, novità (tre asset)
+- Pianificare il contenuto di apprendimento (due risorse)
+- Personalizzare i percorsi di apprendimento (otto risorse?)
+- Guidare l'adozione di percorsi di apprendimento (una risorsa)
+- Misurare l'impatto dei percorsi di apprendimento (una risorsa)
 
-## <a name="outlook"></a>Outlook
+## <a name="outlook---updates"></a>Outlook - aggiornamenti
 Le playlist seguenti sono state aggiunte alla sottocategoria Outlook. 
-- Outlook mobile: gestire la posta in arrivo (4 asset)
-- Outlook mobile: gestire il tempo (8 risorse)
-- Outlook mobile: Persone e connessioni (5 asset)
-- Outlook mobile: ricerca e condivisione (4 asset)
+- Outlook mobile: gestire la posta in arrivo (quattro asset)
+- Outlook mobile: gestire il tempo (otto risorse)
+- Outlook mobile: Persone e connessioni (cinque asset)
+- Outlook mobile: ricerca e condivisione (quattro asset)
 
-## <a name="onedrive"></a>OneDrive
+## <a name="onedrive---updates"></a>OneDrive - aggiornamenti
 Le risorse video seguenti sono state aggiunte per OneDrive. 
-- Configurare il iPhone o iPad è stato aggiunto alla playlist Intro to OneDrive playlist
+- Configurare il iPhone o iPad è stato aggiunto alla playlist Intro OneDrive playlist
 - Attivare OneDrive backup è stato aggiunto alla playlist Gestisci i file con OneDrive
 
 ## <a name="planner"></a>Planner
 Le playlist e gli asset seguenti sono stati aggiunti al catalogo.  
-- Guida introduttiva di Planner (6 risorse)
-- Usare Planner (8 risorse)
+- Guida introduttiva di Planner (sei risorse)
+- Usare Planner (otto risorse)
 
 ### <a name="accessibility"></a>Accessibilità
 La sottocategoria Accessibilità del contenuto è stata aggiunta con le playlist seguenti. 
-- Microsoft 365 Panoramica e risorse sull'accessibilità (3 risorse)
-- Creare messaggi di posta elettronica più accessibili in Outlook (3 asset)
-- Creare documenti di Word più accessibili (8 asset)
-- Creare cartelle di lavoro Excel accessibili (3 asset)
-- Creare diapositive più accessibili in PowerPoint (5 risorse)
+- Microsoft 365 Panoramica e risorse sull'accessibilità (tre risorse)
+- Creare messaggi di posta elettronica più accessibili in Outlook (tre risorse)
+- Creare documenti di Word più accessibili (otto risorse)
+- Creare cartelle di lavoro Excel accessibili (tre risorse)
+- Creare diapositive più accessibili in PowerPoint (cinque risorse)
 
 ## <a name="sway"></a>Sway
 La sottocategoria Sway del contenuto è stata aggiunta con le playlist seguenti. 
-- Guida introduttiva di Sway (4 asset)
-- Condividere e accedere a Sway (5 asset)
+- Guida introduttiva di Sway (quattro asset)
+- Condividere e accedere a Sway (cinque asset)
 - Aggiungere contenuto a Sway (11 asset)
-- Personalizzare Sway (5 asset)
+- Personalizzare Sway (cinque asset)
 
 ## <a name="access"></a>Access
-- Guida introduttiva di Access (4 risorse)
-- Introduzione ad Access (3 asset)
-- Creare un database di Access (2 asset)
-- Aggiungere tabelle (2 asset)
-- Usare le relazioni (5 asset)
-- Aggiungere e modificare dati (2 asset)
-- Gestire i dati con query (5 asset)
-- Creare moduli (1 risorsa)
-- Creare report (2 asset)
-- Proteggere i database (1 risorsa)
+- Guida introduttiva di Access (quattro risorse)
+- Introduzione ad Access (tre risorse)
+- Creare un database di Access (due asset)
+- Aggiungere tabelle (due asset)
+- Usare le relazioni (cinque risorse)
+- Aggiungere e modificare dati (due asset)
+- Gestire i dati con query (cinque asset)
+- Creare moduli (una risorsa)
+- Creare report (due risorse)
+- Proteggere i database (un asset)
 
