@@ -7,12 +7,12 @@ ms.date: 02/10/2019
 description: Informazioni sulle domande frequenti per i Microsoft 365 di apprendimento
 ms.service: sharepoint-online
 ms.topic: article
-ms.openlocfilehash: 30d626416992ef5930563b9001ef1c8b773b949c
-ms.sourcegitcommit: a93cae8ea6e3c1141d7266d04131b69f2c2498cb
+ms.openlocfilehash: 82a7e777490e13fde6fef5add40beee417050027
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "59485527"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048723"
 ---
 # <a name="frequently-asked-questions"></a>Domande frequenti
 
@@ -26,9 +26,8 @@ ms.locfileid: "59485527"
 
 ## <a name="why-is-microsoft-asking-for-tenant-permissions-when-installing-microsoft-365-learning-pathways"></a>Perché Microsoft richiede autorizzazioni tenant durante l'installazione Microsoft 365 percorsi di apprendimento?
 
-Il servizio SharePoint Online Provisioning usa le autorizzazioni per eseguire il provisioning del sito SharePoint dei percorsi Learning, creare le pagine del sito e installare l'applicazione dei percorsi di apprendimento Microsoft 365 all'interno del tenant. Questo è l'unico motivo per cui richiediamo le autorizzazioni. Senza le autorizzazioni richieste, il SharePoint provisioning non può eseguire i comandi che installano automaticamente il modello di sito e la web part percorsi di apprendimento.
-
-Se si hanno ancora dubbi su questo livello di accesso, è possibile concedere le autorizzazioni e distribuire i modelli di sito a cui si è interessati e quindi rimuovere immediatamente le autorizzazioni concesse per l'app nell'app store di [Azure.](https://myapps.microsoft.com)
+Il servizio di provisioning online di SharePoint usa le autorizzazioni per effettuare il provisioning del sito SharePoint dei percorsi di Learning, creare le pagine del sito e installare l'applicazione dei percorsi di apprendimento di Microsoft 365 all'interno del tenant. Questo è l'unico motivo per cui richiediamo le autorizzazioni. Senza le autorizzazioni richieste, SharePoint il servizio di provisioning non può eseguire i comandi che installano automaticamente il modello di sito e la web part percorsi di apprendimento.
+![Screenshot della richiesta di autorizzazioni](media/faqs-permissions-request-screenshot.png "Richiesta di autorizzazioni") Se si hanno ancora dubbi su questo livello di accesso, è possibile concedere le autorizzazioni e distribuire i modelli di sito a cui si è interessati e quindi rimuovere immediatamente le autorizzazioni concesse per l'app nell'app store di [Azure.](https://myapps.microsoft.com)
 
 ## <a name="how-long-will-it-take-to-install-the-site-in-our-tenant-environment"></a>Quanto tempo è necessario per installare il sito nell'ambiente tenant?
 
@@ -36,7 +35,7 @@ L'applicazione richiede meno di 15 minuti. Questa operazione non include il temp
 
 ## <a name="is-microsoft-365-learning-pathways-an-open-source-solution-and-what-are-the-implications"></a>I Microsoft 365 di apprendimento sono una soluzione open source e quali sono le implicazioni?
 
-Microsoft 365 percorsi di apprendimento è una soluzione di software open source (OSS) e, di conseguenza, presenta una serie di vantaggi e considerazioni da tenere in considerazione per OSS:
+Microsoft 365 percorsi di apprendimento è una soluzione di software open source (OSS) e, di conseguenza, offre una serie di vantaggi e considerazioni all'OSS:
 
 ### <a name="benefits"></a>Vantaggi 
 
@@ -46,10 +45,10 @@ Microsoft 365 percorsi di apprendimento è una soluzione di software open source
 
 ### <a name="implications"></a>Implicazioni
 
-- **OSS non è un prodotto disponibile in commercio:** I prodotti commerciali includono l'aggiornamento e l'applicazione di patch e sono inclusi nei contratti di supporto a pagamento. Mentre Microsoft attualmente offre documentazione, aggiornamento e applicazione di patch per Microsoft 365 percorsi di apprendimento, si basa sul nostro impegno a migliorare questo specifico scenario aziendale. Sebbene i nostri piani continuino a investire nei percorsi di apprendimento, tenere presente che il team di gestione dei servizi potrebbe cambiare le strategie in futuro. Eventuali modifiche future ai Microsoft 365 di apprendimento verranno comunicate prima di essere applicate.
-- **Come OSS, i Microsoft 365** di apprendimento sono supportati tramite un elenco di problemi online in GitHub: i percorsi di apprendimento di Microsoft 365 non sono coperti da alcun contratto di supporto Microsoft esistente. I problemi inviati vengono valutati dai Microsoft 365 dei percorsi di apprendimento e dalla community. I livelli di servizio per la risoluzione dei problemi NON sono allo stesso livello di un contratto di supporto Microsoft a pagamento.  
+- **OSS non è un prodotto disponibile in commercio:** I prodotti commerciali includono l'aggiornamento e l'applicazione di patch e sono inclusi nei contratti di supporto a pagamento. Mentre Microsoft attualmente offre documentazione, aggiornamento e applicazione di patch per Microsoft 365 percorsi di apprendimento, si basa sul nostro impegno a migliorare questo scenario aziendale specifico. Sebbene i nostri piani continuino a investire nei percorsi di apprendimento, tenere presente che il team di gestione dei servizi potrebbe cambiare le strategie in futuro. Eventuali modifiche future ai Microsoft 365 di apprendimento verranno comunicate prima di essere applicate.
+- **Come OSS, i Microsoft 365** di apprendimento sono supportati tramite un elenco di problemi online in GitHub : i percorsi di apprendimento Microsoft 365 non sono coperti da alcun contratto di supporto Microsoft esistente. I problemi inviati vengono valutati dai proprietari dei Microsoft 365 di apprendimento e dalla community. I livelli di servizio per la risoluzione dei problemi NON sono allo stesso livello di un contratto di supporto Microsoft a pagamento.  
 
-### <a name="can-we-make-the-microsoft-365-learning-pathways-a-sub-site-of-our-primary-sharepoint-site-collection"></a>È possibile impostare i Microsoft 365 di apprendimento come sito secondario della raccolta siti SharePoint principale?
+### <a name="can-we-make-the-microsoft-365-learning-pathways-a-sub-site-of-our-primary-sharepoint-site-collection"></a>È possibile rendere i percorsi Microsoft 365 di apprendimento secondario della raccolta siti SharePoint principale?
 
 No. Il sito si basa su un modello di sito di comunicazione, che deve sempre essere una raccolta siti radice.
 

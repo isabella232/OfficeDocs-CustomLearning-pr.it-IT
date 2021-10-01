@@ -2,21 +2,212 @@
 author: pkrebs
 ms.author: pkrebs
 manager: bpardi
-title: Percorsi di apprendimento Aggiornamenti del contenuto
+title: Learning percorsi del contenuto
 ms.date: 5/19/2021
 ms.topic: article
-description: Percorsi di apprendimento Aggiornamenti del contenuto
+description: Learning percorsi del contenuto
 ms.service: o365-solutions
 audience: itpro
-ms.openlocfilehash: 84d166c96ac24a04e24fe4a9b88f2942cc7752c8
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: adb3c7d6f8faa7562a085e1bb21ec70cb2c4fffd
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575981"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048659"
 ---
-# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Aggiornamenti del contenuto dei percorsi di apprendimento
-I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates .  
+# <a name="microsoft-365-learning-pathways-content-updates"></a>Microsoft 365 Learning del contenuto dei percorsi
+Learning percorsi si impegna a rispettare un ciclo di aggiornamento trimestrale del contenuto. Per ulteriori informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestire gli aggiornamenti del [contenuto,](custom_contentupdatesmanage.md)vedere Manage Content Updates .  
+
+## <a name="september-2021-content-updates"></a>Aggiornamenti del contenuto di settembre 2021
+Di seguito sono elencati gli aggiornamenti del contenuto per settembre 2021.
+
+### <a name="microsoft-edge"></a>Microsoft Edge
+È Microsoft Edge una sottocategoria con tre nuove playlist.
+
+#### <a name="get-started-new"></a>Introduzione (nuovo)
+- Informazioni Microsoft Edge (nuovo)
+- Aggiungere un sito ai preferiti in Microsoft Edge (nuovo)
+- Trovare le impostazioni/strumenti/opzioni Internet in Microsoft Edge (nuovo)
+- Modificare il motore di ricerca predefinito (nuovo)
+- Funzionalità di accessibilità in Microsoft Edge (nuovo)
+- Accedere per sincronizzare Microsoft Edge tra dispositivi (nuovo)
+
+#### <a name="personalize-new"></a>Personalizza (nuovo)
+- Modificare la home page del browser (nuovo)
+- Trovare, aggiungere o rimuovere estensioni in Microsoft Edge (nuovo)
+- Usare il tema scuro in Microsoft Edge (nuovo)
+- Usare Microsoft Edge in un'altra lingua (nuovo)
+- Aumentare le dimensioni predefinite del testo Microsoft Edge (nuovo)
+
+#### <a name="privacy-new"></a>Privacy (novità)
+- Configurare le impostazioni di privacy in modo che siano giuste per te (nuovo)
+- Informazioni sulla prevenzione del rilevamento (novità)
+- Sfoglia InPrivate (nuovo)
+- Visualizzare ed eliminare la cronologia del browser in Microsoft Edge (nuovo)
+- Bloccare i popup in Microsoft Edge (nuovo)
+- Eliminare i cookie in Microsoft Edge (nuovo)
+
+### <a name="collaboration-new"></a>Collaborazione (nuovo)
+È stata aggiunta una sottocategoria Collaborazione con una nuova playlist.
+
+#### <a name="collaboration-new"></a>Collaborazione (nuovo)
+- Introduzione (nuovo)
+- Condividi (nuovo)
+- Co-autore (nuovo)
+- Commento (nuovo)
+- Meet (nuovo)
+- Mobile (nuovo)
+
+### <a name="teams"></a>Teams
+Le playlist e gli asset seguenti sono stati aggiornati in Microsoft Teams percorsi di apprendimento.
+
+#### <a name="intro-to-microsoft-teams-updated"></a>Introduzione a Microsoft Teams (aggiornato)
+- Benvenuto in Microsoft Teams (video aggiornato)
+
+#### <a name="manage-team-schedules-with-shifts-updated"></a>Gestire le pianificazioni dei team con turni (aggiornato)
+- Che cos'è Shifts? (video aggiornato)
+- Creare una pianificazione turni (video aggiornato)
+- Gestire e visualizzare una pianificazione turni (video aggiornato)
+- Turni per i manager (ritirati)
+- Turni per i lavoratori firstline (ritirati)
+
+#### <a name="set-up-and-customize-your-team-updated"></a>Configurare e personalizzare il team (aggiornato)
+- Creare un team con modelli di team (nuovo video)
+
+#### <a name="create-and-manage-bookings-updated"></a>Creare e gestire prenotazioni (aggiornate)
+- Che cos'è Bookings? (nuovo video)
+- Creare un calendario di Bookings (nuovo video)
+- Aggiungere personale e visualizzare un calendario di Bookings (nuovo video)
+- Creare tipi di appuntamenti (nuovo video)
+- Eseguire un appuntamento di Bookings (nuovo video)
+- Partecipare a un appuntamento di Bookings come partecipante (nuovo video)
+
+#### <a name="create-approvals"></a>Creare approvazioni
+- Creare una richiesta di approvazione con un modello (nuovo video/nuovo asset)
+- Individuare i modelli in Approvazioni (nuovo video/nuovo asset)
+- Creare modelli a livello di organizzazione (nuovo video/nuovo asset)
+
+#### <a name="start-chats-and-make-calls-updated"></a>Avviare chat ed effettuare chiamate (aggiornato)
+- Effettuare chiamate (video aggiornato)
+- Panoramica delle Teams chiamate (nuovo video/nuovo asset)
+- Suggerimenti per Teams chiamate (nuovo video/nuovo asset)
+
+#### <a name="collaborate-in-teams-and-channels-updated"></a>Collaborare in team e canali (aggiornato)
+- Creare un canale (nuovo video/nuovo asset)
+- Lavorare insieme a un file (ritirato)
+
+#### <a name="manage-meetings-updated"></a>Gestire le riunioni (aggiornate)
+- Visualizzare lo schermo durante una riunione (video aggiornato)
+- Incontra istantaneamente (nuovo video/nuovo asset)
+- Pianificare un webinar (nuovo video/nuovo asset)
+- Meet in a channel (retired)
+- Spostarsi durante una Teams riunione (ritirata)
+
+#### <a name="upload-and-find-files-updated"></a>Upload e trova file (aggiornato)
+- Trovare e filtrare i file (ritirati)
+
+#### <a name="start-chats-and-make-calls-updated"></a>Avviare chat ed effettuare chiamate (aggiornato)
+- Avviare e aggiungere chat (video aggiornato)
+
+#### <a name="work-with-posts-and-messages-updated"></a>Usare post e messaggi (aggiornati)
+- Creare e formattare un post (video aggiornato)
+- Attirare l'attenzione con @mentions (ritirato)
+
+#### <a name="explore-apps-and-tools-updated"></a>Esplorare app e strumenti (aggiornati)
+- Trovare e usare le app (video aggiornato)
+- Trasformare un file in una scheda (ritirato)
+- Usare l'app Attività in Teams (ritirata)
+
+#### <a name="create-approvals"></a>Creare approvazioni
+- Individuare i modelli in Approvazioni (nuovo video)
+
+#### <a name="walkie-talkie-retired"></a>Walkie Talkie (ritirato)
+- Walkie Talkie (ritirato)
+- Usare l'app Attività in Teams (ritirata)
+- Attività per i responsabili (ritirati)
+- Attività per i lavoratori firstline (ritirati)
+- Comunicazione e Complimenti (ritirato)
+
+### <a name="outlook"></a>Outlook
+Le playlist e gli asset seguenti sono stati aggiornati in Outlook percorsi di apprendimento.
+
+#### <a name="create-and-send-email-updated"></a>Creare e inviare messaggi di posta elettronica (aggiornati)
+- Creare, inviare e rispondere a un messaggio di posta elettronica (video aggiornato)
+- Inviare e ricevere allegati (video aggiornato)
+
+#### <a name="manage-email-updated"></a>Gestire la posta elettronica (aggiornata)
+- Pulire la posta in arrivo (video aggiornato)
+- Configurare la risposta automatica (fuori sede) (video aggiornato)
+- Ignorare le conversazioni di posta elettronica (video aggiornato)
+
+#### <a name="organize-your-inbox-updated"></a>Organizzare la posta in arrivo (aggiornata)
+- Organizzare la posta elettronica tramite cartelle (video aggiornato)
+
+### <a name="word"></a>Word
+Le playlist e gli asset seguenti sono stati aggiornati in Word nei percorsi di apprendimento.
+
+#### <a name="lay-out-pages-updated"></a>Disaserta pagine (aggiornato)
+- Inserire un sommario (video aggiornato)
+- Inserire numeri di pagina (video aggiornato)
+- Modificare i margini (video aggiornato)
+
+#### <a name="improve-accessibility-and-ease-of-use-updated"></a>Migliorare l'accessibilità e la facilità d'uso (aggiornato)
+- Learning in Word (aggiornato)
+
+### <a name="excel"></a>Excel
+Le playlist e gli asset seguenti sono stati aggiornati in Excel percorsi di apprendimento.
+
+#### <a name="intro-to-excel-updated"></a>Introduzione a Excel (aggiornato)
+- Creare una nuova cartella di lavoro (video aggiornato)
+
+#### <a name="share-and-coauthor-updated"></a>Condivisione e creazione condivisa (aggiornato)
+- Condividere la cartella Excel cartella di lavoro con altri utenti (video aggiornato)
+- Salvare o convertire in PDF (nuovo video)
+
+#### <a name="charts-updated"></a>Grafici (aggiornati)
+- Aggiungere una linea di tendenza o media mobile a un grafico (video aggiornato)
+
+#### <a name="rows--columns-updated"></a>Righe & colonne (aggiornate)
+- Selezionare il contenuto delle celle Excel (video aggiornato)
+
+#### <a name="formatting"></a>Formattazione
+- Aggiungere una filigrana in Excel (video aggiornato)
+
+### <a name="powerpoint"></a>PowerPoint
+Le playlist e gli asset seguenti sono stati aggiornati in PowerPoint percorsi di apprendimento.
+
+#### <a name="intro-to-powerpoint"></a>Introduzione a PowerPoint
+- Aggiungere e formattare testo (video aggiornato)
+
+#### <a name="share--co-author-updated"></a>Condividere & co-autore (aggiornato)
+- Salvare PowerPoint presentazioni come file PDF (video aggiornato)
+- Salvare una presentazione come video (video aggiornato)
+
+#### <a name="animation-video--audio-updated"></a>Animazione, video & audio (aggiornato)
+- Animare testo o oggetti (video aggiornato)
+
+#### <a name="slide-and-layout-updated"></a>Diapositiva e layout (aggiornato)
+- Applicare un layout di diapositiva (video aggiornato)
+
+#### <a name="present-slide-shows-updated"></a>Presentare presentazioni (aggiornate)
+- Aggiungere note del relatore alle diapositive (video aggiornato)
+
+#### <a name="pictures-and-graphics-updated"></a>Immagini e grafica (aggiornato)
+- Inserire un'immagine in PowerPoint (video aggiornato)
+
+### <a name="microsoft-365-basics"></a>Microsoft 365 (nozioni di base)
+Le playlist e gli asset seguenti sono stati aggiornati in Microsoft 365 (nozioni di base) nei percorsi di apprendimento.
+
+#### <a name="get-started-with-microsoft-365-updated"></a>Introduzione a Microsoft 365 (aggiornato)
+- Introduzione a Office.com (video aggiornato)
+- Accedi (nuovo video)
+- Salvare i file nel cloud (ritirati)
+
+#### <a name="create-and-save-updated"></a>Creare e salvare (aggiornato)
+- Salvare i file nel cloud (ritirati)
+- Uso delle app desktop (video aggiornato)
+- Lavorare sul Web (nuovo video)
+- Sincronizza file su richiesta con OneDrive (ritirato)
 
 ## <a name="may-2021-content-updates"></a>Aggiornamenti del contenuto di maggio 2021
 Di seguito sono elencati gli aggiornamenti del contenuto per maggio 2021.    
@@ -34,7 +225,7 @@ Yammer contenuto è stato aggiornato.
 #### <a name="roll-out-a-successful-yammer-network-updated"></a>Implementare una rete Yammer (aggiornata)
 - Che cos'è Yammer? – aggiornato con nuovo video
 - Pianificare la strategia: contenuto aggiornato
-- Personalizzare una Yammer di rete , aggiornata con un nuovo video
+- Personalizzare una Yammer di rete – aggiornata con un nuovo video
 - Identificare i casi d'uso più a destra: video aggiornato e rimosso
 - Creare una community per un caso di utilizzo: gruppo aggiornato e modificato in community nel titolo 
 - Educare gli utenti : video aggiornato e rimosso
@@ -42,7 +233,7 @@ Yammer contenuto è stato aggiornato.
 - Integrare Yammer : titolo aggiornato e modificato
 
 #### <a name="use-yammer-every-day-updated"></a>Usa Yammer ogni giorno (aggiornato)
-- What is Yammer – updated with new video
+- What is Yammer– updated with new video
 - Modificare il profilo Yammer utente e le impostazioni – contenuto aggiornato
 - Avviare una conversazione - Titolo aggiornato
 - Modificare le notifiche e ricevere annunci - titolo aggiornato
@@ -98,12 +289,12 @@ Gli asset seguenti hanno video nuovi o aggiornati.
 - Introduzione a Excel\spostare o copiare fogli di lavoro o dati del foglio di lavoro - video aggiornato
 - Introduzione a Excel\Riempi automaticamente i dati nelle celle del foglio di lavoro - video aggiornato
 - Formattazione\Allineamento o rotazione del testo in una cella - nuovo video
-- Charts\Create a chart from start to finish - updated video
+- Charts\Create a chart from start to finish - video aggiornato
 - Righe e colonne\Nascondere o visualizzare righe o colonne - video aggiornato
 
 #### <a name="powerpoint"></a>PowerPoint
 - Diapositive e layout\Aggiungere, ridisporre, duplicare ed eliminare diapositive in PowerPoint - video aggiornato
-- Diapositive e layout\Modificare l'orientamento della pagina in PowerPoint tra orizzontale e verticale - video aggiornato
+- Diapositive e layout\Modificare l'orientamento della pagina in PowerPoint orizzontale e verticale - video aggiornato
 - Animazione, video e audio\Aggiungere o eliminare audio nella presentazione PowerPoint - video aggiornato  
 - Animazione, video e audio\Inserire un video da YouTube o da un altro sito - nuovo video 
 - Testo & tabelle\Aggiungere un collegamento ipertestuale a una diapositiva - video aggiornato
@@ -114,7 +305,7 @@ Gli asset seguenti hanno video nuovi o aggiornati.
 - Layout delle pagine\Cambia orientamento pagina in orizzontale o verticale - nuovo video
 - Inserire tabelle, immagini & filigrane\Mostra il righello - nuovo video
 - Inserire tabelle, immagini & filigrane\Inserire una tabella - video aggiornato
-- Inserire tabelle, immagini & filigrane\Inserisci immagini - video aggiornato
+- Inserire tabelle, immagini & filigrane\Inserire immagini - video aggiornato
 
 #### <a name="outlook"></a>Outlook
 - Calendario\Benvenuto nel calendario - video aggiornato
@@ -124,7 +315,7 @@ Gli asset seguenti hanno video nuovi o aggiornati.
 - Contatti e attività\Creare un gruppo di contatti - video aggiornato
 - Contatti e attività\Creare attività e un elenco attività - video aggiornato
 - Contatti e attività\Importare contatti - video aggiornato
-- Contatti e attività\Esportare contatti - video aggiornato
+- Contatti e attività\Esporta contatti - video aggiornato
 - Creare e inviare messaggi di posta elettronica\Creare una firma di posta elettronica - video aggiornato
 - Creare e inviare messaggi di posta elettronica\Benvenuto nella posta in arrivo - video aggiornato
 - Creare e inviare messaggi di posta elettronica\Ritirare o sostituire un messaggio di posta elettronica inviato - video aggiornato
@@ -159,7 +350,7 @@ Per aiutare le organizzazioni a passare a un ambiente di lavoro ibrido, in cui i
 - Ridurre o sostituire riunioni con collaborazione asincrona
 - Collaborare e creare in modalità condivisa contenuto condiviso
 - Procedure consigliate per la collaborazione in Microsoft 365
-- Creazione condivisa Microsoft 365 file
+- Creazione condivisa di Microsoft 365 file
 - Collaborazione e creazione condivisa di documenti
 - Collaborazione con SharePoint, Teams e OneDrive
 - Collaborazione in Teams
@@ -193,7 +384,7 @@ La playlist Gestisci pianificazioni team con turni è stata aggiunta con le riso
 - Gestire una pianificazione turni
 - Turni per i lavoratori firstline
 
-#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Attività e Complimenti
+#### <a name="walkie-talkie-tasks-and-praise"></a>Walkie Talkie, Tasks e Complimenti
 La playlist Walkie Talkie, Tasks e Complimenti è stata aggiunta con gli asset seguenti.
 - Walkie-talkie
 - Usare l'app Attività in Teams
@@ -221,7 +412,7 @@ La playlist Introduzione a Elenchi include le nuove risorse seguenti.
 - Condividere un elenco o una voce di elenco
 - Tenere traccia delle informazioni aziendali
 
-### <a name="forms"></a>Moduli
+### <a name="forms"></a>Forms
 La playlist Create a form and view results è stata aggiornata con i nuovi asset seguenti.
 
 #### <a name="create-a-form-and-view-results"></a>Creare una maschera e visualizzare i risultati
@@ -241,7 +432,7 @@ La playlist Intro Excel include il nuovo asset seguente.
 #### <a name="linked-data-types"></a>Tipi di dati collegati
 Una nuova playlist Tipi di dati collegati è stata aggiunta ai percorsi di apprendimento con le risorse seguenti. 
 - Convertire il testo in un tipo di dati Organizzazione
-- Utilizzare il selettore dati per specificare i tipi di dati dell'organizzazione
+- Utilizzare il Selettore dati per specificare i tipi di dati dell'organizzazione
 - Visualizzare e inserire dati da un tipo di dati Organizzazione
 
 #### <a name="formulas-and-functions"></a>Formule e funzioni
@@ -255,133 +446,3 @@ Tutte SharePoint playlist e asset sono stati aggiornati. Le playlist aggiornate 
 - Introduzione a SharePoint Online
 - Creare siti, post ed elenchi
 - Condividere e sincronizzare con SharePoint
-
-## <a name="september-2020-content-updates"></a>Aggiornamenti del contenuto di settembre 2020
-Di seguito sono elencati gli aggiornamenti del contenuto per settembre 2020. 
-
-### <a name="security"></a>Sicurezza
-È stata aggiunta una nuova sottocategoria di sicurezza con playlist e asset per consentire agli utenti di lavorare in modo più sicuro in ufficio e a casa. 
-
-![playlist di sicurezza dei percorsi di apprendimento](media/cg-security-playlist.png)
-
-#### <a name="five-simple-steps-playlist"></a>Playlist "Cinque semplici passaggi"
-- Proteggersi dal phishing
-- Evitare truffe di supporto tecnico
-- Lavorare da casa in modo più sicuro
-- Mantenere aggiornato il PC
-- Mantenere la protezione con Windows sicurezza
-
-#### <a name="security-at-home-playlist"></a>Playlist "Sicurezza a casa"
-- Suggerimenti per mantenere al sicuro i dati
-- Mantenere il computer sicuro a casa
-- Proteggere la famiglia online con Sicurezza di Windows   
-
-#### <a name="security-at-work-playlist"></a>Playlist "Sicurezza sul lavoro"
-- Proteggere il computer sul luogo di lavoro
-- Che cos'è l'autenticazione a più fattori?
-- Firewall e protezione di rete in Windows sicurezza
-- Impedisci modifiche alle impostazioni di sicurezza con Protezione anti-manomissione
-
-### <a name="get-started-with-teams-playlist"></a>Playlist "Introduzione a Teams"
-Una nuova playlist "Informazioni di base con Teams" è stata aggiunta alla sottocategoria "Informazioni di base/Primi giorni" per consentire agli utenti di iniziare a utilizzare Teams. La playlist include:
-- Benvenuto in Microsoft Teams  
-- Iniziare a utilizzare il team
-- Lavorare nei canali  
-- Upload e condividere file 
-- Avviare e aggiungere chat  
-- Partecipare a una Teams riunione 
-- Gestire le riunioni 
- 
-### <a name="microsoft-365-basics"></a>Microsoft 365 Nozioni di base
-Nella categoria Prodotti, la sottocategoria "Office 365 di base" è stata aggiornata alla categoria "Microsoft 365 di base". Gli asset ritirati nella categoria "Office 365 base" sono ancora disponibili se sono stati aggiunti a una playlist personalizzata.
-
-#### <a name="get-started-playlist"></a>Playlist "Introduzione"
-- Che cos'è Microsoft 365?
-- Accesso
-- Office.com
-
-#### <a name="create-and-save-playlist"></a>Playlist "Crea e salva"
-- Uso delle app desktop
-- Uso delle app Office.com
-- Salvare i file nel cloud
-- Sincronizzare i file su richiesta con OneDrive
-
-#### <a name="share-and-collaborate-playlist"></a>Playlist "Condividi e collabora"
-- Condividere file in Microsoft 365
-- Coautore
-- Usare @mentions
-- Follow-up
-
-#### <a name="work-with-microsoft-teams-playlist"></a>Playlist "Usare Microsoft Teams"
-- Benvenuto in Microsoft Teams
-- Panoramica su team e canali
-- Creare e formattare un post
-- Avviare e aggiungere chat
-- Effettuare chiamate
-- Partecipare a una Teams riunione
-- Suggerimenti per riunioni migliori
-
-#### <a name="get-the-most-out-of-windows-playlist"></a>Playlist "Ottenere il massimo da Windows"
-- Trovare documenti, app e altro ancora con La ricerca
-- Microsoft Edge
-- Microsoft Search in Bing
-
-#### <a name="work-from-anywhere-playlist"></a>Playlist "Lavorare da qualsiasi luogo"
-- OneDrive app per dispositivi mobili
-- Outlook app per dispositivi mobili
-
-#### <a name="cool-microsoft-365-features-playlist"></a>Playlist "Funzionalità Microsoft 365 interessanti"
-- PowerPoint Designer
-- Idee in Excel
-- Editor in Word
-- Rendere accessibile il contenuto
-
-### <a name="create-a-chart-playlist-in-access"></a>Playlist "Crea grafico" in Access
-Alla sottocategoria "Products\Access" è stata aggiunta una playlist "Create a chart playlist".  
-- Creare un istogramma
-- Creare un grafico a barre
-- Creare un grafico a linee
-- Creare un grafico a torta
-- Creare un grafico combinato
-
-### <a name="teams-updates"></a>Teams aggiornamenti
-La sottocategoria "Product\Microsoft Teams" è stata aggiornata con le risorse seguenti. 
-
-#### <a name="manage-meetings-playlist"></a>Playlist "Gestisci riunioni"
-- Partecipare a una Teams riunione
-#### <a name="work-with-posts-and-messages-playlist"></a>Playlist "Usare post e messaggi"
-- Creare e formattare un post
-
-### <a name="planner"></a>Planner 
-Gli asset seguenti sono stati aggiunti alla playlist "Use Planner" in "Products\Planner".
-#### <a name="use-planner-playlist"></a>Usare la playlist di Planner
-- To Do vs Planner
-- Visualizzare le attività di Planner in To Do
-- Usare l'app Attività in Teams
-
-### <a name="word"></a>Word
-L'asset seguente è stato aggiornato nella playlist "Condividi e co-autore con Word".
-
-#### <a name="share-and-co-author-with-word-playlist"></a>Playlist "Condividi e co-autore con Word"
-- L'asset "Collaborare ai documenti di Word con la creazione condivisa in tempo reale" è stato aggiornato. 
-
-### <a name="office-for-the-web"></a>Office per il web
-L'asset seguente è stato aggiornato nella playlist "Office per il Web: Word per il Web".
-
-#### <a name="office-for-the-web-word-for-the-web-playlist"></a>Playlist "Office per il Web: Word per il Web"
-- Trascrivere le registrazioni
-
-### <a name="powerpoint-new-updated"></a>PowerPoint (nuovo, aggiornato)
-Le risorse seguenti sono state aggiornate o aggiunte alle playlist Products\PowerPoint. 
-
-#### <a name="text--tables-with-powerpoint-playlist"></a>Playlist "Tabelle & testo con PowerPoint"
-- Modificare l'input penna scritto a mano in forme, testo o matematica in PowerPoint (nuovo)
-
-#### <a name="present-slideshows-playlist"></a>Presentazione presentazione playlist
-- Registrare una presentazione (aggiornata)
-
-### <a name="office-quick-start-guides-updated"></a>Office Guide introduttive (aggiornate)
-Le Office guida introduttiva per tutti i Office sono state aggiornate. 
-
-Per ulteriori informazioni su come personalizzare i percorsi di apprendimento, vedere [Personalizzare i percorsi di apprendimento.](custom_overview.md) 
-

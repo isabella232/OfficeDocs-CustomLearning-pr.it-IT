@@ -2,40 +2,40 @@
 author: pkrebs
 ms.author: pkrebs
 manager: bpardi
-title: Panoramica dei Microsoft 365 di apprendimento
+title: Panoramica dei percorsi Microsoft 365 di apprendimento
 ms.date: 5/19/2021
-description: Informazioni su Microsoft 365 percorsi di apprendimento possono accelerare l'utilizzo e l'adozione di Microsoft 365 nell'organizzazione. I percorsi di apprendimento includono una web part SharePoint Online personalizzata e un sito di formazione per le comunicazioni di SharePoint Online moderno facilmente disponibile per il tenant Microsoft 365.
+description: Informazioni su Microsoft 365 percorsi di apprendimento possono accelerare l'utilizzo e l'adozione di Microsoft 365 nell'organizzazione. Learning percorsi includono una web part SharePoint Online personalizzata e un moderno sito di formazione per le comunicazioni di SharePoint Online facilmente disponibile per il tenant Microsoft 365.
 audience: itpro
 ms.service: o365-solutions
 ms.topic: article
-ms.openlocfilehash: 4c527a1bc76db09d8e5e8265b576f6768da858ac
-ms.sourcegitcommit: 33acfc2149de89e8375b064b2223cae505d2a102
+ms.openlocfilehash: fb8fe1ec17bcf02b69978f4dfa610d84b08c6ff6
+ms.sourcegitcommit: d05381fc4a58cf2949773d73877bacc5ef3a7ca6
 ms.translationtype: MT
 ms.contentlocale: it-IT
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52575911"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60048699"
 ---
 # <a name="microsoft-365-learning-pathways"></a>Percorsi di apprendimento di Microsoft 365 
-Microsoft 365 percorsi di apprendimento è una soluzione di apprendimento su richiesta personalizzabile progettata per aumentare l'utilizzo e l'adozione di Microsoft 365 nell'organizzazione.       
+Microsoft 365 percorsi di apprendimento è una soluzione di apprendimento su richiesta personalizzabile progettata per aumentare l'utilizzo e l'adozione di Microsoft 365 nell'organizzazione.
 
 > [!IMPORTANT]
-> I percorsi di apprendimento si impegnano a rispettare un ciclo di aggiornamento trimestrale del contenuto. A data 19/05/2021, abbiamo aggiornato il contenuto dei percorsi di apprendimento per l'aggiornamento del contenuto di maggio. Per ulteriori informazioni sull'aggiornamento del contenuto di maggio, vedere [Aggiornamenti del contenuto.](custom_contentupdates.md) Per informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestirli, vedere [Manage Content Updates](custom_contentupdatesmanage.md).  
+> Learning percorsi si impegna a rispettare un ciclo di aggiornamento trimestrale del contenuto. A partire dal 30/09/2021, abbiamo aggiornato il contenuto dei percorsi di apprendimento per l'aggiornamento del contenuto di settembre. Per ulteriori informazioni sull'aggiornamento del contenuto di settembre, vedere [Aggiornamenti del contenuto.](custom_contentupdates.md) Per informazioni su come vengono applicati gli aggiornamenti del contenuto e su come gestirli, vedere [Manage Content Updates](custom_contentupdatesmanage.md).  
 
 ## <a name="on-demand-custom-training-from-microsoft"></a>Formazione personalizzata su richiesta da Microsoft
 
-Microsoft 365 percorsi di apprendimento offre:
+Microsoft 365 percorsi di apprendimento:
 
-- **Un sito di comunicazione SharePoint online** completamente personalizzabile - Il portale di formazione per percorsi di apprendimento può essere personalizzato per aggiungere il contenuto della community, il supporto e la guida dell'organizzazione
+- **Un sito di comunicazione SharePoint online** completamente personalizzabile - Il portale di formazione per percorsi di apprendimento può essere personalizzato per aggiungere il contenuto della guida, del supporto e della community dell'organizzazione
 - **Provisioning semplice:** effettuare il provisioning dei percorsi di apprendimento dal SharePoint Online Provisioning Service con pochi semplici passaggi
 - **La possibilità di creare playlist** di formazione personalizzate- con percorsi di apprendimento, puoi creare playlist di formazione mirate per soddisfare le esigenze specifiche del tuo ambiente
-- **Contenuto aggiornato: i percorsi** di apprendimento forniscono contenuti tramite un catalogo di contenuti online Microsoft, in modo che il contenuto nel sito sia aggiornato regolarmente
+- **Contenuto aggiornato: i** percorsi Learning forniscono contenuto tramite un catalogo di contenuti online Microsoft, quindi il contenuto nel sito viene aggiornato regolarmente
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE42hMy]
 
 ## <a name="sharepoint-look-book-service"></a>SharePoint servizio look book
-È possibile eseguire il provisioning dei percorsi di apprendimento dal servizio SharePoint look book. Quando Microsoft 365 viene effettuato il provisioning dei percorsi di apprendimento, le organizzazioni ottengono un sito di comunicazione di SharePoint Online progettato per essere un portale di formazione predefinito, insieme a una web part percorsi di apprendimento connessa a un catalogo online di contenuti di formazione. 
+Learning percorsi possono essere evasi dal servizio SharePoint look book. Quando Microsoft 365 viene effettuato il provisioning dei percorsi di apprendimento, le organizzazioni ottengono un sito di comunicazione di SharePoint Online progettato per essere un portale di formazione predefinito, insieme a una web part percorsi di apprendimento connessa a un catalogo online di contenuti di formazione.
 
-![SharePoint di provisioning del look book](media/cg-provision.png)
+![SharePoint di provisioning dei look book](media/cg-provision.png)
 
 ## <a name="4-easy-steps"></a>4 semplici passaggi
 Iniziamo a creare un'esperienza di apprendimento per il tuo ambiente.
